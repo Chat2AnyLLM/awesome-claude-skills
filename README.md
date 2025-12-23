@@ -27,22 +27,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [superpowers](https://github.com/obra/superpowers) | Skills repository by obra |
 ## Development
 
-### seo-geo-blog-writer
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
-
-### claude-code-infrastructure-showcase
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [Backend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
-| [Frontend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
-| [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
-| [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
-| [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
-
 ### superpowers
 
 | Skill | Description | Author | Directory |
@@ -61,6 +45,22 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Verification Before Completion](https://github.com/obra/superpowers/tree/main/skills/verification-before-completion) |  | obra | verification-before-completion |
 | [Writing Plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) |  | obra | writing-plans |
 | [Writing Skills](https://github.com/obra/superpowers/tree/main/skills/writing-skills) |  | obra | writing-skills |
+
+### seo-geo-blog-writer
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
+
+### claude-code-infrastructure-showcase
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Backend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
+| [Frontend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
+| [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
+| [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
+| [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
 
 ### skills
 
