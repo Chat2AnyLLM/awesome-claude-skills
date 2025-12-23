@@ -1,0 +1,20 @@
+version: "1.0"
+
+# Data sources configuration for Claude Code skills
+sources:
+  - id: "claude-skill-repos"
+    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-assistant-manager/main/code_assistant_manager/skill_repos.json"
+    format: "json"
+    enabled: true
+    priority: 1
+    timeout: 30
+
+# Generation settings
+generation:
+  output_file: "README.md"
+  include_marketplace_tables: true
+  include_skill_categories: true
+
+# Logging settings
+logging:
+  level: "INFO"
