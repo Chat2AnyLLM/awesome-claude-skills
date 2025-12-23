@@ -46,12 +46,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) |  | obra | writing-plans |
 | [writing-skills](https://github.com/obra/superpowers/tree/main/skills/writing-skills) |  | obra | writing-skills |
 
-### seo-geo-blog-writer
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
-
 ### claude-code-infrastructure-showcase
 
 | Skill | Description | Author | Directory |
@@ -61,6 +55,12 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [frontend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
 | [route-tester](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
 | [skill-developer](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
+
+### seo-geo-blog-writer
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
 
 ### skills
 
@@ -81,6 +81,21 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | To build powerful frontend claude.ai artifacts, follow these steps: 1. Initialize the frontend repo using `scripts/in... | anthropics | web-artifacts-builder |
 | [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | To test local web applications, write native Python Playwright scripts. **Helper Scripts Available**: - `scripts/with... | anthropics | webapp-testing |
 | [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) |  | anthropics | xlsx |
+
+### claude-code
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [agent-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/agent-development) |  | anthropics | agent-development |
+| [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | One-shot migration from Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. | anthropics | claude-opus-4-5-migration |
+| [command-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/command-development) |  | anthropics | command-development |
+| [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design) |  | anthropics | frontend-design |
+| [hook-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development) |  | anthropics | hook-development |
+| [mcp-integration](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/mcp-integration) |  | anthropics | mcp-integration |
+| [plugin-settings](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-settings) |  | anthropics | plugin-settings |
+| [plugin-structure](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-structure) |  | anthropics | plugin-structure |
+| [skill-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/skill-development) | This skill provides guidance for creating effective skills for Claude Code plugins. | anthropics | skill-development |
+| [writing-rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) |  | anthropics | writing-rules |
 
 ### claudekit-skills
 
@@ -122,21 +137,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [web-frameworks](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks) | Comprehensive guide for building modern full-stack web applications using Next.js, Turborepo, and RemixIcon. | mrgoonie | web-frameworks |
 | [when-stuck](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/when-stuck) |  | mrgoonie | when-stuck |
 | [xlsx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/xlsx) |  | mrgoonie | xlsx |
-
-### claude-code
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [agent-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/agent-development) |  | anthropics | agent-development |
-| [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | One-shot migration from Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. | anthropics | claude-opus-4-5-migration |
-| [command-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/command-development) |  | anthropics | command-development |
-| [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design) |  | anthropics | frontend-design |
-| [hook-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development) |  | anthropics | hook-development |
-| [mcp-integration](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/mcp-integration) |  | anthropics | mcp-integration |
-| [plugin-settings](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-settings) |  | anthropics | plugin-settings |
-| [plugin-structure](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-structure) |  | anthropics | plugin-structure |
-| [skill-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/skill-development) | This skill provides guidance for creating effective skills for Claude Code plugins. | anthropics | skill-development |
-| [writing-rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) |  | anthropics | writing-rules |
 
 ### agents
 
