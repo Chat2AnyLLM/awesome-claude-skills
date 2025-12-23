@@ -27,6 +27,22 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [superpowers](https://github.com/obra/superpowers) | Skills repository by obra |
 ## Development
 
+### seo-geo-blog-writer
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
+
+### claude-code-infrastructure-showcase
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Backend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
+| [Frontend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
+| [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
+| [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
+| [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
+
 ### superpowers
 
 | Skill | Description | Author | Directory |
@@ -46,21 +62,25 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Writing Plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) |  | obra | writing-plans |
 | [Writing Skills](https://github.com/obra/superpowers/tree/main/skills/writing-skills) |  | obra | writing-skills |
 
-### seo-geo-blog-writer
+### skills
 
 | Skill | Description | Author | Directory |
 |--------|-------------|--------|-----------|
-| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
-
-### claude-code-infrastructure-showcase
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [Backend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
-| [Frontend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
-| [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
-| [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
-| [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
+| [Anthropic Brand Styling](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) |  | anthropics | brand-guidelines |
+| [DOCX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/docx) |  | anthropics | docx |
+| [Doc Co-Authoring Workflow](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) | This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active... | anthropics | doc-coauthoring |
+| [MCP Server Development Guide](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) |  | anthropics | mcp-builder |
+| [PDF Processing Guide](https://github.com/anthropics/skills/tree/main/skills/pdf) |  | anthropics | pdf |
+| [PPTX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/pptx) |  | anthropics | pptx |
+| [Requirements for Outputs](https://github.com/anthropics/skills/tree/main/skills/xlsx) |  | anthropics | xlsx |
+| [Skill Creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | This skill provides guidance for creating effective skills. | anthropics | skill-creator |
+| [Slack GIF Creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack. | anthropics | slack-gif-creator |
+| [Theme Factory Skill](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | This skill provides a curated collection of professional font and color themes themes, each with carefully selected c... | anthropics | theme-factory |
+| [Web Application Testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | To test local web applications, write native Python Playwright scripts. **Helper Scripts Available**: - `scripts/with... | anthropics | webapp-testing |
+| [Web Artifacts Builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | To build powerful frontend claude.ai artifacts, follow these steps: 1. Initialize the frontend repo using `scripts/in... | anthropics | web-artifacts-builder |
+| [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) |  | anthropics | algorithmic-art |
+| [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) |  | anthropics | canvas-design |
+| [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) |  | anthropics | frontend-design |
 
 ### claudekit-skills
 
@@ -102,26 +122,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Web Frameworks Skill Group](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks) | Comprehensive guide for building modern full-stack web applications using Next.js, Turborepo, and RemixIcon. | mrgoonie | web-frameworks |
 | [When Stuck - Problem-Solving Dispatch](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/when-stuck) |  | mrgoonie | when-stuck |
 | [frontend-design](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-design) |  | mrgoonie | frontend-design |
-
-### skills
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [Anthropic Brand Styling](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) |  | anthropics | brand-guidelines |
-| [DOCX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/docx) |  | anthropics | docx |
-| [Doc Co-Authoring Workflow](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) | This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active... | anthropics | doc-coauthoring |
-| [MCP Server Development Guide](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) |  | anthropics | mcp-builder |
-| [PDF Processing Guide](https://github.com/anthropics/skills/tree/main/skills/pdf) |  | anthropics | pdf |
-| [PPTX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/pptx) |  | anthropics | pptx |
-| [Requirements for Outputs](https://github.com/anthropics/skills/tree/main/skills/xlsx) |  | anthropics | xlsx |
-| [Skill Creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | This skill provides guidance for creating effective skills. | anthropics | skill-creator |
-| [Slack GIF Creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack. | anthropics | slack-gif-creator |
-| [Theme Factory Skill](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | This skill provides a curated collection of professional font and color themes themes, each with carefully selected c... | anthropics | theme-factory |
-| [Web Application Testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | To test local web applications, write native Python Playwright scripts. **Helper Scripts Available**: - `scripts/with... | anthropics | webapp-testing |
-| [Web Artifacts Builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | To build powerful frontend claude.ai artifacts, follow these steps: 1. Initialize the frontend repo using `scripts/in... | anthropics | web-artifacts-builder |
-| [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) |  | anthropics | algorithmic-art |
-| [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) |  | anthropics | canvas-design |
-| [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) |  | anthropics | frontend-design |
 
 ### claude-code
 
@@ -516,17 +516,17 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 ## Tools & Utilities
 
-### claudekit-skills
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [Insert instructions below](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) |  | mrgoonie | template-skill |
-
 ### skills
 
 | Skill | Description | Author | Directory |
 |--------|-------------|--------|-----------|
 | [Insert instructions below](https://github.com/anthropics/skills/tree/main/template) |  | anthropics | template |
+
+### claudekit-skills
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Insert instructions below](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) |  | mrgoonie | template-skill |
 
 ## Contributing
 

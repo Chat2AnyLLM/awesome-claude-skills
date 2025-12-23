@@ -29,8 +29,7 @@ jobs:
 
     - name: Run skill scraper
       run: |
-        cd scripts
-        python skill_scraper.py generate-readme
+        python scripts/skill_scraper.py generate-readme
 
     - name: Check for changes
       id: verify-changed-files

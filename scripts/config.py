@@ -17,10 +17,28 @@ class Config:
 
     def _load_config(self) -> Dict[str, Any]:
         """Load configuration from YAML file."""
-        if not self.config_path.exists():
-            raise FileNotFoundError(f"Configuration file not found: {self.config_path}")
+        # If the config_path is absolute or exists, use it directly
+        if self.config_path.is_absolute() or self.config_path.exists():
+            config_file = self.config_path
+        else:
+            # Search for config.yaml in current directory and parent directories
+            current_dir = Path.cwd()
+            config_file = None
 
-        with open(self.config_path, 'r', encoding='utf-8') as f:
+            # Search up to 3 levels up the directory tree
+            for _ in range(4):
+                candidate = current_dir / "config.yaml"
+                if candidate.exists():
+                    config_file = candidate
+                    break
+                if current_dir.parent == current_dir:
+                    break  # Reached root directory
+                current_dir = current_dir.parent
+
+            if config_file is None:
+                raise FileNotFoundError(f"Configuration file not found: {self.config_path}")
+
+        with open(config_file, 'r', encoding='utf-8') as f:
             return yaml.safe_load(f)
 
     @property
