@@ -1,5 +1,8 @@
 name: Update Skills README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run hourly
@@ -16,7 +19,7 @@ jobs:
       with:
         # Fetch full history for proper diff detection
         fetch-depth: 0
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ github.token }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
