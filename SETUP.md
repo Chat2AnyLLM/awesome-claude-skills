@@ -4,9 +4,9 @@
 
 This repository uses GitHub Actions to automatically update the README with the latest skills from configured marketplaces.
 
-### Setting up the Personal Access Token
+### Optional: Personal Access Token for Push Permissions
 
-To allow the automated workflow to push changes to the main branch, you need to create a Personal Access Token (PAT) with repository permissions:
+By default, the workflow uses `GITHUB_TOKEN` which has limited permissions in public repositories. To enable automatic pushing to the main branch, you can optionally set up a Personal Access Token:
 
 1. Go to [GitHub Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
 2. Click "Generate new token (classic)"
@@ -17,7 +17,7 @@ To allow the automated workflow to push changes to the main branch, you need to 
 5. Click "Generate token"
 6. Copy the token immediately (you won't be able to see it again)
 
-### Adding the Token to Repository Secrets
+### Adding the Token to Repository Secrets (Optional)
 
 1. Go to your repository settings
 2. Navigate to "Secrets and variables" > "Actions"
@@ -31,14 +31,19 @@ To allow the automated workflow to push changes to the main branch, you need to 
 The workflow runs hourly and will:
 - Fetch the latest skills from configured marketplaces
 - Update the README.md if changes are detected
-- Commit and push the changes automatically
+- Attempt to commit and push the changes automatically
+
+**Note**: If no `SKILL_UPDATE_TOKEN` is configured, the push may fail due to permission restrictions. In this case, you'll need to either:
+- Set up the personal access token as described above, OR
+- Configure repository settings to allow `GITHUB_TOKEN` to push to the main branch
 
 ### Troubleshooting
 
 If the workflow fails with permission errors:
-- Verify the `SKILL_UPDATE_TOKEN` secret is set correctly
+- Verify the `SKILL_UPDATE_TOKEN` secret is set correctly (if using PAT)
 - Ensure the token has the required permissions
 - Check that the token hasn't expired
+- For public repositories, you may need to adjust branch protection rules or repository settings
 
 ### Manual Testing
 
