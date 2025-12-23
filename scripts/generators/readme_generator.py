@@ -129,7 +129,9 @@ class SkillReadmeGenerator:
                 marketplace_id = skill.get("marketplace_id", "unknown")
                 marketplace_skills[marketplace_id].append(skill)
 
-            for marketplace_id, skills in marketplace_skills.items():
+            # Sort marketplace IDs to ensure consistent ordering
+            for marketplace_id in sorted(marketplace_skills.keys()):
+                skills = marketplace_skills[marketplace_id]
                 marketplace_name = self._get_marketplace_name(marketplace_id)
                 if marketplace_name:
                     lines.append(f"### {marketplace_name}\n")
