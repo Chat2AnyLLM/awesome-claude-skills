@@ -14,13 +14,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        # Use GITHUB_TOKEN for checkout (will be replaced with PAT for push if needed)
-        token: ${{ secrets.GITHUB_TOKEN }}
+        # Fetch full history for proper diff detection
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.8'
 
     - name: Install dependencies
       run: |
@@ -34,12 +34,10 @@ jobs:
     - name: Check for changes
       id: verify-changed-files
       run: |
-        if git diff --quiet README.md; then
-          echo "No changes to README.md"
-          echo "changed=false" >> $GITHUB_OUTPUT
-        else
-          echo "README.md has been updated"
+        if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
         fi
 
     - name: Commit and push changes
@@ -48,15 +46,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git commit -m "🤖 Auto-update README with latest skills
+        git commit -m "🤖 Update README with latest skills
 
-        🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-        Co-Authored-By: Claude <noreply@anthropic.com>"
-
-        # Use PAT for push if available, otherwise use current credentials
-        if [ -n "${{ secrets.SKILL_UPDATE_TOKEN }}" ]; then
-          git remote set-url origin https://x-access-token:${{ secrets.SKILL_UPDATE_TOKEN }}@github.com/${{ github.repository }}.git
-        fi
-
+        Auto-generated from skill scraper
+        Generated with GitHub Actions"
         git push
