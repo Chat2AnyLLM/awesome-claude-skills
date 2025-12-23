@@ -138,8 +138,8 @@ class SkillReadmeGenerator:
                 lines.append("| Skill | Description | Author | Directory |")
                 lines.append("|--------|-------------|--------|-----------|")
 
-                # Sort skills alphabetically
-                sorted_skills = sorted(skills, key=lambda s: s.get("name", ""))
+                # Sort skills alphabetically by directory name
+                sorted_skills = sorted(skills, key=lambda s: s.get("directory", ""))
 
                 for skill in sorted_skills:
                     name = skill.get("name", "Unknown Skill")
@@ -155,11 +155,14 @@ class SkillReadmeGenerator:
                     directory = skill.get("directory", "Unknown")
                     readme_url = skill.get("readme_url", "")
 
+                    # Use directory name as the skill name (parent folder of SKILL.md)
+                    skill_name = directory
+
                     # Make skill name a hyperlink if URL exists
                     if readme_url:
-                        skill_name_cell = f"[{name}]({readme_url})"
+                        skill_name_cell = f"[{skill_name}]({readme_url})"
                     else:
-                        skill_name_cell = name
+                        skill_name_cell = skill_name
 
                     # Escape pipe characters in description
                     description = description.replace("|", "\\|")
