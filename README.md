@@ -250,8 +250,8 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [performance-regression-detector](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/performance-regression-detector/skills/performance-regression-detector) |  | jeremylongshore | performance-regression-detector |
 | [performance-test-suite](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/performance-test-suite/skills/performance-test-suite) |  | jeremylongshore | performance-test-suite |
 | [pi-pathfinder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/pi-pathfinder/skills/pi-pathfinder) |  | jeremylongshore | pi-pathfinder |
-| [plugin-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/skills-powerkit/skills/plugin-creator) |  | jeremylongshore | plugin-creator |
-| [plugin-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/skills-powerkit/skills/plugin-validator) |  | jeremylongshore | plugin-validator |
+| [plugin-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/jeremy-plugin-tool/skills/plugin-creator) |  | jeremylongshore | plugin-creator |
+| [plugin-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/jeremy-plugin-tool/skills/plugin-validator) |  | jeremylongshore | plugin-validator |
 | [query-performance-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/query-performance-analyzer/skills/query-performance-analyzer) |  | jeremylongshore | query-performance-analyzer |
 | [real-user-monitoring](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/real-user-monitoring/skills/real-user-monitoring) |  | jeremylongshore | real-user-monitoring |
 | [recommendation-engine](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/recommendation-engine/skills/recommendation-engine) |  | jeremylongshore | recommendation-engine |
@@ -297,7 +297,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [transfer-learning-adapter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/transfer-learning-adapter/skills/transfer-learning-adapter) |  | jeremylongshore | transfer-learning-adapter |
 | [unit-test-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/unit-test-generator/skills/unit-test-generator) |  | jeremylongshore | unit-test-generator |
 | [validator-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-vertex-validator/skills/validator-expert) |  | jeremylongshore | validator-expert |
-| [version-bumper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/skills-powerkit/skills/version-bumper) |  | jeremylongshore | version-bumper |
+| [version-bumper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/jeremy-plugin-tool/skills/version-bumper) |  | jeremylongshore | version-bumper |
 | [vertex-agent-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/jeremy-vertex-ai/skills/vertex-agent-builder) |  | jeremylongshore | vertex-agent-builder |
 | [vertex-engine-inspector](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-vertex-engine/skills/vertex-engine-inspector) |  | jeremylongshore | vertex-engine-inspector |
 | [vertex-infra-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/jeremy-vertex-terraform/skills/vertex-infra-expert) | resource "google_vertex_ai_endpoint" "gemini_endpoint" { name         = "gemini-25-flash-endpoint" display_name = "Ge... | jeremylongshore | vertex-infra-expert |
@@ -511,7 +511,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 | Skill | Description | Author | Directory |
 |--------|-------------|--------|-----------|
-| [plugin-auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/skills-powerkit/skills/plugin-auditor) |  | jeremylongshore | plugin-auditor |
+| [plugin-auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/jeremy-plugin-tool/skills/plugin-auditor) |  | jeremylongshore | plugin-auditor |
 
 
 ## Tools & Utilities
