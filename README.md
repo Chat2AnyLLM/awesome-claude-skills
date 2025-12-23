@@ -27,6 +27,22 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [superpowers](https://github.com/obra/superpowers) | Skills repository by obra |
 ## Development
 
+### claude-code-infrastructure-showcase
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [backend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
+| [error-tracking](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
+| [frontend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
+| [route-tester](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
+| [skill-developer](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
+
+### seo-geo-blog-writer
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
+
 ### superpowers
 
 | Skill | Description | Author | Directory |
@@ -45,22 +61,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [verification-before-completion](https://github.com/obra/superpowers/tree/main/skills/verification-before-completion) |  | obra | verification-before-completion |
 | [writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) |  | obra | writing-plans |
 | [writing-skills](https://github.com/obra/superpowers/tree/main/skills/writing-skills) |  | obra | writing-skills |
-
-### seo-geo-blog-writer
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
-
-### claude-code-infrastructure-showcase
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [backend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
-| [error-tracking](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
-| [frontend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
-| [route-tester](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
-| [skill-developer](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
 
 ### skills
 
