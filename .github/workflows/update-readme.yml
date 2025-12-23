@@ -19,7 +19,6 @@ jobs:
       with:
         # Fetch full history for proper diff detection
         fetch-depth: 0
-        token: ${{ github.token }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
