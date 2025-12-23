@@ -14,8 +14,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        # Use a personal access token for pushing
-        token: ${{ secrets.SKILL_UPDATE_TOKEN }}
+        # Use GITHUB_TOKEN for checkout (will be replaced with PAT for push if needed)
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -53,4 +53,10 @@ jobs:
         🤖 Generated with [Claude Code](https://claude.com/claude-code)
 
         Co-Authored-By: Claude <noreply@anthropic.com>"
+
+        # Use PAT for push if available, otherwise use current credentials
+        if [ -n "${{ secrets.SKILL_UPDATE_TOKEN }}" ]; then
+          git remote set-url origin https://x-access-token:${{ secrets.SKILL_UPDATE_TOKEN }}@github.com/${{ github.repository }}.git
+        fi
+
         git push
