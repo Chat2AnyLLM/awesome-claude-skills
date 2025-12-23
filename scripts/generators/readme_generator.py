@@ -68,8 +68,8 @@ class SkillReadmeGenerator:
             return ""
 
         lines = ["## Repositories\n\n"]
-        lines.append("| Repository | Description | URL |")
-        lines.append("|------------|-------------|-----|")
+        lines.append("| Repository | Description |")
+        lines.append("|------------|-------------|")
 
         for repo in sorted(self.marketplaces, key=lambda x: x.get("name", "")):
             name = repo.get("name", repo.get("id", "Unknown"))
@@ -79,11 +79,11 @@ class SkillReadmeGenerator:
             # Construct URL from owner and name if available
             if owner and name:
                 url = f"https://github.com/{owner}/{name}"
-                url_cell = f"[Link]({url})"
+                repo_name_cell = f"[{name}]({url})"
             else:
-                url_cell = "-"
+                repo_name_cell = name
 
-            lines.append(f"| {name} | {description} | {url_cell} |")
+            lines.append(f"| {repo_name_cell} | {description} |")
 
         lines.append("")
         return "\n".join(lines)

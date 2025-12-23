@@ -11,18 +11,18 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ## Repositories
 
 
-| Repository | Description | URL |
-|------------|-------------|-----|
-| agents | Skills repository by wshobson | [Link](https://github.com/wshobson/agents) |
-| awesome-claude-code-plugins | Skills repository by ccplugins | [Link](https://github.com/ccplugins/awesome-claude-code-plugins) |
-| awesome-claude-skills | Skills repository by ComposioHQ | [Link](https://github.com/ComposioHQ/awesome-claude-skills) |
-| claude-code | Skills repository by anthropics | [Link](https://github.com/anthropics/claude-code) |
-| claude-code-infrastructure-showcase | Skills repository by diet103 | [Link](https://github.com/diet103/claude-code-infrastructure-showcase) |
-| claude-code-plugins-plus | Skills repository by jeremylongshore | [Link](https://github.com/jeremylongshore/claude-code-plugins-plus) |
-| claudekit-skills | Skills repository by mrgoonie | [Link](https://github.com/mrgoonie/claudekit-skills) |
-| seo-geo-blog-writer | Skills repository by weipanux | [Link](https://github.com/weipanux/seo-geo-blog-writer) |
-| skills | Skills repository by anthropics | [Link](https://github.com/anthropics/skills) |
-| superpowers | Skills repository by obra | [Link](https://github.com/obra/superpowers) |
+| Repository | Description |
+|------------|-------------|
+| [agents](https://github.com/wshobson/agents) | Skills repository by wshobson |
+| [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | Skills repository by ccplugins |
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Skills repository by ComposioHQ |
+| [claude-code](https://github.com/anthropics/claude-code) | Skills repository by anthropics |
+| [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | Skills repository by diet103 |
+| [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) | Skills repository by jeremylongshore |
+| [claudekit-skills](https://github.com/mrgoonie/claudekit-skills) | Skills repository by mrgoonie |
+| [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer) | Skills repository by weipanux |
+| [skills](https://github.com/anthropics/skills) | Skills repository by anthropics |
+| [superpowers](https://github.com/obra/superpowers) | Skills repository by obra |
 ## Security
 
 ### claude-code-plugins-plus
@@ -34,6 +34,12 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 ## Uncategorized
 
+### seo-geo-blog-writer
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
+
 ### claude-code-infrastructure-showcase
 
 | Skill | Description | Author | Directory |
@@ -43,12 +49,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
 | [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
 | [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
-
-### seo-geo-blog-writer
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
 
 ### superpowers
 
