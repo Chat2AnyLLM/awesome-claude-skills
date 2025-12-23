@@ -129,8 +129,8 @@ class SkillReadmeGenerator:
                     lines.append(f"### {marketplace_name}\n")
 
                 # Table header
-                lines.append("| Skill | Description | Author | Directory | URL |")
-                lines.append("|--------|-------------|--------|-----------|-----|")
+                lines.append("| Skill | Description | Author | Directory |")
+                lines.append("|--------|-------------|--------|-----------|")
 
                 # Sort skills alphabetically
                 sorted_skills = sorted(skills, key=lambda s: s.get("name", ""))
@@ -149,16 +149,16 @@ class SkillReadmeGenerator:
                     directory = skill.get("directory", "Unknown")
                     readme_url = skill.get("readme_url", "")
 
-                    # Create URL cell with hyperlink if URL exists
+                    # Make skill name a hyperlink if URL exists
                     if readme_url:
-                        url_cell = f"[Link]({readme_url})"
+                        skill_name_cell = f"[{name}]({readme_url})"
                     else:
-                        url_cell = "-"
+                        skill_name_cell = name
 
                     # Escape pipe characters in description
                     description = description.replace("|", "\\|")
 
-                    lines.append(f"| {name} | {description} | {author} | {directory} | {url_cell} |")
+                    lines.append(f"| {skill_name_cell} | {description} | {author} | {directory} |")
 
                 lines.append("")
 
