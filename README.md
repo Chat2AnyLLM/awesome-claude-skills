@@ -5,8 +5,10 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ## Contents
 
 - [Repositories](#repositories)
+- [Development](#development)
+- [Development Workflow](#development-workflow)
 - [Security](#security)
-- [Uncategorized](#uncategorized)
+- [Tools & Utilities](#tools--utilities)
 - [Contributing](#contributing)
 ## Repositories
 
@@ -23,32 +25,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer) | Skills repository by weipanux |
 | [skills](https://github.com/anthropics/skills) | Skills repository by anthropics |
 | [superpowers](https://github.com/obra/superpowers) | Skills repository by obra |
-## Security
-
-### claude-code-plugins-plus
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [Plugin Auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/skills-powerkit/skills/plugin-auditor) |  | jeremylongshore | plugin-auditor |
-
-
-## Uncategorized
-
-### seo-geo-blog-writer
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
-
-### claude-code-infrastructure-showcase
-
-| Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
-| [Backend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
-| [Frontend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
-| [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
-| [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
-| [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
+## Development
 
 ### superpowers
 
@@ -69,27 +46,21 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Writing Plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) |  | obra | writing-plans |
 | [Writing Skills](https://github.com/obra/superpowers/tree/main/skills/writing-skills) |  | obra | writing-skills |
 
-### skills
+### seo-geo-blog-writer
 
 | Skill | Description | Author | Directory |
 |--------|-------------|--------|-----------|
-| [Anthropic Brand Styling](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) |  | anthropics | brand-guidelines |
-| [DOCX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/docx) |  | anthropics | docx |
-| [Doc Co-Authoring Workflow](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) | This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active... | anthropics | doc-coauthoring |
-| [Insert instructions below](https://github.com/anthropics/skills/tree/main/template) |  | anthropics | template |
-| [MCP Server Development Guide](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) |  | anthropics | mcp-builder |
-| [PDF Processing Guide](https://github.com/anthropics/skills/tree/main/skills/pdf) |  | anthropics | pdf |
-| [PPTX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/pptx) |  | anthropics | pptx |
-| [Requirements for Outputs](https://github.com/anthropics/skills/tree/main/skills/xlsx) |  | anthropics | xlsx |
-| [Skill Creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | This skill provides guidance for creating effective skills. | anthropics | skill-creator |
-| [Slack GIF Creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack. | anthropics | slack-gif-creator |
-| [Theme Factory Skill](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | This skill provides a curated collection of professional font and color themes themes, each with carefully selected c... | anthropics | theme-factory |
-| [Web Application Testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | To test local web applications, write native Python Playwright scripts. **Helper Scripts Available**: - `scripts/with... | anthropics | webapp-testing |
-| [Web Artifacts Builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | To build powerful frontend claude.ai artifacts, follow these steps: 1. Initialize the frontend repo using `scripts/in... | anthropics | web-artifacts-builder |
-| [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) |  | anthropics | algorithmic-art |
-| [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) |  | anthropics | canvas-design |
-| [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) |  | anthropics | frontend-design |
-| [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) |  | anthropics | internal-comms |
+| [SEO-GEO Blog Writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
+
+### claude-code-infrastructure-showcase
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Backend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
+| [Frontend Development Guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
+| [Skill Developer Guide](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/skill-developer) |  | diet103 | skill-developer |
+| [your project Route Tester Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/route-tester) |  | diet103 | route-tester |
+| [your project Sentry Integration Skill](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
 
 ### claudekit-skills
 
@@ -110,7 +81,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Documentation Discovery & Analysis](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docs-seeker) |  | mrgoonie | docs-seeker |
 | [Frontend Development Guidelines](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-development) |  | mrgoonie | frontend-development |
 | [Google ADK Python Skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/google-adk-python) | You are an expert guide for Google's Agent Development Kit (ADK) Python - an open-source, code-first toolkit for buil... | mrgoonie | google-adk-python |
-| [Insert instructions below](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) |  | mrgoonie | template-skill |
 | [Inversion Exercise](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/inversion-exercise) |  | mrgoonie | inversion-exercise |
 | [MCP Management](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-management) | Skill for managing and interacting with Model Context Protocol (MCP) servers. | mrgoonie | mcp-management |
 | [MCP Server Development Guide](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-builder) |  | mrgoonie | mcp-builder |
@@ -132,6 +102,26 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [Web Frameworks Skill Group](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks) | Comprehensive guide for building modern full-stack web applications using Next.js, Turborepo, and RemixIcon. | mrgoonie | web-frameworks |
 | [When Stuck - Problem-Solving Dispatch](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/when-stuck) |  | mrgoonie | when-stuck |
 | [frontend-design](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-design) |  | mrgoonie | frontend-design |
+
+### skills
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Anthropic Brand Styling](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) |  | anthropics | brand-guidelines |
+| [DOCX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/docx) |  | anthropics | docx |
+| [Doc Co-Authoring Workflow](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) | This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active... | anthropics | doc-coauthoring |
+| [MCP Server Development Guide](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) |  | anthropics | mcp-builder |
+| [PDF Processing Guide](https://github.com/anthropics/skills/tree/main/skills/pdf) |  | anthropics | pdf |
+| [PPTX creation, editing, and analysis](https://github.com/anthropics/skills/tree/main/skills/pptx) |  | anthropics | pptx |
+| [Requirements for Outputs](https://github.com/anthropics/skills/tree/main/skills/xlsx) |  | anthropics | xlsx |
+| [Skill Creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | This skill provides guidance for creating effective skills. | anthropics | skill-creator |
+| [Slack GIF Creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack. | anthropics | slack-gif-creator |
+| [Theme Factory Skill](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | This skill provides a curated collection of professional font and color themes themes, each with carefully selected c... | anthropics | theme-factory |
+| [Web Application Testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | To test local web applications, write native Python Playwright scripts. **Helper Scripts Available**: - `scripts/with... | anthropics | webapp-testing |
+| [Web Artifacts Builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | To build powerful frontend claude.ai artifacts, follow these steps: 1. Initialize the frontend repo using `scripts/in... | anthropics | web-artifacts-builder |
+| [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) |  | anthropics | algorithmic-art |
+| [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) |  | anthropics | canvas-design |
+| [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) |  | anthropics | frontend-design |
 
 ### claude-code
 
@@ -337,7 +327,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [cloud-cost-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/cloud-cost-optimizer/skills/cloud-cost-optimizer) |  | jeremylongshore | cloud-cost-optimizer |
 | [clustering-algorithm-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/clustering-algorithm-runner/skills/clustering-algorithm-runner) |  | jeremylongshore | clustering-algorithm-runner |
 | [compliance-checker](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/compliance-checker/skills/compliance-checker) |  | jeremylongshore | compliance-checker |
-| [compliance-report-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/compliance-report-generator/skills/compliance-report-generator) |  | jeremylongshore | compliance-report-generator |
 | [computer-vision-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/computer-vision-processor/skills/computer-vision-processor) |  | jeremylongshore | computer-vision-processor |
 | [container-registry-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/container-registry-manager/skills/container-registry-manager) |  | jeremylongshore | container-registry-manager |
 | [container-security-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/container-security-scanner/skills/container-security-scanner) |  | jeremylongshore | container-security-scanner |
@@ -355,7 +344,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [data-privacy-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/data-privacy-scanner/skills/data-privacy-scanner) |  | jeremylongshore | data-privacy-scanner |
 | [data-seeder-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/data-seeder-generator/skills/data-seeder-generator) |  | jeremylongshore | data-seeder-generator |
 | [data-validation-engine](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/data-validation-engine/skills/data-validation-engine) |  | jeremylongshore | data-validation-engine |
-| [data-visualization-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-visualization-creator/skills/data-visualization-creator) |  | jeremylongshore | data-visualization-creator |
 | [database-archival-system](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-archival-system/skills/database-archival-system) |  | jeremylongshore | database-archival-system |
 | [database-audit-logger](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-audit-logger/skills/database-audit-logger) |  | jeremylongshore | database-audit-logger |
 | [database-backup-automator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-backup-automator/skills/database-backup-automator) |  | jeremylongshore | database-backup-automator |
@@ -395,7 +383,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [feature-engineering-toolkit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/feature-engineering-toolkit/skills/feature-engineering-toolkit) |  | jeremylongshore | feature-engineering-toolkit |
 | [flash-loan-simulator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/flash-loan-simulator/skills/flash-loan-simulator) |  | jeremylongshore | flash-loan-simulator |
 | [gas-fee-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/gas-fee-optimizer/skills/gas-fee-optimizer) |  | jeremylongshore | gas-fee-optimizer |
-| [gdpr-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/gdpr-compliance-scanner/skills/gdpr-compliance-scanner) |  | jeremylongshore | gdpr-compliance-scanner |
 | [genkit-production-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-genkit-pro/skills/genkit-production-expert) |  | jeremylongshore | genkit-production-expert |
 | [git-commit-smart](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/git-commit-smart/skills/git-commit-smart) |  | jeremylongshore | git-commit-smart |
 | [gitops-workflow-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/gitops-workflow-builder/skills/gitops-workflow-builder) |  | jeremylongshore | gitops-workflow-builder |
@@ -429,7 +416,6 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [network-latency-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/network-latency-analyzer/skills/network-latency-analyzer) |  | jeremylongshore | network-latency-analyzer |
 | [neural-network-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/neural-network-builder/skills/neural-network-builder) |  | jeremylongshore | neural-network-builder |
 | [nft-rarity-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/nft-rarity-analyzer/skills/nft-rarity-analyzer) |  | jeremylongshore | nft-rarity-analyzer |
-| [nlp-text-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/nlp-text-analyzer/skills/nlp-text-analyzer) |  | jeremylongshore | nlp-text-analyzer |
 | [nosql-data-modeler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/nosql-data-modeler/skills/nosql-data-modeler) |  | jeremylongshore | nosql-data-modeler |
 | [on-chain-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/on-chain-analytics/skills/on-chain-analytics) |  | jeremylongshore | on-chain-analytics |
 | [options-flow-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/options-flow-analyzer/skills/options-flow-analyzer) |  | jeremylongshore | options-flow-analyzer |
@@ -499,6 +485,48 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 | [{baseDir}/terraform/main.tf](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/jeremy-adk-terraform/skills/adk-infra-expert) | resource "google_vertex_ai_agent_runtime" "adk_agent" { project  = var.project_id location = var.region display_name ... | jeremylongshore | adk-infra-expert |
 | [{baseDir}/terraform/main.tf](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/infrastructure-as-code-generator/skills/infrastructure-as-code-generator) | terraform { required_version = ">= 1.0" required_providers { aws = { source  = "hashicorp/aws" version = "~> 5.0" } }... | jeremylongshore | infrastructure-as-code-generator |
 | [{baseDir}/terraform/vertex-endpoints.tf](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/jeremy-vertex-terraform/skills/vertex-infra-expert) | resource "google_vertex_ai_endpoint" "gemini_endpoint" { name         = "gemini-25-flash-endpoint" display_name = "Ge... | jeremylongshore | vertex-infra-expert |
+
+
+## Development Workflow
+
+### skills
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) |  | anthropics | internal-comms |
+
+### claude-code-plugins-plus
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [compliance-report-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/compliance-report-generator/skills/compliance-report-generator) |  | jeremylongshore | compliance-report-generator |
+| [data-visualization-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-visualization-creator/skills/data-visualization-creator) |  | jeremylongshore | data-visualization-creator |
+| [gdpr-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/gdpr-compliance-scanner/skills/gdpr-compliance-scanner) |  | jeremylongshore | gdpr-compliance-scanner |
+| [nlp-text-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/nlp-text-analyzer/skills/nlp-text-analyzer) |  | jeremylongshore | nlp-text-analyzer |
+
+
+## Security
+
+### claude-code-plugins-plus
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Plugin Auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/skills-powerkit/skills/plugin-auditor) |  | jeremylongshore | plugin-auditor |
+
+
+## Tools & Utilities
+
+### claudekit-skills
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Insert instructions below](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) |  | mrgoonie | template-skill |
+
+### skills
+
+| Skill | Description | Author | Directory |
+|--------|-------------|--------|-----------|
+| [Insert instructions below](https://github.com/anthropics/skills/tree/main/template) |  | anthropics | template |
 
 ## Contributing
 

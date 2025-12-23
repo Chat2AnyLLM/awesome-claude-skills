@@ -50,6 +50,9 @@ class SkillReadmeGenerator:
                 continue
             if any(word in clean_category.lower() for word in ["stridecategory", "str ", "category:"]):
                 continue
+            # Skip other malformed patterns
+            if ")" in clean_category or "(" in clean_category or any(char in clean_category for char in [";", ":", "//", "category:"]):
+                continue
 
             # Clean category name for anchor
             anchor = clean_category.lower().replace(" ", "-").replace("&", "").replace("/", "-")
@@ -113,6 +116,9 @@ class SkillReadmeGenerator:
             if " category" in clean_category.lower() or clean_category.lower().startswith("category "):
                 continue
             if any(word in clean_category.lower() for word in ["stridecategory", "str ", "category:"]):
+                continue
+            # Skip other malformed patterns
+            if ")" in clean_category or "(" in clean_category or any(char in clean_category for char in [";", ":", "//", "category:"]):
                 continue
 
             lines.append(f"## {clean_category}\n")

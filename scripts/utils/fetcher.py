@@ -236,48 +236,9 @@ class Fetcher:
             if description_lines:
                 skill_data["description"] = ' '.join(description_lines).strip()
 
-            # Look for category (common patterns) - improved parsing
-            content_lower = content.lower()
-            category = None
-
-            # Try different patterns for category extraction
-            if "category:" in content_lower or "categories:" in content_lower:
-                # Simple extraction - look for lines containing category
-                for line in lines:
-                    line_lower = line.lower().strip()
-                    if "category:" in line_lower or "categories:" in line_lower:
-                        # Extract everything after the colon
-                        parts = line.split(":", 1)
-                        if len(parts) > 1:
-                            category = parts[1].strip().strip("*").strip()
-                            # Clean up common issues
-                            category = category.strip('"').strip("'").strip()
-                            # Remove any trailing comments or malformed text
-                            category = category.split('#')[0].strip()
-                            category = category.split('//')[0].strip()
-                            category = category.split(';')[0].strip()
-                            break
-
-            # If no category found, try to extract from content
-            if not category:
-                # Look for patterns like "**Category:** Something"
-                for line in lines:
-                    if "**category:**" in line.lower() or "**categories:**" in line.lower():
-                        parts = line.split(":", 1)
-                        if len(parts) > 1:
-                            category = parts[1].strip().strip("*").strip()
-                            break
-
-            # Clean up category if found
-            if category:
-                # Remove any remaining special characters and clean it up
-                import re
-                category = re.sub(r'[^\w\s-]', '', category).strip()
-                # Capitalize first letter
-                if category:
-                    category = category[0].upper() + category[1:]
-
-            skill_data["category"] = category or "Uncategorized"
+            # Extract category using multiple strategies
+            category = self._extract_category(content, skill_data.get("name", ""), skill_data.get("description", ""))
+            skill_data["category"] = category
 
             # Look for tags
             tags = []
@@ -298,6 +259,170 @@ class Fetcher:
         except Exception as e:
             logger.warning(f"Failed to parse SKILL.md at {skill_md_path}: {e}")
             return None
+
+    def _extract_category(self, content: str, name: str, description: str) -> str:
+        """Extract category from content using multiple strategies."""
+        content_lower = content.lower()
+        name_lower = name.lower()
+        desc_lower = description.lower()
+
+        # Strategy 1: Look for explicit category markers in the content
+        category = self._extract_explicit_category(content)
+        if category:
+            return category
+
+        # Strategy 2: Categorize based on keywords in name and description
+        return self._categorize_by_keywords(name_lower, desc_lower, content_lower)
+
+    def _extract_explicit_category(self, content: str) -> Optional[str]:
+        """Extract category from explicit markers in content."""
+        lines = content.split('\n')
+
+        for line in lines:
+            line_lower = line.lower().strip()
+            if "category:" in line_lower or "categories:" in line_lower:
+                # Extract everything after the colon
+                parts = line.split(":", 1)
+                if len(parts) > 1:
+                    category = parts[1].strip().strip("*").strip()
+                    # Clean up common issues
+                    category = category.strip('"').strip("'").strip()
+                    # Remove any trailing comments or malformed text
+                    category = category.split('#')[0].strip()
+                    category = category.split('//')[0].strip()
+                    category = category.split(';')[0].strip()
+                    # Capitalize first letter
+                    if category:
+                        category = category[0].upper() + category[1:]
+                        return category
+
+            # Look for patterns like "**Category:** Something"
+            if "**category:**" in line_lower or "**categories:**" in line_lower:
+                parts = line.split(":", 1)
+                if len(parts) > 1:
+                    category = parts[1].strip().strip("*").strip()
+                    if category:
+                        category = category[0].upper() + category[1:]
+                        return category
+
+        return None
+
+    def _categorize_by_keywords(self, name_lower: str, desc_lower: str, content_lower: str) -> str:
+        """Categorize skill based on keywords in name, description, and content."""
+        # Development & Coding
+        dev_keywords = [
+            'development', 'coding', 'programming', 'backend', 'frontend', 'fullstack', 'javascript', 'python',
+            'typescript', 'react', 'vue', 'angular', 'node', 'django', 'flask', 'express', 'api', 'rest',
+            'graphql', 'database', 'sql', 'mongodb', 'postgresql', 'mysql', 'git', 'version control',
+            'ci/cd', 'pipeline', 'deployment', 'docker', 'kubernetes', 'aws', 'azure', 'gcp', 'testing',
+            'tdd', 'unit test', 'integration test', 'debugging', 'refactor', 'optimization', 'performance'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in dev_keywords):
+            return 'Development'
+
+        # Development Workflow
+        workflow_keywords = [
+            'workflow', 'process', 'methodology', 'agile', 'scrum', 'kanban', 'planning', 'execution',
+            'review', 'code review', 'pull request', 'merge', 'branch', 'commit', 'collaboration',
+            'team', 'communication', 'documentation', 'requirements', 'specification', 'design',
+            'architecture', 'subagent', 'agent', 'automation', 'orchestration'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in workflow_keywords):
+            return 'Development Workflow'
+
+        # Content & Writing
+        content_keywords = [
+            'content', 'writing', 'blog', 'article', 'documentation', 'seo', 'marketing', 'copywriting',
+            'editing', 'publishing', 'authoring', 'co-authoring', 'creative writing', 'technical writing',
+            'documentation', 'readme', 'guide', 'tutorial', 'blogging', 'seo', 'geo', 'content creation'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in content_keywords):
+            return 'Content & Writing'
+
+        # Tools & Utilities
+        tools_keywords = [
+            'tool', 'utility', 'cli', 'command', 'script', 'automation', 'productivity', 'efficiency',
+            'workflow', 'helper', 'assistant', 'manager', 'organizer', 'analyzer', 'parser', 'converter',
+            'formatter', 'linter', 'validator', 'checker', 'monitor', 'tracker', 'dashboard', 'metrics'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in tools_keywords):
+            return 'Tools & Utilities'
+
+        # Data & Analytics
+        data_keywords = [
+            'data', 'analytics', 'visualization', 'chart', 'graph', 'dashboard', 'reporting', 'metrics',
+            'statistics', 'excel', 'spreadsheet', 'pivot', 'analysis', 'business intelligence', 'bi',
+            'etl', 'data pipeline', 'database', 'query', 'sql', 'nosql', 'big data', 'machine learning',
+            'ai', 'ml', 'nlp', 'computer vision', 'prediction', 'forecasting'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in data_keywords):
+            return 'Data & Analytics'
+
+        # Security
+        security_keywords = [
+            'security', 'vulnerability', 'audit', 'compliance', 'encryption', 'authentication',
+            'authorization', 'privacy', 'gdpr', 'hipaa', 'soc2', 'penetration testing', 'ethical hacking',
+            'cybersecurity', 'threat', 'risk', 'assessment', 'monitoring', 'logging', 'forensics'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in security_keywords):
+            return 'Security'
+
+        # DevOps & Infrastructure
+        devops_keywords = [
+            'devops', 'infrastructure', 'deployment', 'monitoring', 'logging', 'cloud', 'server',
+            'infrastructure as code', 'iac', 'terraform', 'ansible', 'puppet', 'chef', 'jenkins',
+            'github actions', 'gitlab ci', 'docker', 'kubernetes', 'helm', 'monitoring', 'observability',
+            'prometheus', 'grafana', 'elk stack', 'sentry', 'error tracking', 'routing', 'load balancing'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in devops_keywords):
+            return 'DevOps & Infrastructure'
+
+        # Design & UI/UX
+        design_keywords = [
+            'design', 'ui', 'ux', 'user experience', 'user interface', 'frontend', 'styling',
+            'css', 'html', 'responsive', 'mobile', 'web design', 'graphic design', 'branding',
+            'prototyping', 'wireframe', 'mockup', 'figma', 'sketch', 'adobe', 'photoshop', 'illustrator'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in design_keywords):
+            return 'Design & UI/UX'
+
+        # Communication & Collaboration
+        comm_keywords = [
+            'communication', 'collaboration', 'team', 'meeting', 'slack', 'discord', 'teams',
+            'zoom', 'video conferencing', 'chat', 'messaging', 'notification', 'alert',
+            'email', 'calendar', 'scheduling', 'project management', 'jira', 'trello', 'asana'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in comm_keywords):
+            return 'Communication & Collaboration'
+
+        # Education & Learning
+        education_keywords = [
+            'education', 'learning', 'teaching', 'training', 'tutorial', 'course', 'guide',
+            'documentation', 'knowledge', 'skill development', 'mentoring', 'coaching', 'onboarding'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in education_keywords):
+            return 'Education & Learning'
+
+        # Creative & Media
+        creative_keywords = [
+            'creative', 'media', 'video', 'audio', 'image', 'photo', 'graphic', 'animation',
+            'gif', 'art', 'music', 'podcast', 'streaming', 'multimedia', 'presentation',
+            'powerpoint', 'keynote', 'slide', 'deck'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in creative_keywords):
+            return 'Creative & Media'
+
+        # Business & Productivity
+        business_keywords = [
+            'business', 'productivity', 'management', 'strategy', 'planning', 'finance',
+            'accounting', 'hr', 'human resources', 'sales', 'marketing', 'crm', 'erp',
+            'enterprise', 'corporate', 'professional', 'office', 'administrative'
+        ]
+        if any(keyword in name_lower or keyword in desc_lower or keyword in content_lower for keyword in business_keywords):
+            return 'Business & Productivity'
+
+        # Fallback to Uncategorized
+        return 'Uncategorized'
 
     def fetch_skills_from_marketplace(self, marketplace_data: Dict[str, Any]) -> List[Dict[str, Any]]:
         """Fetch all skills from a marketplace by cloning its repository."""
