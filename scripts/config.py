@@ -47,6 +47,11 @@ class Config:
         """Get output file path."""
         return self.generation_config.get("output_file", "README.md")
 
-    def get_logging_level(self) -> str:
-        """Get logging level."""
-        return self.logging_config.get("level", "INFO")
+    @property
+    def parallel_config(self) -> Dict[str, Any]:
+        """Get parallel processing configuration."""
+        return self._config.get("parallel", {})
+
+    def get_max_workers(self) -> int:
+        """Get maximum number of parallel workers."""
+        return self.parallel_config.get("max_workers", 8)

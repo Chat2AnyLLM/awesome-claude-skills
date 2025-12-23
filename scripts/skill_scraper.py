@@ -92,26 +92,67 @@ def cmd_generate_readme(args, config, logger):
         repos = fetcher.fetch_skill_repos_from_source(source)
         all_repos.extend(repos)
 
-        # Fetch skills for each repository
-        for repo_data in repos:
-            if not repo_data.get("enabled", True):
-                logger.debug(f"Skipping disabled repo: {repo_data.get('id')}")
-                continue
+        # Filter enabled repositories
+        enabled_repos = [
+            repo for repo in repos
+            if repo.get("enabled", True) and repo.get("owner") and repo.get("name")
+        ]
 
+        logger.info("Processing %d enabled repositories in parallel", len(enabled_repos))
+
+        # Process repositories in parallel
+        import concurrent.futures
+        import threading
+
+        # Thread-safe storage for results
+        skills_results = []
+        lock = threading.Lock()
+
+        def process_repository(repo_data):
+            """Process a single repository to extract skills."""
             repo_owner = repo_data.get("owner")
             repo_name = repo_data.get("name")
             repo_branch = repo_data.get("branch", "main")
             skills_path = repo_data.get("skillsPath")
 
-            if not repo_owner or not repo_name:
-                logger.warning("Missing repo information for: %s", repo_data.get("id"))
-                continue
+            try:
+                skills = fetcher.clone_and_scan_repository(repo_owner, repo_name, repo_branch, skills_path)
+                # Add repository info to each skill
+                for skill in skills:
+                    skill["marketplace_id"] = f"{repo_owner}/{repo_name}"
 
-            skills = fetcher.clone_and_scan_repository(repo_owner, repo_name, repo_branch, skills_path)
-            # Add repository info to each skill
-            for skill in skills:
-                skill["marketplace_id"] = f"{repo_owner}/{repo_name}"
-            all_skills.extend(skills)
+                with lock:
+                    skills_results.extend(skills)
+
+                logger.info("Found %d skills in %s/%s", len(skills), repo_owner, repo_name)
+                return len(skills)
+            except Exception as e:
+                logger.error("Failed to process repository %s/%s: %s", repo_owner, repo_name, e)
+                return 0
+
+        # Use ThreadPoolExecutor for parallel processing
+        # Limit to reasonable number of concurrent threads to avoid overwhelming the system
+        max_workers = min(config.get_max_workers(), len(enabled_repos))
+        logger.info("Using %d concurrent workers for repository processing", max_workers)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+            # Submit all tasks
+            future_to_repo = {
+                executor.submit(process_repository, repo): repo
+                for repo in enabled_repos
+            }
+
+            # Wait for all tasks to complete
+            for future in concurrent.futures.as_completed(future_to_repo):
+                repo = future_to_repo[future]
+                try:
+                    skill_count = future.result()
+                    logger.debug("Completed processing %s/%s: %d skills",
+                               repo.get("owner"), repo.get("name"), skill_count)
+                except Exception as e:
+                    logger.error("Exception processing %s/%s: %s",
+                               repo.get("owner"), repo.get("name"), e)
+
+        all_skills.extend(skills_results)
 
     logger.info("Total repositories processed: %d", len(all_repos))
     logger.info("Total skills collected: %d", len(all_skills))

@@ -15,6 +15,10 @@ generation:
   include_marketplace_tables: true
   include_skill_categories: true
 
+# Parallel processing settings
+parallel:
+  max_workers: 8  # Maximum number of concurrent repository processing threads
+
 # Logging settings
 logging:
   level: "INFO"
