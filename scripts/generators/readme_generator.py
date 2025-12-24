@@ -7,8 +7,10 @@ import logging
 from typing import List, Dict, Any
 from collections import defaultdict
 import re
+from datetime import datetime, timezone
 
 logger = logging.getLogger(__name__)
+
 
 class SkillReadmeGenerator:
     """Generates README content from marketplace and skill data."""
@@ -27,7 +29,9 @@ class SkillReadmeGenerator:
 
     def generate_title(self) -> str:
         """Generate the README title."""
-        return "# Awesome Claude Skills\n\nA curated list of awesome Claude Code skills to enhance your Claude Code experience.\n\n"
+        now = datetime.now(timezone.utc)
+        timestamp = now.strftime("%Y-%m-%d %H:%M UTC")
+        return f"# Awesome Claude Skills\n\nA curated list of awesome Claude Code skills to enhance your Claude Code experience.\n\nLast updated: {timestamp}\n\n"
 
     def generate_table_of_contents(self) -> str:
         """Generate table of contents."""
@@ -43,22 +47,40 @@ class SkillReadmeGenerator:
 
             # Skip obviously malformed categories (numbers only, very short, etc.)
             clean_category = category.strip()
-            if clean_category.isdigit() or len(clean_category) < 4:  # Increased minimum length
+            if (
+                clean_category.isdigit() or len(clean_category) < 4
+            ):  # Increased minimum length
                 continue
             # Skip categories that contain "category" as a separate word or have malformed patterns
-            if " category" in clean_category.lower() or clean_category.lower().startswith("category "):
+            if (
+                " category" in clean_category.lower()
+                or clean_category.lower().startswith("category ")
+            ):
                 continue
-            if any(word in clean_category.lower() for word in ["stridecategory", "str ", "category:"]):
+            if any(
+                word in clean_category.lower()
+                for word in ["stridecategory", "str ", "category:"]
+            ):
                 continue
             # Skip other malformed patterns
-            if ")" in clean_category or "(" in clean_category or any(char in clean_category for char in [";", ":", "//", "category:"]):
+            if (
+                ")" in clean_category
+                or "(" in clean_category
+                or any(char in clean_category for char in [";", ":", "//", "category:"])
+            ):
                 continue
 
             # Clean category name for anchor
-            anchor = clean_category.lower().replace(" ", "-").replace("&", "").replace("/", "-")
+            anchor = (
+                clean_category.lower()
+                .replace(" ", "-")
+                .replace("&", "")
+                .replace("/", "-")
+            )
             # Remove any remaining non-alphanumeric characters except hyphens
             import re
-            anchor = re.sub(r'[^a-z0-9-]', '', anchor)
+
+            anchor = re.sub(r"[^a-z0-9-]", "", anchor)
             lines.append(f"- [{clean_category}](#{anchor})")
 
         lines.append("- [Contributing](#contributing)")
@@ -110,15 +132,27 @@ class SkillReadmeGenerator:
 
             # Skip obviously malformed categories (numbers only, very short, etc.)
             clean_category = category.strip()
-            if clean_category.isdigit() or len(clean_category) < 4:  # Increased minimum length
+            if (
+                clean_category.isdigit() or len(clean_category) < 4
+            ):  # Increased minimum length
                 continue
             # Skip categories that contain "category" as a separate word or have malformed patterns
-            if " category" in clean_category.lower() or clean_category.lower().startswith("category "):
+            if (
+                " category" in clean_category.lower()
+                or clean_category.lower().startswith("category ")
+            ):
                 continue
-            if any(word in clean_category.lower() for word in ["stridecategory", "str ", "category:"]):
+            if any(
+                word in clean_category.lower()
+                for word in ["stridecategory", "str ", "category:"]
+            ):
                 continue
             # Skip other malformed patterns
-            if ")" in clean_category or "(" in clean_category or any(char in clean_category for char in [";", ":", "//", "category:"]):
+            if (
+                ")" in clean_category
+                or "(" in clean_category
+                or any(char in clean_category for char in [";", ":", "//", "category:"])
+            ):
                 continue
 
             lines.append(f"## {clean_category}\n")
@@ -145,7 +179,9 @@ class SkillReadmeGenerator:
 
                 for skill in sorted_skills:
                     name = skill.get("name", "Unknown Skill")
-                    description = skill.get("description", "").replace("\n", " ").strip()
+                    description = (
+                        skill.get("description", "").replace("\n", " ").strip()
+                    )
                     # Truncate description for table readability
                     if len(description) > 120:
                         description = description[:117] + "..."
@@ -169,7 +205,9 @@ class SkillReadmeGenerator:
                     # Escape pipe characters in description
                     description = description.replace("|", "\\|")
 
-                    lines.append(f"| {skill_name_cell} | {description} | {author} | {directory} |")
+                    lines.append(
+                        f"| {skill_name_cell} | {description} | {author} | {directory} |"
+                    )
 
                 lines.append("")
 
@@ -197,7 +235,7 @@ To add a new skill or marketplace:
             self.generate_table_of_contents(),
             self.generate_marketplaces_table(),
             self.generate_skills_by_category(),
-            self.generate_contributing()
+            self.generate_contributing(),
         ]
 
         content = "".join(sections)
@@ -229,7 +267,7 @@ To add a new skill or marketplace:
         """Basic markdown validation for generated content."""
         try:
             # Check for balanced brackets in links [text](url)
-            link_pattern = r'\[([^\]]*)\]\(([^)]*)\)'
+            link_pattern = r"\[([^\]]*)\]\(([^)]*)\)"
             links = re.findall(link_pattern, content)
 
             for text, url in links:
@@ -241,13 +279,18 @@ To add a new skill or marketplace:
                     return False
 
             # Basic check for table structure - just ensure tables have separators
-            lines = content.split('\n')
+            lines = content.split("\n")
             table_started = False
             has_separator = False
 
             for line in lines:
-                if '|' in line and not line.strip().startswith('#'):
-                    if '|---' in line or '|:--' in line or ':---' in line or '---:' in line:
+                if "|" in line and not line.strip().startswith("#"):
+                    if (
+                        "|---" in line
+                        or "|:--" in line
+                        or ":---" in line
+                        or "---:" in line
+                    ):
                         has_separator = True
                         table_started = False
                     elif not table_started:
