@@ -92,7 +92,7 @@ class SkillReadmeGenerator:
         if not self.marketplaces:
             return ""
 
-        lines = ["## Repositories\n"]
+        lines = ["\n## Repositories\n"]
         lines.append("| Repository | Description |")
         lines.append("| --- | --- |")
 
@@ -124,7 +124,7 @@ class SkillReadmeGenerator:
             category = skill.get("category", "Uncategorized")
             categories[category].append(skill)
 
-        lines = []
+        lines = [""]
         for category in sorted(categories.keys()):
             # Skip empty or malformed categories
             if not category or category.strip() == "" or len(category.strip()) > 50:
@@ -217,7 +217,8 @@ class SkillReadmeGenerator:
 
     def generate_contributing(self) -> str:
         """Generate contributing section."""
-        return """## Contributing
+        return """
+## Contributing
 
 We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details on how to add new marketplaces or skills.
 

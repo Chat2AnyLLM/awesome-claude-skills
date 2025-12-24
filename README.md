@@ -2,7 +2,7 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Last updated: 2025-12-24 08:18 UTC
+Last updated: 2025-12-24 08:25 UTC
 
 ## Contents
 
@@ -12,6 +12,7 @@ Last updated: 2025-12-24 08:18 UTC
 - [Security](#security)
 - [Tools & Utilities](#tools--utilities)
 - [Contributing](#contributing)
+
 ## Repositories
 
 | Repository | Description |
@@ -26,6 +27,7 @@ Last updated: 2025-12-24 08:18 UTC
 | [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer) | Skills repository by weipanux |
 | [skills](https://github.com/anthropics/skills) | Skills repository by anthropics |
 | [superpowers](https://github.com/obra/superpowers) | Skills repository by obra |
+
 ## Development
 
 ### claude-code
@@ -528,6 +530,7 @@ Last updated: 2025-12-24 08:18 UTC
 | Skill | Description | Author | Directory |
 | --- | --- | --- | --- |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) |  | mrgoonie | template-skill |
+
 
 ## Contributing
 
