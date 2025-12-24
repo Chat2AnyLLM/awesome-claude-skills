@@ -70,7 +70,7 @@ class SkillReadmeGenerator:
         if not self.marketplaces:
             return ""
 
-        lines = ["## Repositories\n\n"]
+        lines = ["## Repositories\n"]
         lines.append("| Repository | Description |")
         lines.append("|------------|-------------|")
 
