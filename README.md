@@ -2,7 +2,7 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Last updated: 2025-12-24 14:09 UTC
+Last updated: 2025-12-24 15:10 UTC
 
 ## Contents
 
@@ -87,6 +87,7 @@ Last updated: 2025-12-24 14:09 UTC
 | [adk-engineer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-adk-software-engineer/skills/adk-engineer) | project/ ├── src/ │   ├── agents/              # Agent definitions │   │   ├── __init__.py │   │   ├── base_agent.py ... | jeremylongshore | adk-engineer |
 | [adk-infra-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/jeremy-adk-terraform/skills/adk-infra-expert) | resource "google_vertex_ai_agent_runtime" "adk_agent" { project  = var.project_id location = var.region display_name ... | jeremylongshore | adk-infra-expert |
 | [agent-context-loader](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/agent-context-manager/skills/agent-context-loader) | **⚡ This skill activates AUTOMATICALLY - no user action required!** | jeremylongshore | agent-context-loader |
+| [agent-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/agent-patterns) | Sprint coordinates multiple specialized agents through structured communication patterns. This skill covers the SPAWN... | jeremylongshore | agent-patterns |
 | [agent-sdk-master](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/004-jeremy-google-cloud-agent-sdk/skills/agent-sdk-master) | This Agent Skill provides comprehensive mastery of Google's Agent Development Kit (ADK) and Agent Starter Pack for bu... | jeremylongshore | agent-sdk-master |
 | [ai-ethics-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/ai-ethics-validator/skills/ai-ethics-validator) |  | jeremylongshore | ai-ethics-validator |
 | [ai-ml-engineering-pack](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/packages/ai-ml-engineering-pack/skills/ai-ml-engineering-pack) |  | jeremylongshore | ai-ml-engineering-pack |
@@ -97,6 +98,7 @@ Last updated: 2025-12-24 14:09 UTC
 | [api-authentication-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-authentication-builder/skills/api-authentication-builder) |  | jeremylongshore | api-authentication-builder |
 | [api-batch-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-batch-processor/skills/api-batch-processor) |  | jeremylongshore | api-batch-processor |
 | [api-cache-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-cache-manager/skills/api-cache-manager) |  | jeremylongshore | api-cache-manager |
+| [api-contract](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/api-contract) | The API contract (`api-contract.md`) is the shared interface between implementation agents. It defines what the backe... | jeremylongshore | api-contract |
 | [api-contract-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-contract-generator/skills/api-contract-generator) |  | jeremylongshore | api-contract-generator |
 | [api-documentation-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-documentation-generator/skills/api-documentation-generator) |  | jeremylongshore | api-documentation-generator |
 | [api-error-handler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-error-handler/skills/api-error-handler) |  | jeremylongshore | api-error-handler |
@@ -279,6 +281,8 @@ Last updated: 2025-12-24 14:09 UTC
 | [smoke-test-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/smoke-test-runner/skills/smoke-test-runner) |  | jeremylongshore | smoke-test-runner |
 | [snapshot-test-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/snapshot-test-manager/skills/snapshot-test-manager) |  | jeremylongshore | snapshot-test-manager |
 | [soc2-audit-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/soc2-audit-helper/skills/soc2-audit-helper) | Assessment Date: 2024-01-15 Organization: TechCorp Inc. Audit Type: SOC 2 Type II (Security + Availability) | jeremylongshore | soc2-audit-helper |
+| [spec-writing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/spec-writing) | Specifications drive the entire sprint workflow. Well-written specs lead to focused implementations; vague specs caus... | jeremylongshore | spec-writing |
+| [sprint-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/sprint-workflow) | Sprint implements a convergent development model where autonomous agents iteratively refine implementations until spe... | jeremylongshore | sprint-workflow |
 | [sql-injection-detector](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/sql-injection-detector/skills/sql-injection-detector) | query = "SELECT * FROM users WHERE username = '" + user_input + "'" cursor.execute(query) | jeremylongshore | sql-injection-detector |
 | [sql-query-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/sql-query-optimizer/skills/sql-query-optimizer) |  | jeremylongshore | sql-query-optimizer |
 | [ssl-certificate-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/ssl-certificate-manager/skills/ssl-certificate-manager) |  | jeremylongshore | ssl-certificate-manager |
