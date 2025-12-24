@@ -2,6 +2,8 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
+Last updated: 2025-12-24 08:06 UTC
+
 ## Contents
 
 - [Repositories](#repositories)
@@ -13,7 +15,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ## Repositories
 
 | Repository | Description |
-|------------|-------------|
+| --- | --- |
 | [agents](https://github.com/wshobson/agents) | Skills repository by wshobson |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | Skills repository by ccplugins |
 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Skills repository by ComposioHQ |
@@ -29,7 +31,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### claude-code
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [agent-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/agent-development) |  | anthropics | agent-development |
 | [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | One-shot migration from Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. | anthropics | claude-opus-4-5-migration |
 | [command-development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/command-development) |  | anthropics | command-development |
@@ -44,7 +46,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### skills
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) |  | anthropics | algorithmic-art |
 | [brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) |  | anthropics | brand-guidelines |
 | [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) |  | anthropics | canvas-design |
@@ -64,7 +66,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### claude-code-infrastructure-showcase
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [backend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/backend-dev-guidelines) |  | diet103 | backend-dev-guidelines |
 | [error-tracking](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) |  | diet103 | error-tracking |
 | [frontend-dev-guidelines](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/frontend-dev-guidelines) |  | diet103 | frontend-dev-guidelines |
@@ -74,7 +76,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### claude-code-plugins-plus
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [000-jeremy-content-consistency-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/000-jeremy-content-consistency-validator/skills/000-jeremy-content-consistency-validator) | Generated: [timestamp] | jeremylongshore | 000-jeremy-content-consistency-validator |
 | [access-control-auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/access-control-auditor/skills/access-control-auditor) |  | jeremylongshore | access-control-auditor |
 | [accessibility-test-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/accessibility-test-scanner/skills/accessibility-test-scanner) |  | jeremylongshore | accessibility-test-scanner |
@@ -314,7 +316,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### claudekit-skills
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [aesthetic](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/aesthetic) | Create aesthetically beautiful interfaces by following proven design principles and systematic workflows. | mrgoonie | aesthetic |
 | [ai-multimodal](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ai-multimodal) | Process audio, images, videos, documents, and generate images using Google Gemini's multimodal API. Unified interface... | mrgoonie | ai-multimodal |
 | [backend-development](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/backend-development) | Production-ready backend development with modern technologies, best practices, and proven patterns. | mrgoonie | backend-development |
@@ -355,7 +357,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### superpowers
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [brainstorming](https://github.com/obra/superpowers/tree/main/skills/brainstorming) |  | obra | brainstorming |
 | [dispatching-parallel-agents](https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents) |  | obra | dispatching-parallel-agents |
 | [executing-plans](https://github.com/obra/superpowers/tree/main/skills/executing-plans) |  | obra | executing-plans |
@@ -374,13 +376,13 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### seo-geo-blog-writer
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main/.) |  | weipanux | seo-geo-blog-writer |
 
 ### agents
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [airflow-dag-patterns](https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/airflow-dag-patterns) | Production-ready patterns for Apache Airflow including DAG design, operators, sensors, testing, and deployment strate... | wshobson | airflow-dag-patterns |
 | [angular-migration](https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/angular-migration) | Master AngularJS to Angular migration, including hybrid apps, component conversion, dependency injection changes, and... | wshobson | angular-migration |
 | [api-design-principles](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/api-design-principles) | Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight develo... | wshobson | api-design-principles |
@@ -491,13 +493,13 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### skills
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) |  | anthropics | internal-comms |
 
 ### claude-code-plugins-plus
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [compliance-report-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/compliance-report-generator/skills/compliance-report-generator) |  | jeremylongshore | compliance-report-generator |
 | [data-visualization-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-visualization-creator/skills/data-visualization-creator) |  | jeremylongshore | data-visualization-creator |
 | [gdpr-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/gdpr-compliance-scanner/skills/gdpr-compliance-scanner) |  | jeremylongshore | gdpr-compliance-scanner |
@@ -509,7 +511,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### claude-code-plugins-plus
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [plugin-auditor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/jeremy-plugin-tool/skills/plugin-auditor) |  | jeremylongshore | plugin-auditor |
 
 
@@ -518,13 +520,13 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 ### skills
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [template](https://github.com/anthropics/skills/tree/main/template) |  | anthropics | template |
 
 ### claudekit-skills
 
 | Skill | Description | Author | Directory |
-|--------|-------------|--------|-----------|
+| --- | --- | --- | --- |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) |  | mrgoonie | template-skill |
 
 ## Contributing
