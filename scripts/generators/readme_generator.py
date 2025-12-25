@@ -31,7 +31,8 @@ class SkillReadmeGenerator:
         """Generate the README title."""
         now = datetime.now(timezone.utc)
         timestamp = now.strftime("%Y-%m-%d %H:%M UTC")
-        return f"# Awesome Claude Skills\n\nA curated list of awesome Claude Code skills to enhance your Claude Code experience.\n\nLast updated: {timestamp}\n\n"
+        skill_count = len(self.skills)
+        return f"# Awesome Claude Skills\n\nA curated list of awesome Claude Code skills to enhance your Claude Code experience.\n\nTotal Skills: {skill_count}\n\nLast updated: {timestamp}\n\n"
 
     def generate_table_of_contents(self) -> str:
         """Generate table of contents."""
