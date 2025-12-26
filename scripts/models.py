@@ -39,6 +39,7 @@ class Skill:
     directory: Optional[str] = None
     readme_url: Optional[str] = None
     tags: Optional[List[str]] = None
+    version: Optional[str] = None
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> 'Skill':
@@ -54,7 +55,8 @@ class Skill:
             repo_branch=data.get("repo_branch", "main"),
             directory=data.get("directory"),
             readme_url=data.get("readme_url"),
-            tags=data.get("tags", [])
+            tags=data.get("tags", []),
+            version=data.get("version")
         )
 
     def to_dict(self) -> Dict[str, Any]:
@@ -80,4 +82,6 @@ class Skill:
             data["readme_url"] = self.readme_url
         if self.tags:
             data["tags"] = self.tags
+        if self.version:
+            data["version"] = self.version
         return data
