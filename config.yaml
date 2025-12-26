@@ -9,6 +9,12 @@ sources:
     priority: 1
     timeout: 30
 
+  - id: "awesome-repo-configs"
+    url: "https://raw.githubusercontent.com/Chat2AnyLLM/awesome-repo-configs/main/skill_repos.json"
+    enabled: true
+    priority: 2
+    timeout: 30
+
 # Generation settings
 generation:
   output_file: "README.md"
