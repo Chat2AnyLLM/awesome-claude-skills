@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 574
+Total Skills: 628
 
-Last updated: 2025-12-26 10:11 UTC
+Last updated: 2025-12-26 11:06 UTC
 
 ## Contents
 
@@ -25,6 +25,65 @@ Last updated: 2025-12-26 10:11 UTC
 
 
 ## Development
+
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [Angular Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/angular-architect) | Expert Angular architect for Angular 17+ with standalone components and signals. Invoke for enterprise Angular apps, ... | None | Jeffallan | angular-architect |
+| [API Designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/api-designer) | Senior API architect with expertise in designing scalable, developer-friendly REST and GraphQL APIs with comprehensiv... | None | Jeffallan | api-designer |
+| [Architecture Designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/architecture-designer) | Senior software architect specializing in system design, design patterns, and architectural decision-making. | None | Jeffallan | architecture-designer |
+| [Chaos Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/chaos-engineer) | Expert chaos engineer specializing in controlled failure injection, resilience testing, and building antifragile syst... | None | Jeffallan | chaos-engineer |
+| [CLI Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/cli-developer) | Senior CLI developer with expertise in building intuitive, cross-platform command-line tools with excellent developer... | None | Jeffallan | cli-developer |
+| [Cloud Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/cloud-architect) | Senior cloud architect specializing in multi-cloud strategies, migration patterns, cost optimization, and cloud-nativ... | None | Jeffallan | cloud-architect |
+| [Code Documenter](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-documenter) | Documentation specialist for inline documentation, API specs, documentation sites, and developer guides. | None | Jeffallan | code-documenter |
+| [Code Reviewer](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-reviewer) | Senior engineer conducting thorough, constructive code reviews that improve quality and share knowledge. | None | Jeffallan | code-reviewer |
+| [C++ Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/cpp-pro) | Expert C++ developer specializing in modern C++20/23, systems programming, and high-performance computing. Masters te... | None | Jeffallan | cpp-pro |
+| [C# Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/csharp-developer) | Senior C# developer with mastery of .NET 8+ and Microsoft ecosystem. Specializes in high-performance web APIs, cloud-... | None | Jeffallan | csharp-developer |
+| [Database Optimizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/database-optimizer) | Expert database optimizer specializing in query optimization, performance tuning, and scalability across PostgreSQL, ... | None | Jeffallan | database-optimizer |
+| [Debugging Wizard](https://github.com/Jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Expert debugger applying systematic methodology to isolate and resolve issues in any codebase. | None | Jeffallan | debugging-wizard |
+| [DevOps Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/devops-engineer) | Senior DevOps engineer specializing in CI/CD pipelines, infrastructure as code, and deployment automation. | None | Jeffallan | devops-engineer |
+| [Django Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/django-expert) | Senior Django specialist with deep expertise in Django 5.0, Django REST Framework, and production-grade web applicati... | None | Jeffallan | django-expert |
+| [.NET Core Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/dotnet-core-expert) | Expert .NET Core specialist mastering .NET 8 with modern C# features. Specializes in minimal APIs, cloud-native appli... | None | Jeffallan | dotnet-core-expert |
+| [Embedded Systems Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/embedded-systems) | Senior embedded systems engineer with deep expertise in microcontroller programming, RTOS implementation, and hardwar... | None | Jeffallan | embedded-systems |
+| [FastAPI Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/fastapi-expert) | Senior FastAPI specialist with deep expertise in async Python, Pydantic V2, and production-grade API development. | None | Jeffallan | fastapi-expert |
+| [Feature Forge](https://github.com/Jeffallan/claude-skills/tree/main/skills/feature-forge) | Requirements specialist conducting structured workshops to define comprehensive feature specifications. | None | Jeffallan | feature-forge |
+| [Flutter Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/flutter-expert) | Senior mobile engineer building high-performance cross-platform applications with Flutter 3 and Dart. | None | Jeffallan | flutter-expert |
+| [Fullstack Guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/fullstack-guardian) | Security-focused full-stack developer implementing features across the entire application stack. | None | Jeffallan | fullstack-guardian |
+| [Game Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/game-developer) | Expert game developer specializing in game engine programming, graphics optimization, and multiplayer systems. Invoke... | None | Jeffallan | game-developer |
+| [Golang Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/golang-pro) | Senior Go developer with deep expertise in Go 1.21+, concurrent programming, and cloud-native microservices. Speciali... | None | Jeffallan | golang-pro |
+| [GraphQL Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/graphql-architect) | Senior GraphQL architect specializing in schema design and distributed graph architectures with deep expertise in Apo... | None | Jeffallan | graphql-architect |
+| [Java Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/java-architect) | Senior Java architect with deep expertise in enterprise-grade Spring Boot applications, microservices architecture, a... | None | Jeffallan | java-architect |
+| [JavaScript Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/javascript-pro) | Senior JavaScript developer with 10+ years mastering modern ES2023+ features, asynchronous patterns, and full-stack J... | None | Jeffallan | javascript-pro |
+| [Kotlin Specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kotlin-specialist) | Senior Kotlin developer with deep expertise in coroutines, Kotlin Multiplatform (KMP), and modern Kotlin 1.9+ patterns. | None | Jeffallan | kotlin-specialist |
+| [Kubernetes Specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kubernetes-specialist) | Senior Kubernetes specialist with deep expertise in production cluster management, security hardening, and cloud-nati... | None | Jeffallan | kubernetes-specialist |
+| [Laravel Specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/laravel-specialist) | Senior Laravel specialist with deep expertise in Laravel 10+, Eloquent ORM, and modern PHP 8.2+ development. | None | Jeffallan | laravel-specialist |
+| [Legacy Modernizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Expert legacy system modernizer specializing in incremental migration strategies and risk-free modernization. Masters... | None | Jeffallan | legacy-modernizer |
+| [MCP Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/mcp-developer) | Model Context Protocol specialist for building servers and clients that connect AI systems with external tools and da... | None | Jeffallan | mcp-developer |
+| [Microservices Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/microservices-architect) | Senior distributed systems architect specializing in cloud-native microservices architectures, resilience patterns, a... | None | Jeffallan | microservices-architect |
+| [Monitoring Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/monitoring-expert) | Observability and performance specialist implementing comprehensive monitoring, alerting, tracing, and performance te... | None | Jeffallan | monitoring-expert |
+| [NestJS Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/nestjs-expert) | Senior NestJS specialist with deep expertise in enterprise-grade, scalable TypeScript backend applications. | None | Jeffallan | nestjs-expert |
+| [Next.js Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/nextjs-developer) | Expert Next.js 14+ developer mastering App Router, server components, server actions, and full-stack features. Specia... | None | Jeffallan | nextjs-developer |
+| [PHP Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/php-pro) | Expert PHP developer specializing in modern PHP 8.3+ with strong typing, async programming, and enterprise frameworks... | None | Jeffallan | php-pro |
+| [Playwright Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/playwright-expert) | Senior E2E testing specialist with deep expertise in Playwright for robust, maintainable browser automation. | None | Jeffallan | playwright-expert |
+| [PostgreSQL Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/postgres-pro) | Senior PostgreSQL expert with deep expertise in database administration, performance optimization, and advanced Postg... | None | Jeffallan | postgres-pro |
+| [Python Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/python-pro) | Expert Python developer specializing in modern Python 3.11+ with deep expertise in type safety, async programming, te... | None | Jeffallan | python-pro |
+| [Rails Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/rails-expert) | Senior Rails specialist with deep expertise in Rails 7+, Hotwire, and modern Ruby web development patterns. | None | Jeffallan | rails-expert |
+| [React Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/react-expert) | Senior React specialist with deep expertise in React 19, Server Components, and production-grade application architec... | None | Jeffallan | react-expert |
+| [React Native Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/react-native-expert) | Senior mobile engineer building production-ready cross-platform applications with React Native and Expo. | None | Jeffallan | react-native-expert |
+| [Rust Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/rust-engineer) | Senior Rust engineer specializing in systems programming, memory safety, and zero-cost abstractions. Invoke for owner... | None | Jeffallan | rust-engineer |
+| [Secure Code Guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Security-focused developer specializing in writing secure code and preventing vulnerabilities. | None | Jeffallan | secure-code-guardian |
+| [Security Reviewer](https://github.com/Jeffallan/claude-skills/tree/main/skills/security-reviewer) | Security analyst specializing in code review, vulnerability identification, penetration testing, and infrastructure s... | None | Jeffallan | security-reviewer |
+| [Spec Miner](https://github.com/Jeffallan/claude-skills/tree/main/skills/spec-miner) | Reverse-engineering specialist who extracts specifications from existing codebases. | None | Jeffallan | spec-miner |
+| [Spring Boot Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/spring-boot-engineer) | Expert Spring Boot engineer mastering Spring Boot 3+ with cloud-native patterns. Specializes in microservices, reacti... | None | Jeffallan | spring-boot-engineer |
+| [SQL Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/sql-pro) | Expert SQL developer specializing in complex query optimization, database design, and performance tuning across Postg... | None | Jeffallan | sql-pro |
+| [SRE Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/sre-engineer) | Site Reliability Engineer balancing feature velocity with system stability through SLOs, error budgets, and automatio... | None | Jeffallan | sre-engineer |
+| [Swift Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/swift-expert) | Swift specialist for iOS/macOS development with Swift 5.9+, SwiftUI, async/await concurrency, and protocol-oriented d... | None | Jeffallan | swift-expert |
+| [Terraform Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/terraform-engineer) | Senior Terraform engineer for infrastructure as code, multi-cloud provisioning, and modular architecture. Invoke for ... | None | Jeffallan | terraform-engineer |
+| [Test Master](https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master) | Testing expert for functional, performance, and security testing. Covers test writing, QA strategy, automation framew... | None | Jeffallan | test-master |
+| [TypeScript Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/typescript-pro) | Senior TypeScript specialist with deep expertise in advanced type systems, full-stack type safety, and production-gra... | None | Jeffallan | typescript-pro |
+| [Vue Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/vue-expert) | Senior Vue specialist with deep expertise in Vue 3 Composition API, reactivity system, and modern Vue ecosystem. | None | Jeffallan | vue-expert |
+| [WebSocket Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/websocket-engineer) | Senior WebSocket specialist with expertise in real-time bidirectional communication, Socket.IO, and scalable messagin... | None | Jeffallan | websocket-engineer |
 
 ### claude-scientific-skills
 
