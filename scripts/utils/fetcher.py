@@ -11,6 +11,7 @@ import hashlib
 import tempfile
 import shutil
 import subprocess
+import yaml
 from pathlib import Path
 from typing import Dict, Any, Optional, List
 from urllib.parse import urljoin
@@ -185,7 +186,8 @@ class Fetcher:
                             "repo_branch": repo_branch,
                             "directory": directory,
                             "readme_url": f"https://github.com/{repo_owner}/{repo_name}/tree/{repo_branch}/{readme_path}",
-                            "tags": skill_data.get("tags", [])
+                            "tags": skill_data.get("tags", []),
+                            "version": skill_data.get("version")
                         }
                         skills.append(skill)
                         logger.debug(f"Found skill: {skill['id']}")
@@ -208,51 +210,70 @@ class Fetcher:
             with open(skill_md_path, 'r', encoding='utf-8') as f:
                 content = f.read()
 
-            # Simple frontmatter parsing (similar to code-assistant-manager)
             skill_data = {}
 
-            # Extract name from first header
-            lines = content.split('\n')
-            for line in lines:
-                line = line.strip()
-                if line.startswith('# '):
-                    skill_data["name"] = line[2:].strip()
-                    break
+            # Parse YAML frontmatter
+            if content.startswith("---"):
+                try:
+                    parts = content.split("---", 2)
+                    if len(parts) >= 3:
+                        frontmatter = yaml.safe_load(parts[1])
+                        if frontmatter and isinstance(frontmatter, dict):
+                            skill_data.update(frontmatter)
+                            # Remove frontmatter from content for further processing
+                            content = parts[2]
+                except yaml.YAMLError as e:
+                    logger.warning(f"Failed to parse YAML frontmatter in {skill_md_path}: {e}")
 
-            # Look for description (text after name until next header or special markers)
-            in_description = False
-            description_lines = []
+            # Extract name from first header if not in frontmatter
+            if not skill_data.get("name"):
+                lines = content.split('\n')
+                for line in lines:
+                    line = line.strip()
+                    if line.startswith('# '):
+                        skill_data["name"] = line[2:].strip()
+                        break
 
-            for line in lines:
-                line = line.strip()
-                if line.startswith('# ') and skill_data.get("name") and line[2:].strip() == skill_data["name"]:
-                    in_description = True
-                    continue
-                elif line.startswith('#') and in_description:
-                    break
-                elif in_description and line:
-                    description_lines.append(line)
+            # Look for description (text after name until next header or special markers) if not in frontmatter
+            if not skill_data.get("description"):
+                lines = content.split('\n')
+                in_description = False
+                description_lines = []
 
-            if description_lines:
-                skill_data["description"] = ' '.join(description_lines).strip()
+                for line in lines:
+                    line = line.strip()
+                    if line.startswith('# ') and skill_data.get("name") and line[2:].strip() == skill_data["name"]:
+                        in_description = True
+                        continue
+                    elif line.startswith('#') and in_description:
+                        break
+                    elif in_description and line:
+                        description_lines.append(line)
+
+                if description_lines:
+                    skill_data["description"] = ' '.join(description_lines).strip()
 
             # Extract category using multiple strategies
-            category = self._extract_category(content, skill_data.get("name", ""), skill_data.get("description", ""))
-            skill_data["category"] = category
+            # Only if not already in frontmatter or if we want to augment/fallback
+            if not skill_data.get("category"):
+                category = self._extract_category(content, skill_data.get("name", ""), skill_data.get("description", ""))
+                skill_data["category"] = category
 
-            # Look for tags
-            tags = []
-            for line in lines:
-                line_lower = line.lower().strip()
-                if "tags:" in line_lower or "tag:" in line_lower:
-                    parts = line.split(":", 1)
-                    if len(parts) > 1:
-                        tag_part = parts[1].strip()
-                        # Simple comma-separated parsing
-                        tag_list = [tag.strip().strip("*").strip() for tag in tag_part.split(",")]
-                        tags.extend(tag_list)
-            if tags:
-                skill_data["tags"] = tags
+            # Look for tags if not in frontmatter
+            if not skill_data.get("tags"):
+                tags = []
+                lines = content.split('\n')
+                for line in lines:
+                    line_lower = line.lower().strip()
+                    if "tags:" in line_lower or "tag:" in line_lower:
+                        parts = line.split(":", 1)
+                        if len(parts) > 1:
+                            tag_part = parts[1].strip()
+                            # Simple comma-separated parsing
+                            tag_list = [tag.strip().strip("*").strip() for tag in tag_part.split(",")]
+                            tags.extend(tag_list)
+                if tags:
+                    skill_data["tags"] = tags
 
             return skill_data
 

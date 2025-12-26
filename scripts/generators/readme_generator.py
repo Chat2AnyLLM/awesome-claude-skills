@@ -37,7 +37,6 @@ class SkillReadmeGenerator:
     def generate_table_of_contents(self) -> str:
         """Generate table of contents."""
         lines = ["## Contents\n"]
-        lines.append("- [Repositories](#repositories)")
 
         # Group skills by category
         categories = self._get_categories()
@@ -172,8 +171,8 @@ class SkillReadmeGenerator:
                     lines.append(f"### {marketplace_name}\n")
 
                 # Table header
-                lines.append("| Skill | Description | Author | Directory |")
-                lines.append("| --- | --- | --- | --- |")
+                lines.append("| Skill | Description | Version | Author | Directory |")
+                lines.append("| --- | --- | --- | --- | --- |")
 
                 # Sort skills alphabetically by directory name
                 sorted_skills = sorted(skills, key=lambda s: s.get("directory", ""))
@@ -183,6 +182,8 @@ class SkillReadmeGenerator:
                     description = (
                         skill.get("description", "").replace("\n", " ").strip()
                     )
+                    version = skill.get("version", "")
+                    
                     # Truncate description for table readability
                     if len(description) > 120:
                         description = description[:117] + "..."
@@ -194,8 +195,8 @@ class SkillReadmeGenerator:
                     directory = skill.get("directory", "Unknown")
                     readme_url = skill.get("readme_url", "")
 
-                    # Use directory name as the skill name (parent folder of SKILL.md)
-                    skill_name = directory
+                    # Use skill name from metadata, fallback to directory if name is empty
+                    skill_name = name if name else directory
 
                     # Make skill name a hyperlink if URL exists
                     if readme_url:
@@ -207,7 +208,7 @@ class SkillReadmeGenerator:
                     description = description.replace("|", "\\|")
 
                     lines.append(
-                        f"| {skill_name_cell} | {description} | {author} | {directory} |"
+                        f"| {skill_name_cell} | {description} | {version} | {author} | {directory} |"
                     )
 
                 lines.append("")
@@ -235,7 +236,6 @@ To add a new skill or marketplace:
         sections = [
             self.generate_title(),
             self.generate_table_of_contents(),
-            self.generate_marketplaces_table(),
             self.generate_skills_by_category(),
             self.generate_contributing(),
         ]
