@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 915
+Total Skills: 943
 
-Last updated: 2025-12-27 11:07 UTC
+Last updated: 2025-12-27 12:03 UTC
 
 ## Contents
 
@@ -319,6 +319,14 @@ Last updated: 2025-12-27 11:07 UTC
 | [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functio... | None | anthropics | webapp-testing |
 | [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and v... | None | anthropics | xlsx |
 
+### claude-marketplace-elixir
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [hex-docs-search](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/core/skills/hex-docs-search) | Research Hex packages (Sobelow, Phoenix, Ecto, Credo, Ash, etc). Use when investigating packages, understanding integ... | None | bradleygolden | hex-docs-search |
+| [usage-rules](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/core/skills/usage-rules) | Search for package-specific usage rules and best practices from Elixir packages. Use when you need coding conventions... | None | bradleygolden | usage-rules |
+| [workflow-generator](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/meta/skills/workflow-generator) | Generate project-specific workflow commands (research, plan, implement, qa) by asking questions about the project and... | None | bradleygolden | workflow-generator |
+
 ### claude-code-templates
 
 | Skill | Description | Version | Author | Directory |
@@ -561,6 +569,33 @@ Last updated: 2025-12-27 11:07 UTC
 | [zapier-workflows](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/zapier-workflows) | Manage and trigger pre-built Zapier workflows and MCP tool orchestration. Use when user mentions workflows, Zaps, aut... | None | davila7 | zapier-workflows |
 | [zarr-python](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/zarr-python) | Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS integration, NumPy/Dask/Xarray compatib... | None | davila7 | zarr-python |
 | [zinc-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/zinc-database) | Access ZINC (230M+ purchasable compounds). Search by ZINC ID/SMILES, similarity searches, 3D-ready structures for doc... | None | davila7 | zinc-database |
+
+### claude-code-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [claude-code-history-files-finder](https://github.com/daymade/claude-code-skills/tree/main/claude-code-history-files-finder) | Finds and recovers content from Claude Code session history files. This skill should be used when searching for delet... | None | daymade | claude-code-history-files-finder |
+| [claude-md-progressive-disclosurer](https://github.com/daymade/claude-code-skills/tree/main/claude-md-progressive-disclosurer) | Optimize user CLAUDE.md files by applying progressive disclosure principles. This skill should be used when users wan... | None | daymade | claude-md-progressive-disclosurer |
+| [cli-demo-generator](https://github.com/daymade/claude-code-skills/tree/main/cli-demo-generator) | This skill should be used when users want to create animated CLI demos, terminal recordings, or command-line demonstr... | None | daymade | cli-demo-generator |
+| [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use when troubleshooting... | None | daymade | cloudflare-troubleshooting |
+| [docs-cleaner](https://github.com/daymade/claude-code-skills/tree/main/docs-cleaner) | Consolidates redundant documentation while preserving all valuable content. This skill should be used when users want... | None | daymade | docs-cleaner |
+| [github-ops](https://github.com/daymade/claude-code-skills/tree/main/github-ops) | Provides comprehensive GitHub operations using gh CLI and GitHub API. Activates when working with pull requests, issu... | None | daymade | github-ops |
+| [llm-icon-finder](https://github.com/daymade/claude-code-skills/tree/main/llm-icon-finder) | Finding and accessing AI/LLM model brand icons from lobe-icons library. Use when users need icon URLs, want to downlo... | None | daymade | llm-icon-finder |
+| [markdown-tools](https://github.com/daymade/claude-code-skills/tree/main/markdown-tools) | Converts documents to markdown (PDFs, Word docs, PowerPoint, Confluence exports) with Windows/WSL path handling. Acti... | None | daymade | markdown-tools |
+| [mermaid-tools](https://github.com/daymade/claude-code-skills/tree/main/mermaid-tools) | Extracts Mermaid diagrams from markdown files and generates high-quality PNG images using bundled scripts. Activates ... | None | daymade | mermaid-tools |
+| [ppt-creator](https://github.com/daymade/claude-code-skills/tree/main/ppt-creator) | Create professional slide decks from topics or documents. Generates structured content with data-driven charts, speak... | None | daymade | ppt-creator |
+| [prompt-optimizer](https://github.com/daymade/claude-code-skills/tree/main/prompt-optimizer) | Transform vague prompts into precise, well-structured specifications using EARS (Easy Approach to Requirements Syntax... | None | daymade | prompt-optimizer |
+| [promptfoo-evaluation](https://github.com/daymade/claude-code-skills/tree/main/promptfoo-evaluation) | Configures and runs LLM evaluation using Promptfoo framework. Use when setting up prompt testing, creating evaluation... | None | daymade | promptfoo-evaluation |
+| [repomix-safe-mixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-safe-mixer) | Safely package codebases with repomix by automatically detecting and removing hardcoded credentials before packing. U... | None | daymade | repomix-safe-mixer |
+| [repomix-unmixer](https://github.com/daymade/claude-code-skills/tree/main/repomix-unmixer) | Extracts files from repomix-packed repositories, restoring original directory structures from XML/Markdown/JSON forma... | None | daymade | repomix-unmixer |
+| [skill-creator](https://github.com/daymade/claude-code-skills/tree/main/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an ex... | None | daymade | skill-creator |
+| [skills-search](https://github.com/daymade/claude-code-skills/tree/main/skills-search) | This skill should be used when users want to search, discover, install, or manage Claude Code skills from the CCPM re... | None | daymade | skills-search |
+| [statusline-generator](https://github.com/daymade/claude-code-skills/tree/main/statusline-generator) | Configures and customizes Claude Code statuslines with multi-line layouts, cost tracking via ccusage, git status indi... | None | daymade | statusline-generator |
+| [teams-channel-post-writer](https://github.com/daymade/claude-code-skills/tree/main/teams-channel-post-writer) | Creates educational Teams channel posts for internal knowledge sharing about Claude Code features, tools, and best pr... | None | daymade | teams-channel-post-writer |
+| [transcript-fixer](https://github.com/daymade/claude-code-skills/tree/main/transcript-fixer) | Corrects speech-to-text transcription errors in meeting notes, lectures, and interviews using dictionary rules and AI... | None | daymade | transcript-fixer |
+| [ui-designer](https://github.com/daymade/claude-code-skills/tree/main/ui-designer) | Extract design systems from reference UI images and generate implementation-ready UI design prompts. Use when users p... | None | daymade | ui-designer |
+| [video-comparer](https://github.com/daymade/claude-code-skills/tree/main/video-comparer) | This skill should be used when comparing two videos to analyze compression results or quality differences. Generates ... | None | daymade | video-comparer |
+| [youtube-downloader](https://github.com/daymade/claude-code-skills/tree/main/youtube-downloader) | Download YouTube videos and HLS streams (m3u8) from platforms like Mux, Vimeo, etc. using yt-dlp and ffmpeg. Use this... | None | daymade | youtube-downloader |
 
 ### claude-code-infrastructure-showcase
 
@@ -1016,6 +1051,12 @@ Last updated: 2025-12-27 11:07 UTC
 | [domain-name-brainstormer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/domain-name-brainstormer) | Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, ... | None | davila7 | domain-name-brainstormer |
 | [internal-comms](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to ... | None | davila7 | internal-comms |
 | [raffle-winner-picker](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/raffle-winner-picker) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, u... | None | davila7 | raffle-winner-picker |
+
+### claude-code-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [pdf-creator](https://github.com/daymade/claude-code-skills/tree/main/pdf-creator) | Create PDF documents from markdown with proper Chinese font support using weasyprint. This skill should be used when ... | None | daymade | pdf-creator |
 
 ### claude-code-plugins-plus
 
