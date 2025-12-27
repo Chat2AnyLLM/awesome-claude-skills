@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 638
+Total Skills: 666
 
-Last updated: 2025-12-27 00:45 UTC
+Last updated: 2025-12-27 01:00 UTC
 
 ## Contents
 
@@ -26,73 +26,100 @@ Last updated: 2025-12-27 00:45 UTC
 
 ## Development
 
+### awesome-claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologie... | None | ComposioHQ | artifacts-builder |
+| [brand-guidelines](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthrop... | None | ComposioHQ | brand-guidelines |
+| [canvas-design](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the us... | None | ComposioHQ | canvas-design |
+| [changelog-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator) | Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and ... | None | ComposioHQ | changelog-generator |
+| [competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) | Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, pro... | None | ComposioHQ | competitive-ads-extractor |
+| [developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis) | Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvemen... | None | ComposioHQ | developer-growth-analysis |
+| [docx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preserv... | None | ComposioHQ | docx |
+| [file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) | Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, sug... | None | ComposioHQ | file-organizer |
+| [image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer) | Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for ... | None | ComposioHQ | image-enhancer |
+| [invoice-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information,... | None | ComposioHQ | invoice-organizer |
+| [lead-research-assistant](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant) | Identifies high-quality leads for your product or service by analyzing your business, searching for target companies,... | None | ComposioHQ | lead-research-assistant |
+| [mcp-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external servi... | None | ComposioHQ | mcp-builder |
+| [meeting-insights-analyzer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer) | Analyzes meeting transcripts and recordings to uncover behavioral patterns, communication insights, and actionable fe... | None | ComposioHQ | meeting-insights-analyzer |
+| [pdf](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents... | None | ComposioHQ | pdf |
+| [pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Cre... | None | ComposioHQ | pptx |
+| [skill-creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an ex... | None | ComposioHQ | skill-creator |
+| [skill-share](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-share) | A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaborat... | None | ComposioHQ | skill-share |
+| [slack-gif-creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation... | None | ComposioHQ | slack-gif-creator |
+| [theme-factory](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc.... | None | ComposioHQ | theme-factory |
+| [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats ... | None | ComposioHQ | video-downloader |
+| [webapp-testing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functio... | None | ComposioHQ | webapp-testing |
+| [xlsx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and v... | None | ComposioHQ | xlsx |
+
 ### claude-skills
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [Angular Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/angular-architect) | Senior Angular architect specializing in Angular 17+ with standalone components, signals, and enterprise-grade applic... | None | Jeffallan | angular-architect |
-| [API Designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/api-designer) | Senior API architect with expertise in designing scalable, developer-friendly REST and GraphQL APIs with comprehensiv... | None | Jeffallan | api-designer |
-| [Architecture Designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/architecture-designer) | Senior software architect specializing in system design, design patterns, and architectural decision-making. | None | Jeffallan | architecture-designer |
+| [angular-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/angular-architect) | Use when building Angular 17+ applications with standalone components or signals. Invoke for enterprise apps, RxJS pa... | None | Jeffallan | angular-architect |
+| [api-designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/api-designer) | Use when designing REST or GraphQL APIs, creating OpenAPI specifications, or planning API architecture. Invoke for re... | None | Jeffallan | api-designer |
+| [architecture-designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/architecture-designer) | Use when designing new system architecture, reviewing existing designs, or making architectural decisions. Invoke for... | None | Jeffallan | architecture-designer |
 | [atlassian-mcp](https://github.com/Jeffallan/claude-skills/tree/main/skills/atlassian-mcp) | Use when querying Jira issues, searching Confluence pages, creating tickets, updating documentation, or integrating A... | None | Jeffallan | atlassian-mcp |
 | [chaos-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/chaos-engineer) | Use when designing chaos experiments, implementing failure injection frameworks, or conducting game day exercises. In... | None | Jeffallan | chaos-engineer |
-| [CLI Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/cli-developer) | Senior CLI developer with expertise in building intuitive, cross-platform command-line tools with excellent developer... | None | Jeffallan | cli-developer |
-| [Cloud Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/cloud-architect) | Senior cloud architect specializing in multi-cloud strategies, migration patterns, cost optimization, and cloud-nativ... | None | Jeffallan | cloud-architect |
-| [Code Documenter](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-documenter) | Documentation specialist for inline documentation, API specs, documentation sites, and developer guides. | None | Jeffallan | code-documenter |
-| [Code Reviewer](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-reviewer) | Senior engineer conducting thorough, constructive code reviews that improve quality and share knowledge. | None | Jeffallan | code-reviewer |
-| [C++ Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/cpp-pro) | Senior C++ developer with deep expertise in modern C++20/23, systems programming, high-performance computing, and zer... | None | Jeffallan | cpp-pro |
-| [C# Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/csharp-developer) | Senior C# developer with mastery of .NET 8+ and Microsoft ecosystem. Specializes in high-performance web APIs, cloud-... | None | Jeffallan | csharp-developer |
-| [Database Optimizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/database-optimizer) | Senior database optimizer with expertise in performance tuning, query optimization, and scalability across multiple d... | None | Jeffallan | database-optimizer |
-| [Debugging Wizard](https://github.com/Jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Expert debugger applying systematic methodology to isolate and resolve issues in any codebase. | None | Jeffallan | debugging-wizard |
-| [DevOps Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/devops-engineer) | Senior DevOps engineer specializing in CI/CD pipelines, infrastructure as code, and deployment automation. | None | Jeffallan | devops-engineer |
-| [Django Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/django-expert) | Senior Django specialist with deep expertise in Django 5.0, Django REST Framework, and production-grade web applicati... | None | Jeffallan | django-expert |
-| [.NET Core Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/dotnet-core-expert) | Senior .NET Core specialist with deep expertise in .NET 8, modern C#, minimal APIs, and cloud-native application deve... | None | Jeffallan | dotnet-core-expert |
-| [Embedded Systems Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/embedded-systems) | Senior embedded systems engineer with deep expertise in microcontroller programming, RTOS implementation, and hardwar... | None | Jeffallan | embedded-systems |
-| [FastAPI Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/fastapi-expert) | Senior FastAPI specialist with deep expertise in async Python, Pydantic V2, and production-grade API development. | None | Jeffallan | fastapi-expert |
-| [Feature Forge](https://github.com/Jeffallan/claude-skills/tree/main/skills/feature-forge) | Requirements specialist conducting structured workshops to define comprehensive feature specifications. | None | Jeffallan | feature-forge |
+| [cli-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/cli-developer) | Use when building CLI tools, implementing argument parsing, or adding interactive prompts. Invoke for CLI design, arg... | None | Jeffallan | cli-developer |
+| [cloud-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/cloud-architect) | Use when designing cloud architectures, planning migrations, or optimizing multi-cloud deployments. Invoke for Well-A... | None | Jeffallan | cloud-architect |
+| [code-documenter](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-documenter) | Use when adding docstrings, creating API documentation, or building documentation sites. Invoke for OpenAPI/Swagger s... | None | Jeffallan | code-documenter |
+| [code-reviewer](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-reviewer) | Use when reviewing pull requests, conducting code quality audits, or identifying security vulnerabilities. Invoke for... | None | Jeffallan | code-reviewer |
+| [cpp-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/cpp-pro) | Use when building C++ applications requiring modern C++20/23 features, template metaprogramming, or high-performance ... | None | Jeffallan | cpp-pro |
+| [csharp-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/csharp-developer) | Use when building C# applications with .NET 8+, ASP.NET Core APIs, or Blazor web apps. Invoke for Entity Framework Co... | None | Jeffallan | csharp-developer |
+| [database-optimizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/database-optimizer) | Use when investigating slow queries, analyzing execution plans, or optimizing database performance. Invoke for index ... | None | Jeffallan | database-optimizer |
+| [debugging-wizard](https://github.com/Jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Use when investigating errors, analyzing stack traces, or finding root causes of unexpected behavior. Invoke for erro... | None | Jeffallan | debugging-wizard |
+| [devops-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/devops-engineer) | Use when setting up CI/CD pipelines, containerizing applications, or managing infrastructure as code. Invoke for pipe... | None | Jeffallan | devops-engineer |
+| [django-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/django-expert) | Use when building Django web applications or REST APIs with Django REST Framework. Invoke for Django models, ORM opti... | None | Jeffallan | django-expert |
+| [dotnet-core-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/dotnet-core-expert) | Use when building .NET 8 applications with minimal APIs, clean architecture, or cloud-native microservices. Invoke fo... | None | Jeffallan | dotnet-core-expert |
+| [embedded-systems](https://github.com/Jeffallan/claude-skills/tree/main/skills/embedded-systems) | Use when developing firmware for microcontrollers, implementing RTOS applications, or optimizing power consumption. I... | None | Jeffallan | embedded-systems |
+| [fastapi-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/fastapi-expert) | Use when building high-performance async Python APIs with FastAPI and Pydantic V2. Invoke for async SQLAlchemy, JWT a... | None | Jeffallan | fastapi-expert |
+| [feature-forge](https://github.com/Jeffallan/claude-skills/tree/main/skills/feature-forge) | Use when defining new features, gathering requirements, or writing specifications. Invoke for feature definition, req... | None | Jeffallan | feature-forge |
 | [fine-tuning-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/fine-tuning-expert) | Use when fine-tuning LLMs, training custom models, or optimizing model performance for specific tasks. Invoke for par... | None | Jeffallan | fine-tuning-expert |
-| [Flutter Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/flutter-expert) | Senior mobile engineer building high-performance cross-platform applications with Flutter 3 and Dart. | None | Jeffallan | flutter-expert |
-| [Fullstack Guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/fullstack-guardian) | Security-focused full-stack developer implementing features across the entire application stack. | None | Jeffallan | fullstack-guardian |
+| [flutter-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/flutter-expert) | Use when building cross-platform applications with Flutter 3+ and Dart. Invoke for widget development, Riverpod/Bloc ... | None | Jeffallan | flutter-expert |
+| [fullstack-guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/fullstack-guardian) | Use when implementing features across frontend and backend, building APIs with UI, or creating end-to-end data flows.... | None | Jeffallan | fullstack-guardian |
 | [game-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/game-developer) | Use when building game systems, implementing Unity/Unreal features, or optimizing game performance. Invoke for Unity,... | None | Jeffallan | game-developer |
-| [Golang Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/golang-pro) | Senior Go developer with deep expertise in Go 1.21+, concurrent programming, and cloud-native microservices. Speciali... | None | Jeffallan | golang-pro |
-| [GraphQL Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/graphql-architect) | Senior GraphQL architect specializing in schema design and distributed graph architectures with deep expertise in Apo... | None | Jeffallan | graphql-architect |
-| [Java Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/java-architect) | Senior Java architect with deep expertise in enterprise-grade Spring Boot applications, microservices architecture, a... | None | Jeffallan | java-architect |
-| [JavaScript Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/javascript-pro) | Senior JavaScript developer with 10+ years mastering modern ES2023+ features, asynchronous patterns, and full-stack J... | None | Jeffallan | javascript-pro |
-| [Kotlin Specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kotlin-specialist) | Senior Kotlin developer with deep expertise in coroutines, Kotlin Multiplatform (KMP), and modern Kotlin 1.9+ patterns. | None | Jeffallan | kotlin-specialist |
-| [Kubernetes Specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kubernetes-specialist) | Senior Kubernetes specialist with deep expertise in production cluster management, security hardening, and cloud-nati... | None | Jeffallan | kubernetes-specialist |
-| [Laravel Specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/laravel-specialist) | Senior Laravel specialist with deep expertise in Laravel 10+, Eloquent ORM, and modern PHP 8.2+ development. | None | Jeffallan | laravel-specialist |
-| [Legacy Modernizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Senior legacy modernization specialist with expertise in transforming aging systems into modern architectures without... | None | Jeffallan | legacy-modernizer |
-| [MCP Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/mcp-developer) | Senior MCP (Model Context Protocol) developer with deep expertise in building servers and clients that connect AI sys... | None | Jeffallan | mcp-developer |
-| [Microservices Architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/microservices-architect) | Senior distributed systems architect specializing in cloud-native microservices architectures, resilience patterns, a... | None | Jeffallan | microservices-architect |
+| [golang-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/golang-pro) | Use when building Go applications requiring concurrent programming, microservices architecture, or high-performance s... | None | Jeffallan | golang-pro |
+| [graphql-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/graphql-architect) | Use when designing GraphQL schemas, implementing Apollo Federation, or building real-time subscriptions. Invoke for s... | None | Jeffallan | graphql-architect |
+| [java-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/java-architect) | Use when building enterprise Java applications with Spring Boot 3.x, microservices, or reactive programming. Invoke f... | None | Jeffallan | java-architect |
+| [javascript-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/javascript-pro) | Use when building JavaScript applications with modern ES2023+ features, async patterns, or Node.js development. Invok... | None | Jeffallan | javascript-pro |
+| [kotlin-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kotlin-specialist) | Use when building Kotlin applications requiring coroutines, multiplatform development, or Android with Compose. Invok... | None | Jeffallan | kotlin-specialist |
+| [kubernetes-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kubernetes-specialist) | Use when deploying or managing Kubernetes workloads requiring cluster configuration, security hardening, or troublesh... | None | Jeffallan | kubernetes-specialist |
+| [laravel-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/laravel-specialist) | Use when building Laravel 10+ applications requiring Eloquent ORM, API resources, or queue systems. Invoke for Larave... | None | Jeffallan | laravel-specialist |
+| [legacy-modernizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Use when modernizing legacy systems, implementing incremental migration strategies, or reducing technical debt. Invok... | None | Jeffallan | legacy-modernizer |
+| [mcp-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/mcp-developer) | Use when building MCP servers or clients that connect AI systems with external tools and data sources. Invoke for MCP... | None | Jeffallan | mcp-developer |
+| [microservices-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/microservices-architect) | Use when designing distributed systems, decomposing monoliths, or implementing microservices patterns. Invoke for ser... | None | Jeffallan | microservices-architect |
 | [ml-pipeline](https://github.com/Jeffallan/claude-skills/tree/main/skills/ml-pipeline) | Use when building ML pipelines, orchestrating training workflows, automating model lifecycle, implementing feature st... | None | Jeffallan | ml-pipeline |
-| [Monitoring Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/monitoring-expert) | Observability and performance specialist implementing comprehensive monitoring, alerting, tracing, and performance te... | None | Jeffallan | monitoring-expert |
-| [NestJS Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/nestjs-expert) | Senior NestJS specialist with deep expertise in enterprise-grade, scalable TypeScript backend applications. | None | Jeffallan | nestjs-expert |
-| [Next.js Developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/nextjs-developer) | Senior Next.js developer with expertise in Next.js 14+ App Router, server components, and full-stack deployment with ... | None | Jeffallan | nextjs-developer |
+| [monitoring-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/monitoring-expert) | Use when setting up monitoring systems, logging, metrics, tracing, or alerting. Invoke for dashboards, Prometheus/Gra... | None | Jeffallan | monitoring-expert |
+| [nestjs-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/nestjs-expert) | Use when building NestJS applications requiring modular architecture, dependency injection, or TypeScript backend dev... | None | Jeffallan | nestjs-expert |
+| [nextjs-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/nextjs-developer) | Use when building Next.js 14+ applications with App Router, server components, or server actions. Invoke for full-sta... | None | Jeffallan | nextjs-developer |
 | [pandas-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/pandas-pro) | Use when working with pandas DataFrames, data cleaning, aggregation, merging, or time series analysis. Invoke for dat... | None | Jeffallan | pandas-pro |
-| [PHP Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/php-pro) | Senior PHP developer with deep expertise in PHP 8.3+, Laravel, Symfony, and modern PHP patterns with strict typing an... | None | Jeffallan | php-pro |
-| [Playwright Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/playwright-expert) | Senior E2E testing specialist with deep expertise in Playwright for robust, maintainable browser automation. | None | Jeffallan | playwright-expert |
-| [PostgreSQL Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/postgres-pro) | Senior PostgreSQL expert with deep expertise in database administration, performance optimization, and advanced Postg... | None | Jeffallan | postgres-pro |
+| [php-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/php-pro) | Use when building PHP applications with modern PHP 8.3+ features, Laravel, or Symfony frameworks. Invoke for strict t... | None | Jeffallan | php-pro |
+| [playwright-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/playwright-expert) | Use when writing E2E tests with Playwright, setting up test infrastructure, or debugging flaky browser tests. Invoke ... | None | Jeffallan | playwright-expert |
+| [postgres-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/postgres-pro) | Use when optimizing PostgreSQL queries, configuring replication, or implementing advanced database features. Invoke f... | None | Jeffallan | postgres-pro |
 | [prompt-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/prompt-engineer) | Use when designing prompts for LLMs, optimizing model performance, building evaluation frameworks, or implementing ad... | None | Jeffallan | prompt-engineer |
-| [Python Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/python-pro) | Senior Python developer with 10+ years experience specializing in type-safe, async-first, production-ready Python 3.1... | None | Jeffallan | python-pro |
+| [python-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/python-pro) | Use when building Python 3.11+ applications requiring type safety, async programming, or production-grade patterns. I... | None | Jeffallan | python-pro |
 | [rag-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/rag-architect) | Use when building RAG systems, vector databases, or knowledge-grounded AI applications requiring semantic search, doc... | None | Jeffallan | rag-architect |
-| [Rails Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/rails-expert) | Senior Rails specialist with deep expertise in Rails 7+, Hotwire, and modern Ruby web development patterns. | None | Jeffallan | rails-expert |
-| [React Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/react-expert) | Senior React specialist with deep expertise in React 19, Server Components, and production-grade application architec... | None | Jeffallan | react-expert |
-| [React Native Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/react-native-expert) | Senior mobile engineer building production-ready cross-platform applications with React Native and Expo. | None | Jeffallan | react-native-expert |
-| [Rust Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/rust-engineer) | Senior Rust engineer with deep expertise in Rust 2021 edition, systems programming, memory safety, and zero-cost abst... | None | Jeffallan | rust-engineer |
+| [rails-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/rails-expert) | Use when building Rails 7+ web applications with Hotwire, real-time features, or background job processing. Invoke fo... | None | Jeffallan | rails-expert |
+| [react-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/react-expert) | Use when building React 18+ applications requiring component architecture, hooks patterns, or state management. Invok... | None | Jeffallan | react-expert |
+| [react-native-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/react-native-expert) | Use when building cross-platform mobile applications with React Native or Expo. Invoke for navigation patterns, platf... | None | Jeffallan | react-native-expert |
+| [rust-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/rust-engineer) | Use when building Rust applications requiring memory safety, systems programming, or zero-cost abstractions. Invoke f... | None | Jeffallan | rust-engineer |
 | [salesforce-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/salesforce-developer) | Use when developing Salesforce applications, Apex code, Lightning Web Components, SOQL queries, triggers, integration... | None | Jeffallan | salesforce-developer |
-| [Secure Code Guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Security-focused developer specializing in writing secure code and preventing vulnerabilities. | None | Jeffallan | secure-code-guardian |
-| [Security Reviewer](https://github.com/Jeffallan/claude-skills/tree/main/skills/security-reviewer) | Security analyst specializing in code review, vulnerability identification, penetration testing, and infrastructure s... | None | Jeffallan | security-reviewer |
+| [secure-code-guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Use when implementing authentication/authorization, securing user input, or preventing OWASP Top 10 vulnerabilities. ... | None | Jeffallan | secure-code-guardian |
+| [security-reviewer](https://github.com/Jeffallan/claude-skills/tree/main/skills/security-reviewer) | Use when conducting security audits, reviewing code for vulnerabilities, or analyzing infrastructure security. Invoke... | None | Jeffallan | security-reviewer |
 | [shopify-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/shopify-expert) | Use when building Shopify themes, apps, custom storefronts, or e-commerce solutions. Invoke for Liquid templating, St... | None | Jeffallan | shopify-expert |
 | [spark-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/spark-engineer) | Use when building Apache Spark applications, distributed data processing pipelines, or optimizing big data workloads.... | None | Jeffallan | spark-engineer |
-| [Spec Miner](https://github.com/Jeffallan/claude-skills/tree/main/skills/spec-miner) | Reverse-engineering specialist who extracts specifications from existing codebases. | None | Jeffallan | spec-miner |
-| [Spring Boot Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/spring-boot-engineer) | Senior Spring Boot engineer with expertise in Spring Boot 3+, cloud-native Java development, and enterprise microserv... | None | Jeffallan | spring-boot-engineer |
-| [SQL Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/sql-pro) | Senior SQL developer with mastery across major database systems, specializing in complex query design, performance op... | None | Jeffallan | sql-pro |
-| [SRE Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/sre-engineer) | Senior Site Reliability Engineer with expertise in building highly reliable, scalable systems through SLI/SLO managem... | None | Jeffallan | sre-engineer |
-| [Swift Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/swift-expert) | Senior Swift developer with mastery of Swift 5.9+, Apple's development ecosystem, SwiftUI, async/await concurrency, a... | None | Jeffallan | swift-expert |
-| [Terraform Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/terraform-engineer) | Senior Terraform engineer specializing in infrastructure as code across AWS, Azure, and GCP with expertise in modular... | None | Jeffallan | terraform-engineer |
-| [Test Master](https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master) | Comprehensive testing specialist ensuring software quality through functional, performance, and security testing. | None | Jeffallan | test-master |
-| [TypeScript Pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/typescript-pro) | Senior TypeScript specialist with deep expertise in advanced type systems, full-stack type safety, and production-gra... | None | Jeffallan | typescript-pro |
-| [Vue Expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/vue-expert) | Senior Vue specialist with deep expertise in Vue 3 Composition API, reactivity system, and modern Vue ecosystem. | None | Jeffallan | vue-expert |
-| [WebSocket Engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/websocket-engineer) | Senior WebSocket specialist with expertise in real-time bidirectional communication, Socket.IO, and scalable messagin... | None | Jeffallan | websocket-engineer |
+| [spec-miner](https://github.com/Jeffallan/claude-skills/tree/main/skills/spec-miner) | Use when understanding legacy or undocumented systems, creating documentation for existing code, or extracting specif... | None | Jeffallan | spec-miner |
+| [spring-boot-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/spring-boot-engineer) | Use when building Spring Boot 3.x applications, microservices, or reactive Java applications. Invoke for Spring Data ... | None | Jeffallan | spring-boot-engineer |
+| [sql-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/sql-pro) | Use when optimizing SQL queries, designing database schemas, or tuning database performance. Invoke for complex queri... | None | Jeffallan | sql-pro |
+| [sre-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/sre-engineer) | Use when defining SLIs/SLOs, managing error budgets, or building reliable systems at scale. Invoke for incident manag... | None | Jeffallan | sre-engineer |
+| [swift-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/swift-expert) | Use when building iOS/macOS applications with Swift 5.9+, SwiftUI, or async/await concurrency. Invoke for protocol-or... | None | Jeffallan | swift-expert |
+| [terraform-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/terraform-engineer) | Use when implementing infrastructure as code with Terraform across AWS, Azure, or GCP. Invoke for module development,... | None | Jeffallan | terraform-engineer |
+| [test-master](https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master) | Use when writing tests, creating test strategies, or building automation frameworks. Invoke for unit tests, integrati... | None | Jeffallan | test-master |
+| [typescript-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/typescript-pro) | Use when building TypeScript applications requiring advanced type systems, generics, or full-stack type safety. Invok... | None | Jeffallan | typescript-pro |
+| [vue-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/vue-expert) | Use when building Vue 3 applications with Composition API, creating reusable composables, or implementing Nuxt 3 proj... | None | Jeffallan | vue-expert |
+| [websocket-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/websocket-engineer) | Use when building real-time communication systems with WebSockets or Socket.IO. Invoke for bidirectional messaging, h... | None | Jeffallan | websocket-engineer |
 | [wordpress-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/wordpress-pro) | Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or op... | None | Jeffallan | wordpress-pro |
 
 ### claude-scientific-skills
@@ -236,6 +263,12 @@ Last updated: 2025-12-27 00:45 UTC
 | [xlsx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/xlsx) | Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualization, recalculate form... | None | K-Dense-AI | xlsx |
 | [zarr-python](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/zarr-python) | Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS integration, NumPy/Dask/Xarray compatib... | None | K-Dense-AI | zarr-python |
 | [zinc-database](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/zinc-database) | Access ZINC (230M+ purchasable compounds). Search by ZINC ID/SMILES, similarity searches, 3D-ready structures for doc... | None | K-Dense-AI | zinc-database |
+
+### notebooklm-skill
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [notebooklm](https://github.com/PleasePrompto/notebooklm-skill/tree/master/.) | Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-back... | None | PleasePrompto | notebooklm-skill |
 
 ### claude-code
 
@@ -703,6 +736,15 @@ Last updated: 2025-12-27 00:45 UTC
 
 ## Development Workflow
 
+### awesome-claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) | Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outli... | None | ComposioHQ | content-research-writer |
+| [domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer) | Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, ... | None | ComposioHQ | domain-name-brainstormer |
+| [internal-comms](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to ... | None | ComposioHQ | internal-comms |
+| [raffle-winner-picker](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, u... | None | ComposioHQ | raffle-winner-picker |
+
 ### skills
 
 | Skill | Description | Version | Author | Directory |
@@ -729,6 +771,12 @@ Last updated: 2025-12-27 00:45 UTC
 
 
 ## Tools & Utilities
+
+### awesome-claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | None | ComposioHQ | template-skill |
 
 ### skills
 

@@ -115,6 +115,28 @@ class Fetcher:
         logger.info("Fetched %d skill repositories from %s", len(repos), url)
         return repos
 
+    def _get_default_branch(self, repo_url: str) -> str:
+        """Get the default branch of a repository using git ls-remote."""
+        try:
+            logger.debug(f"Detecting default branch for {repo_url}")
+            result = subprocess.run(
+                ["git", "ls-remote", "--symref", repo_url, "HEAD"],
+                capture_output=True,
+                text=True,
+                timeout=30
+            )
+            if result.returncode == 0:
+                for line in result.stdout.split('\n'):
+                    if line.startswith("ref: refs/heads/"):
+                        # Output format: "ref: refs/heads/main  HEAD"
+                        parts = line.split('\t')
+                        if len(parts) > 0:
+                            return parts[0].replace("ref: refs/heads/", "").strip()
+        except Exception as e:
+            logger.warning(f"Failed to detect default branch for {repo_url}: {e}")
+
+        return "main"
+
     def clone_and_scan_repository(self, repo_owner: str, repo_name: str, repo_branch: str = "main", skills_path: Optional[str] = None) -> List[Dict[str, Any]]:
         """Clone a repository and scan for SKILL.md files to extract skills."""
         skills = []
@@ -124,8 +146,15 @@ class Fetcher:
             temp_path = Path(temp_dir)
             repo_url = f"https://github.com/{repo_owner}/{repo_name}.git"
 
+            # If branch is default "main", try to detect actual default branch
+            if repo_branch == "main":
+                detected_branch = self._get_default_branch(repo_url)
+                if detected_branch != "main":
+                    logger.info(f"Detected non-main default branch '{detected_branch}' for {repo_owner}/{repo_name}")
+                    repo_branch = detected_branch
+
             try:
-                logger.info(f"Cloning repository: {repo_owner}/{repo_name}")
+                logger.info(f"Cloning repository: {repo_owner}/{repo_name} (branch: {repo_branch})")
 
                 # Clone the repository
                 result = subprocess.run(
@@ -136,8 +165,20 @@ class Fetcher:
                 )
 
                 if result.returncode != 0:
-                    logger.error(f"Failed to clone {repo_url}: {result.stderr}")
-                    return skills
+                    # If cloning the detected/specified branch failed and it wasn't 'main',
+                    # try one last fallback to 'main' just in case
+                    if repo_branch != "main":
+                        logger.warning(f"Failed to clone branch {repo_branch}, falling back to main")
+                        result = subprocess.run(
+                            ["git", "clone", "--depth", "1", "--branch", "main", repo_url, str(temp_path / "repo")],
+                            capture_output=True,
+                            text=True,
+                            timeout=300
+                        )
+
+                    if result.returncode != 0:
+                        logger.error(f"Failed to clone {repo_url}: {result.stderr}")
+                        return skills
 
                 repo_path = temp_path / "repo"
 
@@ -217,12 +258,31 @@ class Fetcher:
                 try:
                     parts = content.split("---", 2)
                     if len(parts) >= 3:
-                        frontmatter = yaml.safe_load(parts[1])
+                        frontmatter_str = parts[1]
+                        try:
+                            frontmatter = yaml.safe_load(frontmatter_str)
+                        except yaml.YAMLError as e:
+                            logger.info(f"Retrying YAML parse for {skill_md_path} with robust cleaning")
+                            # Fallback for unquoted colons in values
+                            fixed_lines = []
+                            for line in frontmatter_str.split('\n'):
+                                if ':' in line and not line.strip().startswith('#'):
+                                    key, val = line.split(':', 1)
+                                    val = val.strip()
+                                    # If value contains colon and is not quoted, wrap it
+                                    if ':' in val and not (val.startswith('"') or val.startswith("'")):
+                                        val = f'"{val}"'
+                                    fixed_lines.append(f"{key}: {val}")
+                                else:
+                                    fixed_lines.append(line)
+
+                            frontmatter = yaml.safe_load('\n'.join(fixed_lines))
+
                         if frontmatter and isinstance(frontmatter, dict):
                             skill_data.update(frontmatter)
                             # Remove frontmatter from content for further processing
                             content = parts[2]
-                except yaml.YAMLError as e:
+                except Exception as e:
                     logger.warning(f"Failed to parse YAML frontmatter in {skill_md_path}: {e}")
 
             # Extract name from first header if not in frontmatter
