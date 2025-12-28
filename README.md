@@ -2,19 +2,22 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1125
+Total Skills: 1240
 
-Last updated: 2025-12-28 10:09 UTC
+Last updated: 2025-12-28 11:08 UTC
 
 ## Contents
 
 - [Bioinformatics_genomics](#bioinformaticsgenomics)
 - [Category](#category)
+- [Content & Writing](#content--writing)
+- [Data & Analytics](#data--analytics)
 - [Development](#development)
 - [Development Workflow](#development-workflow)
 - [ModuleNotFound](#modulenotfound)
 - [Security](#security)
 - [Tools & Utilities](#tools--utilities)
+- [[Marketing channels]](#marketing-channels)
 - [agent-workflow](#agent-workflow)
 - [analysis-methods](#analysis-methods)
 - [architectural-pattern](#architectural-pattern)
@@ -82,6 +85,37 @@ Last updated: 2025-12-28 10:09 UTC
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [instructor](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/instructor) | Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse co... | 1.0.0 | zechenzhangAGI | instructor |
+
+
+## Content & Writing
+
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [competitor-content-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/competitor-content-analyzer) | Track competitor blog posts, whitepapers, and content strategy. Identify content gaps in your strategy. | None | OneWave-AI | competitor-content-analyzer |
+| [content-repurposer](https://github.com/OneWave-AI/claude-skills/tree/main/content-repurposer) | Master skill that transforms ANY content into 8+ formats: slides, infographic, video script, podcast, social posts, e... | None | OneWave-AI | content-repurposer |
+| [conversation-archaeologist](https://github.com/OneWave-AI/claude-skills/tree/main/conversation-archaeologist) | Mine ALL past Claude conversations to build a living 'User Manual About You'. Extract writing style, business context... | None | OneWave-AI | conversation-archaeologist |
+| [game-recap-generator](https://github.com/OneWave-AI/claude-skills/tree/main/game-recap-generator) | Convert game stats and highlights into engaging recaps. Multiple styles: Twitter thread, Instagram carousel, blog pos... | None | OneWave-AI | game-recap-generator |
+| [podcast-studio](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-studio) | Generate podcast scripts from text content. Use Tone.js and Howler.js for audio mixing. Create intro/outro music, tra... | None | OneWave-AI | podcast-studio |
+| [sports-trivia-builder](https://github.com/OneWave-AI/claude-skills/tree/main/sports-trivia-builder) | Generate sports trivia questions by sport/era/difficulty. Multiple formats with obscure stats, fun facts, pub quiz re... | None | OneWave-AI | sports-trivia-builder |
+
+
+## Data & Analytics
+
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [bracket-predictor](https://github.com/OneWave-AI/claude-skills/tree/main/bracket-predictor) | March Madness, playoff brackets, tournament picks. Upset potential, chalk vs contrarian strategies, historical trends... | None | OneWave-AI | bracket-predictor |
+| [debate-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/debate-simulator) | Spin up 2-3 expert personas to debate any topic from different angles. Structure: Opening statements, rebuttals, cros... | None | OneWave-AI | debate-simulator |
+| [expert-panel](https://github.com/OneWave-AI/claude-skills/tree/main/expert-panel) | Assemble 2-3 complementary experts to collaboratively analyze anything. Experts work together to explore topics from ... | None | OneWave-AI | expert-panel |
+| [fantasy-lineup-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/fantasy-lineup-optimizer) | Analyze matchups, injuries, weather, Vegas lines. Recommend sit/start decisions with confidence levels for NFL, NBA, ... | None | OneWave-AI | fantasy-lineup-optimizer |
+| [financial-goal-planner](https://github.com/OneWave-AI/claude-skills/tree/main/financial-goal-planner) | Create timelines for house down payment, retirement, college fund. Monthly savings targets, investment strategies, mi... | None | OneWave-AI | financial-goal-planner |
+| [objection-pattern-detector](https://github.com/OneWave-AI/claude-skills/tree/main/objection-pattern-detector) | Mine lost deal notes to identify recurring objection patterns. Create objection response playbooks from won deals. | None | OneWave-AI | objection-pattern-detector |
+| [play-by-play-generator](https://github.com/OneWave-AI/claude-skills/tree/main/play-by-play-generator) | Create realistic play-by-play commentary. Multiple announcer styles: traditional, hyped, analytical, homer. Color com... | None | OneWave-AI | play-by-play-generator |
+| [prospect-research-compiler](https://github.com/OneWave-AI/claude-skills/tree/main/prospect-research-compiler) | Aggregate prospect intelligence from multiple sources including news, social media, company websites, and financial d... | None | OneWave-AI | prospect-research-compiler |
+| [trash-talk-generator](https://github.com/OneWave-AI/claude-skills/tree/main/trash-talk-generator) | Create clever, non-offensive trash talk. Rivalry-specific references, historical callbacks, memes. Fun, not mean. | None | OneWave-AI | trash-talk-generator |
 
 
 ## Development
@@ -343,6 +377,66 @@ Last updated: 2025-12-28 10:09 UTC
 | --- | --- | --- | --- | --- |
 | [microsoft-code-reference](https://github.com/MicrosoftDocs/mcp/tree/main/skills/microsoft-code-reference) | Look up Microsoft API references, find working code samples, and verify SDK code is correct. Use when working with Az... | None | MicrosoftDocs | microsoft-code-reference |
 | [microsoft-docs](https://github.com/MicrosoftDocs/mcp/tree/main/skills/microsoft-docs) | Query official Microsoft documentation to understand concepts, find tutorials, and learn how services work. Use for A... | None | MicrosoftDocs | microsoft-docs |
+
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [algorithmic-art](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/algorithmic-art) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when user... | None | OneWave-AI | algorithmic-art |
+| [api-documentation-writer](https://github.com/OneWave-AI/claude-skills/tree/main/api-documentation-writer) | Generate comprehensive API documentation including endpoint descriptions, request/response examples, authentication g... | None | OneWave-AI | api-documentation-writer |
+| [artifacts-builder](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologie... | None | OneWave-AI | artifacts-builder |
+| [athlete-social-media-manager](https://github.com/OneWave-AI/claude-skills/tree/main/athlete-social-media-manager) | Create brand-safe content for athletes. Personal branding strategy, engagement optimization, crisis communication, sp... | None | OneWave-AI | athlete-social-media-manager |
+| [brand-guidelines](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthrop... | None | OneWave-AI | brand-guidelines |
+| [canvas-design](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the us... | None | OneWave-AI | canvas-design |
+| [champion-identifier](https://github.com/OneWave-AI/claude-skills/tree/main/champion-identifier) | Analyze LinkedIn profiles in target accounts to identify potential internal champions. Evaluates role, career path, m... | None | OneWave-AI | champion-identifier |
+| [code-review-pro](https://github.com/OneWave-AI/claude-skills/tree/main/code-review-pro) | Comprehensive code review covering security vulnerabilities, performance bottlenecks, best practices, and refactoring... | None | OneWave-AI | code-review-pro |
+| [cold-email-sequence-generator](https://github.com/OneWave-AI/claude-skills/tree/main/cold-email-sequence-generator) | Generate personalized cold email sequences (7-14 emails) with A/B test subject lines, follow-up timing recommendation... | None | OneWave-AI | cold-email-sequence-generator |
+| [contact-hunter](https://github.com/OneWave-AI/claude-skills/tree/main/contact-hunter) | Search and extract contact information for people or companies including names, phone numbers, emails, job titles, an... | None | OneWave-AI | contact-hunter |
+| [contract-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/contract-analyzer) | Review contracts for concerning clauses, extract key terms, compare to standard terms, and flag unusual provisions. U... | None | OneWave-AI | contract-analyzer |
+| [csv-excel-merger](https://github.com/OneWave-AI/claude-skills/tree/main/csv-excel-merger) | Merge multiple CSV/Excel files with intelligent column matching, data deduplication, and conflict resolution. Handles... | None | OneWave-AI | csv-excel-merger |
+| [customer-review-aggregator](https://github.com/OneWave-AI/claude-skills/tree/main/customer-review-aggregator) | Aggregate and analyze customer reviews from G2, Capterra, Trustpilot, App Store, and other platforms. Performs sentim... | None | OneWave-AI | customer-review-aggregator |
+| [database-schema-designer](https://github.com/OneWave-AI/claude-skills/tree/main/database-schema-designer) | Design optimized database schemas for SQL and NoSQL databases including tables, relationships, indexes, and constrain... | None | OneWave-AI | database-schema-designer |
+| [docx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preserv... | None | OneWave-AI | docx |
+| [email-subject-line-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/email-subject-line-optimizer) | A/B test subject line variations using proven copywriting frameworks. Predict open rates based on historical performa... | None | OneWave-AI | email-subject-line-optimizer |
+| [email-template-generator](https://github.com/OneWave-AI/claude-skills/tree/main/email-template-generator) | Generate professional email templates for various business scenarios including sales outreach, customer support, inte... | None | OneWave-AI | email-template-generator |
+| [financial-document-parser](https://github.com/OneWave-AI/claude-skills/tree/main/financial-parser) | Extract and analyze data from invoices, receipts, bank statements, and financial documents. Categorize expenses, trac... | None | OneWave-AI | financial-parser |
+| [hypothesis-testing-engine](https://github.com/OneWave-AI/claude-skills/tree/main/hypothesis-testing-engine) | Take any claim and design + execute a complete research protocol to test it. Apply scientific method automatically: d... | None | OneWave-AI | hypothesis-testing-engine |
+| [inbound-lead-qualifier](https://github.com/OneWave-AI/claude-skills/tree/main/inbound-lead-qualifier) | Analyze inbound leads (form fills, demo requests) and score based on ICP fit, intent, and urgency. Auto-generates qua... | None | OneWave-AI | inbound-lead-qualifier |
+| [intent-signal-aggregator](https://github.com/OneWave-AI/claude-skills/tree/main/intent-signal-aggregator) | Monitor buyer intent signals across the web including job postings, tech changes, funding rounds, and leadership chan... | None | OneWave-AI | intent-signal-aggregator |
+| [itinerary-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/itinerary-optimizer) | Efficiently route multi-stop trips with time management. Include transportation, restaurant/activity reservations tim... | None | OneWave-AI | itinerary-optimizer |
+| [job-application-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/job-application-optimizer) | Optimize job applications by tailoring resumes to job postings, generating customized cover letters, and preparing ro... | None | OneWave-AI | job-application-optimizer |
+| [knowledge-base-builder](https://github.com/OneWave-AI/claude-skills/tree/main/knowledge-base-builder) | FAQ identification from support tickets, step-by-step tutorial creation, screenshot/video script guidance, search opt... | None | OneWave-AI | knowledge-base-builder |
+| [landing-page-copywriter](https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-copywriter) | Write high-converting landing page copy using proven frameworks like PAS (Problem-Agitate-Solution), AIDA, and StoryB... | None | OneWave-AI | landing-page-copywriter |
+| [linkedin-sales-navigator-alt](https://github.com/OneWave-AI/claude-skills/tree/main/linkedin-sales-navigator-alt) | Build targeted prospect lists by analyzing LinkedIn profiles, extracting job titles, companies, locations, and recent... | None | OneWave-AI | linkedin-sales-navigator-alt |
+| [mcp-builder](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external servi... | None | OneWave-AI | mcp-builder |
+| [pdf](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents... | None | OneWave-AI | pdf |
+| [personalization-at-scale](https://github.com/OneWave-AI/claude-skills/tree/main/personalization-at-scale) | Generate unique personalized first lines for hundreds of prospects using company news, LinkedIn activity, and mutual ... | None | OneWave-AI | personalization-at-scale |
+| [pipeline-health-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/pipeline-health-analyzer) | Analyze pipeline health, identify stalled deals, predict close probability, and suggest actions to move deals forward... | None | OneWave-AI | pipeline-health-analyzer |
+| [pptx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Cre... | None | OneWave-AI | pptx |
+| [reddit-thread-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/reddit-analyzer) | Analyze Reddit threads for sentiment, consensus opinions, top arguments, and discussion patterns. Use this when users... | None | OneWave-AI | reddit-analyzer |
+| [regex-visual-debugger](https://github.com/OneWave-AI/claude-skills/tree/main/regex-debugger) | Debug regex patterns with visual breakdowns, plain English explanations, test case generation, and flavor conversion.... | None | OneWave-AI | regex-debugger |
+| [rep-performance-scorecard](https://github.com/OneWave-AI/claude-skills/tree/main/rep-performance-scorecard) | Multi-dimensional rep evaluation: activity, conversion, velocity, deal size. Peer benchmarking and coaching priority ... | None | OneWave-AI | rep-performance-scorecard |
+| [sales-coaching-plan-generator](https://github.com/OneWave-AI/claude-skills/tree/main/sales-coaching-plan-generator) | Individualized development plans by weakness. Skill assessments, call reviews, ride-along checklists, certification t... | None | OneWave-AI | sales-coaching-plan-generator |
+| [sales-forecast-builder](https://github.com/OneWave-AI/claude-skills/tree/main/sales-forecast-builder) | Weighted pipeline forecast by probability. Historical accuracy tracking, commit vs best-case scenarios, deal slippage... | None | OneWave-AI | sales-forecast-builder |
+| [sales-methodology-implementer](https://github.com/OneWave-AI/claude-skills/tree/main/sales-methodology-implementer) | Implement proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. Generate framework-s... | None | OneWave-AI | sales-methodology-implementer |
+| [screenshot-to-code](https://github.com/OneWave-AI/claude-skills/tree/main/screenshot-to-code) | Convert UI screenshots into working HTML/CSS/React/Vue code. Detects design patterns, components, and generates respo... | None | OneWave-AI | screenshot-to-code |
+| [seo-content-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/seo-optimizer) | Optimize content for search engines with keyword analysis, readability scoring, meta descriptions, and competitor com... | None | OneWave-AI | seo-optimizer |
+| [skill-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an ex... | None | OneWave-AI | skill-creator |
+| [skill-navigator](https://github.com/OneWave-AI/claude-skills/tree/main/skill-navigator) | The 100th skill! Your intelligent guide to all 99 other skills. Recommends the perfect skill for any task, creates sk... | None | OneWave-AI | skill-navigator |
+| [slack-gif-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation... | None | OneWave-AI | slack-gif-creator |
+| [social-media-content-repurposer](https://github.com/OneWave-AI/claude-skills/tree/main/social-repurposer) | Convert content between platforms (blog to Twitter thread, article to LinkedIn post, etc.). Optimize for each platfor... | None | OneWave-AI | social-repurposer |
+| [social-selling-content-generator](https://github.com/OneWave-AI/claude-skills/tree/main/social-selling-content-generator) | Generate 30+ LinkedIn posts that attract your target prospects. Creates industry insights, thought leadership, engage... | None | OneWave-AI | social-selling-content-generator |
+| [sports-meme-creator](https://github.com/OneWave-AI/claude-skills/tree/main/sports-meme-creator) | Generate sport-specific memes from games/moments. Current event reactive content, popular templates, team/player insi... | None | OneWave-AI | sports-meme-creator |
+| [sports-podcast-outline-generator](https://github.com/OneWave-AI/claude-skills/tree/main/sports-podcast-outline-generator) | Create structured podcast episodes. Segment timing, debate points, hot takes, listener questions, ad break placement. | None | OneWave-AI | sports-podcast-outline-generator |
+| [tax-strategy-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/tax-strategy-optimizer) | Pre-tax vs Roth analysis, charitable giving optimization, capital gains timing, deduction maximization. Not a substit... | None | OneWave-AI | tax-strategy-optimizer |
+| [technical-writer](https://github.com/OneWave-AI/claude-skills/tree/main/technical-writer) | Write comprehensive technical documentation including user guides, how-to articles, system architecture docs, onboard... | None | OneWave-AI | technical-writer |
+| [theme-factory](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc.... | None | OneWave-AI | theme-factory |
+| [training-log-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/training-log-analyzer) | Track workouts, stats, progress over time. Identify improvement areas, plateaus, rest/recovery needs, peak performanc... | None | OneWave-AI | training-log-analyzer |
+| [weak-signal-synthesizer](https://github.com/OneWave-AI/claude-skills/tree/main/weak-signal-synthesizer) | Identify EMERGING trends by connecting dots across unrelated sources. Monitor niche communities, academic research, G... | None | OneWave-AI | weak-signal-synthesizer |
+| [webapp-testing](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functio... | None | OneWave-AI | webapp-testing |
+| [webinar-content-repurposer](https://github.com/OneWave-AI/claude-skills/tree/main/webinar-content-repurposer) | Transform webinar recordings into multiple content assets including blog post series, social media snippets, infograp... | None | OneWave-AI | webinar-content-repurposer |
+| [workout-program-designer](https://github.com/OneWave-AI/claude-skills/tree/main/workout-program-designer) | Custom training plans by goal (strength, cardio, flexibility). Progressive overload programming, rest day optimizatio... | None | OneWave-AI | workout-program-designer |
+| [xlsx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and v... | None | OneWave-AI | xlsx |
 
 ### notebooklm-skill
 
@@ -1222,6 +1316,42 @@ Last updated: 2025-12-28 10:09 UTC
 | [internal-comms](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to ... | None | ComposioHQ | internal-comms |
 | [raffle-winner-picker](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker) | Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, u... | None | ComposioHQ | raffle-winner-picker |
 
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [brand-consistency-checker](https://github.com/OneWave-AI/claude-skills/tree/main/brand-consistency-checker) | Scan documents and slides for off-brand colors, fonts, and logos. Validate against brand guidelines and suggest corre... | None | OneWave-AI | brand-consistency-checker |
+| [budget-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/budget-optimizer) | Analyze spending patterns and find savings. 50/30/20 rule, subscription audit, debt payoff strategies, emergency fund... | None | OneWave-AI | budget-optimizer |
+| [color-palette-extractor](https://github.com/OneWave-AI/claude-skills/tree/main/color-palette-extractor) | Extract color palettes from images, websites, or designs. Identifies dominant colors, generates complementary schemes... | None | OneWave-AI | color-palette-extractor |
+| [company-announcement-writer](https://github.com/OneWave-AI/claude-skills/tree/main/company-announcement-writer) | Executive communication style for all-hands emails. Balances transparency with appropriate messaging. | None | OneWave-AI | company-announcement-writer |
+| [cross-conversation-project-manager](https://github.com/OneWave-AI/claude-skills/tree/main/cross-conversation-project-manager) | Maintain project state across MULTIPLE conversations over days/weeks. Track tasks, decisions, blockers, resources. Au... | None | OneWave-AI | cross-conversation-project-manager |
+| [deal-review-framework](https://github.com/OneWave-AI/claude-skills/tree/main/deal-review-framework) | Structured deal assessment using MEDDIC, BANT. Risk scoring, required evidence by stage, red flag detection, coaching... | None | OneWave-AI | deal-review-framework |
+| [flashcard-generator](https://github.com/OneWave-AI/claude-skills/tree/main/flashcard-generator) | Extract key concepts from any content and create spaced-repetition flashcards. Multiple formats: Anki-compatible, pri... | None | OneWave-AI | flashcard-generator |
+| [font-pairing-suggester](https://github.com/OneWave-AI/claude-skills/tree/main/font-pairing-suggester) | Recommend font combinations for different use cases. Provide Google Fonts alternatives to premium fonts with hierarch... | None | OneWave-AI | font-pairing-suggester |
+| [game-builder](https://github.com/OneWave-AI/claude-skills/tree/main/game-builder) | Convert any topic into playable browser games. Types: trivia, matching, word puzzles, adventure games. Uses Phaser.js... | None | OneWave-AI | game-builder |
+| [internal-comms](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to ... | None | OneWave-AI | internal-comms |
+| [internal-email-composer](https://github.com/OneWave-AI/claude-skills/tree/main/internal-email-composer) | Casual but professional tone for team communication. Uses company-specific terminology with scannable format. | None | OneWave-AI | internal-email-composer |
+| [linkedin-post-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/linkedin-post-optimizer) | Professional narrative style with line breaks, hashtag strategy, and hooks in first 2 lines to avoid truncation | None | OneWave-AI | linkedin-post-optimizer |
+| [lookalike-customer-finder](https://github.com/OneWave-AI/claude-skills/tree/main/lookalike-customer-finder) | Input your best customers and find 100+ companies that match the profile. Uses firmographic data, tech stack, growth ... | None | OneWave-AI | lookalike-customer-finder |
+| [meeting-intelligence-system](https://github.com/OneWave-AI/claude-skills/tree/main/meeting-intelligence) | Analyze meeting transcripts to extract decisions, action items, blockers, sentiment, and generate follow-up emails. U... | None | OneWave-AI | meeting-intelligence |
+| [podcast-to-content-suite](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-content-suite) | Transform podcast transcripts into comprehensive content marketing suites including blog posts, social media content,... | None | OneWave-AI | podcast-content-suite |
+| [portfolio-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/portfolio-analyzer) | Review investment portfolios for risk, diversification, fees. Asset allocation recommendations, tax-loss harvesting, ... | None | OneWave-AI | portfolio-analyzer |
+| [practice-plan-creator](https://github.com/OneWave-AI/claude-skills/tree/main/practice-plan-creator) | Design sport-specific practice sessions. Drills by skill level and time, warm-up, skill work, scrimmage, cool-down. | None | OneWave-AI | practice-plan-creator |
+| [presentation-design-enhancer](https://github.com/OneWave-AI/claude-skills/tree/main/presentation-design-enhancer) | Transform text-heavy slides into visual storytelling. Suggest layout improvements, icon usage, and data visualization. | None | OneWave-AI | presentation-design-enhancer |
+| [quiz-maker](https://github.com/OneWave-AI/claude-skills/tree/main/quiz-maker) | Create multiple choice, true/false, fill-in-blank, matching quizzes. Auto-generate plausible distractors. Instant gra... | None | OneWave-AI | quiz-maker |
+| [quota-setting-calculator](https://github.com/OneWave-AI/claude-skills/tree/main/quota-setting-calculator) | Top-down vs bottom-up quota models. Historical attainment, market growth assumptions, ramp periods, territory complex... | None | OneWave-AI | quota-setting-calculator |
+| [sales-comp-plan-designer](https://github.com/OneWave-AI/claude-skills/tree/main/sales-comp-plan-designer) | Base/variable split recommendations, accelerators, decelerators, quota retirement methods, SPIFs, cost of sales track... | None | OneWave-AI | sales-comp-plan-designer |
+| [scouting-report-builder](https://github.com/OneWave-AI/claude-skills/tree/main/scouting-report-builder) | Generate player and team scouting reports. Strengths, weaknesses, tendencies, film breakdown, matchup advantages. | None | OneWave-AI | scouting-report-builder |
+| [seo-keyword-cluster-builder](https://github.com/OneWave-AI/claude-skills/tree/main/seo-keyword-cluster-builder) | Group related keywords into topic clusters. Create content hub architecture recommendations and internal linking stra... | None | OneWave-AI | seo-keyword-cluster-builder |
+| [skill-composer-studio](https://github.com/OneWave-AI/claude-skills/tree/main/skill-composer-studio) | CHAIN multiple existing skills into custom multi-step workflows. Programmable skill combinations with automatic hando... | None | OneWave-AI | skill-composer-studio |
+| [slack-message-formatter](https://github.com/OneWave-AI/claude-skills/tree/main/slack-message-formatter) | Convert long text into Slack-optimized format with emojis, bullets, code blocks, and threading suggestions | None | OneWave-AI | slack-message-formatter |
+| [sms-text-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/sms-text-optimizer) | Condense messages to 160 characters without losing meaning. Remove unnecessary words while keeping tone. | None | OneWave-AI | sms-text-optimizer |
+| [stock-photo-finder](https://github.com/OneWave-AI/claude-skills/tree/main/stock-photo-finder) | Search multiple free stock photo sites simultaneously. Filter by license type, orientation, and color scheme. | None | OneWave-AI | stock-photo-finder |
+| [team-chemistry-evaluator](https://github.com/OneWave-AI/claude-skills/tree/main/team-chemistry-evaluator) | Analyze roster fit and personality dynamics. Leadership assessment, role clarity, locker room culture, trade/signing ... | None | OneWave-AI | team-chemistry-evaluator |
+| [territory-planning-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/territory-planning-optimizer) | Account assignment by revenue potential, geography, relationship. Workload balancing, TAM/SAM calculation, coverage m... | None | OneWave-AI | territory-planning-optimizer |
+| [utm-parameter-generator](https://github.com/OneWave-AI/claude-skills/tree/main/utm-parameter-generator) | Create standardized UTM tracking for all campaigns. Ensure consistent naming conventions across team and generate tra... | None | OneWave-AI | utm-parameter-generator |
+| [webinar-to-content-multiplier](https://github.com/OneWave-AI/claude-skills/tree/main/webinar-to-content-multiplier) | Convert webinar recordings into blog posts, social snippets, email series. Extract key quotes, statistics, and soundb... | None | OneWave-AI | webinar-to-content-multiplier |
+
 ### skills
 
 | Skill | Description | Version | Author | Directory |
@@ -1279,6 +1409,24 @@ Last updated: 2025-12-28 10:09 UTC
 | --- | --- | --- | --- | --- |
 | [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | None | ComposioHQ | template-skill |
 
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [competitor-price-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/competitor-price-tracker) | Monitor competitor pricing pages and send alerts when prices change. Track discount patterns, promotional cycles, and... | None | OneWave-AI | competitor-price-tracker |
+| [deal-momentum-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/deal-momentum-analyzer) | Score deal velocity based on email response times, meeting frequency, and stakeholder engagement. Predict which deals... | None | OneWave-AI | deal-momentum-analyzer |
+| [game-strategy-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/game-strategy-simulator) | What-if scenario analyzer for sports. Play-calling recommendations, clock management, substitution patterns, risk/rew... | None | OneWave-AI | game-strategy-simulator |
+| [highlight-reel-scripter](https://github.com/OneWave-AI/claude-skills/tree/main/highlight-reel-scripter) | Create shot lists for highlight videos. Timestamp key plays, music cue suggestions, pacing. Platform-specific cuts fo... | None | OneWave-AI | highlight-reel-scripter |
+| [injury-report-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/injury-report-tracker) | Monitor injury news across leagues. Fantasy impact analysis, backup player analysis, return timeline estimates. | None | OneWave-AI | injury-report-tracker |
+| [mvp-case-builder](https://github.com/OneWave-AI/claude-skills/tree/main/mvp-case-builder) | Construct statistical arguments for MVP/awards. Narrative framing, comparison to past winners, advanced metrics, coun... | None | OneWave-AI | mvp-case-builder |
+| [player-comparison-tool](https://github.com/OneWave-AI/claude-skills/tree/main/player-comparison-tool) | Side-by-side stat comparisons with context. Adjust for era, pace of play, league differences. Advanced metrics explai... | None | OneWave-AI | player-comparison-tool |
+| [post-game-press-conference-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/post-game-press-conference-simulator) | Generate realistic coach/player interview responses for wins, losses, controversies, injuries. Authentic coachspeak a... | None | OneWave-AI | post-game-press-conference-simulator |
+| [raise-negotiation-prep](https://github.com/OneWave-AI/claude-skills/tree/main/raise-negotiation-prep) | Market salary research, accomplishment quantification, negotiation scripts, total compensation analysis, timing strat... | None | OneWave-AI | raise-negotiation-prep |
+| [ramping-rep-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/ramping-rep-tracker) | 30/60/90/120 day ramp milestones. Activity expectations by week, certification progress, early warning indicators. | None | OneWave-AI | ramping-rep-tracker |
+| [sales-call-prep-assistant](https://github.com/OneWave-AI/claude-skills/tree/main/sales-call-prep-assistant) | Generate pre-call research briefs with company news, stakeholder backgrounds, and custom discovery question sets. | None | OneWave-AI | sales-call-prep-assistant |
+| [sports-betting-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/sports-betting-analyzer) | Analyze spreads, over/unders, prop bets. Historical trends, situational stats, value bet identification. For entertai... | None | OneWave-AI | sports-betting-analyzer |
+| [template-skill](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/template-skill) | Replace with description of the skill and when Claude should use it. | None | OneWave-AI | template-skill |
+
 ### skills
 
 | Skill | Description | Version | Author | Directory |
@@ -1296,6 +1444,15 @@ Last updated: 2025-12-28 10:09 UTC
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | None | mrgoonie | template-skill |
+
+
+## [Marketing channels]
+
+### claude-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [executive-dashboard-generator](https://github.com/OneWave-AI/claude-skills/tree/main/executive-dashboard-generator) | Transform raw data from CSVs, Google Sheets, or databases into executive-ready reports with visualizations, key metri... | None | OneWave-AI | executive-dashboard-generator |
 
 
 ## agent-workflow
