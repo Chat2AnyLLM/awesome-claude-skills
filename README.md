@@ -2,13 +2,14 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1032
+Total Skills: 1125
 
-Last updated: 2025-12-28 09:47 UTC
+Last updated: 2025-12-28 10:09 UTC
 
 ## Contents
 
 - [Bioinformatics_genomics](#bioinformaticsgenomics)
+- [Category](#category)
 - [Development](#development)
 - [Development Workflow](#development-workflow)
 - [ModuleNotFound](#modulenotfound)
@@ -74,7 +75,29 @@ Last updated: 2025-12-28 09:47 UTC
 | [exploratory-data-analysis](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/exploratory-data-analysis) | Perform comprehensive exploratory data analysis on scientific data files across 200+ file formats. This skill should ... | None | davila7 | exploratory-data-analysis |
 
 
+## Category
+
+### AI-research-SKILLs
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [instructor](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/instructor) | Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse co... | 1.0.0 | zechenzhangAGI | instructor |
+
+
 ## Development
+
+### iothackbot
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [apktool](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/apktool) | Android APK unpacking and resource extraction tool for reverse engineering. Use when you need to decode APK files, ex... | None | BrownFineSecurity | apktool |
+| [chipsec](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/chipsec) | Static analysis of UEFI/BIOS firmware dumps using Intel's chipsec framework. Decode firmware structure, detect known ... | None | BrownFineSecurity | chipsec |
+| [jadx](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/jadx) | Android APK decompiler that converts DEX bytecode to readable Java source code. Use when you need to decompile APK fi... | None | BrownFineSecurity | jadx |
+| [nmap](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/nmap) | Professional network reconnaissance and port scanning using nmap. Supports various scan types (quick, full, UDP, stea... | None | BrownFineSecurity | nmap |
+| [onvifscan](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/onvifscan) | ONVIF device security scanner for testing authentication and brute-forcing credentials. Use when you need to assess s... | None | BrownFineSecurity | onvifscan |
+| [picocom](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/picocom) | Use picocom to interact with IoT device UART consoles for pentesting operations including device enumeration, vulnera... | None | BrownFineSecurity | picocom |
+| [telnetshell](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/telnetshell) | Use telnet to interact with IoT device shells for pentesting operations including device enumeration, vulnerability d... | None | BrownFineSecurity | telnetshell |
+| [wsdiscovery](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/wsdiscovery) | WS-Discovery protocol scanner for discovering and enumerating ONVIF cameras and IoT devices on the network. Use when ... | None | BrownFineSecurity | wsdiscovery |
 
 ### awesome-claude-skills
 
@@ -385,6 +408,18 @@ Last updated: 2025-12-28 09:47 UTC
 | [hex-docs-search](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/core/skills/hex-docs-search) | Research Hex packages (Sobelow, Phoenix, Ecto, Credo, Ash, etc). Use when investigating packages, understanding integ... | None | bradleygolden | hex-docs-search |
 | [usage-rules](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/core/skills/usage-rules) | Search for package-specific usage rules and best practices from Elixir packages. Use when you need coding conventions... | None | bradleygolden | usage-rules |
 | [workflow-generator](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/meta/skills/workflow-generator) | Generate project-specific workflow commands (research, plan, implement, qa) by asking questions about the project and... | None | bradleygolden | workflow-generator |
+
+### n8n-skills
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making ... | None | czlonkowski | n8n-code-javascript |
+| [n8n-code-python](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python) | Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with st... | None | czlonkowski | n8n-code-python |
+| [n8n-expression-syntax](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax) | Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing ... | None | czlonkowski | n8n-expression-syntax |
+| [n8n-mcp-tools-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert) | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, access... | None | czlonkowski | n8n-mcp-tools-expert |
+| [n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration) | Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determi... | None | czlonkowski | n8n-node-configuration |
+| [n8n-validation-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert) | Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, fals... | None | czlonkowski | n8n-validation-expert |
+| [n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) | Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow s... | None | czlonkowski | n8n-workflow-patterns |
 
 ### claude-code-templates
 
@@ -910,6 +945,12 @@ Last updated: 2025-12-28 09:47 UTC
 | [scanning-for-xss-vulnerabilities](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/xss-vulnerability-scanner/skills/xss-vulnerability-scanner) | This skill enables AI assistant to automatically scan for xss (cross-site scripting) vulnerabilities in code. it is t... | 1.0.0 | jeremylongshore | xss-vulnerability-scanner |
 | [yaml-master](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/002-jeremy-yaml-master-agent/skills/yaml-master) | Proactive YAML intelligence: automatically activates when working with YAML files. Use when appropriate context detec... | 1.0.0 | jeremylongshore | yaml-master |
 
+### playwright-skill
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [playwright-skill](https://github.com/lackeyjb/playwright-skill/tree/main/skills/playwright-skill) | Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages,... | None | lackeyjb | playwright-skill |
+
 ### claudekit-skills
 
 | Skill | Description | Version | Author | Directory |
@@ -1084,8 +1125,93 @@ Last updated: 2025-12-28 09:47 UTC
 | [web3-testing](https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/web3-testing) | Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forkin... | None | wshobson | web3-testing |
 | [workflow-orchestration-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/workflow-orchestration-patterns) | Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separation, saga patterns... | None | wshobson | workflow-orchestration-patterns |
 
+### AI-research-SKILLs
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [huggingface-accelerate](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/accelerate) | Simplest distributed training API. 4 lines to add distributed support to any PyTorch script. Unified API for DeepSpee... | 1.0.0 | zechenzhangAGI | accelerate |
+| [audiocraft-audio-generation](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/audiocraft) | PyTorch library for audio generation including text-to-music (MusicGen) and text-to-sound (AudioGen). Use when you ne... | 1.0.0 | zechenzhangAGI | audiocraft |
+| [autogpt-agents](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/autogpt) | Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, ... | 1.0.0 | zechenzhangAGI | autogpt |
+| [awq-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/awq) | Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accuracy loss. Use when de... | 1.0.0 | zechenzhangAGI | awq |
+| [axolotl](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/axolotl) | Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimo... | 1.0.0 | zechenzhangAGI | axolotl |
+| [evaluating-code-models](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/11-evaluation/bigcode-evaluation-harness) | Evaluates code generation models across HumanEval, MBPP, MultiPL-E, and 15+ benchmarks with pass@k metrics. Use when ... | 1.0.0 | zechenzhangAGI | bigcode-evaluation-harness |
+| [quantizing-models-bitsandbytes](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/bitsandbytes) | Quantizes LLMs to 8-bit or 4-bit for 50-75% memory reduction with minimal accuracy loss. Use when GPU memory is limit... | 1.0.0 | zechenzhangAGI | bitsandbytes |
+| [blip-2-vision-language](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/blip-2) | Vision-language pre-training framework bridging frozen image encoders and LLMs. Use when you need image captioning, v... | 1.0.0 | zechenzhangAGI | blip-2 |
+| [chroma](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/chroma) | Open-source embedding database for AI applications. Store embeddings and metadata, perform vector and full-text searc... | 1.0.0 | zechenzhangAGI | chroma |
+| [constitutional-ai](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/constitutional-ai) | Anthropic's method for training harmless AI through self-improvement. Two-phase approach - supervised learning with s... | 1.0.0 | zechenzhangAGI | constitutional-ai |
+| [crewai-multi-agent](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/crewai) | Multi-agent orchestration framework for autonomous AI collaboration. Use when building teams of specialized agents wo... | 1.0.0 | zechenzhangAGI | crewai |
+| [deepspeed](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/deepspeed) | Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline parallelism, FP16/BF16/F... | 1.0.0 | zechenzhangAGI | deepspeed |
+| [dspy](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/dspy) | Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and... | 1.0.0 | zechenzhangAGI | dspy |
+| [faiss](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/faiss) | Facebook's library for efficient similarity search and clustering of dense vectors. Supports billions of vectors, GPU... | 1.0.0 | zechenzhangAGI | faiss |
+| [optimizing-attention-flash](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/flash-attention) | Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction. Use when training/... | 1.0.0 | zechenzhangAGI | flash-attention |
+| [gguf-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardwar... | 1.0.0 | zechenzhangAGI | gguf |
+| [gptq](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gptq) | Post-training 4-bit quantization for LLMs with minimal accuracy loss. Use for deploying large models (70B, 405B) on c... | 1.0.0 | zechenzhangAGI | gptq |
+| [grpo-rl-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/grpo-rl-training) | Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training | 1.0.0 | zechenzhangAGI | grpo-rl-training |
+| [guidance](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/guidance) | Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and... | 1.0.0 | zechenzhangAGI | guidance |
+| [hqq-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/hqq) | Half-Quadratic Quantization for LLMs without calibration data. Use when quantizing models to 4/3/2-bit precision with... | 1.0.0 | zechenzhangAGI | hqq |
+| [huggingface-tokenizers](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/02-tokenization/huggingface-tokenizers) | Fast tokenizers optimized for research and production. Rust-based implementation tokenizes 1GB in <20 seconds. Suppor... | 1.0.0 | zechenzhangAGI | huggingface-tokenizers |
+| [knowledge-distillation](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/knowledge-distillation) | Compress large language models using knowledge distillation from teacher to student models. Use when deploying smalle... | 1.0.0 | zechenzhangAGI | knowledge-distillation |
+| [lambda-labs-gpu-cloud](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances w... | 1.0.0 | zechenzhangAGI | lambda-labs |
+| [langchain](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/langchain) | Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple providers (OpenAI, An... | 1.0.0 | zechenzhangAGI | langchain |
+| [langsmith-observability](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/17-observability/langsmith) | LLM observability platform for tracing, evaluation, and monitoring. Use when debugging LLM applications, evaluating m... | 1.0.0 | zechenzhangAGI | langsmith |
+| [implementing-llms-litgpt](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/litgpt) | Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mi... | 1.0.0 | zechenzhangAGI | litgpt |
+| [llama-cpp](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/llama-cpp) | Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardware. Use for edge deployment, M1/M2/M... | 1.0.0 | zechenzhangAGI | llama-cpp |
+| [llama-factory](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/llama-factory) | Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimod... | 1.0.0 | zechenzhangAGI | llama-factory |
+| [llamaguard](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/llamaguard) | Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - violence/hate, sexual ... | 1.0.0 | zechenzhangAGI | llamaguard |
+| [llamaindex](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/llamaindex) | Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ connectors), indexing,... | 1.0.0 | zechenzhangAGI | llamaindex |
+| [llava](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/llava) | Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversations. Combines CLIP v... | 1.0.0 | zechenzhangAGI | llava |
+| [evaluating-llms-harness](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/11-evaluation/lm-evaluation-harness) | Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQA, HellaSwag). Use when benchmarking ... | 1.0.0 | zechenzhangAGI | lm-evaluation-harness |
+| [long-context](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/long-context) | Extend context windows of transformer models using RoPE, YaRN, ALiBi, and position interpolation techniques. Use when... | 1.0.0 | zechenzhangAGI | long-context |
+| [mamba-architecture](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/mamba) | State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token sequences, no KV ca... | 1.0.0 | zechenzhangAGI | mamba |
+| [training-llms-megatron](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/megatron-core) | Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core with advanced parallelism strategies. Us... | 1.0.0 | zechenzhangAGI | megatron-core |
+| [mlflow](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/13-mlops/mlflow) | Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments w... | 1.0.0 | zechenzhangAGI | mlflow |
+| [modal-serverless-gpu](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/modal) | Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure... | 1.0.0 | zechenzhangAGI | modal |
+| [model-merging](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/model-merging) | Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use when creating special... | 1.0.0 | zechenzhangAGI | model-merging |
+| [model-pruning](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/model-pruning) | Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use when compressing mode... | 1.0.0 | zechenzhangAGI | model-pruning |
+| [moe-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/moe-training) | Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-scale models with limit... | 1.0.0 | zechenzhangAGI | moe-training |
+| [nanogpt](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/nanogpt) | Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWebText. Clean, hackable code for learni... | 1.0.0 | zechenzhangAGI | nanogpt |
+| [nemo-curator](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/05-data-processing/nemo-curator) | GPU-accelerated data curation for LLM training. Supports text/image/video/audio. Features fuzzy deduplication (16× fa... | 1.0.0 | zechenzhangAGI | nemo-curator |
+| [nemo-guardrails](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/nemo-guardrails) | NVIDIA's runtime safety framework for LLM applications. Features jailbreak detection, input/output validation, fact-c... | 1.0.0 | zechenzhangAGI | nemo-guardrails |
+| [nnsight-remote-interpretability](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/nnsight) | Provides guidance for interpreting and manipulating neural network internals using nnsight with optional NDIF remote ... | 1.0.0 | zechenzhangAGI | nnsight |
+| [openrlhf-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/openrlhf) | High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, RLOO, DPO training of large models (7B... | 1.0.0 | zechenzhangAGI | openrlhf |
+| [outlines](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/16-prompt-engineering/outlines) | Guarantee valid JSON/XML/code structure during generation, use Pydantic models for type-safe outputs, support local m... | 1.0.0 | zechenzhangAGI | outlines |
+| [peft-fine-tuning](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/peft) | Parameter-efficient fine-tuning for LLMs using LoRA, QLoRA, and 25+ methods. Use when fine-tuning large models (7B-70... | 1.0.0 | zechenzhangAGI | peft |
+| [phoenix-observability](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/17-observability/phoenix) | Open-source AI observability platform for LLM tracing, evaluation, and monitoring. Use when debugging LLM application... | 1.0.0 | zechenzhangAGI | phoenix |
+| [pinecone](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/pinecone) | Managed vector database for production AI applications. Fully managed, auto-scaling, with hybrid search (dense + spar... | 1.0.0 | zechenzhangAGI | pinecone |
+| [pytorch-fsdp](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/pytorch-fsdp) | Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, mixed precision, CPU... | 1.0.0 | zechenzhangAGI | pytorch-fsdp |
+| [pytorch-lightning](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/pytorch-lightning) | High-level PyTorch framework with Trainer class, automatic distributed training (DDP/FSDP/DeepSpeed), callbacks syste... | 1.0.0 | zechenzhangAGI | pytorch-lightning |
+| [pyvene-interventions](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/pyvene) | Provides guidance for performing causal interventions on PyTorch models using pyvene's declarative intervention frame... | 1.0.0 | zechenzhangAGI | pyvene |
+| [qdrant-vector-search](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/qdrant) | High-performance vector similarity search engine for RAG and semantic search. Use when building production RAG system... | 1.0.0 | zechenzhangAGI | qdrant |
+| [Ray Data - Scalable ML Data Processing](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/05-data-processing/ray-data) | Distributed data processing library for ML and AI workloads. | None | zechenzhangAGI | ray-data |
+| [Ray Train - Distributed Training Orchestration](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/ray-train) |  | None | zechenzhangAGI | ray-train |
+| [rwkv-architecture](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/rwkv) | RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV cache. Train like GPT (parallel), in... | 1.0.0 | zechenzhangAGI | rwkv |
+| [sparse-autoencoder-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/saelens) | Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SAELens to decompose neural network act... | 1.0.0 | zechenzhangAGI | saelens |
+| [segment-anything-model](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/segment-anything) | Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any object in images us... | 1.0.0 | zechenzhangAGI | segment-anything |
+| [sentence-transformers](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/sentence-transformers) | Framework for state-of-the-art sentence, text, and image embeddings. Provides 5000+ pre-trained models for semantic s... | 1.0.0 | zechenzhangAGI | sentence-transformers |
+| [sentencepiece](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/02-tokenization/sentencepiece) | Language-independent tokenizer treating text as raw Unicode. Supports BPE and Unigram algorithms. Fast (50k sentences... | 1.0.0 | zechenzhangAGI | sentencepiece |
+| [sglang](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/sglang) | Fast structured generation and serving for LLMs with RadixAttention prefix caching. Use for JSON/regex outputs, const... | 1.0.0 | zechenzhangAGI | sglang |
+| [simpo-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/simpo) | Simple Preference Optimization for LLM alignment. Reference-free alternative to DPO with better performance (+6.4 poi... | 1.0.0 | zechenzhangAGI | simpo |
+| [skypilot-multi-cloud-orchestration](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/skypilot) | Multi-cloud orchestration for ML workloads with automatic cost optimization. Use when you need to run training or bat... | 1.0.0 | zechenzhangAGI | skypilot |
+| [speculative-decoding](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/speculative-decoding) | Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use wh... | 1.0.0 | zechenzhangAGI | speculative-decoding |
+| [stable-diffusion-image-generation](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/stable-diffusion) | State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating... | 1.0.0 | zechenzhangAGI | stable-diffusion |
+| [tensorboard](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/13-mlops/tensorboard) | Visualize training metrics, debug models with histograms, compare experiments, visualize model graphs, and profile pe... | 1.0.0 | zechenzhangAGI | tensorboard |
+| [tensorrt-llm](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/tensorrt-llm) | Optimizes LLM inference with NVIDIA TensorRT for maximum throughput and lowest latency. Use for production deployment... | 1.0.0 | zechenzhangAGI | tensorrt-llm |
+| [transformer-lens-interpretability](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/transformer-lens) | Provides guidance for mechanistic interpretability research using TransformerLens to inspect and manipulate transform... | 1.0.0 | zechenzhangAGI | transformer-lens |
+| [fine-tuning-with-trl](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/trl-fine-tuning) | Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tuning, DPO for preference alignment, PPO/... | 1.0.0 | zechenzhangAGI | trl-fine-tuning |
+| [unsloth](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/unsloth) | Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80% less memory, LoRA/QLoRA optimization | 1.0.0 | zechenzhangAGI | unsloth |
+| [serving-llms-vllm](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/vllm) | Serves LLMs with high throughput using vLLM's PagedAttention and continuous batching. Use when deploying production L... | 1.0.0 | zechenzhangAGI | vllm |
+| [weights-and-biases](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/13-mlops/weights-and-biases) | Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparameters with sweeps, a... | 1.0.0 | zechenzhangAGI | weights-and-biases |
+| [whisper](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/whisper) | OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translation to English, and ... | 1.0.0 | zechenzhangAGI | whisper |
+
 
 ## Development Workflow
+
+### iothackbot
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [ffind](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/ffind) | Advanced file finder with type detection and filesystem extraction for analyzing firmware and extracting embedded fil... | None | BrownFineSecurity | ffind |
+| [iotnet](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/iotnet) | IoT network traffic analyzer for detecting IoT protocols and identifying security vulnerabilities in network communic... | None | BrownFineSecurity | iotnet |
 
 ### awesome-claude-skills
 
