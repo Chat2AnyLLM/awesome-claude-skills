@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1240
+Total Skills: 1241
 
-Last updated: 2025-12-28 13:22 UTC
+Last updated: 2025-12-28 13:26 UTC
 
 ## Contents
 
@@ -484,6 +484,12 @@ Last updated: 2025-12-28 13:22 UTC
 | [web-artifacts-builder](https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologie... | None | anthropics | web-artifacts-builder |
 | [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functio... | None | anthropics | webapp-testing |
 | [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and v... | None | anthropics | xlsx |
+
+### Infographic
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [infographic-creation](https://github.com/antvis/Infographic/tree/master/.) | Create beautiful infographics based on the given text content. Use this when users request creating infographics. | None | antvis | Infographic |
 
 ### claude-night-market
 
