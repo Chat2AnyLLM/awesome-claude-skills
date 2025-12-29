@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1290
+Total Skills: 1291
 
-Last updated: 2025-12-29 19:08 UTC
+Last updated: 2025-12-29 20:11 UTC
 
 ## Contents
 
@@ -287,6 +287,7 @@ Last updated: 2025-12-29 19:08 UTC
 | [hmdb-database](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/hmdb-database) | Access Human Metabolome Database (220K+ metabolites). Search by name/ID/structure, retrieve chemical properties, biom... | None | K-Dense-AI | hmdb-database |
 | [hypogenic](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/hypogenic) | Automated hypothesis generation and testing using large language models. Use this skill when generating scientific hy... | None | K-Dense-AI | hypogenic |
 | [hypothesis-generation](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/hypothesis-generation) | Generate testable hypotheses. Formulate from observations, design experiments, explore competing explanations, develo... | None | K-Dense-AI | hypothesis-generation |
+| [iso-13485-certification](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/iso-13485-certification) | Comprehensive toolkit for preparing ISO 13485 certification documentation for medical device Quality Management Syste... | None | K-Dense-AI | iso-13485-certification |
 | [kegg-database](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/kegg-database) | Direct REST API access to KEGG (academic use only). Pathway analysis, gene-pathway mapping, metabolic pathways, drug ... | None | K-Dense-AI | kegg-database |
 | [labarchive-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/labarchive-integration) | Electronic lab notebook API integration. Access notebooks, manage entries/attachments, backup notebooks, integrate wi... | None | K-Dense-AI | labarchive-integration |
 | [lamindb](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology that makes data querya... | None | K-Dense-AI | lamindb |
