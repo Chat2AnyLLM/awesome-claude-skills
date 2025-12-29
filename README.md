@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1243
+Total Skills: 1248
 
-Last updated: 2025-12-29 06:18 UTC
+Last updated: 2025-12-29 07:16 UTC
 
 ## Contents
 
@@ -36,6 +36,7 @@ Last updated: 2025-12-29 06:18 UTC
 - [hook-development](#hook-development)
 - [hook-management](#hook-management)
 - [infrastructure](#infrastructure)
+- [media-generation](#media-generation)
 - [meta-infrastructure](#meta-infrastructure)
 - [navigation](#navigation)
 - [orchestration](#orchestration)
@@ -1529,8 +1530,9 @@ Last updated: 2025-12-29 06:18 UTC
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [commit-messages](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/commit-messages) | Generate conventional commit messages from staged changes by inspecting diffs, picking the correct type/scope, and wr... | None | athola | commit-messages |
-| [doc-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/doc-updates) | Update documentation files based on recent changes while enforcing project writing guidelines.  Triggers: documentati... | None | athola | doc-updates |
+| [doc-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/doc-updates) | Update documentation files based on recent changes while enforcing project writing guidelines. Includes consolidation... | None | athola | doc-updates |
 | [pr-prep](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/pr-prep) | Prepare a pull request by validating the workspace, running quality gates, summarizing changes, and drafting the PR t... | None | athola | pr-prep |
+| [tutorial-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/tutorial-updates) | Orchestrate tutorial generation with GIF recordings from VHS tape files and Playwright browser specs. Parses manifest... | None | athola | tutorial-updates |
 | [update-readme](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/update-readme) | Consolidate README content using language-aware exemplars, internal doc linkage, and reproducible evidence.  Triggers... | None | athola | update-readme |
 | [version-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/version-updates) | Bump project versions across configs, docs, and changelog using git-workspace-review context.  Triggers: version bump... | None | athola | version-updates |
 
@@ -1659,6 +1661,18 @@ Last updated: 2025-12-29 06:18 UTC
 | [storage-templates](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/storage-templates) | Generic template patterns and lifecycle stages for knowledge storage, configuration management, and structured docume... | None | athola | storage-templates |
 | [testing-quality-standards](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/testing-quality-standards) | Shared testing quality metrics and standards for cross-plugin use. Referenced by pensive:test-review and parseltongue... | None | athola | testing-quality-standards |
 | [usage-logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) | Session-aware usage logging infrastructure for audit trails, cost tracking, and analytics. Provides structured loggin... | None | athola | usage-logging |
+
+
+## media-generation
+
+### claude-night-market
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [browser-recording](https://github.com/athola/claude-night-market/tree/master/plugins/scry/skills/browser-recording) | Record browser sessions using Playwright for web UI tutorials. Captures video of browser interactions that can be con... | None | athola | browser-recording |
+| [gif-generation](https://github.com/athola/claude-night-market/tree/master/plugins/scry/skills/gif-generation) | Post-process video files and generate optimized GIFs. Converts webm/mp4 to GIF with configurable quality settings.  T... | None | athola | gif-generation |
+| [media-composition](https://github.com/athola/claude-night-market/tree/master/plugins/scry/skills/media-composition) | Combine multiple media assets (GIFs, videos) into composite tutorials. Supports vertical/horizontal layouts and seque... | None | athola | media-composition |
+| [vhs-recording](https://github.com/athola/claude-night-market/tree/master/plugins/scry/skills/vhs-recording) | Generate terminal recordings using VHS (Charmbracelet) tape files. Executes tape files to produce GIF outputs of term... | None | athola | vhs-recording |
 
 
 ## meta-infrastructure
