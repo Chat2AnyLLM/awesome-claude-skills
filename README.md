@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1278
+Total Skills: 1280
 
-Last updated: 2025-12-29 09:19 UTC
+Last updated: 2025-12-29 10:11 UTC
 
 ## Contents
 
@@ -491,6 +491,8 @@ Last updated: 2025-12-29 09:19 UTC
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [infographic-creation](https://github.com/antvis/Infographic/tree/master/.) | Create beautiful infographics based on the given text content. Use this when users request creating infographics. | None | antvis | Infographic |
+| [infographic-item-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-item-generator) | Generate or update infographic Item components for this repo (TypeScript/TSX in src/designs/items). Use when asked to... | None | antvis | infographic-item-generator |
+| [infographic-structure-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-structure-generator) | Generate or update infographic Structure components for this repo (TypeScript/TSX in src/designs/structures). Use whe... | None | antvis | infographic-structure-generator |
 
 ### claude-night-market
 
