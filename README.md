@@ -4,7 +4,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 Total Skills: 1290
 
-Last updated: 2025-12-29 17:09 UTC
+Last updated: 2025-12-29 18:15 UTC
 
 ## Contents
 
@@ -157,7 +157,7 @@ Last updated: 2025-12-29 17:09 UTC
 | [skill-share](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-share) | A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaborat... | None | ComposioHQ | skill-share |
 | [slack-gif-creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation... | None | ComposioHQ | slack-gif-creator |
 | [theme-factory](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc.... | None | ComposioHQ | theme-factory |
-| [video-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) | Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats ... | None | ComposioHQ | video-downloader |
+| [youtube-downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) | Download YouTube videos with customizable quality and format options. Use this skill when the user asks to download, ... | None | ComposioHQ | video-downloader |
 | [webapp-testing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functio... | None | ComposioHQ | webapp-testing |
 | [xlsx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and v... | None | ComposioHQ | xlsx |
 
