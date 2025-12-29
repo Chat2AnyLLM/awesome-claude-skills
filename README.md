@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1289
+Total Skills: 1290
 
-Last updated: 2025-12-29 15:11 UTC
+Last updated: 2025-12-29 16:12 UTC
 
 ## Contents
 
@@ -1106,6 +1106,7 @@ Last updated: 2025-12-29 15:11 UTC
 | [Claude Code Expert](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/claude-code) | Claude Code is Anthropic's agentic coding tool that lives in the terminal and helps turn ideas into code faster. It c... | None | mrgoonie | claude-code |
 | [code-review](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/code-review) | Use when receiving code review feedback (especially if unclear or technically questionable), when completing tasks or... | None | mrgoonie | code-review |
 | [Collision-Zone Thinking](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/collision-zone-thinking) | Force unrelated concepts together to discover emergent properties - "What if we treated X like Y?" | 1.1.0 | mrgoonie | collision-zone-thinking |
+| [context-engineering](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/context-engineering) | Master context engineering for AI agent systems. Use when designing agent architectures, debugging context failures, ... | 1.0.0 | mrgoonie | context-engineering |
 | [databases](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/databases) | Work with MongoDB (document database, BSON documents, aggregation pipelines, Atlas cloud) and PostgreSQL (relational ... | None | mrgoonie | databases |
 | [Defense-in-Depth Validation](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/defense-in-depth) | Validate at every layer data passes through to make bugs impossible | 1.1.0 | mrgoonie | defense-in-depth |
 | [devops](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/devops) | Deploy and manage cloud infrastructure on Cloudflare (Workers, R2, D1, KV, Pages, Durable Objects, Browser Rendering)... | 1.0.0 | mrgoonie | devops |
