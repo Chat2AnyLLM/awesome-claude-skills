@@ -6,6 +6,12 @@ Total Skills: 666
 
 Last updated: 2025-12-27 02:44 UTC
 
+## Installation
+
+1. Install CAM: `curl -fsSL https://raw.githubusercontent.com/Chat2AnyLLM/code-assistant-manager/main/install.sh | bash`
+2. find the skill you need: cam skill list
+3. install it: cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/long-context
+
 ## Contents
 
 - [Bioinformatics_genomics](#bioinformaticsgenomics)
