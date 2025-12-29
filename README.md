@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1242
+Total Skills: 1243
 
-Last updated: 2025-12-29 04:09 UTC
+Last updated: 2025-12-29 05:20 UTC
 
 ## Contents
 
@@ -1076,6 +1076,7 @@ Last updated: 2025-12-29 04:09 UTC
 | [mcp-builder](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external servi... | None | mrgoonie | mcp-builder |
 | [mcp-management](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-management) | Manage Model Context Protocol (MCP) servers - discover, analyze, and execute tools/prompts/resources from configured ... | None | mrgoonie | mcp-management |
 | [media-processing](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/media-processing) | Process multimedia files with FFmpeg (video/audio encoding, conversion, streaming, filtering, hardware acceleration) ... | None | mrgoonie | media-processing |
+| [mermaidjs-v11](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mermaidjs-v11) | Create diagrams and visualizations using Mermaid.js v11 syntax. Use when generating flowcharts, sequence diagrams, cl... | None | mrgoonie | mermaidjs-v11 |
 | [Meta-Pattern Recognition](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/meta-pattern-recognition) | Spot patterns appearing in 3+ domains to find universal principles | 1.1.0 | mrgoonie | meta-pattern-recognition |
 | [pdf](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents... | None | mrgoonie | pdf |
 | [pptx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Cre... | None | mrgoonie | pptx |
