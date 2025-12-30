@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1291
+Total Skills: 1301
 
-Last updated: 2025-12-30 00:47 UTC
+Last updated: 2025-12-30 02:49 UTC
 
 ## Contents
 
@@ -457,14 +457,24 @@ Last updated: 2025-12-30 00:47 UTC
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [Agent Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/agent-development) | This skill should be used when the user asks to "create an agent", "add an agent", "write a subagent", "agent frontma... | 0.1.0 | anthropics | agent-development |
+| [Agent Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/agent-development) | This skill should be used when the user asks to "create an agent", "add an agent", "write a subagent", "agent frontma... | 0.1.0 | anthropics | agent-development |
+| [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | Migrate prompts and code from Claude Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. Use when the user wants to upda... | None | anthropics | claude-opus-4-5-migration |
 | [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | Migrate prompts and code from Claude Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. Use when the user wants to upda... | None | anthropics | claude-opus-4-5-migration |
 | [Command Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/command-development) | This skill should be used when the user asks to "create a slash command", "add a command", "write a custom command", ... | 0.2.0 | anthropics | command-development |
+| [Command Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/command-development) | This skill should be used when the user asks to "create a slash command", "add a command", "write a custom command", ... | 0.2.0 | anthropics | command-development |
+| [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks ... | None | anthropics | frontend-design |
 | [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks ... | None | anthropics | frontend-design |
 | [Hook Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development) | This skill should be used when the user asks to "create a hook", "add a PreToolUse/PostToolUse/Stop hook", "validate ... | 0.1.0 | anthropics | hook-development |
+| [Hook Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development) | This skill should be used when the user asks to "create a hook", "add a PreToolUse/PostToolUse/Stop hook", "validate ... | 0.1.0 | anthropics | hook-development |
+| [MCP Integration](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/mcp-integration) | This skill should be used when the user asks to "add MCP server", "integrate MCP", "configure MCP in plugin", "use .m... | 0.1.0 | anthropics | mcp-integration |
 | [MCP Integration](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/mcp-integration) | This skill should be used when the user asks to "add MCP server", "integrate MCP", "configure MCP in plugin", "use .m... | 0.1.0 | anthropics | mcp-integration |
 | [Plugin Settings](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-settings) | This skill should be used when the user asks about "plugin settings", "store plugin configuration", "user-configurabl... | 0.1.0 | anthropics | plugin-settings |
+| [Plugin Settings](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-settings) | This skill should be used when the user asks about "plugin settings", "store plugin configuration", "user-configurabl... | 0.1.0 | anthropics | plugin-settings |
+| [Plugin Structure](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-structure) | This skill should be used when the user asks to "create a plugin", "scaffold a plugin", "understand plugin structure"... | 0.1.0 | anthropics | plugin-structure |
 | [Plugin Structure](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-structure) | This skill should be used when the user asks to "create a plugin", "scaffold a plugin", "understand plugin structure"... | 0.1.0 | anthropics | plugin-structure |
 | [Skill Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/skill-development) | This skill should be used when the user wants to "create a skill", "add a skill to plugin", "write a new skill", "imp... | 0.1.0 | anthropics | skill-development |
+| [Skill Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/skill-development) | This skill should be used when the user wants to "create a skill", "add a skill to plugin", "write a new skill", "imp... | 0.1.0 | anthropics | skill-development |
+| [Writing Hookify Rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "configure hookify", "a... | 0.1.0 | anthropics | writing-rules |
 | [Writing Hookify Rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "configure hookify", "a... | 0.1.0 | anthropics | writing-rules |
 
 ### skills
