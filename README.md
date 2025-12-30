@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1331
+Total Skills: 1332
 
-Last updated: 2025-12-30 21:09 UTC
+Last updated: 2025-12-30 22:09 UTC
 
 ## Installation
 
@@ -1248,6 +1248,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [dependency-upgrade](https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade) | Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use ... | None | wshobson | dependency-upgrade |
 | [deployment-pipeline-design](https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/deployment-pipeline-design) | Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when archi... | None | wshobson | deployment-pipeline-design |
 | [distributed-tracing](https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/distributed-tracing) | Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance b... | None | wshobson | distributed-tracing |
+| [dotnet-backend-patterns](https://github.com/wshobson/agents/tree/main/plugins/dotnet-contribution/skills/dotnet-backend-patterns) | Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Cover... | None | wshobson | dotnet-backend-patterns |
 | [e2e-testing-patterns](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns) | Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confiden... | None | wshobson | e2e-testing-patterns |
 | [embedding-strategies](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/embedding-strategies) | Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, im... | None | wshobson | embedding-strategies |
 | [employment-contract-templates](https://github.com/wshobson/agents/tree/main/plugins/hr-legal-compliance/skills/employment-contract-templates) | Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting... | None | wshobson | employment-contract-templates |
