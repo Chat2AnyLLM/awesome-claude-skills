@@ -54,21 +54,44 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 """
 
     def generate_table_of_contents(self) -> str:
-        """Generate table of contents organized by marketplace names."""
+        """Generate table of contents."""
         lines = ["## Contents\n"]
 
-        # Group skills by marketplace
-        marketplaces = self._get_categories()
-        for marketplace_name in sorted(marketplaces.keys()):
-            # Skip empty marketplace names
-            if not marketplace_name or marketplace_name.strip() == "":
+        # Group skills by category
+        categories = self._get_categories()
+        for category in sorted(categories.keys()):
+            # Skip empty or malformed categories
+            if not category or category.strip() == "" or len(category.strip()) > 50:
                 continue
 
-            clean_marketplace = marketplace_name.strip()
+            # Skip obviously malformed categories (numbers only, very short, etc.)
+            clean_category = category.strip()
+            if (
+                clean_category.isdigit() or len(clean_category) < 4
+            ):  # Increased minimum length
+                continue
+            # Skip categories that contain "category" as a separate word or have malformed patterns
+            if (
+                " category" in clean_category.lower()
+                or clean_category.lower().startswith("category ")
+            ):
+                continue
+            if any(
+                word in clean_category.lower()
+                for word in ["stridecategory", "str ", "category:"]
+            ):
+                continue
+            # Skip other malformed patterns
+            if (
+                ")" in clean_category
+                or "(" in clean_category
+                or any(char in clean_category for char in [";", ":", "//", "category:"])
+            ):
+                continue
 
-            # Clean marketplace name for anchor
+            # Clean category name for anchor
             anchor = (
-                clean_marketplace.lower()
+                clean_category.lower()
                 .replace(" ", "-")
                 .replace("&", "")
                 .replace("/", "-")
@@ -77,7 +100,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
             import re
 
             anchor = re.sub(r"[^a-z0-9-]", "", anchor)
-            lines.append(f"- [{clean_marketplace}](#{anchor})")
+            lines.append(f"- [{clean_category}](#{anchor})")
 
         lines.append("- [Contributing](#contributing)")
         lines.append("")
@@ -109,71 +132,69 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         lines.append("")
         return "\n".join(lines)
 
-    def generate_skills_by_marketplace(self) -> str:
-        """Generate skills organized by marketplace with category subsections."""
+    def generate_skills_by_category(self) -> str:
+        """Generate skills organized by category with table format."""
         if not self.skills:
             return ""
 
-        # Group skills by marketplace
-        marketplaces = defaultdict(list)
+        # Group skills by category
+        categories = defaultdict(list)
         for skill in self.skills:
-            marketplace_id = skill.get("marketplace_id", "Unknown")
-            marketplace_name = self._get_marketplace_name(marketplace_id)
-            marketplaces[marketplace_name].append(skill)
+            category = skill.get("category", "Uncategorized")
+            categories[category].append(skill)
 
         lines = [""]
-        for marketplace_name in sorted(marketplaces.keys()):
-            # Skip empty marketplace names
-            if not marketplace_name or marketplace_name.strip() == "":
+        for category in sorted(categories.keys()):
+            # Skip empty or malformed categories
+            if not category or category.strip() == "" or len(category.strip()) > 50:
                 continue
 
-            lines.append(f"## {marketplace_name}\n")
+            # Skip obviously malformed categories (numbers only, very short, etc.)
+            clean_category = category.strip()
+            if (
+                clean_category.isdigit() or len(clean_category) < 4
+            ):  # Increased minimum length
+                continue
+            # Skip categories that contain "category" as a separate word or have malformed patterns
+            if (
+                " category" in clean_category.lower()
+                or clean_category.lower().startswith("category ")
+            ):
+                continue
+            if any(
+                word in clean_category.lower()
+                for word in ["stridecategory", "str ", "category:"]
+            ):
+                continue
+            # Skip other malformed patterns
+            if (
+                ")" in clean_category
+                or "(" in clean_category
+                or any(char in clean_category for char in [";", ":", "//", "category:"])
+            ):
+                continue
 
-            # Group skills by category within marketplace
-            category_skills = defaultdict(list)
-            for skill in marketplaces[marketplace_name]:
-                category = skill.get("category", "Uncategorized")
-                category_skills[category].append(skill)
+            lines.append(f"## {clean_category}\n")
 
-            # Sort category IDs to ensure consistent ordering
-            for category in sorted(category_skills.keys()):
-                # Skip empty or malformed categories
-                if not category or category.strip() == "" or len(category.strip()) > 50:
-                    continue
+            # Group skills by marketplace within category
+            marketplace_skills = defaultdict(list)
+            for skill in categories[category]:
+                marketplace_id = skill.get("marketplace_id", "unknown")
+                marketplace_skills[marketplace_id].append(skill)
 
-                # Skip obviously malformed categories (numbers only, very short, etc.)
-                clean_category = category.strip()
-                if (
-                    clean_category.isdigit() or len(clean_category) < 4
-                ):  # Increased minimum length
-                    continue
-                # Skip categories that contain "category" as a separate word or have malformed patterns
-                if (
-                    " category" in clean_category.lower()
-                    or clean_category.lower().startswith("category ")
-                ):
-                    continue
-                if any(
-                    word in clean_category.lower()
-                    for word in ["stridecategory", "str ", "category:"]
-                ):
-                    continue
-                # Skip other malformed patterns
-                if (
-                    ")" in clean_category
-                    or "(" in clean_category
-                    or any(char in clean_category for char in [";", ":", "//", "category:"])
-                ):
-                    continue
-
-                lines.append(f"### {clean_category}\n")
+            # Sort marketplace IDs to ensure consistent ordering
+            for marketplace_id in sorted(marketplace_skills.keys()):
+                skills = marketplace_skills[marketplace_id]
+                marketplace_name = self._get_marketplace_name(marketplace_id)
+                if marketplace_name:
+                    lines.append(f"### {marketplace_name}\n")
 
                 # Table header
                 lines.append("| Skill | Description | Version | Author | Directory |")
                 lines.append("| --- | --- | --- | --- | --- |")
 
                 # Sort skills alphabetically by directory name
-                sorted_skills = sorted(category_skills[category], key=lambda s: s.get("directory", ""))
+                sorted_skills = sorted(skills, key=lambda s: s.get("directory", ""))
 
                 for skill in sorted_skills:
                     name = skill.get("name", "Unknown Skill")
@@ -235,7 +256,7 @@ To add a new skill or marketplace:
             self.generate_title(),
             self.generate_installation(),
             self.generate_table_of_contents(),
-            self.generate_skills_by_marketplace(),
+            self.generate_skills_by_category(),
             self.generate_contributing(),
         ]
 
@@ -250,12 +271,11 @@ To add a new skill or marketplace:
         return content
 
     def _get_categories(self) -> Dict[str, List[Dict[str, Any]]]:
-        """Get skills grouped by marketplace."""
+        """Get skills grouped by category."""
         categories = defaultdict(list)
         for skill in self.skills:
-            marketplace_id = skill.get("marketplace_id", "Unknown")
-            marketplace_name = self._get_marketplace_name(marketplace_id)
-            categories[marketplace_name].append(skill)
+            category = skill.get("category", "Uncategorized")
+            categories[category].append(skill)
         return categories
 
     def _get_marketplace_name(self, marketplace_id: str) -> str:
