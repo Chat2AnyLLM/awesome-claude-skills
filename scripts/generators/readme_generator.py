@@ -34,6 +34,25 @@ class SkillReadmeGenerator:
         skill_count = len(self.skills)
         return f"# Awesome Claude Skills\n\nA curated list of awesome Claude Code skills to enhance your Claude Code experience.\n\nTotal Skills: {skill_count}\n\nLast updated: {timestamp}\n\n"
 
+    def generate_installation(self) -> str:
+        """Generate installation section with CAM instructions."""
+        return """## Installation
+
+To get started with Claude Code skills, install the Code Assistant Manager (CAM):
+
+```bash
+# Install CAM
+curl -fsSL https://raw.githubusercontent.com/Chat2AnyLLM/code-assistant-manager/main/install.sh | bash
+
+# List available skills
+cam skill list
+
+# Install a specific skill (example)
+cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model-merging -a codebuddy,claude
+```
+
+"""
+
     def generate_table_of_contents(self) -> str:
         """Generate table of contents."""
         lines = ["## Contents\n"]
@@ -235,6 +254,7 @@ To add a new skill or marketplace:
         """Generate complete README content."""
         sections = [
             self.generate_title(),
+            self.generate_installation(),
             self.generate_table_of_contents(),
             self.generate_skills_by_category(),
             self.generate_contributing(),

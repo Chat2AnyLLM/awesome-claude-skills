@@ -191,4 +191,4 @@ temp/
 tmp/
 
 # Repository clones (used during skill extraction)
-*.git/
+.serena
