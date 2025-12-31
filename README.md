@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1332
+Total Skills: 1333
 
-Last updated: 2025-12-31 06:17 UTC
+Last updated: 2025-12-31 07:14 UTC
 
 ## Installation
 
@@ -528,6 +528,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [makefile-dogfooder](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/makefile-dogfooder) | Analyze and enhance Makefiles for complete user functionality coverage.  Triggers: Makefile analysis, Makefile gaps, ... | 1.0.0 | athola | makefile-dogfooder |
 | [mcp-code-execution](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/mcp-code-execution) | Transform tool-heavy workflows into MCP code execution patterns using MECW principles for optimized token savings and... | None | athola | mcp-code-execution |
 | [optimizing-large-skills](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/optimizing-large-skills) | Systematic methodology to reduce skill file size through externalization, consolidation, and progressive loading patt... | None | athola | optimizing-large-skills |
+| [review-chamber](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/review-chamber) | Capture and retrieve PR review knowledge in project memory palaces | 1.0.0 | athola | review-chamber |
 | [token-conservation](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/resource-management/token-conservation) | Minimize token usage through conservative prompting, work delegation, and quota tracking.  Triggers: token usage, quo... | None | athola | token-conservation |
 
 ### claude-marketplace-elixir
