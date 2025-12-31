@@ -53,6 +53,34 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 """
 
+    def _is_valid_category(self, category: str) -> bool:
+        """
+        Validate if a category name is well-formed and usable.
+
+        Returns True if category is valid, False otherwise.
+        """
+        if not category or category.strip() == "" or len(category.strip()) > 50:
+            return False
+
+        clean_category = category.strip()
+
+        # Skip obviously malformed categories (numbers only, very short, etc.)
+        if clean_category.isdigit() or len(clean_category) < 4:
+            return False
+
+        # Skip categories that contain "category" as a separate word or have malformed patterns
+        if " category" in clean_category.lower() or clean_category.lower().startswith("category "):
+            return False
+
+        if any(word in clean_category.lower() for word in ["stridecategory", "str ", "category:"]):
+            return False
+
+        # Skip other malformed patterns
+        if any(char in clean_category for char in [")", "(", ";", ":", "//", "category:"]):
+            return False
+
+        return True
+
     def generate_table_of_contents(self) -> str:
         """Generate table of contents."""
         lines = ["## Contents\n"]
@@ -60,34 +88,10 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         # Group skills by category
         categories = self._get_categories()
         for category in sorted(categories.keys()):
-            # Skip empty or malformed categories
-            if not category or category.strip() == "" or len(category.strip()) > 50:
+            if not self._is_valid_category(category):
                 continue
 
-            # Skip obviously malformed categories (numbers only, very short, etc.)
             clean_category = category.strip()
-            if (
-                clean_category.isdigit() or len(clean_category) < 4
-            ):  # Increased minimum length
-                continue
-            # Skip categories that contain "category" as a separate word or have malformed patterns
-            if (
-                " category" in clean_category.lower()
-                or clean_category.lower().startswith("category ")
-            ):
-                continue
-            if any(
-                word in clean_category.lower()
-                for word in ["stridecategory", "str ", "category:"]
-            ):
-                continue
-            # Skip other malformed patterns
-            if (
-                ")" in clean_category
-                or "(" in clean_category
-                or any(char in clean_category for char in [";", ":", "//", "category:"])
-            ):
-                continue
 
             # Clean category name for anchor
             anchor = (
@@ -97,8 +101,6 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                 .replace("/", "-")
             )
             # Remove any remaining non-alphanumeric characters except hyphens
-            import re
-
             anchor = re.sub(r"[^a-z0-9-]", "", anchor)
             lines.append(f"- [{clean_category}](#{anchor})")
 
@@ -145,35 +147,10 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
         lines = [""]
         for category in sorted(categories.keys()):
-            # Skip empty or malformed categories
-            if not category or category.strip() == "" or len(category.strip()) > 50:
+            if not self._is_valid_category(category):
                 continue
 
-            # Skip obviously malformed categories (numbers only, very short, etc.)
             clean_category = category.strip()
-            if (
-                clean_category.isdigit() or len(clean_category) < 4
-            ):  # Increased minimum length
-                continue
-            # Skip categories that contain "category" as a separate word or have malformed patterns
-            if (
-                " category" in clean_category.lower()
-                or clean_category.lower().startswith("category ")
-            ):
-                continue
-            if any(
-                word in clean_category.lower()
-                for word in ["stridecategory", "str ", "category:"]
-            ):
-                continue
-            # Skip other malformed patterns
-            if (
-                ")" in clean_category
-                or "(" in clean_category
-                or any(char in clean_category for char in [";", ":", "//", "category:"])
-            ):
-                continue
-
             lines.append(f"## {clean_category}\n")
 
             # Group skills by marketplace within category
@@ -202,7 +179,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                         skill.get("description", "").replace("\n", " ").strip()
                     )
                     version = skill.get("version", "")
-                    
+
                     # Truncate description for table readability
                     if len(description) > 120:
                         description = description[:117] + "..."
