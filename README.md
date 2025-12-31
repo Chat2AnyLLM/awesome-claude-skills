@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1333
+Total Skills: 1334
 
-Last updated: 2025-12-31 09:14 UTC
+Last updated: 2025-12-31 10:10 UTC
 
 ## Installation
 
@@ -519,6 +519,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [infographic-creation](https://github.com/antvis/Infographic/tree/master/.) | Create beautiful infographics based on the given text content. Use this when users request creating infographics. | None | antvis | Infographic |
 | [infographic-item-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-item-generator) | Generate or update infographic Item components for this repo (TypeScript/TSX in src/designs/items). Use when asked to... | None | antvis | infographic-item-generator |
 | [infographic-structure-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-structure-generator) | Generate or update infographic Structure components for this repo (TypeScript/TSX in src/designs/structures). Use whe... | None | antvis | infographic-structure-generator |
+| [infographic-syntax-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-syntax-generator) | Generate AntV Infographic syntax outputs. Use when asked to turn user content into the Infographic DSL (template sele... | None | antvis | infographic-syntax-generator |
 
 ### claude-night-market
 
