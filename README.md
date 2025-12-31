@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1334
+Total Skills: 1335
 
-Last updated: 2025-12-31 10:10 UTC
+Last updated: 2025-12-31 11:09 UTC
 
 ## Installation
 
@@ -1467,6 +1467,12 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to ... | None | anthropics | internal-comms |
+
+### Infographic
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [infographic-template-updater](https://github.com/antvis/Infographic/tree/master/.skills/infographic-template-updater) | Update template catalogs and UI prompts after adding new infographic templates (src/templates/*.ts), including SKILL.... | None | antvis | infographic-template-updater |
 
 ### claude-code-templates
 
