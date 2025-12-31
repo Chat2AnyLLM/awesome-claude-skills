@@ -4,7 +4,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 Total Skills: 1335
 
-Last updated: 2025-12-31 21:09 UTC
+Last updated: 2025-12-31 22:10 UTC
 
 ## Installation
 
@@ -356,7 +356,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [research-grants](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/research-grants) | Write competitive research proposals for NSF, NIH, DOE, and DARPA. Agency-specific formatting, review criteria, budge... | None | K-Dense-AI | research-grants |
 | [research-lookup](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/research-lookup) | Look up current research information using Perplexity's Sonar Pro Search or Sonar Reasoning Pro models through OpenRo... | None | K-Dense-AI | research-lookup |
 | [scanpy](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scanpy) | Single-cell RNA-seq analysis. Load .h5ad/10X data, QC, normalization, PCA/UMAP/t-SNE, Leiden clustering, marker genes... | None | K-Dense-AI | scanpy |
-| [Scholar Evaluation](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scholar-evaluation) |  | None | K-Dense-AI | scholar-evaluation |
+| [scholar-evaluation](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scholar-evaluation) | Systematically evaluate scholarly work using the ScholarEval framework, providing structured assessment across resear... | None | K-Dense-AI | scholar-evaluation |
 | [scientific-brainstorming](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scientific-brainstorming) | Research ideation partner. Generate hypotheses, explore interdisciplinary connections, challenge assumptions, develop... | None | K-Dense-AI | scientific-brainstorming |
 | [scientific-critical-thinking](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scientific-critical-thinking) | Evaluate research rigor. Assess methodology, experimental design, statistical validity, biases, confounding, evidence... | None | K-Dense-AI | scientific-critical-thinking |
 | [scientific-schematics](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scientific-schematics) | Create publication-quality scientific diagrams using Nano Banana Pro AI with smart iterative refinement. Uses Gemini ... | None | K-Dense-AI | scientific-schematics |
