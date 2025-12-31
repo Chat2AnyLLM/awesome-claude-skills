@@ -263,15 +263,49 @@ class Fetcher:
                             frontmatter = yaml.safe_load(frontmatter_str)
                         except yaml.YAMLError as e:
                             logger.info(f"Retrying YAML parse for {skill_md_path} with robust cleaning")
-                            # Fallback for unquoted colons in values
+                            # Fallback for unquoted colons in values and nested brackets in flow sequences
                             fixed_lines = []
                             for line in frontmatter_str.split('\n'):
                                 if ':' in line and not line.strip().startswith('#'):
                                     key, val = line.split(':', 1)
                                     val = val.strip()
+
+                                    # Handle flow sequences with nested brackets (e.g., [ray[train], torch])
+                                    if val.startswith('[') and val.endswith(']'):
+                                        # Check if there are unquoted nested brackets
+                                        import re
+                                        # Find items with nested brackets like ray[train]
+                                        if re.search(r'\w+\[[^\]]+\]', val):
+                                            # Quote items that contain brackets
+                                            items = []
+                                            # Simple parser for comma-separated values
+                                            current_item = ''
+                                            bracket_depth = 0
+                                            for char in val[1:-1]:  # Remove outer brackets
+                                                if char == '[':
+                                                    bracket_depth += 1
+                                                elif char == ']':
+                                                    bracket_depth -= 1
+                                                elif char == ',' and bracket_depth == 0:
+                                                    items.append(current_item.strip())
+                                                    current_item = ''
+                                                    continue
+                                                current_item += char
+                                            if current_item.strip():
+                                                items.append(current_item.strip())
+
+                                            # Quote items that need it
+                                            quoted_items = []
+                                            for item in items:
+                                                if '[' in item and not (item.startswith('"') or item.startswith("'")):
+                                                    quoted_items.append(f'"{item}"')
+                                                else:
+                                                    quoted_items.append(item)
+                                            val = '[' + ', '.join(quoted_items) + ']'
                                     # If value contains colon and is not quoted, wrap it
-                                    if ':' in val and not (val.startswith('"') or val.startswith("'")):
+                                    elif ':' in val and not (val.startswith('"') or val.startswith("'")):
                                         val = f'"{val}"'
+
                                     fixed_lines.append(f"{key}: {val}")
                                 else:
                                     fixed_lines.append(line)
