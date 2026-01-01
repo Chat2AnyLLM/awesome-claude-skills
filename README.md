@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1335
+Total Skills: 1336
 
-Last updated: 2026-01-01 00:55 UTC
+Last updated: 2026-01-01 03:01 UTC
 
 ## Installation
 
@@ -682,6 +682,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [notion-meeting-intelligence](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/notion-meeting-intelligence) | Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-re... | None | davila7 | notion-meeting-intelligence |
 | [notion-research-documentation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/notion-research-documentation) | Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sou... | None | davila7 | notion-research-documentation |
 | [notion-spec-to-implementation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/notion-spec-to-implementation) | Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs a... | None | davila7 | notion-spec-to-implementation |
+| [nowait-reasoning-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/nowait) | Implements the NOWAIT technique for efficient reasoning in R1-style LLMs. Use when optimizing inference of reasoning ... | None | davila7 | nowait |
 | [omero-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/omero-integration) | Microscopy data management platform. Access images via Python, retrieve datasets, analyze pixels, manage ROIs/annotat... | None | davila7 | omero-integration |
 | [openalex-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/openalex-database) | Query and analyze scholarly literature using the OpenAlex database. This skill should be used when searching for acad... | None | davila7 | openalex-database |
 | [opentargets-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/opentargets-database) | Query Open Targets Platform for target-disease associations, drug target discovery, tractability/safety data, genetic... | None | davila7 | opentargets-database |
