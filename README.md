@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1336
+Total Skills: 1338
 
-Last updated: 2026-01-02 05:16 UTC
+Last updated: 2026-01-02 06:17 UTC
 
 ## Installation
 
@@ -527,7 +527,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | --- | --- | --- | --- | --- |
 | [cpu-gpu-performance](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/performance-monitoring/cpu-gpu-performance) | Monitor and optimize CPU/GPU usage with load measurement and cost-effective validation strategies.  Triggers: CPU usa... | None | athola | cpu-gpu-performance |
 | [makefile-dogfooder](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/makefile-dogfooder) | Analyze and enhance Makefiles for complete user functionality coverage.  Triggers: Makefile analysis, Makefile gaps, ... | 1.0.0 | athola | makefile-dogfooder |
-| [mcp-code-execution](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/mcp-code-execution) | Transform tool-heavy workflows into MCP code execution patterns using MECW principles for optimized token savings and... | None | athola | mcp-code-execution |
+| [mcp-code-execution](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/mcp-code-execution) | Transform tool-heavy workflows into MCP code execution patterns for token savings and optimized processing.  Triggers... | None | athola | mcp-code-execution |
 | [optimizing-large-skills](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/optimizing-large-skills) | Systematic methodology to reduce skill file size through externalization, consolidation, and progressive loading patt... | None | athola | optimizing-large-skills |
 | [review-chamber](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/review-chamber) | Capture and retrieve PR review knowledge in project memory palaces | 1.0.0 | athola | review-chamber |
 | [token-conservation](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/resource-management/token-conservation) | Minimize token usage through conservative prompting, work delegation, and quota tracking.  Triggers: token usage, quo... | None | athola | token-conservation |
@@ -1638,9 +1638,9 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [commit-messages](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/commit-messages) | Generate conventional commit messages from staged changes by inspecting diffs, picking the correct type/scope, and wr... | None | athola | commit-messages |
-| [doc-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/doc-updates) | Update documentation files based on recent changes while enforcing project writing guidelines. Includes consolidation... | None | athola | doc-updates |
+| [doc-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/doc-updates) | Update documentation with writing guideline enforcement, consolidation detection, and accuracy verification.  Trigger... | None | athola | doc-updates |
 | [pr-prep](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/pr-prep) | Prepare a pull request by validating the workspace, running quality gates, summarizing changes, and drafting the PR t... | None | athola | pr-prep |
-| [tutorial-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/tutorial-updates) | Orchestrate tutorial generation with GIF recordings from VHS tape files and Playwright browser specs. Parses manifest... | None | athola | tutorial-updates |
+| [tutorial-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/tutorial-updates) | Orchestrate tutorial generation from VHS tapes and Playwright specs to dual-tone markdown with GIF recording.  Trigge... | None | athola | tutorial-updates |
 | [update-readme](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/update-readme) | Consolidate README content using language-aware exemplars, internal doc linkage, and reproducible evidence.  Triggers... | None | athola | update-readme |
 | [version-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/version-updates) | Bump project versions across configs, docs, and changelog using git-workspace-review context.  Triggers: version bump... | None | athola | version-updates |
 
@@ -1680,6 +1680,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
+| [bloat-detector](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/bloat-detector) | Detect codebase bloat through progressive analysis: dead code, duplication, complexity, and documentation bloat.  Tri... | None | athola | bloat-detector |
 | [context-optimization](https://github.com/athola/claude-night-market/tree/master/plugins/conservation/skills/context-optimization) | Reduce context usage with MECW principles (keep under 50% of total window).  Triggers: context pressure, token usage,... | None | athola | context-optimization |
 
 
@@ -1745,7 +1746,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [hooks-eval](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/hooks-eval) | Comprehensive hook evaluation framework for Claude Code and Agent SDK hooks.  Triggers: hook audit, hook security, ho... | 1.0.0 | athola | hooks-eval |
+| [hooks-eval](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/hooks-eval) | detailed hook evaluation framework for Claude Code and Agent SDK hooks.  Triggers: hook audit, hook security, hook pe... | 1.0.0 | athola | hooks-eval |
 
 
 ## infrastructure
@@ -1755,7 +1756,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [authentication-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/authentication-patterns) | Common authentication patterns for external service integration. Covers API keys, OAuth flows, token management, and ... | None | athola | authentication-patterns |
-| [error-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/error-patterns) | Standardized error handling patterns for robust plugin development. Provides error classification, recovery strategie... | None | athola | error-patterns |
+| [error-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/error-patterns) | Standardized error handling patterns for production-grade plugin development. Provides error classification, recovery... | None | athola | error-patterns |
 | [evaluation-framework](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/evaluation-framework) | Generic weighted scoring and threshold-based decision framework for evaluating artifacts against configurable criteri... | None | athola | evaluation-framework |
 | [mecw-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/mecw-patterns) | Maximum Effective Context Window (MECW) theory and practical patterns for preventing hallucinations through context m... | None | athola | mecw-patterns |
 | [progressive-loading](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/progressive-loading) | Standardized patterns for context-aware, progressive module loading that optimizes token usage. Implements hub-and-sp... | None | athola | progressive-loading |
@@ -1768,7 +1769,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [shared](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/shared) | Shared infrastructure and patterns for imbue analysis skills.  Triggers: imbue patterns, todowrite patterns, evidence... | None | athola | shared |
 | [storage-templates](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/storage-templates) | Generic template patterns and lifecycle stages for knowledge storage, configuration management, and structured docume... | None | athola | storage-templates |
 | [testing-quality-standards](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/testing-quality-standards) | Shared testing quality metrics and standards for cross-plugin use. Referenced by pensive:test-review and parseltongue... | None | athola | testing-quality-standards |
-| [usage-logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) | Session-aware usage logging infrastructure for audit trails, cost tracking, and analytics. Provides structured loggin... | None | athola | usage-logging |
+| [usage-logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) | Session-aware usage logging for audit trails, cost tracking, and analytics with JSONL format.  Triggers: usage loggin... | None | athola | usage-logging |
 
 
 ## media-generation
@@ -1907,7 +1908,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [skills-eval](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/skills-eval) | Evaluate and improve Claude skill quality through comprehensive auditing.  Triggers: skill audit, quality review, com... | 2.0.0 | athola | skills-eval |
+| [skills-eval](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/skills-eval) | Evaluate and improve Claude skill quality through auditing.  Triggers: skill audit, quality review, compliance check,... | 2.0.0 | athola | skills-eval |
 
 
 ## specialized
@@ -1944,7 +1945,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [test-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/test-updates) | Update and maintain tests following TDD/BDD principles with comprehensive quality assurance.  Triggers: test updates,... | 1.0.0 | athola | test-updates |
+| [test-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/test-updates) | Update and maintain tests following TDD/BDD principles with detailed quality assurance.  Triggers: test updates, test... | 1.0.0 | athola | test-updates |
 
 
 ## workflow
@@ -1953,7 +1954,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [development-workflow](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/docs/examples/modular-skills/complete-skills/development-workflow) | Comprehensive development workflow with modular patterns for git, code review, testing, documentation, and deployment | 2.0.0 | athola | development-workflow |
+| [development-workflow](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/docs/examples/modular-skills/complete-skills/development-workflow) | detailed development workflow with modular patterns for git, code review, testing, documentation, and deployment | 2.0.0 | athola | development-workflow |
 
 
 ## workflow-automation
@@ -1972,6 +1973,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [feature-review](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/feature-review) | Review implemented features and suggest new features using configurable prioritization heuristics. Supports GitHub is... | None | athola | feature-review |
+| [proof-of-work](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/proof-of-work) | Enforces "prove before claim" discipline - validation, testing, and evidence requirements before declaring work compl... | None | athola | proof-of-work |
 | [scope-guard](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/scope-guard) | Prevents overengineering through worthiness scoring, opportunity cost comparison, and branch threshold monitoring.  T... | None | athola | scope-guard |
 
 
@@ -1990,7 +1992,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [modular-skills](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/modular-skills) | Design skills as modular building blocks for predictable token usage and maintainable architecture.  Triggers: skill ... | None | athola | modular-skills |
+| [modular-skills](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/modular-skills) | Design skills as modular building blocks for predictable token usage.  Triggers: skill design, skill architecture, mo... | None | athola | modular-skills |
 
 
 ## workflow-orchestration
@@ -1999,7 +2001,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [speckit-orchestrator](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/speckit-orchestrator) | Workflow orchestrator for Spec Driven Development. Coordinates skill loading, tracks progress, and ensures consistenc... | None | athola | speckit-orchestrator |
+| [speckit-orchestrator](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/speckit-orchestrator) | Workflow orchestrator for Spec Driven Development. Coordinates skill loading, tracks progress, and validates consiste... | None | athola | speckit-orchestrator |
 
 
 ## workspace-ops
