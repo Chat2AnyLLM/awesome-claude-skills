@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1551
+Total Skills: 1553
 
-Last updated: 2026-01-03 01:51 UTC
+Last updated: 2026-01-03 02:43 UTC
 
 ## Installation
 
@@ -1059,6 +1059,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [firestore-operations-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/jeremy-firestore/skills/firestore-operations-manager) | Manage Firebase/Firestore operations including CRUD, queries, batch processing, and index/rule guidance. Use when you... | 1.0.0 | jeremylongshore | firestore-operations-manager |
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | This skill enables AI assistant to forecast future values based on historical time series data. it analyzes time-depe... | 1.0.0 | jeremylongshore | forecasting-time-series-data |
 | [fuzzing-apis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/api-fuzzer/skills/fuzzing-apis) | Perform API fuzzing to discover edge cases, crashes, and security vulnerabilities. Use when performing specialized te... | 1.0.0 | jeremylongshore | fuzzing-apis |
+| [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/gastown/skills/gastown) | Multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town,  gt commands, bd commands, convoy... | 1.0.0 | jeremylongshore | gastown |
 | [gcp-examples-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-gcp-starter-examples/skills/gcp-examples-expert) | Generate production-ready Google Cloud code examples from official repositories including ADK samples, Genkit templat... | 1.0.0 | jeremylongshore | gcp-examples-expert |
 | [generating-api-contracts](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-contract-generator/skills/generating-api-contracts) | Generate API contracts and OpenAPI specifications from code or design documents. Use when documenting API contracts a... | 1.0.0 | jeremylongshore | generating-api-contracts |
 | [generating-api-docs](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-documentation-generator/skills/generating-api-docs) | Create comprehensive API documentation with examples, authentication guides, and SDKs. Use when creating comprehensiv... | 1.0.0 | jeremylongshore | generating-api-docs |
@@ -1378,6 +1379,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [windsurf-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics) | Analyze team AI usage patterns and productivity metrics. Activate when users mention "usage analytics", "ai metrics",... | 1.0.0 | jeremylongshore | windsurf-usage-analytics |
 | [windsurf-workspace-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-workspace-setup) | Initialize Windsurf workspace with project-specific AI rules. Activate when users mention "create windsurfrules", "se... | 1.0.0 | jeremylongshore | windsurf-workspace-setup |
 | [yaml-master](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/002-jeremy-yaml-master-agent/skills/yaml-master) | Proactive YAML intelligence: automatically activates when working with YAML files. Use when appropriate context detec... | 1.0.0 | jeremylongshore | yaml-master |
+| [zai-cli](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/zai-cli/skills/zai-cli) | Z.AI CLI providing vision, search, reader, and GitHub exploration via CLI and MCP. Use when user needs image/video an... | 1.0.0 | jeremylongshore | zai-cli |
 
 ### playwright-skill
 
