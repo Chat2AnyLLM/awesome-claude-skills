@@ -4,7 +4,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 Total Skills: 1569
 
-Last updated: 2026-01-04 22:09 UTC
+Last updated: 2026-01-04 23:09 UTC
 
 ## Installation
 
@@ -1763,7 +1763,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
 | [analyzing-text-with-nlp](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/nlp-text-analyzer/skills/analyzing-text-with-nlp) | This skill enables AI assistant to perform natural language processing and text analysis using the nlp-text-analyzer ... | 1.0.0 | jeremylongshore | analyzing-text-with-nlp |
-| [claude-reflect](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/claude-reflect) | Self-learning system that captures corrections during sessions and reminds users to run /reflect to update CLAUDE.md.... | None | jeremylongshore | claude-reflect |
+| [claude-reflect](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/claude-reflect) | Self-learning system that captures corrections during sessions and syncs them to CLAUDE.md. Use when discussing learn... | 1.4.1 | jeremylongshore | claude-reflect |
 | [creating-data-visualizations](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-visualization-creator/skills/creating-data-visualizations) | Generate plots, charts, and graphs from data with automatic visualization type selection. Use when requesting "visual... | 1.0.0 | jeremylongshore | creating-data-visualizations |
 | [generating-compliance-reports](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/compliance-report-generator/skills/generating-compliance-reports) | Generate comprehensive compliance reports for security standards. Use when creating compliance documentation. Trigger... | 1.0.0 | jeremylongshore | generating-compliance-reports |
 | [scanning-for-gdpr-compliance](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/gdpr-compliance-scanner/skills/scanning-for-gdpr-compliance) | Scan for GDPR compliance issues in data handling and privacy practices. Use when ensuring EU data protection complian... | 1.0.0 | jeremylongshore | scanning-for-gdpr-compliance |
