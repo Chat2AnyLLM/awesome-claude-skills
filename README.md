@@ -2,9 +2,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 1562
+Total Skills: 1568
 
-Last updated: 2026-01-04 00:55 UTC
+Last updated: 2026-01-04 02:11 UTC
 
 ## Installation
 
@@ -169,6 +169,17 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 | [picocom](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/picocom) | Use picocom to interact with IoT device UART consoles for pentesting operations including device enumeration, vulnera... | None | BrownFineSecurity | picocom |
 | [telnetshell](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/telnetshell) | Use telnet to interact with IoT device shells for pentesting operations including device enumeration, vulnerability d... | None | BrownFineSecurity | telnetshell |
 | [wsdiscovery](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/wsdiscovery) | WS-Discovery protocol scanner for discovering and enumerating ONVIF cameras and IoT devices on the network. Use when ... | None | BrownFineSecurity | wsdiscovery |
+
+### claude-workflow-v2
+
+| Skill | Description | Version | Author | Directory |
+| --- | --- | --- | --- | --- |
+| [analyzing-projects](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/analyzing-projects) | Analyzes codebases to understand structure, tech stack, patterns, and conventions. Use when onboarding to a new proje... | None | CloudAI-X | analyzing-projects |
+| [designing-apis](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis) | Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation. Use when creating n... | None | CloudAI-X | designing-apis |
+| [designing-architecture](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-architecture) | Designs software architecture and selects appropriate patterns for projects. Use when designing systems, choosing arc... | None | CloudAI-X | designing-architecture |
+| [designing-tests](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-tests) | Designs and implements testing strategies for any codebase. Use when adding tests, improving coverage, setting up tes... | None | CloudAI-X | designing-tests |
+| [managing-git](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/managing-git) | Manages Git workflows including branching, commits, and pull requests. Use when working with Git, creating commits, o... | None | CloudAI-X | managing-git |
+| [optimizing-performance](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/optimizing-performance) | Analyzes and optimizes application performance across frontend, backend, and database layers. Use when diagnosing slo... | None | CloudAI-X | optimizing-performance |
 
 ### awesome-claude-skills
 
