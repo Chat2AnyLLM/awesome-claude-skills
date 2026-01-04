@@ -4,7 +4,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 Total Skills: 1568
 
-Last updated: 2026-01-04 04:39 UTC
+Last updated: 2026-01-04 05:17 UTC
 
 ## Installation
 
@@ -578,10 +578,10 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [infographic-creation](https://github.com/antvis/Infographic/tree/master/.) | Create beautiful infographics based on the given text content. Use this when users request creating infographics. | None | antvis | Infographic |
-| [infographic-item-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-item-generator) | Generate or update infographic Item components for this repo (TypeScript/TSX in src/designs/items). Use when asked to... | None | antvis | infographic-item-generator |
-| [infographic-structure-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-structure-generator) | Generate or update infographic Structure components for this repo (TypeScript/TSX in src/designs/structures). Use whe... | None | antvis | infographic-structure-generator |
-| [infographic-syntax-generator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-syntax-generator) | Generate AntV Infographic syntax outputs. Use when asked to turn user content into the Infographic DSL (template sele... | None | antvis | infographic-syntax-generator |
+| [infographic-creator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-creator) | Create beautiful infographics based on the given text content. Use this when users request creating infographics. | None | antvis | infographic-creator |
+| [infographic-item-creator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-item-creator) | Generate or update infographic Item components for this repo (TypeScript/TSX in src/designs/items). Use when asked to... | None | antvis | infographic-item-creator |
+| [infographic-structure-creator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-structure-creator) | Generate or update infographic Structure components for this repo (TypeScript/TSX in src/designs/structures). Use whe... | None | antvis | infographic-structure-creator |
+| [infographic-syntax-creator](https://github.com/antvis/Infographic/tree/master/.skills/infographic-syntax-creator) | Generate AntV Infographic syntax outputs. Use when asked to turn user content into the Infographic DSL (template sele... | None | antvis | infographic-syntax-creator |
 
 ### claude-night-market
 
