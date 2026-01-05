@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 HTTP and Git fetching utilities for skills scraper
+
+This now uses the new CAM-style architecture for fetching skills from repositories.
 """
 
 import requests
@@ -17,7 +19,14 @@ from typing import Dict, Any, Optional, List
 from urllib.parse import urljoin
 from .validators import Validator
 
+# Import new CAM-style architecture components
+from ..fetching.base import BaseEntityFetcher, RepoConfig, EntityParser
+from ..fetching.repository import GitRepository
+from ..fetching.parsers import SkillParser
+from ..fetching.parallel import ParallelFetcher
+
 logger = logging.getLogger(__name__)
+
 
 class Fetcher:
     """HTTP and Git data fetching utilities."""
@@ -538,6 +547,52 @@ class Fetcher:
 
         # Fallback to Uncategorized
         return 'Uncategorized'
+
+    def _fetch_from_repos_with_cam_architecture(self, repos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """Fetch skills using the new CAM-style architecture for repositories."""
+        # Convert from dict format to RepoConfig objects
+        repo_configs = []
+        for repo_data in repos:
+            if not repo_data.get("enabled", True):
+                continue
+
+            repo_config = RepoConfig(
+                owner=repo_data.get("owner") or repo_data.get("repoOwner"),
+                name=repo_data.get("name") or repo_data.get("repoName"),
+                branch=repo_data.get("branch", "main") or repo_data.get("repoBranch", "main"),
+                path=repo_data.get("skillsPath") or repo_data.get("path"),
+                exclude=repo_data.get("exclude"),
+                enabled=repo_data.get("enabled", True)
+            )
+            repo_configs.append(repo_config)
+
+        # Use the CAM-style architecture
+        parser = SkillParser()
+        fetcher = BaseEntityFetcher(parser=parser)
+
+        # Fetch using the new architecture
+        skills = fetcher.fetch_from_repos(repos=repo_configs, max_workers=8)
+
+        # Convert Skill objects to dictionaries for backward compatibility
+        skill_dicts = []
+        for skill in skills:
+            skill_dict = {
+                "id": skill.id,  # Use the correct field name from our Skill model
+                "name": skill.name,
+                "description": skill.description,
+                "category": skill.category,
+                "marketplace_id": skill.marketplace_id,
+                "repo_owner": skill.repo_owner,
+                "repo_name": skill.repo_name,
+                "repo_branch": skill.repo_branch,
+                "directory": skill.directory,
+                "readme_url": skill.readme_url,
+                "tags": skill.tags,
+                "version": skill.version
+            }
+            skill_dicts.append(skill_dict)
+
+        return skill_dicts
 
     def fetch_skills_from_marketplace(self, marketplace_data: Dict[str, Any]) -> List[Dict[str, Any]]:
         """Fetch all skills from a marketplace by cloning its repository."""
