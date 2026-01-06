@@ -62,7 +62,7 @@ def parse_marketplace_data(raw_data: dict) -> list:
                 "description": data.get("description", ""),
                 "repoOwner": data.get("repoOwner"),
                 "repoName": data.get("repoName"),
-                "repoBranch": data.get("repoBranch", "main"),
+                "repoBranch": data.get("repoBranch"),  # None means auto-detect default branch
                 "url": data.get("url"),
                 "source_url": data.get("source_url"),
                 "enabled": data.get("enabled", True)

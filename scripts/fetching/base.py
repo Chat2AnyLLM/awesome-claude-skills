@@ -16,7 +16,7 @@ class RepoConfig:
     """Generic repository configuration."""
     owner: str
     name: str
-    branch: str = "main"
+    branch: Optional[str] = None  # None means auto-detect default branch
     path: Optional[str] = None  # Subdirectory path (skills_path, agents_path, etc.)
     exclude: Optional[List[str]] = None  # Paths/patterns to exclude from scanning
     enabled: bool = True

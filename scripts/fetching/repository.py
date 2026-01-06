@@ -5,7 +5,7 @@ import subprocess
 import tempfile
 from contextlib import contextmanager
 from pathlib import Path
-from typing import Generator, Tuple
+from typing import Generator, Tuple, Optional
 import logging
 
 logger = logging.getLogger(__name__)
@@ -16,18 +16,42 @@ class GitRepository:
 
     BRANCH_FALLBACKS = ["main", "master", "develop", "development", "dev", "trunk"]
 
-    def __init__(self, owner: str, name: str, branch: str = "main"):
+    def __init__(self, owner: str, name: str, branch: Optional[str] = None):
         """Initialize git repository.
 
         Args:
             owner: Repository owner
             name: Repository name
-            branch: Branch to clone (with automatic fallback)
+            branch: Branch to clone (None means auto-detect default branch)
         """
         self.owner = owner
         self.name = name
-        self.branch = branch
+        self.branch = branch  # None means auto-detect
         self.url = f"https://github.com/{owner}/{name}.git"
+
+    def _get_default_branch(self) -> str:
+        """Get the default branch of a repository using git ls-remote."""
+        try:
+            logger.debug(f"Detecting default branch for {self.url}")
+            result = subprocess.run(
+                ["git", "ls-remote", "--symref", self.url, "HEAD"],
+                capture_output=True,
+                text=True,
+                timeout=30
+            )
+            if result.returncode == 0:
+                for line in result.stdout.split('\n'):
+                    if line.startswith("ref: refs/heads/"):
+                        # Output format: "ref: refs/heads/main  HEAD"
+                        parts = line.split('\t')
+                        if len(parts) > 0:
+                            detected_branch = parts[0].replace("ref: refs/heads/", "").strip()
+                            logger.info(f"Detected default branch '{detected_branch}' for {self.owner}/{self.name}")
+                            return detected_branch
+        except Exception as e:
+            logger.warning(f"Failed to detect default branch for {self.url}: {e}")
+
+        return "main"
 
     @contextmanager
     def clone(self) -> Generator[Tuple[Path, str], None, None]:
@@ -40,12 +64,24 @@ class GitRepository:
         actual_branch = self.branch
 
         try:
-            # Try requested branch first
-            branches_to_try = [self.branch]
+            # Determine which branch to use
+            if self.branch is None:
+                # Auto-detect default branch
+                actual_branch = self._get_default_branch()
+            else:
+                actual_branch = self.branch
+                # If branch is default "main", try to detect actual default branch
+                if self.branch == "main":
+                    detected_branch = self._get_default_branch()
+                    if detected_branch != "main":
+                        actual_branch = detected_branch
+
+            # Try the detected/requested branch first
+            branches_to_try = [actual_branch]
 
             # Add fallbacks if branch is common
-            if self.branch in self.BRANCH_FALLBACKS:
-                branches_to_try.extend([b for b in self.BRANCH_FALLBACKS if b != self.branch])
+            if actual_branch in self.BRANCH_FALLBACKS:
+                branches_to_try.extend([b for b in self.BRANCH_FALLBACKS if b != actual_branch])
 
             success = False
             for branch in branches_to_try:

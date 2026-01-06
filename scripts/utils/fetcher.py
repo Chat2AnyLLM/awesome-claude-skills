@@ -559,7 +559,7 @@ class Fetcher:
             repo_config = RepoConfig(
                 owner=repo_data.get("owner") or repo_data.get("repoOwner"),
                 name=repo_data.get("name") or repo_data.get("repoName"),
-                branch=repo_data.get("branch", "main") or repo_data.get("repoBranch", "main"),
+                branch=repo_data.get("branch") or repo_data.get("repoBranch"),  # None means auto-detect
                 path=repo_data.get("skillsPath") or repo_data.get("path"),
                 exclude=repo_data.get("exclude"),
                 enabled=repo_data.get("enabled", True)
