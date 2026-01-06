@@ -40,6 +40,39 @@ def generate_readme(marketplaces: list, skills: list, output_file: str) -> bool:
 
     content = generator.generate_readme()
 
+    # Check if content has actually changed (excluding timestamp)
+    output_path = Path(output_file)
+    if output_path.exists():
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                existing_content = f.read()
+
+            # Extract content without timestamp for comparison
+            existing_lines = existing_content.split('\n')
+            new_lines = content.split('\n')
+
+            # Find and remove timestamp lines for comparison
+            existing_content_no_timestamp = '\n'.join([
+                line for line in existing_lines
+                if not line.strip().startswith('Last updated:')
+            ])
+
+            new_content_no_timestamp = '\n'.join([
+                line for line in new_lines
+                if not line.strip().startswith('Last updated:')
+            ])
+
+            # If content is the same (excluding timestamp), don't update
+            if existing_content_no_timestamp == new_content_no_timestamp:
+                logger = logging.getLogger(__name__)
+                logger.info("README content unchanged, skipping update to preserve timestamp")
+                return True
+
+        except Exception as e:
+            logger = logging.getLogger(__name__)
+            logger.warning(f"Could not read existing README for comparison: {e}")
+            # Continue with generation if we can't read the existing file
+
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(content)
