@@ -94,13 +94,11 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
             clean_category = category.strip()
 
-            # Clean category name for anchor using GitHub's algorithm
-            # GitHub normalizes Unicode characters and removes punctuation
-            normalized = unicodedata.normalize('NFKD', clean_category)
-            # Keep only ASCII letters, numbers, spaces, and hyphens
-            ascii_only = ''.join(c for c in normalized if ord(c) < 128 or c in ' -')
-            anchor = re.sub(r'[^a-zA-Z0-9\s-]', '', ascii_only)  # Remove punctuation but keep spaces and hyphens
-            anchor = anchor.lower().replace(' ', '-')
+            # Clean category name for anchor using GitHub's algorithm (matching github-slugger)
+            # GitHub's algorithm: lowercase -> remove punctuation -> replace spaces -> collapse hyphens -> trim
+            anchor_text = clean_category.lower().strip()
+            anchor = re.sub(r'[\u2000-\u206F\u2E00-\u2E7F\\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~]', '', anchor_text)
+            anchor = anchor.replace(' ', '-')
             anchor = re.sub(r'-+', '-', anchor)  # Collapse multiple hyphens
             anchor = anchor.strip('-')  # Remove leading/trailing hyphens
             lines.append(f"- [{clean_category}](#{anchor})")
