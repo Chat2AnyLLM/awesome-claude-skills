@@ -83,25 +83,46 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         return True
 
     def generate_table_of_contents(self) -> str:
-        """Generate table of contents with all categories in a flat list."""
+        """Generate hierarchical table of contents following Uber Go guide principles."""
         lines = ["## Contents\n"]
 
-        # Group skills by category
-        categories = self._get_categories()
+        # Define skill categories organized by logical groups (following Uber Go guide structure)
+        skill_categories = {
+            "Core Development": [
+                "architecture", "architectural-pattern", "architecture-decision", "async", "build",
+                "code-review", "documentation", "infrastructure", "meta-infrastructure", "orchestration",
+                "packaging", "performance", "planning", "project-initialization", "project-management",
+                "review", "review-patterns", "specialized", "specification", "testing", "testing-automation"
+            ],
+            "AI & Machine Learning": [
+                "agent-workflow", "analysis-methods", "artifact-generation", "delegation-framework",
+                "delegation-implementation", "hook-development", "hook-management", "media-generation",
+                "navigation", "output-patterns"
+            ],
+            "Automation & Workflow": [
+                "session-management", "workflow", "workflow-automation", "workflow-methodology",
+                "workflow-ops", "workflow-optimization", "workflow-orchestration", "workspace-ops"
+            ],
+            "Infrastructure & Operations": [
+                "governance", "conservation", "cultivation"
+            ],
+            "Research & Development": [
+                "Uncategorized"
+            ]
+        }
 
-        # Add all categories in a flat list
-        for category in sorted(categories.keys()):
-            if not self._is_valid_category(category):
-                continue
+        # Generate hierarchical TOC
+        for main_section, subcategories in skill_categories.items():
+            lines.append(f"### {main_section}")
 
-            clean_category = category.strip()
+            for category in sorted(subcategories):
+                if category in self._get_categories():
+                    clean_category = category.strip()
+                    anchor = clean_category.lower().replace(' ', '-').replace('_', '-')
+                    anchor = re.sub(r'-+', '-', anchor).strip('-')
+                    lines.append(f"  - [{clean_category}](#{anchor})")
 
-            # Clean category name for anchor - simple and reliable
-            # Just lowercase and replace spaces/underscores with hyphens
-            anchor = clean_category.lower().replace(' ', '-').replace('_', '-')
-            anchor = re.sub(r'-+', '-', anchor)  # Collapse multiple hyphens
-            anchor = anchor.strip('-')  # Remove leading/trailing hyphens
-            lines.append(f"- [{clean_category}](#{anchor})")
+            lines.append("")
 
         lines.append("- [Contributing](#contributing)")
         lines.append("")
@@ -134,7 +155,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         return "\n".join(lines)
 
     def generate_skills_by_category(self) -> str:
-        """Generate skills organized by category with table format."""
+        """Generate skills organized by logical categories following Uber Go guide structure."""
         if not self.skills:
             return ""
 
@@ -145,70 +166,108 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
             categories[category].append(skill)
 
         lines = [""]
-        for category in sorted(categories.keys()):
-            if not self._is_valid_category(category):
-                continue
 
-            clean_category = category.strip()
-            lines.append(f"## {clean_category}\n")
+        # Define skill categories organized by logical groups (matching TOC structure)
+        skill_categories = {
+            "Core Development": [
+                "architecture", "architectural-pattern", "architecture-decision", "async", "build",
+                "code-review", "documentation", "infrastructure", "meta-infrastructure", "orchestration",
+                "packaging", "performance", "planning", "project-initialization", "project-management",
+                "review", "review-patterns", "specialized", "specification", "testing", "testing-automation"
+            ],
+            "AI & Machine Learning": [
+                "agent-workflow", "analysis-methods", "artifact-generation", "delegation-framework",
+                "delegation-implementation", "hook-development", "hook-management", "media-generation",
+                "navigation", "output-patterns"
+            ],
+            "Automation & Workflow": [
+                "session-management", "workflow", "workflow-automation", "workflow-methodology",
+                "workflow-ops", "workflow-optimization", "workflow-orchestration", "workspace-ops"
+            ],
+            "Infrastructure & Operations": [
+                "governance", "conservation", "cultivation"
+            ],
+            "Research & Development": [
+                "Uncategorized"
+            ]
+        }
 
-            # Group skills by marketplace within category
-            marketplace_skills = defaultdict(list)
-            for skill in categories[category]:
-                marketplace_id = skill.get("marketplace_id", "unknown")
-                marketplace_skills[marketplace_id].append(skill)
+        # Generate content for each main category
+        for main_section, subcategories in skill_categories.items():
+            section_has_content = False
 
-            # Sort marketplace IDs to ensure consistent ordering
-            for marketplace_id in sorted(marketplace_skills.keys()):
-                skills = marketplace_skills[marketplace_id]
-                marketplace_name = self._get_marketplace_name(marketplace_id)
-                if marketplace_name:
-                    lines.append(f"### {marketplace_name}\n")
+            for category in subcategories:
+                if category in categories and self._is_valid_category(category):
+                    if not section_has_content:
+                        # Add main section header
+                        lines.append(f"## {main_section}")
+                        lines.append("")
+                        section_has_content = True
 
-                # Table header
-                lines.append("| Skill | Description | Version | Author | Directory |")
-                lines.append("| --- | --- | --- | --- | --- |")
+                    # Add category subsection
+                    clean_category = category.strip()
+                    lines.append(f"### {clean_category}")
+                    lines.append("")
 
-                # Sort skills alphabetically by directory name
-                sorted_skills = sorted(skills, key=lambda s: s.get("directory", ""))
+                    # Group skills by marketplace within category
+                    marketplace_skills = defaultdict(list)
+                    for skill in categories[category]:
+                        marketplace_id = skill.get("marketplace_id", "unknown")
+                        marketplace_skills[marketplace_id].append(skill)
 
-                for skill in sorted_skills:
-                    name = skill.get("name", "Unknown Skill")
-                    description = (
-                        skill.get("description", "").replace("\n", " ").strip()
-                    )
-                    version = skill.get("version", "")
+                    # Generate content for each marketplace
+                    for marketplace_id in sorted(marketplace_skills.keys()):
+                        skills = marketplace_skills[marketplace_id]
+                        marketplace_name = self._get_marketplace_name(marketplace_id)
+                        if marketplace_name:
+                            lines.append(f"#### {marketplace_name}")
+                            lines.append("")
 
-                    # Truncate description for table readability
-                    if len(description) > 120:
-                        description = description[:117] + "..."
+                        # Table header
+                        lines.append("| Skill | Description | Version | Author | Directory |")
+                        lines.append("| --- | --- | --- | --- | --- |")
 
-                    # For skills, we don't have author field in the same way as plugins
-                    # Use repo_owner as author
-                    author = skill.get("repo_owner", "Unknown")
+                        # Sort skills alphabetically by directory name
+                        sorted_skills = sorted(skills, key=lambda s: s.get("directory", ""))
 
-                    directory = skill.get("directory", "Unknown")
-                    readme_url = skill.get("readme_url", "")
+                        for skill in sorted_skills:
+                            name = skill.get("name", "Unknown Skill")
+                            description = (
+                                skill.get("description", "").replace("\n", " ").strip()
+                            )
+                            version = skill.get("version", "")
 
-                    # Use skill name from metadata, fallback to directory if name is empty
-                    skill_name = name if name else directory
+                            # Truncate description for table readability
+                            if len(description) > 120:
+                                description = description[:117] + "..."
 
-                    # Make skill name a hyperlink if URL exists
-                    if readme_url:
-                        skill_name_cell = f"[{skill_name}]({readme_url})"
-                    else:
-                        skill_name_cell = skill_name
+                            # For skills, we don't have author field in the same way as plugins
+                            # Use repo_owner as author
+                            author = skill.get("repo_owner", "Unknown")
 
-                    # Escape pipe characters in description
-                    description = description.replace("|", "\\|")
+                            directory = skill.get("directory", "Unknown")
+                            readme_url = skill.get("readme_url", "")
 
-                    lines.append(
-                        f"| {skill_name_cell} | {description} | {version} | {author} | {directory} |"
-                    )
+                            # Use skill name from metadata, fallback to directory if name is empty
+                            skill_name = name if name else directory
 
+                            # Make skill name a hyperlink if URL exists
+                            if readme_url:
+                                skill_name_cell = f"[{skill_name}]({readme_url})"
+                            else:
+                                skill_name_cell = skill_name
+
+                            # Escape pipe characters in description
+                            description = description.replace("|", "\\|")
+
+                            lines.append(
+                                f"| {skill_name_cell} | {description} | {version} | {author} | {directory} |"
+                            )
+
+                        lines.append("")
+
+            if section_has_content:
                 lines.append("")
-
-            lines.append("")
 
         return "\n".join(lines)
 
