@@ -4,7 +4,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 Total Skills: 3755
 
-Last updated: 2026-01-07 11:37 UTC
+Last updated: 2026-01-07 11:41 UTC
 
 ## Installation
 
@@ -23,63 +23,51 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 ## Contents
 
-### 🏗️ Development & Programming
-  - [architecture](#architecture)
-  - [architectural-pattern](#architectural-pattern)
-  - [architecture-decision](#architecture-decision)
-  - [async](#async)
-  - [build](#build)
-  - [code-review](#code-review)
-  - [documentation](#documentation)
-  - [infrastructure](#infrastructure)
-  - [meta-infrastructure](#meta-infrastructure)
-  - [orchestration](#orchestration)
-  - [packaging](#packaging)
-  - [performance](#performance)
-  - [planning](#planning)
-  - [project-initialization](#project-initialization)
-  - [project-management](#project-management)
-  - [review](#review)
-  - [review-patterns](#review-patterns)
-  - [specialized](#specialized)
-  - [specification](#specification)
-  - [testing](#testing)
-  - [testing-automation](#testing-automation)
-
-### 🤖 Skills & Training
-  - [skill-development](#skill-development)
-  - [skill-management](#skill-management)
-  - [hook-development](#hook-development)
-  - [hook-management](#hook-management)
-  - [agent-workflow](#agent-workflow)
-  - [delegation-framework](#delegation-framework)
-  - [delegation-implementation](#delegation-implementation)
-
-### ⚡ Workflow & Automation
-  - [workflow](#workflow)
-  - [workflow-automation](#workflow-automation)
-  - [workflow-methodology](#workflow-methodology)
-  - [workflow-ops](#workflow-ops)
-  - [workflow-optimization](#workflow-optimization)
-  - [workflow-orchestration](#workflow-orchestration)
-  - [session-management](#session-management)
-  - [workspace-ops](#workspace-ops)
-
-### 🔍 Analysis & Methods
-  - [analysis-methods](#analysis-methods)
-  - [artifact-generation](#artifact-generation)
-  - [media-generation](#media-generation)
-  - [navigation](#navigation)
-  - [output-patterns](#output-patterns)
-
-### 🏛️ System & Governance
-  - [governance](#governance)
-  - [conservation](#conservation)
-  - [cultivation](#cultivation)
-
-### 📂 Other
-  - [Uncategorized](#uncategorized)
-
+- [Uncategorized](#uncategorized)
+- [agent-workflow](#agent-workflow)
+- [analysis-methods](#analysis-methods)
+- [architectural-pattern](#architectural-pattern)
+- [architecture](#architecture)
+- [architecture-decision](#architecture-decision)
+- [artifact-generation](#artifact-generation)
+- [async](#async)
+- [build](#build)
+- [code-review](#code-review)
+- [conservation](#conservation)
+- [cultivation](#cultivation)
+- [delegation-framework](#delegation-framework)
+- [delegation-implementation](#delegation-implementation)
+- [documentation](#documentation)
+- [governance](#governance)
+- [hook-development](#hook-development)
+- [hook-management](#hook-management)
+- [infrastructure](#infrastructure)
+- [media-generation](#media-generation)
+- [meta-infrastructure](#meta-infrastructure)
+- [navigation](#navigation)
+- [orchestration](#orchestration)
+- [output-patterns](#output-patterns)
+- [packaging](#packaging)
+- [performance](#performance)
+- [planning](#planning)
+- [project-initialization](#project-initialization)
+- [project-management](#project-management)
+- [review](#review)
+- [review-patterns](#review-patterns)
+- [session-management](#session-management)
+- [skill-development](#skill-development)
+- [skill-management](#skill-management)
+- [specialized](#specialized)
+- [specification](#specification)
+- [testing](#testing)
+- [testing-automation](#testing-automation)
+- [workflow](#workflow)
+- [workflow-automation](#workflow-automation)
+- [workflow-methodology](#workflow-methodology)
+- [workflow-ops](#workflow-ops)
+- [workflow-optimization](#workflow-optimization)
+- [workflow-orchestration](#workflow-orchestration)
+- [workspace-ops](#workspace-ops)
 - [Contributing](#contributing)
 
 ## Uncategorized

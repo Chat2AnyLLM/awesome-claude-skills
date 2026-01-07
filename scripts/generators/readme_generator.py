@@ -83,58 +83,25 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         return True
 
     def generate_table_of_contents(self) -> str:
-        """Generate table of contents with categorized sections."""
+        """Generate table of contents with all categories in a flat list."""
         lines = ["## Contents\n"]
 
         # Group skills by category
         categories = self._get_categories()
 
-        # Define category groupings for better organization
-        category_groups = {
-            "🏗️ Development & Programming": [
-                "architecture", "architectural-pattern", "architecture-decision", "async", "build",
-                "code-review", "documentation", "infrastructure", "meta-infrastructure", "orchestration",
-                "packaging", "performance", "planning", "project-initialization", "project-management",
-                "review", "review-patterns", "specialized", "specification", "testing", "testing-automation"
-            ],
-            "🤖 Skills & Training": [
-                "skill-development", "skill-management", "hook-development", "hook-management",
-                "agent-workflow", "delegation-framework", "delegation-implementation"
-            ],
-            "⚡ Workflow & Automation": [
-                "workflow", "workflow-automation", "workflow-methodology", "workflow-ops",
-                "workflow-optimization", "workflow-orchestration", "session-management", "workspace-ops"
-            ],
-            "🔍 Analysis & Methods": [
-                "analysis-methods", "artifact-generation", "media-generation", "navigation", "output-patterns"
-            ],
-            "🏛️ System & Governance": [
-                "governance", "conservation", "cultivation"
-            ],
-            "📂 Other": [
-                "Uncategorized"
-            ]
-        }
+        # Add all categories in a flat list
+        for category in sorted(categories.keys()):
+            if not self._is_valid_category(category):
+                continue
 
-        # Add grouped categories
-        for group_name, group_categories in category_groups.items():
-            group_items = []
-            for category in group_categories:
-                if category in categories and self._is_valid_category(category):
-                    clean_category = category.strip()
-                    # Clean category name for anchor using GitHub's algorithm (matching github-slugger)
-                    # GitHub's algorithm: lowercase -> remove punctuation -> replace spaces -> collapse hyphens -> trim
-                    anchor_text = clean_category.lower().strip()
-                    anchor = re.sub(r'[\u2000-\u206F\u2E00-\u2E7F\\\'!"#$%&()*+,./:;<=>?@[\]^`{|}~]', '', anchor_text)
-                    anchor = anchor.replace(' ', '-')
-                    anchor = re.sub(r'-+', '-', anchor)  # Collapse multiple hyphens
-                    anchor = anchor.strip('-')  # Remove leading/trailing hyphens
-                    group_items.append(f"  - [{clean_category}](#{anchor})")
+            clean_category = category.strip()
 
-            if group_items:
-                lines.append(f"### {group_name}")
-                lines.extend(group_items)
-                lines.append("")
+            # Clean category name for anchor - simple and reliable
+            # Just lowercase and replace spaces/underscores with hyphens
+            anchor = clean_category.lower().replace(' ', '-').replace('_', '-')
+            anchor = re.sub(r'-+', '-', anchor)  # Collapse multiple hyphens
+            anchor = anchor.strip('-')  # Remove leading/trailing hyphens
+            lines.append(f"- [{clean_category}](#{anchor})")
 
         lines.append("- [Contributing](#contributing)")
         lines.append("")
