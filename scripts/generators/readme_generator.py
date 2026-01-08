@@ -194,6 +194,203 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
 """
 
+    def get_category_mapping(self) -> Dict[str, str]:
+        """Get mapping of specific categories to main sections."""
+        return {
+            # Core Development
+            "architecture": "Core Development",
+            "architectural-pattern": "Core Development",
+            "architecture-decision": "Core Development",
+            "async": "Core Development",
+            "build": "Core Development",
+            "code-review": "Core Development",
+            "documentation": "Core Development",
+            "infrastructure": "Core Development",
+            "meta-infrastructure": "Core Development",
+            "orchestration": "Core Development",
+            "packaging": "Core Development",
+            "performance": "Core Development",
+            "planning": "Core Development",
+            "project-initialization": "Core Development",
+            "project-management": "Core Development",
+            "review": "Core Development",
+            "review-patterns": "Core Development",
+            "specialized": "Core Development",
+            "specification": "Core Development",
+            "testing": "Core Development",
+            "testing-automation": "Core Development",
+
+            # AI & Machine Learning
+            "agent-workflow": "AI & Machine Learning",
+            "analysis-methods": "AI & Machine Learning",
+            "artifact-generation": "AI & Machine Learning",
+            "delegation-framework": "AI & Machine Learning",
+            "delegation-implementation": "AI & Machine Learning",
+            "hook-development": "AI & Machine Learning",
+            "hook-management": "AI & Machine Learning",
+            "media-generation": "AI & Machine Learning",
+            "navigation": "AI & Machine Learning",
+            "output-patterns": "AI & Machine Learning",
+
+            # Automation & Workflow
+            "session-management": "Automation & Workflow",
+            "workflow": "Automation & Workflow",
+            "workflow-automation": "Automation & Workflow",
+            "workflow-methodology": "Automation & Workflow",
+            "workflow-ops": "Automation & Workflow",
+            "workflow-optimization": "Automation & Workflow",
+            "workflow-orchestration": "Automation & Workflow",
+            "workspace-ops": "Automation & Workflow",
+
+            # Infrastructure & Operations
+            "governance": "Infrastructure & Operations",
+            "conservation": "Infrastructure & Operations",
+            "cultivation": "Infrastructure & Operations",
+
+            # Language & Framework Specific
+            "javascript": "Language & Framework Specific",
+            "typescript": "Language & Framework Specific",
+            "python": "Language & Framework Specific",
+            "java": "Language & Framework Specific",
+            "csharp": "Language & Framework Specific",
+            "cpp": "Language & Framework Specific",
+            "rust": "Language & Framework Specific",
+            "go": "Language & Framework Specific",
+            "php": "Language & Framework Specific",
+            "ruby": "Language & Framework Specific",
+            "kotlin": "Language & Framework Specific",
+            "swift": "Language & Framework Specific",
+            "react": "Language & Framework Specific",
+            "vue": "Language & Framework Specific",
+            "angular": "Language & Framework Specific",
+            "nextjs": "Language & Framework Specific",
+            "nestjs": "Language & Framework Specific",
+            "django": "Language & Framework Specific",
+            "flask": "Language & Framework Specific",
+            "spring": "Language & Framework Specific",
+            "dotnet": "Language & Framework Specific",
+            "laravel": "Language & Framework Specific",
+            "rails": "Language & Framework Specific",
+
+            # DevOps & Deployment
+            "docker": "DevOps & Deployment",
+            "kubernetes": "DevOps & Deployment",
+            "terraform": "DevOps & Deployment",
+            "aws": "DevOps & Deployment",
+            "azure": "DevOps & Deployment",
+            "gcp": "DevOps & Deployment",
+            "ci-cd": "DevOps & Deployment",
+            "deployment": "DevOps & Deployment",
+            "monitoring": "DevOps & Deployment",
+            "security": "DevOps & Deployment",
+
+            # Database & Data
+            "database": "Database & Data",
+            "sql": "Database & Data",
+            "nosql": "Database & Data",
+            "mongodb": "Database & Data",
+            "postgresql": "Database & Data",
+            "mysql": "Database & Data",
+            "redis": "Database & Data",
+
+            # Tools & Utilities
+            "git": "Tools & Utilities",
+            "vscode": "Tools & Utilities",
+            "cli": "Tools & Utilities",
+            "api": "Tools & Utilities",
+            "web": "Tools & Utilities",
+            "mobile": "Tools & Utilities",
+            "game": "Tools & Utilities",
+            "desktop": "Tools & Utilities"
+        }
+
+    def get_dynamic_categories(self) -> Dict[str, List[str]]:
+        """Generate dynamic category structure based on actual skills."""
+        # Get all categories from skills
+        all_categories = set()
+        for skill in self.skills:
+            category = skill.get("category", "")
+            if category and self._is_valid_category(category):
+                all_categories.add(category)
+
+        logger.info(f"Found {len(all_categories)} valid categories: {sorted(all_categories)}")
+
+        # Initialize sections
+        sections = {
+            "Core Development": [],
+            "AI & Machine Learning": [],
+            "Automation & Workflow": [],
+            "Infrastructure & Operations": [],
+            "Language & Framework Specific": [],
+            "DevOps & Deployment": [],
+            "Database & Data": [],
+            "Tools & Utilities": [],
+            "General Purpose": []
+        }
+
+        # Get category mapping
+        category_mapping = self.get_category_mapping()
+
+        # Categorize skills
+        for category in all_categories:
+            # Check if category is in our mapping
+            if category in category_mapping:
+                main_section = category_mapping[category]
+                if main_section in sections and category not in sections[main_section]:
+                    sections[main_section].append(category)
+            else:
+                # Try to intelligently categorize unknown categories
+                main_section = self._categorize_unknown_category(category)
+                if main_section in sections and category not in sections[main_section]:
+                    sections[main_section].append(category)
+
+        # Log the results
+        for section, categories in sections.items():
+            if categories:
+                logger.info(f"Section '{section}' has {len(categories)} categories: {categories}")
+
+        # Remove empty sections
+        return {k: sorted(v) for k, v in sections.items() if v}
+
+    def _categorize_unknown_category(self, category: str) -> str:
+        """Categorize unknown categories based on keywords."""
+        category_lower = category.lower()
+
+        # Language/framework keywords
+        if any(lang in category_lower for lang in ['javascript', 'typescript', 'python', 'java', 'csharp', 'cpp', 'rust', 'go', 'php', 'ruby', 'kotlin', 'swift']):
+            return "Language & Framework Specific"
+
+        # Framework keywords
+        if any(fw in category_lower for fw in ['react', 'vue', 'angular', 'nextjs', 'nestjs', 'django', 'flask', 'spring', 'dotnet', 'laravel', 'rails']):
+            return "Language & Framework Specific"
+
+        # DevOps keywords
+        if any(devops in category_lower for devops in ['docker', 'kubernetes', 'terraform', 'aws', 'azure', 'gcp', 'ci', 'cd', 'deployment', 'monitoring', 'security']):
+            return "DevOps & Deployment"
+
+        # Database keywords
+        if any(db in category_lower for db in ['database', 'sql', 'nosql', 'mongo', 'postgres', 'mysql', 'redis']):
+            return "Database & Data"
+
+        # Tool/utility keywords
+        if any(tool in category_lower for tool in ['git', 'vscode', 'cli', 'api', 'web', 'mobile', 'game', 'desktop']):
+            return "Tools & Utilities"
+
+        # AI/ML keywords
+        if any(ai in category_lower for ai in ['ai', 'ml', 'machine', 'learning', 'neural', 'model', 'nlp', 'computer-vision']):
+            return "AI & Machine Learning"
+
+        # Workflow/automation keywords
+        if any(workflow in category_lower for workflow in ['workflow', 'automation', 'orchestration', 'pipeline']):
+            return "Automation & Workflow"
+
+        # Infrastructure keywords
+        if any(infra in category_lower for infra in ['infrastructure', 'cloud', 'server', 'deployment']):
+            return "Infrastructure & Operations"
+
+        # Default fallback
+        return "General Purpose"
+
     def _is_valid_category(self, category: str) -> bool:
         """
         Validate if a category name is well-formed and usable.
@@ -226,44 +423,27 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         """Generate hierarchical table of contents following Uber Go guide principles."""
         lines = ["## Contents\n"]
 
-        # Define skill categories organized by logical groups (following Uber Go guide structure)
-        skill_categories = {
-            "Core Development": [
-                "architecture", "architectural-pattern", "architecture-decision", "async", "build",
-                "code-review", "documentation", "infrastructure", "meta-infrastructure", "orchestration",
-                "packaging", "performance", "planning", "project-initialization", "project-management",
-                "review", "review-patterns", "specialized", "specification", "testing", "testing-automation"
-            ],
-            "AI & Machine Learning": [
-                "agent-workflow", "analysis-methods", "artifact-generation", "delegation-framework",
-                "delegation-implementation", "hook-development", "hook-management", "media-generation",
-                "navigation", "output-patterns"
-            ],
-            "Automation & Workflow": [
-                "session-management", "workflow", "workflow-automation", "workflow-methodology",
-                "workflow-ops", "workflow-optimization", "workflow-orchestration", "workspace-ops"
-            ],
-            "Infrastructure & Operations": [
-                "governance", "conservation", "cultivation"
-            ],
-            "Research & Development": [
-                "Uncategorized"
-            ]
-        }
+        # Define the main sections that actually exist in the README
+        main_sections = [
+            "Core Development",
+            "AI & Machine Learning",
+            "Automation & Workflow",
+            "Infrastructure & Operations",
+            "Language & Framework Specific",
+            "DevOps & Deployment",
+            "Database & Data",
+            "Tools & Utilities",
+            "General Purpose"
+        ]
 
-        # Generate hierarchical TOC
-        for main_section, subcategories in skill_categories.items():
-            lines.append(f"### {main_section}")
+        # Generate TOC with proper anchors
+        for section in main_sections:
+            # Create anchor from section name: lowercase, replace spaces and special chars with hyphens
+            anchor = section.lower().replace(' ', '-').replace('&', 'and').replace('_', '-')
+            anchor = re.sub(r'-+', '-', anchor).strip('-')
+            lines.append(f"- [{section}](#{anchor})")
 
-            for category in sorted(subcategories):
-                if category in self._get_categories():
-                    clean_category = category.strip()
-                    anchor = clean_category.lower().replace(' ', '-').replace('_', '-')
-                    anchor = re.sub(r'-+', '-', anchor).strip('-')
-                    lines.append(f"  - [{clean_category}](#{anchor})")
-
-            lines.append("")
-
+        lines.append("")
         lines.append("- [Contributing](#contributing)")
         lines.append("- [Resources](#resources)")
         lines.append("- [Join the Community](#join-the-community)")
@@ -309,37 +489,43 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
         lines = [""]
 
-        # Define skill categories organized by logical groups (matching TOC structure)
-        skill_categories = {
-            "Core Development": [
-                "architecture", "architectural-pattern", "architecture-decision", "async", "build",
-                "code-review", "documentation", "infrastructure", "meta-infrastructure", "orchestration",
-                "packaging", "performance", "planning", "project-initialization", "project-management",
-                "review", "review-patterns", "specialized", "specification", "testing", "testing-automation"
-            ],
-            "AI & Machine Learning": [
-                "agent-workflow", "analysis-methods", "artifact-generation", "delegation-framework",
-                "delegation-implementation", "hook-development", "hook-management", "media-generation",
-                "navigation", "output-patterns"
-            ],
-            "Automation & Workflow": [
-                "session-management", "workflow", "workflow-automation", "workflow-methodology",
-                "workflow-ops", "workflow-optimization", "workflow-orchestration", "workspace-ops"
-            ],
-            "Infrastructure & Operations": [
-                "governance", "conservation", "cultivation"
-            ],
-            "Research & Development": [
-                "Uncategorized"
-            ]
-        }
+        # Get dynamic categories structure
+        skill_categories = self.get_dynamic_categories()
+
+        # Create a mapping of skills to their dynamic categories
+        skill_to_dynamic_category = {}
+        category_mapping = self.get_category_mapping()
+
+        for skill in self.skills:
+            skill_id = skill.get("id", str(id(skill)))  # Use skill ID or memory address as key
+            original_category = skill.get("category", "Uncategorized")
+            # Check if category is in our mapping
+            if original_category in category_mapping:
+                dynamic_category = category_mapping[original_category]
+            else:
+                # Try to intelligently categorize unknown categories based on skill name/description
+                dynamic_category = self._categorize_skill(skill)
+            skill_to_dynamic_category[skill_id] = dynamic_category
+
+        # Re-group skills by dynamic categories
+        dynamic_categories = defaultdict(list)
+        for skill in self.skills:
+            skill_id = skill.get("id", str(id(skill)))
+            dynamic_cat = skill_to_dynamic_category[skill_id]
+            dynamic_categories[dynamic_cat].append(skill)
 
         # Generate content for each main category
         for main_section, subcategories in skill_categories.items():
             section_has_content = False
 
             for category in subcategories:
-                if category in categories and self._is_valid_category(category):
+                # Check if this subcategory has skills in our dynamic categorization
+                skills_in_category = [
+                    skill for skill in dynamic_categories.get(main_section, [])
+                    if skill_to_dynamic_category[skill.get("id", str(id(skill)))] == main_section
+                ]
+
+                if skills_in_category:
                     if not section_has_content:
                         # Add main section header
                         lines.append(f"## {main_section}")
@@ -353,7 +539,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
                     # Group skills by marketplace within category
                     marketplace_skills = defaultdict(list)
-                    for skill in categories[category]:
+                    for skill in skills_in_category:
                         marketplace_id = skill.get("marketplace_id", "unknown")
                         marketplace_skills[marketplace_id].append(skill)
 
@@ -412,6 +598,50 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                 lines.append("")
 
         return "\n".join(lines)
+
+    def _categorize_skill(self, skill) -> str:
+        """Categorize a skill based on its name, description, and directory."""
+        name = skill.get("name", "").lower()
+        description = skill.get("description", "").lower()
+        directory = skill.get("directory", "").lower()
+
+        # Combine all text for keyword matching
+        text = f"{name} {description} {directory}"
+
+        # Language/framework keywords
+        if any(lang in text for lang in ['javascript', 'typescript', 'python', 'java', 'csharp', 'cpp', 'rust', 'go', 'php', 'ruby', 'kotlin', 'swift']):
+            return "Language & Framework Specific"
+
+        # Framework keywords
+        if any(fw in text for fw in ['react', 'vue', 'angular', 'nextjs', 'nestjs', 'django', 'flask', 'spring', 'dotnet', 'laravel', 'rails']):
+            return "Language & Framework Specific"
+
+        # DevOps keywords
+        if any(devops in text for devops in ['docker', 'kubernetes', 'terraform', 'aws', 'azure', 'gcp', 'ci', 'cd', 'deployment', 'monitoring', 'security']):
+            return "DevOps & Deployment"
+
+        # Database keywords
+        if any(db in text for db in ['database', 'sql', 'nosql', 'mongo', 'postgres', 'mysql', 'redis']):
+            return "Database & Data"
+
+        # Tool/utility keywords
+        if any(tool in text for tool in ['git', 'vscode', 'cli', 'api', 'web', 'mobile', 'game', 'desktop']):
+            return "Tools & Utilities"
+
+        # AI/ML keywords
+        if any(ai in text for ai in ['ai', 'ml', 'machine', 'learning', 'neural', 'model', 'nlp', 'computer-vision']):
+            return "AI & Machine Learning"
+
+        # Workflow/automation keywords
+        if any(workflow in text for workflow in ['workflow', 'automation', 'orchestration', 'pipeline']):
+            return "Automation & Workflow"
+
+        # Infrastructure keywords
+        if any(infra in text for infra in ['infrastructure', 'cloud', 'server', 'deployment']):
+            return "Infrastructure & Operations"
+
+        # Default fallback
+        return "General Purpose"
 
     def generate_contributing(self) -> str:
         """Generate contributing section."""
