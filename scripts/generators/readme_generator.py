@@ -434,18 +434,67 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
         # Add intelligent skill categories with counts
         toc_lines.append("- **Skills by Domain:**")
-        
+
         # Count skills by intelligent categories
         skill_categories = self._get_intelligent_categories()
-        
+
         # Sort categories by count (descending)
         sorted_categories = sorted(skill_categories.items(), key=lambda x: len(x[1]), reverse=True)
-        
+
         for category, skills in sorted_categories:
             count = len(skills)
             # Create file path for domain file
             domain_filename = self._category_to_filename(category)
             toc_lines.append(f"  - [{category}](./domains/{domain_filename}) - {count} skills")
+
+        # Add remaining sections
+        toc_lines.extend([
+            "- [Creating Skills](#creating-skills)",
+            "  - [Skill Development](#skill-development)",
+            "  - [Best Practices](#best-practices)",
+            "  - [Resources](#resources)",
+            "- [Contributing](#contributing)",
+            "- [Resources](#resources)",
+            "  - [Official Documentation](#official-documentation)",
+            "  - [Community Resources](#community-resources)",
+            "  - [Development Tools](#development-tools)",
+            "- [Join the Community](#join-the-community)",
+            "  - [Social Media](#social-media)",
+            "  - [Contribution](#contribution)",
+            "  - [Support](#support)",
+            "- [License](#license)",
+        ])
+
+        toc_lines.append("")
+        return "\n".join(toc_lines)
+
+    def generate_full_document_table_of_contents(self) -> str:
+        """Generate table of contents for the full document with local anchors."""
+        toc_lines = ["\n## Table of Contents\n"]
+
+        # Main sections with their subsections
+        toc_lines.extend([
+            "- [What Are Claude Skills?](#what-are-claude-skills)",
+            "- [Getting Started](#getting-started)",
+            "  - [Installation](#installation)",
+            "  - [Using Skills in Claude Code](#using-skills-in-claude-code)",
+            "  - [Using Skills with Claude API](#using-skills-with-claude-api)",
+        ])
+
+        # Add intelligent skill categories with local anchors for full document
+        toc_lines.append("- **Skills by Domain:**")
+
+        # Count skills by intelligent categories
+        skill_categories = self._get_intelligent_categories()
+
+        # Sort categories by count (descending)
+        sorted_categories = sorted(skill_categories.items(), key=lambda x: len(x[1]), reverse=True)
+
+        for category, skills in sorted_categories:
+            count = len(skills)
+            # Use local anchor instead of external link
+            anchor = self._category_to_anchor(category)
+            toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
 
         # Add remaining sections
         toc_lines.extend([
@@ -855,9 +904,13 @@ To add a new skill or marketplace:
         """Generate a comprehensive full document with all table of contents and all skill tables."""
         lines = []
 
-        # Start with main README content
+        # Start with main README content but replace table of contents with full document version
         main_readme = self.generate_readme()
-        lines.append(main_readme.rstrip())
+        # Replace the table of contents section with the full document version
+        toc_pattern = r"## Table of Contents\n\n.*?(?=\n## |\n## Creating Skills|\Z)"
+        full_toc = self.generate_full_document_table_of_contents()
+        main_readme_with_full_toc = re.sub(toc_pattern, full_toc.strip(), main_readme, flags=re.DOTALL)
+        lines.append(main_readme_with_full_toc.rstrip())
         lines.append("")
 
         # Add separator for full skill listing
