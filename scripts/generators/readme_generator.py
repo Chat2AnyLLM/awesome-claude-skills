@@ -477,6 +477,17 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         while '--' in filename:
             filename = filename.replace('--', '-')
         return f"{filename}.md"
+    
+    def _escape_liquid_syntax(self, text: str) -> str:
+        """Escape Liquid template syntax in text to prevent Jekyll errors."""
+        # Use {% raw %} tags to prevent Liquid processing
+        if '{{' in text or '}}' in text or '{%' in text or '%}' in text:
+            # For table cells, we can't use raw tags, so escape differently
+            text = text.replace('{{', '&#123;&#123;')
+            text = text.replace('}}', '&#125;&#125;')
+            text = text.replace('{%', '&#123;%')
+            text = text.replace('%}', '%&#125;')
+        return text
 
     def _get_intelligent_categories(self) -> Dict[str, List[Dict]]:
         """Categorize skills intelligently based on names and descriptions."""
@@ -673,8 +684,9 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                     else:
                         skill_link = name
                     
-                    # Escape pipe characters in description
+                    # Escape pipe characters and Liquid syntax in description
                     description = description.replace("|", "\\|")
+                    description = self._escape_liquid_syntax(description)
                     
                     lines.append(f"| {skill_link} | {description} | {author} |")
                 
@@ -701,8 +713,9 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                 else:
                     skill_link = name
                 
-                # Escape pipe characters in description
+                # Escape pipe characters and Liquid syntax in description
                 description = description.replace("|", "\\|")
+                description = self._escape_liquid_syntax(description)
                 
                 lines.append(f"| {skill_link} | {description} | {author} |")
             
