@@ -420,7 +420,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         return True
 
     def generate_table_of_contents(self) -> str:
-        """Generate intelligent hierarchical table of contents based on skill content."""
+        """Generate intelligent hierarchical table of contents with subcategories."""
         toc_lines = ["## Contents\n"]
 
         # Main sections with their subsections
@@ -442,10 +442,49 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         sorted_categories = sorted(skill_categories.items(), key=lambda x: len(x[1]), reverse=True)
         
         for category, skills in sorted_categories:
-            # Create anchor link (replace spaces and & with dashes)
-            anchor = category.lower().replace(" & ", "--").replace(" ", "-")
-            count = len(skills)
-            toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
+            # Skip very small categories
+            if len(skills) < 50:
+                # Create anchor link
+                anchor = category.lower()
+                anchor = anchor.replace(" ", "-")
+                anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
+                while '--' in anchor:
+                    anchor = anchor.replace('--', '-')
+                count = len(skills)
+                toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
+            else:
+                # For large categories, add subcategories to TOC
+                subcats = self._get_subcategories(category, skills)
+                if subcats:
+                    # Main category link
+                    anchor = category.lower()
+                    anchor = anchor.replace(" ", "-")
+                    anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
+                    while '--' in anchor:
+                        anchor = anchor.replace('--', '-')
+                    count = len(skills)
+                    toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
+                    
+                    # Sort subcategories by count
+                    sorted_subcats = sorted(subcats.items(), key=lambda x: len(x[1]), reverse=True)
+                    for subcat, subskills in sorted_subcats:
+                        subcount = len(subskills)
+                        # Create subanchor
+                        subanchor = f"{category}-{subcat}".lower()
+                        subanchor = subanchor.replace(" ", "-")
+                        subanchor = ''.join(c if c.isalnum() or c == '-' else '' for c in subanchor)
+                        while '--' in subanchor:
+                            subanchor = subanchor.replace('--', '-')
+                        toc_lines.append(f"    - [{subcat}](#{subanchor}) - {subcount} skills")
+                else:
+                    # Fallback if no subcategories
+                    anchor = category.lower()
+                    anchor = anchor.replace(" ", "-")
+                    anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
+                    while '--' in anchor:
+                        anchor = anchor.replace('--', '-')
+                    count = len(skills)
+                    toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
 
         # Add remaining sections
         toc_lines.extend([
@@ -505,6 +544,71 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         
         return categories
 
+    def _get_subcategories(self, category_name: str, skills: List[Dict]) -> Dict[str, List[Dict]]:
+        """Break down large categories into more specific subcategories."""
+        subcategories_map = {
+            'Backend Development': {
+                'Web Frameworks': ['nextjs', 'express', 'fastapi', 'django', 'nestjs', 'spring', 'flask', 'laravel', 'rails', 'hono', 'actix', 'startup'],
+                'APIs & REST': ['api', 'rest', 'graphql', 'endpoint', 'openapi', 'swagger', 'grpc', 'api-designer', 'api-gateway'],
+                'Database Design': ['database', 'sql', 'postgres', 'mysql', 'mongodb', 'schema', 'migration', 'orm', 'entity'],
+                'Authentication': ['auth', 'jwt', 'oauth', 'password', 'session', 'login', 'token', 'keycloak', 'identity'],
+                'Microservices': ['microservice', 'saga', 'distributed', 'event-driven', 'saga-orchestration', 'orchestration'],
+                'Message Queues': ['queue', 'rabbitmq', 'kafka', 'pubsub', 'messaging', 'event', 'broker', 'consumer'],
+                'Caching': ['cache', 'redis', 'memcached', 'caching', 'cache-manager'],
+                'Request Handling': ['request', 'response', 'middleware', 'handler', 'interceptor', 'decorator', 'filter'],
+            },
+            'DevOps & Infrastructure': {
+                'Cloud Platforms': ['aws', 'azure', 'gcp', 'cloud', 'linode', 'digitalocean', 'heroku', 'vertex'],
+                'Containers': ['kubernetes', 'docker', 'container', 'helm', 'argocd', 'k8s'],
+                'CI/CD': ['ci', 'cd', 'jenkins', 'github-action', 'gitlab-ci', 'circleci', 'pipeline', 'workflow'],
+                'Infrastructure as Code': ['terraform', 'cloudformation', 'ansible', 'pulumi', 'bicep', 'iac'],
+                'Monitoring': ['monitoring', 'prometheus', 'grafana', 'elk', 'datadog', 'logging', 'alert', 'metric'],
+                'Service Mesh': ['service-mesh', 'istio', 'linkerd', 'consul', 'mesh'],
+                'Security': ['security', 'vault', 'secret', 'encryption', 'firewall', 'compliance'],
+                'Networking': ['load-balance', 'nginx', 'traefik', 'loadbalancer', 'proxy', 'dns', 'network'],
+            },
+            'Data & Analytics': {
+                'Data Pipelines': ['pipeline', 'airflow', 'dbt', 'etl', 'kafka', 'spark', 'beam', 'orchestration'],
+                'Data Warehousing': ['warehouse', 'bigquery', 'snowflake', 'redshift', 'postgres', 'schema'],
+                'Analytics & Queries': ['analytics', 'query', 'reporting', 'dashboard', 'analysis', 'visualization'],
+                'Data Science': ['dataframe', 'pandas', 'polars', 'numpy', 'scipy', 'analysis', 'processing'],
+                'Time Series': ['time-series', 'timescale', 'prometheus', 'influx', 'temporal'],
+                'Business Intelligence': ['business', 'tableau', 'powerbi', 'metabase', 'looker', 'intelligence'],
+            },
+            'Machine Learning': {
+                'Model Training': ['training', 'pytorch', 'tensorflow', 'sklearn', 'xgboost', 'train', 'trainer'],
+                'Feature Engineering': ['feature', 'preprocessing', 'normalization', 'scaling', 'transformer'],
+                'Model Evaluation': ['evaluation', 'metric', 'validation', 'testing', 'cross-validation', 'assessment'],
+                'Model Deployment': ['deployment', 'inference', 'serving', 'endpoint', 'prediction', 'model-deploy'],
+                'Hyperparameter Tuning': ['hyperparameter', 'tuning', 'optimization', 'grid-search', 'search'],
+            },
+        }
+        
+        if category_name not in subcategories_map:
+            return {}
+        
+        subcategories = defaultdict(list)
+        subcat_keywords = subcategories_map[category_name]
+        
+        for skill in skills:
+            name_lower = skill.get('name', '').lower()
+            desc_lower = skill.get('description', '').lower()
+            combined = f"{name_lower} {desc_lower}"
+            
+            categorized = False
+            for subcat, keywords in subcat_keywords.items():
+                if any(keyword in combined for keyword in keywords):
+                    subcategories[subcat].append(skill)
+                    categorized = True
+                    break
+            
+            if not categorized:
+                # Add to first subcategory as fallback
+                first_subcat = list(subcat_keywords.keys())[0]
+                subcategories[first_subcat].append(skill)
+        
+        return dict(subcategories)
+
     def generate_marketplaces_table(self) -> str:
         """Generate repositories table."""
         if not self.marketplaces:
@@ -532,7 +636,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         return "\n".join(lines)
 
     def generate_skills_by_category(self) -> str:
-        """Generate skills organized by intelligent domain-based categories."""
+        """Generate skills organized by intelligent domain-based categories with subcategories."""
         if not self.skills:
             return ""
 
@@ -558,33 +662,74 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
             lines.append(f"*{len(skills_in_category)} skills*")
             lines.append("")
             
-            # Create skills table
-            lines.append("| Skill | Description | Author |")
-            lines.append("| --- | --- | --- |")
+            # Check if category has subcategories (only for large categories with 50+ skills)
+            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
             
-            # Sort skills by name within category
-            sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
-            
-            for skill in sorted_skills:
-                name = skill.get('name', 'Unknown')
-                url = skill.get('url', '') or skill.get('readme_url', '')
-                description = skill.get('description', '').replace('\n', ' ').strip()
-                # Truncate description to ~100 chars
-                if len(description) > 100:
-                    description = description[:97] + '...'
-                author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+            if subcategories:
+                # Display by subcategories
+                sorted_subcats = sorted(subcategories.items(), key=lambda x: len(x[1]), reverse=True)
                 
-                if url:
-                    skill_link = f"[{name}]({url})"
-                else:
-                    skill_link = name
+                for subcat_name, subcat_skills in sorted_subcats:
+                    # Subheader for subcategory
+                    lines.append(f"### {subcat_name}")
+                    lines.append(f"*{len(subcat_skills)} skills*")
+                    lines.append("")
+                    
+                    # Create skills table for this subcategory
+                    lines.append("| Skill | Description | Author |")
+                    lines.append("| --- | --- | --- |")
+                    
+                    # Sort skills by name within subcategory
+                    sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
+                    
+                    for skill in sorted_skills:
+                        name = skill.get('name', 'Unknown')
+                        url = skill.get('url', '') or skill.get('readme_url', '')
+                        description = skill.get('description', '').replace('\n', ' ').strip()
+                        # Truncate description to ~100 chars
+                        if len(description) > 100:
+                            description = description[:97] + '...'
+                        author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+                        
+                        if url:
+                            skill_link = f"[{name}]({url})"
+                        else:
+                            skill_link = name
+                        
+                        # Escape pipe characters in description
+                        description = description.replace("|", "\\|")
+                        
+                        lines.append(f"| {skill_link} | {description} | {author} |")
+                    
+                    lines.append("")
+            else:
+                # Display all skills without subcategories
+                lines.append("| Skill | Description | Author |")
+                lines.append("| --- | --- | --- |")
                 
-                # Escape pipe characters in description
-                description = description.replace("|", "\\|")
+                # Sort skills by name within category
+                sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
                 
-                lines.append(f"| {skill_link} | {description} | {author} |")
-            
-            lines.append("")
+                for skill in sorted_skills:
+                    name = skill.get('name', 'Unknown')
+                    url = skill.get('url', '') or skill.get('readme_url', '')
+                    description = skill.get('description', '').replace('\n', ' ').strip()
+                    # Truncate description to ~100 chars
+                    if len(description) > 100:
+                        description = description[:97] + '...'
+                    author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+                    
+                    if url:
+                        skill_link = f"[{name}]({url})"
+                    else:
+                        skill_link = name
+                    
+                    # Escape pipe characters in description
+                    description = description.replace("|", "\\|")
+                    
+                    lines.append(f"| {skill_link} | {description} | {author} |")
+                
+                lines.append("")
 
         return "\n".join(lines)
 
