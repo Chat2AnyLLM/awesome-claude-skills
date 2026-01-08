@@ -1,0 +1,114 @@
+# Uncategorized
+
+[← Back to Main README](../README.md)
+
+*103 skills in this domain*
+
+| Skill | Description | Author |
+| --- | --- | --- |
+| [analyzing-options-flow](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/options-flow-analyzer/skills/analyzing-options-flow) | Track crypto options flow to identify institutional positioning and market sentiment. Use when tr... | jeremylongshore |
+| [analyzing-options-flow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/options-flow-analyzer/skills/analyzing-options-flow) | Track crypto options flow to identify institutional positioning and market sentiment. Use when tr... | jeremylongshore |
+| [Architecture Paradigm Selector & Implementation Planner](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigms) |  | athola |
+| [architecture-designer](https://github.com/Jeffallan/claude-skills/tree/main/skills/architecture-designer) | Use when designing new system architecture, reviewing existing designs, or making architectural d... | Jeffallan |
+| [Bloat Detector](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/bloat-detector) |  | athola |
+| [calculating-crypto-taxes](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-tax-calculator/skills/calculating-crypto-taxes) | Execute calculate cryptocurrency tax obligations with cost basis tracking and jurisdiction rules.... | jeremylongshore |
+| [calculating-crypto-taxes](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/crypto-tax-calculator/skills/calculating-crypto-taxes) | Execute calculate cryptocurrency tax obligations with cost basis tracking and jurisdiction rules.... | jeremylongshore |
+| [Catchup Analysis Methodology](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/catchup) |  | athola |
+| [create-plan](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/create-plan) | Create a concise plan. Use when a user explicitly asks for a plan related to a coding task. | davila7 |
+| [cursor-advanced-composer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-advanced-composer) | Manage advanced Cursor Composer techniques for complex edits. Triggers on "advanced composer", "c... | jeremylongshore |
+| [cursor-advanced-composer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-advanced-composer) | Manage advanced Cursor Composer techniques for complex edits. Triggers on "advanced composer", "c... | jeremylongshore |
+| [cursor-codebase-indexing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-codebase-indexing) | Execute set up and optimize Cursor codebase indexing. Triggers on "cursor index setup", "codebase... | jeremylongshore |
+| [cursor-codebase-indexing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-codebase-indexing) | Execute set up and optimize Cursor codebase indexing. Triggers on "cursor index setup", "codebase... | jeremylongshore |
+| [cursor-context-management](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-context-management) | Optimize context window usage in Cursor. Triggers on "cursor context", "context window", "context... | jeremylongshore |
+| [cursor-context-management](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-context-management) | Optimize context window usage in Cursor. Triggers on "cursor context", "context window", "context... | jeremylongshore |
+| [cursor-extension-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-extension-integration) | Manage integrate VS Code extensions with Cursor. Triggers on "cursor extensions", "cursor vscode ... | jeremylongshore |
+| [cursor-extension-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-extension-integration) | Manage integrate VS Code extensions with Cursor. Triggers on "cursor extensions", "cursor vscode ... | jeremylongshore |
+| [cursor-keybindings](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-keybindings) | Manage master Cursor keyboard shortcuts and customize keybindings. Triggers on "cursor shortcuts"... | jeremylongshore |
+| [cursor-keybindings](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-keybindings) | Manage master Cursor keyboard shortcuts and customize keybindings. Triggers on "cursor shortcuts"... | jeremylongshore |
+| [deal-review-framework](https://github.com/OneWave-AI/claude-skills/tree/main/deal-review-framework) | Structured deal assessment using MEDDIC, BANT. Risk scoring, required evidence by stage, red flag... | OneWave-AI |
+| [debate-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/debate-simulator) | Spin up 2-3 expert personas to debate any topic from different angles. Structure: Opening stateme... | OneWave-AI |
+| [debugging-wizard](https://github.com/Jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Use when investigating errors, analyzing stack traces, or finding root causes of unexpected behav... | Jeffallan |
+| [Delegation Core Framework](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/delegation-core) |  | athola |
+| [Diff Analysis Methodology](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/diff-analysis) |  | athola |
+| [Error Patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/error-patterns) |  | athola |
+| [Escalation Governance](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/escalation-governance) |  | athola |
+| [Evaluation Framework](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/evaluation-framework) |  | athola |
+| [Evidence Logging](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/evidence-logging) |  | athola |
+| [executing-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/executing-plans) | Use when you have a written implementation plan to execute in a separate session with review chec... | davila7 |
+| [executing-plans](https://github.com/obra/superpowers/tree/main/skills/executing-plans) | Use when you have a written implementation plan to execute in a separate session with review chec... | obra |
+| [expert-panel](https://github.com/OneWave-AI/claude-skills/tree/main/expert-panel) | Assemble 2-3 complementary experts to collaboratively analyze anything. Experts work together to ... | OneWave-AI |
+| [ffind](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/ffind) | Advanced file finder with type detection and filesystem extraction for analyzing firmware and ext... | BrownFineSecurity |
+| [File Analysis](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/file-analysis) |  | athola |
+| [financial-goal-planner](https://github.com/OneWave-AI/claude-skills/tree/main/financial-goal-planner) | Create timelines for house down payment, retirement, college fund. Monthly savings targets, inves... | OneWave-AI |
+| [Gemini CLI Delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/gemini-delegation) |  | athola |
+| [Hooks Evaluation Framework](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/hooks-eval) |  | athola |
+| [injury-report-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/injury-report-tracker) | Monitor injury news across leagues. Fantasy impact analysis, backup player analysis, return timel... | OneWave-AI |
+| [jadx](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/jadx) | Android APK decompiler that converts DEX bytecode to readable Java source code. Use when you need... | BrownFineSecurity |
+| [json-canvas](https://github.com/kepano/obsidian-skills/tree/main/json-canvas) | Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when ... | kepano |
+| [legacy-modernizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Use when modernizing legacy systems, implementing incremental migration strategies, or reducing t... | Jeffallan |
+| [matplotlib](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/matplotlib) | Foundational plotting library. Create line plots, scatter, bar, histograms, heatmaps, 3D, subplot... | davila7 |
+| [MECW Patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/mecw-patterns) |  | athola |
+| [microservices-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/microservices-patterns) | Design microservices architectures with service boundaries, event-driven communication, and resil... | wshobson |
+| [Modular Skills Design](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/modular-skills) |  | athola |
+| [monorepo-management](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/monorepo-management) | Master monorepo management with Turborepo, Nx, and pnpm workspaces to build efficient, scalable m... | wshobson |
+| [n8n-code-python](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python) | Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syn... | czlonkowski |
+| [n8n-code-python](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/n8n/n8n-code-python) | Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syn... | davila7 |
+| [openrouter-known-pitfalls](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-known-pitfalls) | Execute avoid common OpenRouter mistakes and anti-patterns. Use when reviewing code or onboarding... | jeremylongshore |
+| [openrouter-known-pitfalls](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-known-pitfalls) | Execute avoid common OpenRouter mistakes and anti-patterns. Use when reviewing code or onboarding... | jeremylongshore |
+| [openrouter-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-team-setup) | Configure OpenRouter for team and organizational use. Use when setting up multi-user access or de... | jeremylongshore |
+| [openrouter-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-team-setup) | Configure OpenRouter for team and organizational use. Use when setting up multi-user access or de... | jeremylongshore |
+| [openrouter-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-upgrade-migration) | Execute migrate and upgrade OpenRouter SDK versions safely. Use when updating dependencies or mig... | jeremylongshore |
+| [openrouter-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-upgrade-migration) | Execute migrate and upgrade OpenRouter SDK versions safely. Use when updating dependencies or mig... | jeremylongshore |
+| [Optimizing Large Skills](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/optimizing-large-skills) |  | athola |
+| [podcast-studio](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-studio) | Generate podcast scripts from text content. Use Tone.js and Howler.js for audio mixing. Create in... | OneWave-AI |
+| [quiz-maker](https://github.com/OneWave-AI/claude-skills/tree/main/quiz-maker) | Create multiple choice, true/false, fill-in-blank, matching quizzes. Auto-generate plausible dist... | OneWave-AI |
+| [Quota Management](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/quota-management) |  | athola |
+| [qutip](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/qutip) | Quantum physics simulation library for open quantum systems. Use when studying master equations, ... | K-Dense-AI |
+| [Qwen CLI Delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/qwen-delegation) |  | athola |
+| [Release Health Gates](https://github.com/athola/claude-night-market/tree/master/plugins/minister/skills/release-health-gates) |  | athola |
+| [Root Cause Tracing](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/root-cause-tracing) | Systematically trace bugs backward through call stack to find original trigger | mrgoonie |
+| [Scholar Evaluation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/scholar-evaluation) |  | davila7 |
+| [sentry-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-cost-tuning) | Optimize Sentry costs and event volume. Use when managing Sentry billing, reducing event volume, ... | jeremylongshore |
+| [sentry-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-cost-tuning) | Optimize Sentry costs and event volume. Use when managing Sentry billing, reducing event volume, ... | jeremylongshore |
+| [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Execute upgrade Sentry SDK and migrate between versions. Use when upgrading Sentry SDK, handling ... | jeremylongshore |
+| [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Execute upgrade Sentry SDK and migrate between versions. Use when upgrading Sentry SDK, handling ... | jeremylongshore |
+| [Service Registry](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/service-registry) |  | athola |
+| [Shared Patterns](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/shared-patterns) | Reusable patterns and templates for skill and hook development. | athola |
+| [Spec Writing](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/spec-writing) |  | athola |
+| [Speckit Orchestrator](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/speckit-orchestrator) |  | athola |
+| [sre-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/sre-engineer) | Use when defining SLIs/SLOs, managing error budgets, or building reliable systems at scale. Invok... | Jeffallan |
+| [stock-photo-finder](https://github.com/OneWave-AI/claude-skills/tree/main/stock-photo-finder) | Search multiple free stock photo sites simultaneously. Filter by license type, orientation, and c... | OneWave-AI |
+| [Structured Output](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/structured-output) |  | athola |
+| [Systematic Debugging](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/systematic-debugging) | Four-phase debugging framework that ensures root cause investigation before attempting fixes. Nev... | mrgoonie |
+| [Task Planning](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/task-planning) |  | athola |
+| [team-chemistry-evaluator](https://github.com/OneWave-AI/claude-skills/tree/main/team-chemistry-evaluator) | Analyze roster fit and personality dynamics. Leadership assessment, role clarity, locker room cul... | OneWave-AI |
+| [The CQRS and Event Sourcing Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-cqrs-es) |  | athola |
+| [The Event-Driven Architecture Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-event-driven) |  | athola |
+| [The Functional Core, Imperative Shell Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-functional-core) |  | athola |
+| [The Hexagonal (Ports & Adapters) Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-hexagonal) |  | athola |
+| [The Layered (N-Tier) Architecture Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-layered) |  | athola |
+| [The Microkernel (Plugin) Architecture Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-microkernel) |  | athola |
+| [The Microservices Architecture Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-microservices) |  | athola |
+| [The Modular Monolith Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-modular-monolith) |  | athola |
+| [The Service-Based Architecture Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-service-based) |  | athola |
+| [The Space-Based Architecture Paradigm](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-space-based) |  | athola |
+| [tracking-crypto-derivatives](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-derivatives-tracker/skills/tracking-crypto-derivatives) | Track futures, options, and perpetual swap positions with P&L calculations. Use when tracking fut... | jeremylongshore |
+| [tracking-crypto-derivatives](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/crypto-derivatives-tracker/skills/tracking-crypto-derivatives) | Track futures, options, and perpetual swap positions with P&L calculations. Use when tracking fut... | jeremylongshore |
+| [tracking-resource-usage](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/resource-usage-tracker/skills/tracking-resource-usage) | Track and optimize resource usage across application stack including CPU, memory, disk, and netwo... | jeremylongshore |
+| [tracking-resource-usage](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/resource-usage-tracker/skills/tracking-resource-usage) | Track and optimize resource usage across application stack including CPU, memory, disk, and netwo... | jeremylongshore |
+| [Usage Logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) |  | athola |
+| [user-journey-mapper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/user-journey-mapper) | Manage user journey mapper operations. Auto-activating skill for Visual Content. Triggers on: use... | jeremylongshore |
+| [user-journey-mapper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/18-visual-content/user-journey-mapper) | Manage user journey mapper operations. Auto-activating skill for Visual Content. Triggers on: use... | jeremylongshore |
+| [web-to-markdown](https://github.com/bear2u/my-skills/tree/master/skills/web-to-markdown) | 웹페이지 URL을 입력받아 마크다운 형태로 변환하여 저장합니다. 웹 문서를 로컬 마크다운 파일로 아카이빙하거나 정리할 때 유용합니다. | bear2u |
+| [windsurf-multi-file-editing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-multi-file-editing) | Manage multi-file edits with Cascade coordination. Activate when users mention "multi-file edit",... | jeremylongshore |
+| [windsurf-multi-file-editing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-multi-file-editing) | Manage multi-file edits with Cascade coordination. Activate when users mention "multi-file edit",... | jeremylongshore |
+| [windsurf-refactoring-large](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-refactoring-large) | Manage large-scale refactoring with Cascade coordination. Activate when users mention "large refa... | jeremylongshore |
+| [windsurf-refactoring-large](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-refactoring-large) | Manage large-scale refactoring with Cascade coordination. Activate when users mention "large refa... | jeremylongshore |
+| [Writing Hookify Rules](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "co... | davila7 |
+| [Writing Hookify Rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "co... | anthropics |
+| [writing-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/writing-plans) | Use when you have a spec or requirements for a multi-step task, before touching code | davila7 |
+| [writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) | Use when you have a spec or requirements for a multi-step task, before touching code | obra |
+| [메타-프롬프트-생성기](https://github.com/bear2u/my-skills/tree/master/skills/meta-prompt-generator) | 간단한 설명을 받아 단계별 병렬 처리가 가능한 구조화된 커스텀 슬래시 커맨드를 자동으로 생성합니다. 프롬프트 생성, 워크플로우 설계, 테스트 스위트 작성이 필요할 때 사용하세요. | bear2u |
+
+
+[← Back to Main README](../README.md)

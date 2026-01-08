@@ -78,6 +78,22 @@ def generate_readme(marketplaces: list, skills: list, output_file: str, args=Non
             f.write(content)
         logger = logging.getLogger(__name__)
         logger.info("README generated successfully: %s", output_file)
+        
+        # Generate domain files
+        domain_files = generator.generate_domain_files_mapping()
+        domains_dir = output_path.parent / "domains"
+        domains_dir.mkdir(exist_ok=True)
+        
+        for filename, domain_content in domain_files.items():
+            domain_path = domains_dir / filename
+            try:
+                with open(domain_path, 'w', encoding='utf-8') as f:
+                    f.write(domain_content)
+                logger.info(f"Generated domain file: {domain_path}")
+            except Exception as e:
+                logger.error(f"Failed to write domain file {filename}: {e}")
+        
+        logger.info(f"Generated {len(domain_files)} domain files in {domains_dir}")
         return True
     except Exception as e:
         logger = logging.getLogger(__name__)

@@ -420,7 +420,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         return True
 
     def generate_table_of_contents(self) -> str:
-        """Generate intelligent hierarchical table of contents with subcategories."""
+        """Generate intelligent hierarchical table of contents with links to domain files."""
         toc_lines = ["\n## Table of Contents\n"]
 
         # Main sections with their subsections
@@ -442,53 +442,10 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         sorted_categories = sorted(skill_categories.items(), key=lambda x: len(x[1]), reverse=True)
         
         for category, skills in sorted_categories:
-            # Skip very small categories
-            if len(skills) < 50:
-                # Create anchor link
-                anchor = category.lower()
-                anchor = anchor.replace(" ", "-")
-                anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
-                while '--' in anchor:
-                    anchor = anchor.replace('--', '-')
-                count = len(skills)
-                toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
-            else:
-                # For large categories, add subcategories to TOC
-                subcats = self._get_subcategories(category, skills)
-                if subcats:
-                    # Main category link
-                    anchor = category.lower()
-                    anchor = anchor.replace(" ", "-")
-                    anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
-                    while '--' in anchor:
-                        anchor = anchor.replace('--', '-')
-                    count = len(skills)
-                    toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
-                    
-                    # Sort subcategories by count and ONLY include subcategories with skills
-                    sorted_subcats = sorted(
-                        [(k, v) for k, v in subcats.items() if v],  # Filter out empty subcategories
-                        key=lambda x: len(x[1]), 
-                        reverse=True
-                    )
-                    for subcat, subskills in sorted_subcats:
-                        subcount = len(subskills)
-                        # Create subanchor
-                        subanchor = f"{category}-{subcat}".lower()
-                        subanchor = subanchor.replace(" ", "-")
-                        subanchor = ''.join(c if c.isalnum() or c == '-' else '' for c in subanchor)
-                        while '--' in subanchor:
-                            subanchor = subanchor.replace('--', '-')
-                        toc_lines.append(f"    - [{subcat}](#{subanchor}) - {subcount} skills")
-                else:
-                    # Fallback if no subcategories
-                    anchor = category.lower()
-                    anchor = anchor.replace(" ", "-")
-                    anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
-                    while '--' in anchor:
-                        anchor = anchor.replace('--', '-')
-                    count = len(skills)
-                    toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
+            count = len(skills)
+            # Create file path for domain file
+            domain_filename = self._category_to_filename(category)
+            toc_lines.append(f"  - [{category}](./domains/{domain_filename}) - {count} skills")
 
         # Add remaining sections
         toc_lines.extend([
@@ -510,6 +467,16 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
         toc_lines.append("")
         return "\n".join(toc_lines)
+    
+    def _category_to_filename(self, category: str) -> str:
+        """Convert category name to filename."""
+        filename = category.lower()
+        filename = filename.replace(" ", "-")
+        filename = filename.replace("&", "and")
+        filename = ''.join(c if c.isalnum() or c == '-' else '' for c in filename)
+        while '--' in filename:
+            filename = filename.replace('--', '-')
+        return f"{filename}.md"
 
     def _get_intelligent_categories(self) -> Dict[str, List[Dict]]:
         """Categorize skills intelligently based on names and descriptions."""
@@ -639,93 +606,58 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         lines.append("")
         return "\n".join(lines)
 
-    def generate_skills_by_category(self) -> str:
-        """Generate skills organized by intelligent domain-based categories with subcategories."""
-        if not self.skills:
-            return ""
-
-        lines = [""]
-
-        # Get intelligent categories
-        intelligent_categories = self._get_intelligent_categories()
+    def generate_domain_file(self, category_name: str, skills_in_category: List[Dict]) -> str:
+        """Generate a domain-specific markdown file content."""
+        lines = []
         
-        # Sort categories by count (descending) then alphabetically
-        sorted_categories = sorted(
-            intelligent_categories.items(), 
-            key=lambda x: (-len(x[1]), x[0])
-        )
-
-        # Generate content for each category
-        for category_name, skills_in_category in sorted_categories:
-            if not skills_in_category:
-                continue
-                
-            # Create section header
-            lines.append(f"## {category_name}")
+        # Add header with back navigation
+        lines.append(f"# {category_name}")
+        lines.append("")
+        lines.append(f"[← Back to Main README](../README.md)")
+        lines.append("")
+        lines.append(f"*{len(skills_in_category)} skills in this domain*")
+        lines.append("")
+        
+        # Check if category has subcategories (only for large categories with 50+ skills)
+        subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
+        
+        if subcategories:
+            # Add table of contents for subcategories
+            lines.append("## Table of Contents")
             lines.append("")
-            lines.append(f"*{len(skills_in_category)} skills*")
+            sorted_subcats = sorted(
+                [(k, v) for k, v in subcategories.items() if v],
+                key=lambda x: len(x[1]),
+                reverse=True
+            )
+            for subcat_name, subcat_skills in sorted_subcats:
+                anchor = subcat_name.lower().replace(" ", "-")
+                anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
+                while '--' in anchor:
+                    anchor = anchor.replace('--', '-')
+                lines.append(f"- [{subcat_name}](#{anchor}) - {len(subcat_skills)} skills")
             lines.append("")
             
-            # Check if category has subcategories (only for large categories with 50+ skills)
-            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
-            
-            if subcategories:
-                # Display by subcategories - ONLY show subcategories that have skills
-                sorted_subcats = sorted(
-                    [(k, v) for k, v in subcategories.items() if v],  # Filter out empty subcategories
-                    key=lambda x: len(x[1]), 
-                    reverse=True
-                )
+            # Display by subcategories
+            for subcat_name, subcat_skills in sorted_subcats:
+                # Create anchor for subcategory
+                anchor = subcat_name.lower().replace(" ", "-")
+                anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
+                while '--' in anchor:
+                    anchor = anchor.replace('--', '-')
                 
-                for subcat_name, subcat_skills in sorted_subcats:
-                    # Create anchor for subcategory (matches TOC anchor format)
-                    # Format: category-name-subcategory-name (all lowercase, no special chars)
-                    anchor = f"{category_name}-{subcat_name}".lower()
-                    anchor = anchor.replace(" ", "-")
-                    anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
-                    while '--' in anchor:
-                        anchor = anchor.replace('--', '-')
-                    
-                    # Subheader for subcategory with HTML anchor
-                    lines.append(f'<a name="{anchor}"></a>')
-                    lines.append(f"### {subcat_name}")
-                    lines.append(f"*{len(subcat_skills)} skills*")
-                    lines.append("")
-                    
-                    # Create skills table for this subcategory
-                    lines.append("| Skill | Description | Author |")
-                    lines.append("| --- | --- | --- |")
-                    
-                    # Sort skills by name within subcategory
-                    sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
-                    
-                    for skill in sorted_skills:
-                        name = skill.get('name', 'Unknown')
-                        url = skill.get('url', '') or skill.get('readme_url', '')
-                        description = skill.get('description', '').replace('\n', ' ').strip()
-                        # Truncate description to ~100 chars
-                        if len(description) > 100:
-                            description = description[:97] + '...'
-                        author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
-                        
-                        if url:
-                            skill_link = f"[{name}]({url})"
-                        else:
-                            skill_link = name
-                        
-                        # Escape pipe characters in description
-                        description = description.replace("|", "\\|")
-                        
-                        lines.append(f"| {skill_link} | {description} | {author} |")
-                    
-                    lines.append("")
-            else:
-                # Display all skills without subcategories
+                # Subheader for subcategory
+                lines.append(f'<a name="{anchor}"></a>')
+                lines.append(f"## {subcat_name}")
+                lines.append(f"*{len(subcat_skills)} skills*")
+                lines.append("")
+                
+                # Create skills table for this subcategory
                 lines.append("| Skill | Description | Author |")
                 lines.append("| --- | --- | --- |")
                 
-                # Sort skills by name within category
-                sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
+                # Sort skills by name within subcategory
+                sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
                 
                 for skill in sorted_skills:
                     name = skill.get('name', 'Unknown')
@@ -747,8 +679,67 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                     lines.append(f"| {skill_link} | {description} | {author} |")
                 
                 lines.append("")
-
+        else:
+            # Display all skills without subcategories
+            lines.append("| Skill | Description | Author |")
+            lines.append("| --- | --- | --- |")
+            
+            # Sort skills by name within category
+            sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
+            
+            for skill in sorted_skills:
+                name = skill.get('name', 'Unknown')
+                url = skill.get('url', '') or skill.get('readme_url', '')
+                description = skill.get('description', '').replace('\n', ' ').strip()
+                # Truncate description to ~100 chars
+                if len(description) > 100:
+                    description = description[:97] + '...'
+                author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+                
+                if url:
+                    skill_link = f"[{name}]({url})"
+                else:
+                    skill_link = name
+                
+                # Escape pipe characters in description
+                description = description.replace("|", "\\|")
+                
+                lines.append(f"| {skill_link} | {description} | {author} |")
+            
+            lines.append("")
+        
+        # Add back navigation at bottom
+        lines.append("")
+        lines.append(f"[← Back to Main README](../README.md)")
+        
         return "\n".join(lines)
+    
+    def generate_domain_files_mapping(self) -> Dict[str, str]:
+        """Generate mapping of domain filenames to their content."""
+        if not self.skills:
+            return {}
+        
+        domain_files = {}
+        
+        # Get intelligent categories
+        intelligent_categories = self._get_intelligent_categories()
+        
+        # Sort categories by count (descending) then alphabetically
+        sorted_categories = sorted(
+            intelligent_categories.items(), 
+            key=lambda x: (-len(x[1]), x[0])
+        )
+        
+        # Generate content for each category
+        for category_name, skills_in_category in sorted_categories:
+            if not skills_in_category:
+                continue
+            
+            filename = self._category_to_filename(category_name)
+            content = self.generate_domain_file(category_name, skills_in_category)
+            domain_files[filename] = content
+        
+        return domain_files
 
     def _categorize_skill(self, skill) -> str:
         """Categorize a skill based on its name, description, and directory."""
@@ -809,13 +800,12 @@ To add a new skill or marketplace:
 """
 
     def generate_readme(self) -> str:
-        """Generate complete README content with enhanced sections."""
+        """Generate complete README content with enhanced sections (without domain skills)."""
         sections = [
             self.generate_title(),
             self.generate_what_are_skills(),
             self.generate_getting_started(),
             self.generate_table_of_contents(),
-            self.generate_skills_by_category(),
             self.generate_creating_skills(),
             self.generate_contributing(),
             self.generate_resources(),
