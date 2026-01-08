@@ -421,7 +421,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
     def generate_table_of_contents(self) -> str:
         """Generate intelligent hierarchical table of contents with subcategories."""
-        toc_lines = ["## Contents\n"]
+        toc_lines = ["\n## Table of Contents\n"]
 
         # Main sections with their subsections
         toc_lines.extend([
@@ -465,8 +465,12 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                     count = len(skills)
                     toc_lines.append(f"  - [{category}](#{anchor}) - {count} skills")
                     
-                    # Sort subcategories by count
-                    sorted_subcats = sorted(subcats.items(), key=lambda x: len(x[1]), reverse=True)
+                    # Sort subcategories by count and ONLY include subcategories with skills
+                    sorted_subcats = sorted(
+                        [(k, v) for k, v in subcats.items() if v],  # Filter out empty subcategories
+                        key=lambda x: len(x[1]), 
+                        reverse=True
+                    )
                     for subcat, subskills in sorted_subcats:
                         subcount = len(subskills)
                         # Create subanchor
@@ -666,8 +670,12 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
             subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
             
             if subcategories:
-                # Display by subcategories
-                sorted_subcats = sorted(subcategories.items(), key=lambda x: len(x[1]), reverse=True)
+                # Display by subcategories - ONLY show subcategories that have skills
+                sorted_subcats = sorted(
+                    [(k, v) for k, v in subcategories.items() if v],  # Filter out empty subcategories
+                    key=lambda x: len(x[1]), 
+                    reverse=True
+                )
                 
                 for subcat_name, subcat_skills in sorted_subcats:
                     # Create anchor for subcategory (matches TOC anchor format)

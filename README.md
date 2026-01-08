@@ -8,7 +8,7 @@ A curated list of awesome Claude Code skills to enhance your Claude Code experie
 
 Total Skills: 3769
 
-Last updated: 2026-01-08 05:08 UTC
+Last updated: 2026-01-08 05:15 UTC
 
 
 ## What Are Claude Skills?
@@ -50,7 +50,8 @@ Once installed, skills are automatically available in your Claude Code environme
 
 ### Using Skills with Claude API
 
-Skills can also be used programmatically via the Claude API for automation and integration purposes.## Contents
+Skills can also be used programmatically via the Claude API for automation and integration purposes.
+## Table of Contents
 
 - [What Are Claude Skills?](#what-are-claude-skills)
 - [Getting Started](#getting-started)
@@ -168,8 +169,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [blip-2-vision-language](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/blip-2) | Vision-language pre-training framework bridging frozen image encoders and LLMs. Use when you need... | zechenzhangAGI |
 | [bottleneck-identifier](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/bottleneck-identifier) | Execute bottleneck identifier operations. Auto-activating skill for Performance Testing. Triggers... | jeremylongshore |
 | [bottleneck-identifier](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/bottleneck-identifier) | Execute bottleneck identifier operations. Auto-activating skill for Performance Testing. Triggers... | jeremylongshore |
-| [brand-guidelines](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit... | OneWave-AI |
 | [brand-guidelines](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit... | davila7 |
+| [brand-guidelines](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit... | OneWave-AI |
 | [brand-guidelines](https://github.com/Prat011/awesome-llm-skills/tree/master/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit... | Prat011 |
 | [brand-guidelines](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit... | ComposioHQ |
 | [brand-guidelines](https://github.com/anthropics/skills/tree/main/skills/brand-guidelines) | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit... | anthropics |
@@ -293,8 +294,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [docs-seeker](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docs-seeker) | Searching internet for technical documentation using llms.txt standard, GitHub repositories via R... | mrgoonie |
 | [docx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | mrgoonie |
 | [docx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/docx) | Document toolkit (.docx). Create/edit documents, tracked changes, comments, formatting preservati... | K-Dense-AI |
-| [docx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | OneWave-AI |
 | [docx](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | davila7 |
+| [docx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | OneWave-AI |
 | [docx](https://github.com/Prat011/awesome-llm-skills/tree/master/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | Prat011 |
 | [docx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | ComposioHQ |
 | [docx](https://github.com/anthropics/skills/tree/main/skills/docx) | Comprehensive document creation, editing, and analysis with support for tracked changes, comments... | anthropics |
@@ -429,8 +430,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [instantly-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-deploy-integration) | Deploy Instantly integrations to Vercel, Fly.io, and Cloud Run platforms. Use when deploying Inst... | jeremylongshore |
 | [instantly-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-migration-deep-dive) | Execute Instantly major re-architecture and migration strategies with strangler fig pattern. Use ... | jeremylongshore |
 | [instantly-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-migration-deep-dive) | Execute Instantly major re-architecture and migration strategies with strangler fig pattern. Use ... | jeremylongshore |
-| [internal-comms](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that ... | OneWave-AI |
 | [internal-comms](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that ... | davila7 |
+| [internal-comms](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that ... | OneWave-AI |
 | [internal-comms](https://github.com/Prat011/awesome-llm-skills/tree/master/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that ... | Prat011 |
 | [internal-comms](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that ... | ComposioHQ |
 | [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) | A set of resources to help me write all kinds of internal communications, using the formats that ... | anthropics |
@@ -537,9 +538,9 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [pdb-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pdb-database) | Access RCSB PDB for 3D protein/nucleic acid structures. Search by text/sequence/structure, downlo... | davila7 |
 | [pdf](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | mrgoonie |
 | [pdf](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/pdf) | PDF manipulation toolkit. Extract text/tables, create PDFs, merge/split, fill forms, for programm... | K-Dense-AI |
-| [pdf](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | OneWave-AI |
 | [pdf](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | davila7 |
 | [pdf](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-anthropic) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | davila7 |
+| [pdf](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | OneWave-AI |
 | [pdf](https://github.com/Prat011/awesome-llm-skills/tree/master/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | Prat011 |
 | [pdf](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | ComposioHQ |
 | [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging... | anthropics |
@@ -795,8 +796,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [workthrough](https://github.com/bear2u/my-skills/tree/master/skills/workthrough) | Automatically document all development work and code modifications in a structured workthrough fo... | bear2u |
 | [xlsx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | mrgoonie |
 | [xlsx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/xlsx) | Spreadsheet toolkit (.xlsx/.csv). Create/edit with formulas/formatting, analyze data, visualizati... | K-Dense-AI |
-| [xlsx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | OneWave-AI |
 | [xlsx](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | davila7 |
+| [xlsx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | OneWave-AI |
 | [xlsx](https://github.com/Prat011/awesome-llm-skills/tree/master/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | Prat011 |
 | [xlsx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | ComposioHQ |
 | [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | anthropics |
@@ -1101,8 +1102,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [managing-network-policies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/network-policy-manager/skills/managing-network-policies) | Execute use when managing Kubernetes network policies and firewall rules. Trigger with phrases li... | jeremylongshore |
 | [managing-network-policies](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/network-policy-manager/skills/managing-network-policies) | Execute use when managing Kubernetes network policies and firewall rules. Trigger with phrases li... | jeremylongshore |
 | [mcp-builder](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | mrgoonie |
-| [mcp-builder](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | OneWave-AI |
 | [mcp-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | davila7 |
+| [mcp-builder](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | OneWave-AI |
 | [mcp-builder](https://github.com/Prat011/awesome-llm-skills/tree/master/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | Prat011 |
 | [mcp-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | ComposioHQ |
 | [mcp-builder](https://github.com/anthropics/skills/tree/main/skills/mcp-builder) | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact... | anthropics |
@@ -1364,8 +1365,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 
 | Skill | Description | Author |
 | --- | --- | --- |
-| [algorithmic-art](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/algorithmic-art) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration... | OneWave-AI |
 | [algorithmic-art](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/algorithmic-art) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration... | davila7 |
+| [algorithmic-art](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/algorithmic-art) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration... | OneWave-AI |
 | [algorithmic-art](https://github.com/Prat011/awesome-llm-skills/tree/master/algorithmic-art) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration... | Prat011 |
 | [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration... | anthropics |
 | [analyzing-system-throughput](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/throughput-analyzer/skills/analyzing-system-throughput) | Analyze and optimize system throughput including request handling, data processing, and resource ... | jeremylongshore |
@@ -1493,8 +1494,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [skill-adapter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/examples/pi-pathfinder/skills/skill-adapter) | Execute analyzes existing plugins to extract their capabilities, then adapts and applies those sk... | jeremylongshore |
 | [skill-adapter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/pi-pathfinder/skills/skill-adapter) | Execute analyzes existing plugins to extract their capabilities, then adapts and applies those sk... | jeremylongshore |
 | [skills-search](https://github.com/daymade/claude-code-skills/tree/main/skills-search) | This skill should be used when users want to search, discover, install, or manage Claude Code ski... | daymade |
-| [slack-gif-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and ... | OneWave-AI |
 | [slack-gif-creator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and ... | davila7 |
+| [slack-gif-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and ... | OneWave-AI |
 | [slack-gif-creator](https://github.com/Prat011/awesome-llm-skills/tree/master/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and ... | Prat011 |
 | [slack-gif-creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and ... | ComposioHQ |
 | [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, val... | anthropics |
@@ -2720,8 +2721,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [skill-composer-studio](https://github.com/OneWave-AI/claude-skills/tree/main/skill-composer-studio) | CHAIN multiple existing skills into custom multi-step workflows. Programmable skill combinations ... | OneWave-AI |
 | [skill-creator](https://github.com/daymade/claude-code-skills/tree/main/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | daymade |
 | [skill-creator](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | mrgoonie |
-| [skill-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | OneWave-AI |
 | [skill-creator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | davila7 |
+| [skill-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | OneWave-AI |
 | [skill-creator](https://github.com/Prat011/awesome-llm-skills/tree/master/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | Prat011 |
 | [skill-creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | ComposioHQ |
 | [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | anthropics |
@@ -2733,8 +2734,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [supabase-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-advanced-troubleshooting) | Execute apply Supabase advanced debugging techniques for hard-to-diagnose issues. Use when standa... | jeremylongshore |
 | [teams-channel-post-writer](https://github.com/daymade/claude-code-skills/tree/main/teams-channel-post-writer) | Creates educational Teams channel posts for internal knowledge sharing about Claude Code features... | daymade |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
-| [template-skill](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/template-skill) | Replace with description of the skill and when Claude should use it. | OneWave-AI |
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
+| [template-skill](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/template-skill) | Replace with description of the skill and when Claude should use it. | OneWave-AI |
 | [template-skill](https://github.com/Prat011/awesome-llm-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | Prat011 |
 | [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | ComposioHQ |
 | [template-skill](https://github.com/anthropics/skills/tree/main/template) | Replace with description of the skill and when Claude should use it. | anthropics |
@@ -3062,8 +3063,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [api-contract](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/api-contract) | Configure this skill should be used when the user asks about "API contract", "api-contract.md", "... | jeremylongshore |
 | [aria-attribute-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/aria-attribute-helper) | Configure with aria attribute helper operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
 | [aria-attribute-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/aria-attribute-helper) | Configure with aria attribute helper operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
-| [artifacts-builder](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern fron... | OneWave-AI |
 | [artifacts-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern fron... | davila7 |
+| [artifacts-builder](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern fron... | OneWave-AI |
 | [artifacts-builder](https://github.com/Prat011/awesome-llm-skills/tree/master/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern fron... | Prat011 |
 | [artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder) | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern fron... | ComposioHQ |
 | [bioservices](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/bioservices) | Unified Python interface to 40+ bioinformatics services. Use when querying multiple databases (Un... | K-Dense-AI |
@@ -3165,8 +3166,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [posthog-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-reference-architecture) | Implement PostHog reference architecture with best-practice project layout. Use when designing ne... | jeremylongshore |
 | [pptx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | mrgoonie |
 | [pptx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/document-skills/pptx) | Presentation toolkit (.pptx). Create/edit slides, layouts, content, speaker notes, comments, for ... | K-Dense-AI |
-| [pptx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | OneWave-AI |
 | [pptx](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | davila7 |
+| [pptx](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | OneWave-AI |
 | [pptx](https://github.com/Prat011/awesome-llm-skills/tree/master/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | Prat011 |
 | [pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | ComposioHQ |
 | [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | anthropics |
@@ -3238,8 +3239,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [testing-browser-compatibility](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/browser-compatibility-tester/skills/testing-browser-compatibility) | Test across multiple browsers and devices for cross-browser compatibility. Use when ensuring cros... | jeremylongshore |
 | [testing-visual-regression](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/visual-regression-tester/skills/testing-visual-regression) | Detect visual changes in UI components using screenshot comparison. Use when detecting unintended... | jeremylongshore |
 | [testing-visual-regression](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/visual-regression-tester/skills/testing-visual-regression) | Detect visual changes in UI components using screenshot comparison. Use when detecting unintended... | jeremylongshore |
-| [theme-factory](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML... | OneWave-AI |
 | [theme-factory](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML... | davila7 |
+| [theme-factory](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML... | OneWave-AI |
 | [theme-factory](https://github.com/Prat011/awesome-llm-skills/tree/master/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML... | Prat011 |
 | [theme-factory](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML... | ComposioHQ |
 | [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML... | anthropics |
@@ -3264,8 +3265,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [web-frameworks](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks) | Build modern full-stack web applications with Next.js (App Router, Server Components, RSC, PPR, S... | mrgoonie |
 | [web-vitals-monitor](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/web-vitals-monitor) | Monitor web vitals monitor operations. Auto-activating skill for Frontend Development. Triggers o... | jeremylongshore |
 | [web-vitals-monitor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/web-vitals-monitor) | Monitor web vitals monitor operations. Auto-activating skill for Frontend Development. Triggers o... | jeremylongshore |
-| [webapp-testing](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verify... | OneWave-AI |
 | [webapp-testing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verify... | davila7 |
+| [webapp-testing](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verify... | OneWave-AI |
 | [webapp-testing](https://github.com/Prat011/awesome-llm-skills/tree/master/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verify... | Prat011 |
 | [webapp-testing](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verify... | ComposioHQ |
 | [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) | Toolkit for interacting with and testing local web applications using Playwright. Supports verify... | anthropics |
@@ -3980,8 +3981,8 @@ Skills can also be used programmatically via the Claude API for automation and i
 | [adr-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/adr-generator) | Generate adr generator operations. Auto-activating skill for Technical Documentation. Triggers on... | jeremylongshore |
 | [architecture-doc-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/architecture-doc-creator) | Create architecture doc creator operations. Auto-activating skill for Technical Documentation. Tr... | jeremylongshore |
 | [architecture-doc-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/architecture-doc-creator) | Create architecture doc creator operations. Auto-activating skill for Technical Documentation. Tr... | jeremylongshore |
-| [canvas-design](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use th... | OneWave-AI |
 | [canvas-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use th... | davila7 |
+| [canvas-design](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use th... | OneWave-AI |
 | [canvas-design](https://github.com/Prat011/awesome-llm-skills/tree/master/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use th... | Prat011 |
 | [canvas-design](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use th... | ComposioHQ |
 | [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | Create beautiful visual art in .png and .pdf documents using design philosophy. You should use th... | anthropics |
