@@ -212,8 +212,8 @@
 | [skill-composer-studio](https://github.com/OneWave-AI/claude-skills/tree/main/skill-composer-studio) | CHAIN multiple existing skills into custom multi-step workflows. Programmable skill combinations ... | OneWave-AI |
 | [skill-creator](https://github.com/daymade/claude-code-skills/tree/main/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | daymade |
 | [skill-creator](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | mrgoonie |
-| [skill-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | OneWave-AI |
 | [skill-creator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | davila7 |
+| [skill-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | OneWave-AI |
 | [skill-creator](https://github.com/Prat011/awesome-llm-skills/tree/master/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | Prat011 |
 | [skill-creator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | ComposioHQ |
 | [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) | Guide for creating effective skills. This skill should be used when users want to create a new sk... | anthropics |
@@ -225,8 +225,8 @@
 | [supabase-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-advanced-troubleshooting) | Execute apply Supabase advanced debugging techniques for hard-to-diagnose issues. Use when standa... | jeremylongshore |
 | [teams-channel-post-writer](https://github.com/daymade/claude-code-skills/tree/main/teams-channel-post-writer) | Creates educational Teams channel posts for internal knowledge sharing about Claude Code features... | daymade |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
-| [template-skill](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/template-skill) | Replace with description of the skill and when Claude should use it. | OneWave-AI |
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
+| [template-skill](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/template-skill) | Replace with description of the skill and when Claude should use it. | OneWave-AI |
 | [template-skill](https://github.com/Prat011/awesome-llm-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | Prat011 |
 | [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | ComposioHQ |
 | [template-skill](https://github.com/anthropics/skills/tree/main/template) | Replace with description of the skill and when Claude should use it. | anthropics |

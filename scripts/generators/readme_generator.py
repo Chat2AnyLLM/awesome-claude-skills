@@ -45,7 +45,7 @@ Total Skills: {skill_count}
 
 Last updated: {timestamp}
 
-**[📋 View Complete Skills List](FULL-SKILLS.md)** - Convenient for searching through all skills without size limits."""
+**[📋 View Complete Skills List](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits."""
 
     def generate_what_are_skills(self) -> str:
         """Generate the 'What Are Claude Skills?' section."""
@@ -915,6 +915,10 @@ To add a new skill or marketplace:
 
         # Add separator for full skill listing
         lines.append("---")
+        lines.append("")
+
+        # Add anchor for direct linking to skills listing
+        lines.append('<a name="complete-skills-listing"></a>')
         lines.append("")
 
         # Add full skills section header
