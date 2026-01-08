@@ -6,9 +6,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 3757
+Total Skills: 3758
 
-Last updated: 2026-01-07 20:12 UTC
+Last updated: 2026-01-08 00:49 UTC
 
 
 ## What Are Claude Skills?
@@ -1370,13 +1370,14 @@ Skills can also be used programmatically via the Claude API for automation and i
 
 | Skill | Description | Version | Author | Directory |
 | --- | --- | --- | --- | --- |
-| [hf-cli](https://github.com/huggingface/skills/tree/main/hf-cli) | Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, u... | None | huggingface | hf-cli |
-| [hf-tool-builder](https://github.com/huggingface/skills/tree/main/hf-tool-builder/skills/hf-tool-builder) | Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API... | None | huggingface | hf-tool-builder |
-| [trackio](https://github.com/huggingface/skills/tree/main/hf-trackio) | Track and visualize ML training experiments with Trackio. Use when logging metrics during training (Python API) or re... | None | huggingface | hf-trackio |
-| [hugging-face-dataset-creator](https://github.com/huggingface/skills/tree/main/hf-datasets/skills/hugging-face-dataset-creator) | Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, and str... | None | huggingface | hugging-face-dataset-creator |
-| [hugging-face-evaluation-manager](https://github.com/huggingface/skills/tree/main/hf-evaluation/skills/hugging-face-evaluation-manager) | Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, i... | None | huggingface | hugging-face-evaluation-manager |
-| [hugging-face-paper-publisher](https://github.com/huggingface/skills/tree/main/hf-papers/skills/hugging-face-paper-publisher) | Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datas... | None | huggingface | hugging-face-paper-publisher |
-| [model-trainer](https://github.com/huggingface/skills/tree/main/hf-trainer/skills/model-trainer) | This skill should be used when users want to train or fine-tune language models using TRL (Transformer Reinforcement ... | None | huggingface | model-trainer |
+| [hugging-face-cli](https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli) | Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, u... | None | huggingface | hugging-face-cli |
+| [hugging-face-datasets](https://github.com/huggingface/skills/tree/main/skills/hugging-face-datasets) | Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streami... | None | huggingface | hugging-face-datasets |
+| [hugging-face-evaluation](https://github.com/huggingface/skills/tree/main/skills/hugging-face-evaluation) | Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, i... | None | huggingface | hugging-face-evaluation |
+| [hugging-face-jobs](https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs) | This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure. Covers UV scripts,... | None | huggingface | hugging-face-jobs |
+| [hugging-face-model-trainer](https://github.com/huggingface/skills/tree/main/skills/hugging-face-model-trainer) | This skill should be used when users want to train or fine-tune language models using TRL (Transformer Reinforcement ... | None | huggingface | hugging-face-model-trainer |
+| [hugging-face-paper-publisher](https://github.com/huggingface/skills/tree/main/skills/hugging-face-paper-publisher) | Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datas... | None | huggingface | hugging-face-paper-publisher |
+| [hugging-face-tool-builder](https://github.com/huggingface/skills/tree/main/skills/hugging-face-tool-builder) | Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API... | None | huggingface | hugging-face-tool-builder |
+| [hugging-face-trackio](https://github.com/huggingface/skills/tree/main/skills/hugging-face-trackio) | Track and visualize ML training experiments with Trackio. Use when logging metrics during training (Python API) or re... | None | huggingface | hugging-face-trackio |
 
 #### claude-code-plugins-plus
 
