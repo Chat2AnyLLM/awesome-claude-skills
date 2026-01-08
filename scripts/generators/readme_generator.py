@@ -45,7 +45,7 @@ Total Skills: {skill_count}
 
 Last updated: {timestamp}
 
-"""
+**[📋 View Complete Skills List](FULL-SKILLS.md)** - Convenient for searching through all skills without size limits."""
 
     def generate_what_are_skills(self) -> str:
         """Generate the 'What Are Claude Skills?' section."""
@@ -850,6 +850,169 @@ To add a new skill or marketplace:
             if marketplace.get("id") == marketplace_id:
                 return marketplace.get("name", marketplace_id)
         return marketplace_id
+
+    def generate_full_document(self) -> str:
+        """Generate a comprehensive full document with all table of contents and all skill tables."""
+        lines = []
+
+        # Start with main README content
+        main_readme = self.generate_readme()
+        lines.append(main_readme.rstrip())
+        lines.append("")
+
+        # Add separator for full skill listing
+        lines.append("---")
+        lines.append("")
+
+        # Add full skills section header
+        lines.append("# Complete Skills Listing")
+        lines.append("")
+        lines.append("*This section contains all skills organized by domain with complete tables.*")
+        lines.append("")
+
+        # Generate complete table of contents for all skills
+        lines.append("## Complete Table of Contents")
+        lines.append("")
+
+        # Get intelligent categories
+        intelligent_categories = self._get_intelligent_categories()
+        sorted_categories = sorted(
+            intelligent_categories.items(),
+            key=lambda x: (-len(x[1]), x[0])
+        )
+
+        # Build TOC with anchors to each domain section
+        toc_entries = []
+        for category_name, skills_in_category in sorted_categories:
+            if not skills_in_category:
+                continue
+
+            count = len(skills_in_category)
+            anchor = self._category_to_anchor(category_name)
+            toc_entries.append(f"- [{category_name}](#{anchor}) - {count} skills")
+
+            # Add subcategories to TOC if they exist
+            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
+            if subcategories:
+                sorted_subcats = sorted(
+                    [(k, v) for k, v in subcategories.items() if v],
+                    key=lambda x: len(x[1]),
+                    reverse=True
+                )
+                for subcat_name, subcat_skills in sorted_subcats:
+                    sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
+                    toc_entries.append(f"  - [{subcat_name}](#{sub_anchor}) - {len(subcat_skills)} skills")
+
+        lines.extend(toc_entries)
+        lines.append("")
+
+        # Now add all the actual skill content
+        for category_name, skills_in_category in sorted_categories:
+            if not skills_in_category:
+                continue
+
+            # Add domain header
+            anchor = self._category_to_anchor(category_name)
+            lines.append(f'<a name="{anchor}"></a>')
+            lines.append(f"# {category_name}")
+            lines.append("")
+            lines.append(f"*{len(skills_in_category)} skills in this domain*")
+            lines.append("")
+
+            # Check if category has subcategories
+            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
+
+            if subcategories:
+                # Add subcategory TOC
+                lines.append("## Table of Contents")
+                lines.append("")
+                sorted_subcats = sorted(
+                    [(k, v) for k, v in subcategories.items() if v],
+                    key=lambda x: len(x[1]),
+                    reverse=True
+                )
+                for subcat_name, subcat_skills in sorted_subcats:
+                    sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
+                    lines.append(f"- [{subcat_name}](#{sub_anchor}) - {len(subcat_skills)} skills")
+                lines.append("")
+
+                # Display by subcategories
+                for subcat_name, subcat_skills in sorted_subcats:
+                    sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
+                    lines.append(f'<a name="{sub_anchor}"></a>')
+                    lines.append(f"## {subcat_name}")
+                    lines.append(f"*{len(subcat_skills)} skills*")
+                    lines.append("")
+
+                    # Create skills table for this subcategory
+                    lines.append("| Skill | Description | Author |")
+                    lines.append("| --- | --- | --- |")
+
+                    # Sort skills by name within subcategory
+                    sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
+
+                    for skill in sorted_skills:
+                        name = skill.get('name', 'Unknown')
+                        url = skill.get('url', '') or skill.get('readme_url', '')
+                        description = skill.get('description', '').replace('\n', ' ').strip()
+                        # Truncate description to ~100 chars
+                        if len(description) > 100:
+                            description = description[:97] + '...'
+                        author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+
+                        if url:
+                            skill_link = f"[{name}]({url})"
+                        else:
+                            skill_link = name
+
+                        # Escape pipe characters and Liquid syntax in description
+                        description = description.replace("|", "\\|")
+                        description = self._escape_liquid_syntax(description)
+
+                        lines.append(f"| {skill_link} | {description} | {author} |")
+
+                    lines.append("")
+            else:
+                # Display all skills without subcategories
+                lines.append("| Skill | Description | Author |")
+                lines.append("| --- | --- | --- |")
+
+                # Sort skills by name within category
+                sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
+
+                for skill in sorted_skills:
+                    name = skill.get('name', 'Unknown')
+                    url = skill.get('url', '') or skill.get('readme_url', '')
+                    description = skill.get('description', '').replace('\n', ' ').strip()
+                    # Truncate description to ~100 chars
+                    if len(description) > 100:
+                        description = description[:97] + '...'
+                    author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+
+                    if url:
+                        skill_link = f"[{name}]({url})"
+                    else:
+                        skill_link = name
+
+                    # Escape pipe characters and Liquid syntax in description
+                    description = description.replace("|", "\\|")
+                    description = self._escape_liquid_syntax(description)
+
+                    lines.append(f"| {skill_link} | {description} | {author} |")
+
+                lines.append("")
+
+        return "\n".join(lines)
+
+    def _category_to_anchor(self, category_name: str) -> str:
+        """Convert category name to HTML anchor."""
+        anchor = category_name.lower()
+        anchor = anchor.replace(" ", "-")
+        anchor = anchor.replace("&", "and")
+        anchor = ''.join(c if c.isalnum() or c == '-' else '' for c in anchor)
+        while '--' in anchor:
+            anchor = anchor.replace('--', '-')
+        return anchor
 
     def validate_markdown(self, content: str) -> bool:
         """Basic markdown validation for generated content."""

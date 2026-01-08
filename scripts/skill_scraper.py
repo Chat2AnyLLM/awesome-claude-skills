@@ -78,12 +78,22 @@ def generate_readme(marketplaces: list, skills: list, output_file: str, args=Non
             f.write(content)
         logger = logging.getLogger(__name__)
         logger.info("README generated successfully: %s", output_file)
-        
+
+        # Generate full document with all skills
+        full_document_path = output_path.parent / "FULL-SKILLS.md"
+        try:
+            full_content = generator.generate_full_document()
+            with open(full_document_path, 'w', encoding='utf-8') as f:
+                f.write(full_content)
+            logger.info("Full skills document generated successfully: %s", full_document_path)
+        except Exception as e:
+            logger.error(f"Failed to generate full skills document: {e}")
+
         # Generate domain files
         domain_files = generator.generate_domain_files_mapping()
         domains_dir = output_path.parent / "domains"
         domains_dir.mkdir(exist_ok=True)
-        
+
         for filename, domain_content in domain_files.items():
             domain_path = domains_dir / filename
             try:
@@ -92,7 +102,7 @@ def generate_readme(marketplaces: list, skills: list, output_file: str, args=Non
                 logger.info(f"Generated domain file: {domain_path}")
             except Exception as e:
                 logger.error(f"Failed to write domain file {filename}: {e}")
-        
+
         logger.info(f"Generated {len(domain_files)} domain files in {domains_dir}")
         return True
     except Exception as e:
