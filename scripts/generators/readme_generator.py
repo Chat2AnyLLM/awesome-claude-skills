@@ -421,7 +421,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
     def generate_table_of_contents(self) -> str:
         """Generate intelligent hierarchical table of contents with links to domain files."""
-        toc_lines = ["\n## Table of Contents\n"]
+        toc_lines = ["\n## Contents\n"]
 
         # Main sections with their subsections
         toc_lines.extend([
@@ -465,7 +465,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
 
     def generate_full_document_table_of_contents(self) -> str:
         """Generate table of contents for the full document with local anchors."""
-        toc_lines = ["\n## Table of Contents\n"]
+        toc_lines = ["\n## Contents\n"]
 
         # Main sections with their subsections
         toc_lines.extend([
@@ -852,18 +852,31 @@ To add a new skill or marketplace:
 """
 
     def generate_readme(self) -> str:
-        """Generate complete README content with enhanced sections (without domain skills)."""
-        sections = [
-            self.generate_title(),
-            self.generate_table_of_contents(),
-            self.generate_creating_skills(),
-            self.generate_contributing(),
-            self.generate_resources(),
-            self.generate_community(),
-            self.generate_license(),
-        ]
+        """Generate complete README content with all skills organized like awesome lists."""
+        lines = []
 
-        content = "".join(sections)
+        # Start with title and badges
+        lines.append(self.generate_title().strip())
+
+        # Add Contents section
+        lines.append(self.generate_table_of_contents_for_full_readme())
+
+        # Add Creating Skills section
+        lines.append(self.generate_creating_skills().strip())
+
+        # Add Contributing section
+        lines.append(self.generate_contributing().strip())
+
+        # Add Resources section
+        lines.append(self.generate_resources().strip())
+
+        # Add Community section
+        lines.append(self.generate_community().strip())
+
+        # Add License section
+        lines.append(self.generate_license().strip())
+
+        content = "\n\n".join(lines)
 
         # Validate markdown format
         if not self.validate_markdown(content):
@@ -872,6 +885,125 @@ To add a new skill or marketplace:
             logger.info("Generated markdown validation successful")
 
         return content
+
+    def generate_table_of_contents_for_full_readme(self) -> str:
+        """Generate Contents section for full README with all skills included."""
+        lines = ["\n## Contents\n"]
+
+        # Add main sections
+        lines.extend([
+            "- [Creating Skills](#creating-skills)",
+            "- [Contributing](#contributing)",
+            "- [Resources](#resources)",
+            "- [Join the Community](#join-the-community)",
+            "- [License](#license)",
+        ])
+
+        # Add skills by domain section
+        lines.append("- **Skills by Domain:**")
+
+        # Get intelligent categories
+        intelligent_categories = self._get_intelligent_categories()
+        sorted_categories = sorted(
+            intelligent_categories.items(),
+            key=lambda x: (-len(x[1]), x[0])
+        )
+
+        # Add category links to TOC
+        for category_name, skills_in_category in sorted_categories:
+            if not skills_in_category:
+                continue
+
+            count = len(skills_in_category)
+            anchor = self._category_to_anchor(category_name)
+            lines.append(f"  - [{category_name}](#{anchor})")
+
+            # Add subcategories to TOC if they exist (for large categories)
+            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
+            if subcategories:
+                sorted_subcats = sorted(
+                    [(k, v) for k, v in subcategories.items() if v],
+                    key=lambda x: len(x[1]),
+                    reverse=True
+                )
+                for subcat_name, subcat_skills in sorted_subcats:
+                    sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
+                    lines.append(f"    - [{subcat_name}](#{sub_anchor})")
+
+        lines.append("")
+
+        # Now add all the actual skill content
+        for category_name, skills_in_category in sorted_categories:
+            if not skills_in_category:
+                continue
+
+            # Add category header with anchor
+            anchor = self._category_to_anchor(category_name)
+            lines.append(f'<a name="{anchor}"></a>')
+            lines.append(f"## {category_name}")
+            lines.append("")
+
+            # Check if category has subcategories
+            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
+
+            if subcategories:
+                # Display by subcategories
+                sorted_subcats = sorted(
+                    [(k, v) for k, v in subcategories.items() if v],
+                    key=lambda x: len(x[1]),
+                    reverse=True
+                )
+
+                for subcat_name, subcat_skills in sorted_subcats:
+                    sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
+                    lines.append(f'<a name="{sub_anchor}"></a>')
+                    lines.append(f"### {subcat_name}")
+                    lines.append("")
+
+                    # Sort skills by name within subcategory
+                    sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
+
+                    for skill in sorted_skills:
+                        name = skill.get('name', 'Unknown')
+                        url = skill.get('url', '') or skill.get('readme_url', '')
+                        description = skill.get('description', '').replace('\n', ' ').strip()
+
+                        # Keep descriptions concise like awesome lists
+                        if len(description) > 120:
+                            description = description[:117] + '...'
+
+                        if url:
+                            skill_link = f"[{name}]({url})"
+                        else:
+                            skill_link = name
+
+                        lines.append(f"- {skill_link} - {description}")
+
+                    lines.append("")
+            else:
+                # Display all skills without subcategories
+                # Sort skills by name within category
+                sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
+
+                for skill in sorted_skills:
+                    name = skill.get('name', 'Unknown')
+                    url = skill.get('url', '') or skill.get('readme_url', '')
+                    description = skill.get('description', '').replace('\n', ' ').strip()
+
+                    # Keep descriptions concise like awesome lists
+                    if len(description) > 120:
+                        description = description[:117] + '...'
+
+                    if url:
+                        skill_link = f"[{name}]({url})"
+                    else:
+                        skill_link = name
+
+                    lines.append(f"- {skill_link} - {description}")
+
+                lines.append("")
+
+        return "\n".join(lines)
 
     def _get_categories(self) -> Dict[str, List[Dict[str, Any]]]:
         """Get skills grouped by category."""
@@ -916,7 +1048,7 @@ To add a new skill or marketplace:
         lines.append("")
 
         # Generate complete table of contents for all skills
-        lines.append("## Complete Table of Contents")
+        lines.append("## Complete Contents")
         lines.append("")
 
         # Get intelligent categories
@@ -989,9 +1121,9 @@ To add a new skill or marketplace:
                     lines.append(f"*{len(subcat_skills)} skills*")
                     lines.append("")
 
-                    # Create skills table for this subcategory
-                    lines.append("| Skill | Description | Author |")
-                    lines.append("| --- | --- | --- |")
+                    # Create skills list for this subcategory using awesome format
+                    lines.append("### Skills")
+                    lines.append("")
 
                     # Sort skills by name within subcategory
                     sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
@@ -1000,27 +1132,23 @@ To add a new skill or marketplace:
                         name = skill.get('name', 'Unknown')
                         url = skill.get('url', '') or skill.get('readme_url', '')
                         description = skill.get('description', '').replace('\n', ' ').strip()
-                        # Truncate description to ~100 chars
-                        if len(description) > 100:
-                            description = description[:97] + '...'
-                        author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+
+                        # Keep descriptions concise like awesome lists
+                        if len(description) > 120:
+                            description = description[:117] + '...'
 
                         if url:
                             skill_link = f"[{name}]({url})"
                         else:
                             skill_link = name
 
-                        # Escape pipe characters and Liquid syntax in description
-                        description = description.replace("|", "\\|")
-                        description = self._escape_liquid_syntax(description)
-
-                        lines.append(f"| {skill_link} | {description} | {author} |")
+                        lines.append(f"- {skill_link} - {description}")
 
                     lines.append("")
             else:
-                # Display all skills without subcategories
-                lines.append("| Skill | Description | Author |")
-                lines.append("| --- | --- | --- |")
+                # Display all skills without subcategories using awesome format
+                lines.append("### Skills")
+                lines.append("")
 
                 # Sort skills by name within category
                 sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
@@ -1029,21 +1157,17 @@ To add a new skill or marketplace:
                     name = skill.get('name', 'Unknown')
                     url = skill.get('url', '') or skill.get('readme_url', '')
                     description = skill.get('description', '').replace('\n', ' ').strip()
-                    # Truncate description to ~100 chars
-                    if len(description) > 100:
-                        description = description[:97] + '...'
-                    author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+
+                    # Keep descriptions concise like awesome lists
+                    if len(description) > 120:
+                        description = description[:117] + '...'
 
                     if url:
                         skill_link = f"[{name}]({url})"
                     else:
                         skill_link = name
 
-                    # Escape pipe characters and Liquid syntax in description
-                    description = description.replace("|", "\\|")
-                    description = self._escape_liquid_syntax(description)
-
-                    lines.append(f"| {skill_link} | {description} | {author} |")
+                    lines.append(f"- {skill_link} - {description}")
 
                 lines.append("")
 
@@ -1073,20 +1197,6 @@ To add a new skill or marketplace:
                 if not url.strip():
                     logger.warning("Found empty URL in markdown link")
                     return False
-
-            # Basic check for table structure - just ensure tables have separators
-            lines = content.split("\n")
-            for i, line in enumerate(lines):
-                if "|" in line and not line.strip().startswith("#"):
-                    # Check if this is a table header row
-                    if i + 1 < len(lines):
-                        next_line = lines[i + 1]
-                        # Check if next line is a separator with dashes and pipes
-                        if (
-                            "|" in next_line
-                            and ("---" in next_line or "---" in next_line.replace(" ", ""))
-                        ):
-                            continue
 
             logger.info("Markdown validation passed")
             return True
