@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*261 skills in this domain*
+*262 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -146,6 +146,7 @@
 | [notion-knowledge-capture](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/notion-knowledge-capture) | Capture conversations and decisions into structured Notion pages; use when turning chats/notes in... | davila7 |
 | [notion-spec-to-implementation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/notion-spec-to-implementation) | Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing ... | davila7 |
 | [nx-workspace-patterns](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/nx-workspace-patterns) | Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project bounda... | wshobson |
+| [obsidian-markdown](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/obsidian-markdown) | Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and othe... | davila7 |
 | [obsidian-markdown](https://github.com/kepano/obsidian-skills/tree/main/obsidian-markdown) | Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and othe... | kepano |
 | [okr-tracker-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/okr-tracker-creator) | Create okr tracker creator operations. Auto-activating skill for Enterprise Workflows. Triggers o... | jeremylongshore |
 | [okr-tracker-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/okr-tracker-creator) | Create okr tracker creator operations. Auto-activating skill for Enterprise Workflows. Triggers o... | jeremylongshore |

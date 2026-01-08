@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*103 skills in this domain*
+*104 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -44,6 +44,7 @@
 | [Hooks Evaluation Framework](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/hooks-eval) |  | athola |
 | [injury-report-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/injury-report-tracker) | Monitor injury news across leagues. Fantasy impact analysis, backup player analysis, return timel... | OneWave-AI |
 | [jadx](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/jadx) | Android APK decompiler that converts DEX bytecode to readable Java source code. Use when you need... | BrownFineSecurity |
+| [json-canvas](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/json-canvas) | Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when ... | davila7 |
 | [json-canvas](https://github.com/kepano/obsidian-skills/tree/main/json-canvas) | Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when ... | kepano |
 | [legacy-modernizer](https://github.com/Jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Use when modernizing legacy systems, implementing incremental migration strategies, or reducing t... | Jeffallan |
 | [matplotlib](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/matplotlib) | Foundational plotting library. Create line plots, scatter, bar, histograms, heatmaps, 3D, subplot... | davila7 |
@@ -104,8 +105,8 @@
 | [windsurf-multi-file-editing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-multi-file-editing) | Manage multi-file edits with Cascade coordination. Activate when users mention "multi-file edit",... | jeremylongshore |
 | [windsurf-refactoring-large](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-refactoring-large) | Manage large-scale refactoring with Cascade coordination. Activate when users mention "large refa... | jeremylongshore |
 | [windsurf-refactoring-large](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-refactoring-large) | Manage large-scale refactoring with Cascade coordination. Activate when users mention "large refa... | jeremylongshore |
-| [Writing Hookify Rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "co... | anthropics |
 | [Writing Hookify Rules](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "co... | davila7 |
+| [Writing Hookify Rules](https://github.com/anthropics/claude-code/tree/main/plugins/hookify/skills/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "co... | anthropics |
 | [writing-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/writing-plans) | Use when you have a spec or requirements for a multi-step task, before touching code | davila7 |
 | [writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) | Use when you have a spec or requirements for a multi-step task, before touching code | obra |
 | [메타-프롬프트-생성기](https://github.com/bear2u/my-skills/tree/master/skills/meta-prompt-generator) | 간단한 설명을 받아 단계별 병렬 처리가 가능한 구조화된 커스텀 슬래시 커맨드를 자동으로 생성합니다. 프롬프트 생성, 워크플로우 설계, 테스트 스위트 작성이 필요할 때 사용하세요. | bear2u |

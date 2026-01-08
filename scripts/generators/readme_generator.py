@@ -852,7 +852,7 @@ To add a new skill or marketplace:
 """
 
     def generate_readme(self) -> str:
-        """Generate complete README content with all skills organized like awesome lists."""
+        """Generate README content with Contents section that links to FULL-SKILLS.md."""
         lines = []
 
         # Start with title and badges
@@ -861,22 +861,18 @@ To add a new skill or marketplace:
         # Add Contents section
         lines.append(self.generate_table_of_contents_for_full_readme())
 
-        # Add Creating Skills section
+        # Add main sections to README.md
         lines.append(self.generate_creating_skills().strip())
-
-        # Add Contributing section
+        lines.append("")
         lines.append(self.generate_contributing().strip())
-
-        # Add Resources section
+        lines.append("")
         lines.append(self.generate_resources().strip())
-
-        # Add Community section
+        lines.append("")
         lines.append(self.generate_community().strip())
-
-        # Add License section
+        lines.append("")
         lines.append(self.generate_license().strip())
 
-        content = "\n\n".join(lines)
+        content = "\n".join(lines)
 
         # Validate markdown format
         if not self.validate_markdown(content):
@@ -887,10 +883,10 @@ To add a new skill or marketplace:
         return content
 
     def generate_table_of_contents_for_full_readme(self) -> str:
-        """Generate Contents section for full README with all skills included."""
+        """Generate Contents section for README that links to FULL-SKILLS.md sections."""
         lines = ["\n## Contents\n"]
 
-        # Add main sections
+        # Add main sections (these stay in README.md)
         lines.extend([
             "- [Creating Skills](#creating-skills)",
             "- [Contributing](#contributing)",
@@ -899,7 +895,7 @@ To add a new skill or marketplace:
             "- [License](#license)",
         ])
 
-        # Add skills by domain section
+        # Add skills by domain section (links to FULL-SKILLS.md)
         lines.append("- **Skills by Domain:**")
 
         # Get intelligent categories
@@ -909,14 +905,13 @@ To add a new skill or marketplace:
             key=lambda x: (-len(x[1]), x[0])
         )
 
-        # Add category links to TOC
+        # Add category links to TOC - point to FULL-SKILLS.md
         for category_name, skills_in_category in sorted_categories:
             if not skills_in_category:
                 continue
 
-            count = len(skills_in_category)
             anchor = self._category_to_anchor(category_name)
-            lines.append(f"  - [{category_name}](#{anchor})")
+            lines.append(f"  - [{category_name}](FULL-SKILLS.md#{anchor})")
 
             # Add subcategories to TOC if they exist (for large categories)
             subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
@@ -926,82 +921,11 @@ To add a new skill or marketplace:
                     key=lambda x: len(x[1]),
                     reverse=True
                 )
-                for subcat_name, subcat_skills in sorted_subcats:
+                for subcat_name, _ in sorted_subcats:
                     sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
-                    lines.append(f"    - [{subcat_name}](#{sub_anchor})")
+                    lines.append(f"    - [{subcat_name}](FULL-SKILLS.md#{sub_anchor})")
 
         lines.append("")
-
-        # Now add all the actual skill content
-        for category_name, skills_in_category in sorted_categories:
-            if not skills_in_category:
-                continue
-
-            # Add category header with anchor
-            anchor = self._category_to_anchor(category_name)
-            lines.append(f'<a name="{anchor}"></a>')
-            lines.append(f"## {category_name}")
-            lines.append("")
-
-            # Check if category has subcategories
-            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
-
-            if subcategories:
-                # Display by subcategories
-                sorted_subcats = sorted(
-                    [(k, v) for k, v in subcategories.items() if v],
-                    key=lambda x: len(x[1]),
-                    reverse=True
-                )
-
-                for subcat_name, subcat_skills in sorted_subcats:
-                    sub_anchor = self._category_to_anchor(f"{category_name}-{subcat_name}")
-                    lines.append(f'<a name="{sub_anchor}"></a>')
-                    lines.append(f"### {subcat_name}")
-                    lines.append("")
-
-                    # Sort skills by name within subcategory
-                    sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
-
-                    for skill in sorted_skills:
-                        name = skill.get('name', 'Unknown')
-                        url = skill.get('url', '') or skill.get('readme_url', '')
-                        description = skill.get('description', '').replace('\n', ' ').strip()
-
-                        # Keep descriptions concise like awesome lists
-                        if len(description) > 120:
-                            description = description[:117] + '...'
-
-                        if url:
-                            skill_link = f"[{name}]({url})"
-                        else:
-                            skill_link = name
-
-                        lines.append(f"- {skill_link} - {description}")
-
-                    lines.append("")
-            else:
-                # Display all skills without subcategories
-                # Sort skills by name within category
-                sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
-
-                for skill in sorted_skills:
-                    name = skill.get('name', 'Unknown')
-                    url = skill.get('url', '') or skill.get('readme_url', '')
-                    description = skill.get('description', '').replace('\n', ' ').strip()
-
-                    # Keep descriptions concise like awesome lists
-                    if len(description) > 120:
-                        description = description[:117] + '...'
-
-                    if url:
-                        skill_link = f"[{name}]({url})"
-                    else:
-                        skill_link = name
-
-                    lines.append(f"- {skill_link} - {description}")
-
-                lines.append("")
 
         return "\n".join(lines)
 
