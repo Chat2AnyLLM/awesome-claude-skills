@@ -716,7 +716,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                     # Truncate description to ~100 chars
                     if len(description) > 100:
                         description = description[:97] + '...'
-                    author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+                    author = skill.get('repo_owner', 'Unknown')
                     
                     if url:
                         skill_link = f"[{name}]({url})"
@@ -745,7 +745,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
                 # Truncate description to ~100 chars
                 if len(description) > 100:
                     description = description[:97] + '...'
-                author = skill.get('author', '') or skill.get('repo_owner', 'Unknown')
+                author = skill.get('repo_owner', 'Unknown')
                 
                 if url:
                     skill_link = f"[{name}]({url})"
@@ -1047,7 +1047,7 @@ To add a new skill or marketplace:
                         name = skill.get('name', 'Unknown')
                         url = skill.get('url', '') or skill.get('readme_url', '')
                         description = skill.get('description', '').replace('\n', ' ').strip()
-                        author = skill.get('author', 'Unknown')
+                        author = skill.get('repo_owner', 'Unknown')
 
                         # Keep descriptions concise like awesome lists
                         if len(description) > 120:
