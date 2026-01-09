@@ -958,14 +958,8 @@ To add a new skill or marketplace:
         """Generate only the complete skills listing content without README duplication."""
         lines = []
 
-        # Add anchor for direct linking to skills listing
-        lines.append('<a name="complete-skills-listing"></a>')
-        lines.append("")
-
         # Add full skills section header
         lines.append("# Complete Skills Listing")
-        lines.append("")
-        lines.append("*This section contains all skills organized by domain with complete tables.*")
         lines.append("")
 
         # Generate complete table of contents for all skills
