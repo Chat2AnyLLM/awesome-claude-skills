@@ -2,10 +2,10 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 1699 skills
+- [Backend Development](#backend-development) - 1700 skills
   - [Database Design](#database-design) - 741 skills
   - [APIs & REST](#apis-and-rest) - 691 skills
-  - [Request Handling](#request-handling) - 177 skills
+  - [Request Handling](#request-handling) - 178 skills
   - [Web Frameworks](#web-frameworks) - 61 skills
   - [Microservices](#microservices) - 10 skills
   - [Authentication](#authentication) - 7 skills
@@ -45,7 +45,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*1699 skills in this domain*
+*1700 skills in this domain*
 
 <a name="database-design"></a>
 ## Database Design
@@ -1495,7 +1495,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*177 skills*
+*178 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1645,6 +1645,7 @@
 | [sentry-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-incident-runbook) | Manage incident response procedures using Sentry. Use when investigating production issues, triaging errors, or creat... | jeremylongshore |
 | [skill-adapter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/pi-pathfinder/skills/skill-adapter) | Execute analyzes existing plugins to extract their capabilities, then adapts and applies those skills to the current ... | jeremylongshore |
 | [skill-adapter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/examples/pi-pathfinder/skills/skill-adapter) | Execute analyzes existing plugins to extract their capabilities, then adapts and applies those skills to the current ... | jeremylongshore |
+| [skill-from-masters](https://github.com/GBSOSS/skill-from-masters/tree/main/skill-from-masters) | Help users create high-quality skills by discovering and incorporating proven methodologies from domain experts. Use ... | GBSOSS |
 | [skills-search](https://github.com/daymade/claude-code-skills/tree/main/skills-search) | This skill should be used when users want to search, discover, install, or manage Claude Code skills from the CCPM re... | daymade |
 | [slack-gif-creator](https://github.com/OneWave-AI/claude-skills/tree/main/official-anthropic-skills/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation... | OneWave-AI |
 | [slack-gif-creator](https://github.com/Prat011/awesome-llm-skills/tree/master/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation... | Prat011 |
