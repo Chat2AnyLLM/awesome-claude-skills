@@ -7,7 +7,6 @@ import logging
 from typing import List, Dict, Any
 from collections import defaultdict
 import re
-import unicodedata
 from datetime import datetime, timezone
 
 logger = logging.getLogger(__name__)
@@ -38,6 +37,11 @@ class SkillReadmeGenerator:
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Chat2AnyLLM/awesome-claude-skills/pulls)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins)](https://github.com/Chat2AnyLLM/awesome-claude-plugins)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-assistant-manager)](https://github.com/Chat2AnyLLM/code-assistant-manager)
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
@@ -659,7 +663,7 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
     def generate_domain_file(self, category_name: str, skills_in_category: List[Dict]) -> str:
         """Generate a domain-specific markdown file content."""
         lines = []
-        
+
         # Add header with back navigation
         lines.append(f"# {category_name}")
         lines.append("")
@@ -667,6 +671,15 @@ cam skill install zechenzhangAGI/AI-research-SKILLs:19-emerging-techniques/model
         lines.append("")
         lines.append(f"*{len(skills_in_category)} skills in this domain*")
         lines.append("")
+
+        # Add GitHub star badges
+        lines.extend([
+            "[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)",
+            "[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)",
+            "[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins)](https://github.com/Chat2AnyLLM/awesome-claude-plugins)",
+            "[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-assistant-manager)](https://github.com/Chat2AnyLLM/code-assistant-manager)",
+            ""
+        ])
         
         # Check if category has subcategories (only for large categories with 50+ skills)
         subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}

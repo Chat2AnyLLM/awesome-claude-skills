@@ -4,6 +4,11 @@
 
 *190 skills in this domain*
 
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins)](https://github.com/Chat2AnyLLM/awesome-claude-plugins)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-assistant-manager)](https://github.com/Chat2AnyLLM/code-assistant-manager)
+
 | Skill | Description | Author |
 | --- | --- | --- |
 | [aggregating-crypto-news](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news) | Execute aggregate breaking crypto news, announcements, and market-moving events in real-time. Use... | jeremylongshore |

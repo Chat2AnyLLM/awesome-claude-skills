@@ -4,11 +4,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Chat2AnyLLM/awesome-claude-skills/pulls)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins)](https://github.com/Chat2AnyLLM/awesome-claude-plugins)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-assistant-manager)](https://github.com/Chat2AnyLLM/code-assistant-manager)
+
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
 Total Skills: 4167
 
-Last updated: 2026-01-09 07:49 UTC
+Last updated: 2026-01-09 07:55 UTC
 
 **[📋 See full skill list](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits.
 

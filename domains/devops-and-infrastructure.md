@@ -4,6 +4,11 @@
 
 *487 skills in this domain*
 
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins)](https://github.com/Chat2AnyLLM/awesome-claude-plugins)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-assistant-manager)](https://github.com/Chat2AnyLLM/code-assistant-manager)
+
 ## Table of Contents
 
 - [Cloud Platforms](#cloud-platforms) - 283 skills
@@ -80,8 +85,8 @@
 | [cloudwatch-alarm-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/13-aws-skills/cloudwatch-alarm-creator) | Create cloudwatch alarm creator operations. Auto-activating skill for AWS Skills. Triggers on: cl... | jeremylongshore |
 | [coderabbit-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-prod-checklist) | Execute CodeRabbit production deployment checklist and rollback procedures. Use when deploying Co... | jeremylongshore |
 | [coderabbit-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-prod-checklist) | Execute CodeRabbit production deployment checklist and rollback procedures. Use when deploying Co... | jeremylongshore |
-| [Command Development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/command-development) | This skill should be used when the user asks to "create a slash command", "add a command", "write... | davila7 |
 | [Command Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/command-development) | This skill should be used when the user asks to "create a slash command", "add a command", "write... | anthropics |
+| [Command Development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/command-development) | This skill should be used when the user asks to "create a slash command", "add a command", "write... | davila7 |
 | [cost-optimization](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/cost-optimization) | Optimize cloud costs through resource rightsizing, tagging strategies, reserved instances, and sp... | wshobson |
 | [cost-optimization-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/cost-optimization-analyzer) | Analyze cost optimization analyzer operations. Auto-activating skill for AWS Skills. Triggers on:... | jeremylongshore |
 | [cost-optimization-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/13-aws-skills/cost-optimization-analyzer) | Analyze cost optimization analyzer operations. Auto-activating skill for AWS Skills. Triggers on:... | jeremylongshore |
@@ -414,8 +419,8 @@
 | [perplexity-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-ci-integration) | Configure Perplexity CI/CD integration with GitHub Actions and testing. Use when setting up autom... | jeremylongshore |
 | [perplexity-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-multi-env-setup) | Configure Perplexity across development, staging, and production environments. Use when setting u... | jeremylongshore |
 | [perplexity-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-multi-env-setup) | Configure Perplexity across development, staging, and production environments. Use when setting u... | jeremylongshore |
-| [Plugin Settings](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plugin-settings) | This skill should be used when the user asks about "plugin settings", "store plugin configuration... | davila7 |
 | [Plugin Settings](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-settings) | This skill should be used when the user asks about "plugin settings", "store plugin configuration... | anthropics |
+| [Plugin Settings](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plugin-settings) | This skill should be used when the user asks about "plugin settings", "store plugin configuration... | davila7 |
 | [posthog-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-ci-integration) | Configure PostHog CI/CD integration with GitHub Actions and testing. Use when setting up automate... | jeremylongshore |
 | [posthog-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-ci-integration) | Configure PostHog CI/CD integration with GitHub Actions and testing. Use when setting up automate... | jeremylongshore |
 | [posthog-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-multi-env-setup) | Configure PostHog across development, staging, and production environments. Use when setting up m... | jeremylongshore |
