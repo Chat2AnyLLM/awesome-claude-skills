@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*14 skills in this domain*
+*16 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -11,6 +11,8 @@
 | [Core Review Workflow](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/review-core) |  | athola |
 | [google-sheets-automation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/google-sheets-automation) | Manage google sheets automation operations. Auto-activating skill for Business Automation. Trigge... | jeremylongshore |
 | [google-sheets-automation](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/google-sheets-automation) | Manage google sheets automation operations. Auto-activating skill for Business Automation. Trigge... | jeremylongshore |
+| [linear-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linear-pack/skills/linear-core-workflow-a) | Issue lifecycle management with Linear: create, update, and transition issues. Use when implement... | jeremylongshore |
+| [linear-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-core-workflow-a) | Issue lifecycle management with Linear: create, update, and transition issues. Use when implement... | jeremylongshore |
 | [notification-dispatcher](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/notification-dispatcher) | Manage notification dispatcher operations. Auto-activating skill for Business Automation. Trigger... | jeremylongshore |
 | [notification-dispatcher](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/notification-dispatcher) | Manage notification dispatcher operations. Auto-activating skill for Business Automation. Trigger... | jeremylongshore |
 | [pdf-parser](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/pdf-parser) | Configure and manage - Parse pdf parser operations. Auto-activating skill for Business Automation... | jeremylongshore |

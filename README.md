@@ -6,11 +6,11 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 3772
+Total Skills: 4327
 
-Last updated: 2026-01-08 14:01 UTC
+Last updated: 2026-01-09 01:29 UTC
 
-**[📋 View Complete Skills List](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits.
+**[📋 See full skill list](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits.
 
 ## Contents
 
@@ -20,46 +20,19 @@ Last updated: 2026-01-08 14:01 UTC
 - [Join the Community](#join-the-community)
 - [License](#license)
 - **Skills by Domain:**
-  - [Backend Development](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#backend-development)
-    - [Database Design](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#database-design)
-    - [APIs & REST](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#apis-and-rest)
-    - [Request Handling](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#request-handling)
-    - [Web Frameworks](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#web-frameworks)
-    - [Message Queues](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#message-queues)
-    - [Caching](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#caching)
-    - [Microservices](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#microservices)
-    - [Authentication](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#authentication)
-  - [DevOps & Infrastructure](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#devops-and-infrastructure)
-    - [Cloud Platforms](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#cloud-platforms)
-    - [CI/CD](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#cicd)
-    - [Containers](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#containers)
-    - [Monitoring](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#monitoring)
-    - [Infrastructure as Code](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#infrastructure-as-code)
-    - [Networking](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#networking)
-    - [Service Mesh](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#service-mesh)
-    - [Security](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#security)
-  - [Data & Analytics](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#data-and-analytics)
-    - [Data Pipelines](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#data-pipelines)
-    - [Analytics & Queries](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#analytics-and-queries)
-    - [Data Science](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#data-science)
-    - [Time Series](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#time-series)
-    - [Data Warehousing](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#data-warehousing)
-    - [Business Intelligence](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#business-intelligence)
-  - [AI & LLM](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#ai-and-llm)
-  - [Version Control & Collaboration](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#version-control-and-collaboration)
-  - [Frontend Development](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#frontend-development)
-  - [Machine Learning](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#machine-learning)
-    - [Model Training](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#model-training)
-    - [Hyperparameter Tuning](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#hyperparameter-tuning)
-    - [Feature Engineering](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#feature-engineering)
-    - [Model Evaluation](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#model-evaluation)
-    - [Model Deployment](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#model-deployment)
-  - [Testing & Quality](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#testing-and-quality)
-  - [Security](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#security)
-  - [Uncategorized](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#uncategorized)
-  - [Documentation](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#documentation)
-  - [Tools & Utilities](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#tools-and-utilities)
-  - [Business & Productivity](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#business-and-productivity)
+  - [Backend Development](./domains/backend-development.md)
+  - [DevOps & Infrastructure](./domains/devops-and-infrastructure.md)
+  - [Data & Analytics](./domains/data-and-analytics.md)
+  - [Version Control & Collaboration](./domains/version-control-and-collaboration.md)
+  - [AI & LLM](./domains/ai-and-llm.md)
+  - [Frontend Development](./domains/frontend-development.md)
+  - [Machine Learning](./domains/machine-learning.md)
+  - [Testing & Quality](./domains/testing-and-quality.md)
+  - [Security](./domains/security.md)
+  - [Uncategorized](./domains/uncategorized.md)
+  - [Documentation](./domains/documentation.md)
+  - [Tools & Utilities](./domains/tools-and-utilities.md)
+  - [Business & Productivity](./domains/business-and-productivity.md)
 
 ## Creating Skills
 

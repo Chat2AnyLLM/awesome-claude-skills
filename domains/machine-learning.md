@@ -2,19 +2,19 @@
 
 [← Back to Main README](../README.md)
 
-*184 skills in this domain*
+*206 skills in this domain*
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 138 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 29 skills
+- [Model Training](#model-training) - 155 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 33 skills
 - [Feature Engineering](#feature-engineering) - 7 skills
 - [Model Evaluation](#model-evaluation) - 6 skills
-- [Model Deployment](#model-deployment) - 4 skills
+- [Model Deployment](#model-deployment) - 5 skills
 
 <a name="model-training"></a>
 ## Model Training
-*138 skills*
+*155 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -23,7 +23,10 @@
 | [cirq](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/cirq) | Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing nois... | K-Dense-AI |
 | [clay-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clay-pack/skills/clay-enterprise-rbac) | Configure Clay enterprise SSO, role-based access control, and organization management. Use when i... | jeremylongshore |
 | [clay-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clay-pack/skills/clay-enterprise-rbac) | Configure Clay enterprise SSO, role-based access control, and organization management. Use when i... | jeremylongshore |
+| [clerk-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-enterprise-rbac) | Configure enterprise SSO, role-based access control, and organization management. Use when implem... | jeremylongshore |
+| [clerk-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-enterprise-rbac) | Configure enterprise SSO, role-based access control, and organization management. Use when implem... | jeremylongshore |
 | [clip](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/clip) | OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text... | zechenzhangAGI |
+| [clip](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-clip) | OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text... | davila7 |
 | [cobrapy](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/cobrapy) | Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models... | K-Dense-AI |
 | [cobrapy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/cobrapy) | Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models... | davila7 |
 | [coderabbit-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-enterprise-rbac) | Configure CodeRabbit enterprise SSO, role-based access control, and organization management. Use ... | jeremylongshore |
@@ -31,6 +34,7 @@
 | [confusion-matrix-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/confusion-matrix-generator) | Generate confusion matrix generator operations. Auto-activating skill for ML Training. Triggers o... | jeremylongshore |
 | [confusion-matrix-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/confusion-matrix-generator) | Generate confusion matrix generator operations. Auto-activating skill for ML Training. Triggers o... | jeremylongshore |
 | [constitutional-ai](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/constitutional-ai) | Anthropic's method for training harmless AI through self-improvement. Two-phase approach - superv... | zechenzhangAGI |
+| [constitutional-ai](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-constitutional-ai) | Anthropic's method for training harmless AI through self-improvement. Two-phase approach - superv... | davila7 |
 | [cross-validation-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/cross-validation-setup) | Configure cross validation setup operations. Auto-activating skill for ML Training. Triggers on: ... | jeremylongshore |
 | [cross-validation-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/cross-validation-setup) | Configure cross validation setup operations. Auto-activating skill for ML Training. Triggers on: ... | jeremylongshore |
 | [cursor-model-selection](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-model-selection) | Configure and select AI models in Cursor. Triggers on "cursor model", "cursor gpt", "cursor claud... | jeremylongshore |
@@ -64,16 +68,19 @@
 | [groq-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-enterprise-rbac) | Configure Groq enterprise SSO, role-based access control, and organization management. Use when i... | jeremylongshore |
 | [groq-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-enterprise-rbac) | Configure Groq enterprise SSO, role-based access control, and organization management. Use when i... | jeremylongshore |
 | [grpo-rl-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/grpo-rl-training) | Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training | zechenzhangAGI |
+| [grpo-rl-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-grpo-rl-training) | Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training | davila7 |
 | [hyperparameter-tuner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/hyperparameter-tuner) | Manage hyperparameter tuner operations. Auto-activating skill for ML Training. Triggers on: hyper... | jeremylongshore |
 | [hyperparameter-tuner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/hyperparameter-tuner) | Manage hyperparameter tuner operations. Auto-activating skill for ML Training. Triggers on: hyper... | jeremylongshore |
 | [ideogram-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-enterprise-rbac) | Configure Ideogram enterprise SSO, role-based access control, and organization management. Use wh... | jeremylongshore |
 | [ideogram-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-enterprise-rbac) | Configure Ideogram enterprise SSO, role-based access control, and organization management. Use wh... | jeremylongshore |
 | [implementing-llms-litgpt](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/litgpt) | Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, ... | zechenzhangAGI |
+| [implementing-llms-litgpt](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-litgpt) | Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, ... | davila7 |
 | [instantly-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-enterprise-rbac) | Configure Instantly enterprise SSO, role-based access control, and organization management. Use w... | jeremylongshore |
 | [instantly-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-enterprise-rbac) | Configure Instantly enterprise SSO, role-based access control, and organization management. Use w... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/learning-rate-scheduler) | Manage learning rate scheduler operations. Auto-activating skill for ML Training. Triggers on: le... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/learning-rate-scheduler) | Manage learning rate scheduler operations. Auto-activating skill for ML Training. Triggers on: le... | jeremylongshore |
 | [llamaguard](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/llamaguard) | Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - vi... | zechenzhangAGI |
+| [llamaguard](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-llamaguard) | Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - vi... | davila7 |
 | [mixed-precision-trainer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/mixed-precision-trainer) | Manage mixed precision trainer operations. Auto-activating skill for ML Training. Triggers on: mi... | jeremylongshore |
 | [mixed-precision-trainer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/mixed-precision-trainer) | Manage mixed precision trainer operations. Auto-activating skill for ML Training. Triggers on: mi... | jeremylongshore |
 | [mlflow-tracking-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/mlflow-tracking-setup) | Configure mlflow tracking setup operations. Auto-activating skill for ML Training. Triggers on: m... | jeremylongshore |
@@ -83,11 +90,14 @@
 | [model-explainability-tool](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/model-explainability-tool) | Build model explainability tool operations. Auto-activating skill for ML Training. Triggers on: m... | jeremylongshore |
 | [model-explainability-tool](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/model-explainability-tool) | Build model explainability tool operations. Auto-activating skill for ML Training. Triggers on: m... | jeremylongshore |
 | [model-pruning](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/model-pruning) | Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use w... | zechenzhangAGI |
+| [model-pruning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-model-pruning) | Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use w... | davila7 |
 | [moe-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/moe-training) | Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-sca... | zechenzhangAGI |
+| [moe-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-moe-training) | Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-sca... | davila7 |
 | [molfeat](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/molfeat) | Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (C... | K-Dense-AI |
 | [molfeat](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/molfeat) | Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (C... | davila7 |
 | [move-code-quality](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/move-code-quality) | Analyzes Move language packages against the official Move Book Code Quality Checklist. Use this s... | davila7 |
 | [nnsight-remote-interpretability](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/nnsight) | Provides guidance for interpreting and manipulating neural network internals using nnsight with o... | zechenzhangAGI |
+| [nnsight-remote-interpretability](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight) | Provides guidance for interpreting and manipulating neural network internals using nnsight with o... | davila7 |
 | [openrouter-fallback-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-fallback-config) | Configure model fallback chains for high availability. Use when building fault-tolerant LLM syste... | jeremylongshore |
 | [openrouter-fallback-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-fallback-config) | Configure model fallback chains for high availability. Use when building fault-tolerant LLM syste... | jeremylongshore |
 | [openrouter-function-calling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-function-calling) | Implement function/tool calling with OpenRouter models. Use when building agents or structured ou... | jeremylongshore |
@@ -110,11 +120,13 @@
 | [Python Packaging](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-packaging) | Modern Python packaging with pyproject.toml, uv, and best practices for distribution. | athola |
 | [python-packaging](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-packaging) | Create distributable Python packages with proper project structure, setup.py/pyproject.toml, and ... | wshobson |
 | [pytorch-lightning](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/pytorch-lightning) | High-level PyTorch framework with Trainer class, automatic distributed training (DDP/FSDP/DeepSpe... | zechenzhangAGI |
+| [pytorch-lightning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-lightning) | High-level PyTorch framework with Trainer class, automatic distributed training (DDP/FSDP/DeepSpe... | davila7 |
 | [pytorch-model-trainer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/pytorch-model-trainer) | Build pytorch model trainer operations. Auto-activating skill for ML Training. Triggers on: pytor... | jeremylongshore |
 | [pytorch-model-trainer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/pytorch-model-trainer) | Build pytorch model trainer operations. Auto-activating skill for ML Training. Triggers on: pytor... | jeremylongshore |
 | [qiskit](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/qiskit) | Comprehensive quantum computing toolkit for building, optimizing, and executing quantum circuits.... | davila7 |
 | [quota-setting-calculator](https://github.com/OneWave-AI/claude-skills/tree/main/quota-setting-calculator) | Top-down vs bottom-up quota models. Historical attainment, market growth assumptions, ramp period... | OneWave-AI |
 | [ray-train](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/ray-train) | Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/HuggingFace from la... | zechenzhangAGI |
+| [ray-train](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-ray-train) | Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/HuggingFace from la... | davila7 |
 | [replit-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/replit-pack/skills/replit-enterprise-rbac) | Configure Replit enterprise SSO, role-based access control, and organization management. Use when... | jeremylongshore |
 | [replit-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/replit-pack/skills/replit-enterprise-rbac) | Configure Replit enterprise SSO, role-based access control, and organization management. Use when... | jeremylongshore |
 | [retellai-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-enterprise-rbac) | Configure Retell AI enterprise SSO, role-based access control, and organization management. Use w... | jeremylongshore |
@@ -126,10 +138,13 @@
 | [seaborn](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/seaborn) | Statistical visualization. Scatter, box, violin, heatmaps, pair plots, regression, correlation ma... | davila7 |
 | [security-requirement-extraction](https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/security-requirement-extraction) | Derive security requirements from threat models and business context. Use when translating threat... | wshobson |
 | [segment-anything-model](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/segment-anything) | Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any... | zechenzhangAGI |
+| [segment-anything-model](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-segment-anything) | Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any... | davila7 |
 | [sglang](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/12-inference-serving/sglang) | Fast structured generation and serving for LLMs with RadixAttention prefix caching. Use for JSON/... | zechenzhangAGI |
+| [sglang](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/inference-serving-sglang) | Fast structured generation and serving for LLMs with RadixAttention prefix caching. Use for JSON/... | davila7 |
 | [skill-share](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/skill-share) | A skill that creates new Claude skills and automatically shares them on Slack using Rube for seam... | davila7 |
 | [skill-share](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-share) | A skill that creates new Claude skills and automatically shares them on Slack using Rube for seam... | ComposioHQ |
 | [sparse-autoencoder-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/04-mechanistic-interpretability/saelens) | Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SAELens to decompos... | zechenzhangAGI |
+| [sparse-autoencoder-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-saelens) | Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SAELens to decompos... | davila7 |
 | [sprint-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/sprint/skills/sprint-workflow) | Execute this skill should be used when the user asks about "how sprints work", "sprint phases", "... | jeremylongshore |
 | [sprint-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/sprint-workflow) | Execute this skill should be used when the user asks about "how sprints work", "sprint phases", "... | jeremylongshore |
 | [stride-analysis-patterns](https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/stride-analysis-patterns) | Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, ... | wshobson |
@@ -145,6 +160,7 @@
 | [train-test-splitter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/train-test-splitter) | Test train test splitter operations. Auto-activating skill for ML Training. Triggers on: train te... | jeremylongshore |
 | [train-test-splitter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/train-test-splitter) | Test train test splitter operations. Auto-activating skill for ML Training. Triggers on: train te... | jeremylongshore |
 | [unsloth](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/unsloth) | Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80% less memory, LoR... | zechenzhangAGI |
+| [unsloth](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-unsloth) | Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80% less memory, LoR... | davila7 |
 | [vastai-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-enterprise-rbac) | Configure Vast.ai enterprise SSO, role-based access control, and organization management. Use whe... | jeremylongshore |
 | [vastai-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-enterprise-rbac) | Configure Vast.ai enterprise SSO, role-based access control, and organization management. Use whe... | jeremylongshore |
 | [vercel-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vercel-pack/skills/vercel-enterprise-rbac) | Configure Vercel enterprise SSO, role-based access control, and organization management. Use when... | jeremylongshore |
@@ -152,6 +168,7 @@
 | [wandb-experiment-logger](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/wandb-experiment-logger) | Execute wandb experiment logger operations. Auto-activating skill for ML Training. Triggers on: w... | jeremylongshore |
 | [wandb-experiment-logger](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/wandb-experiment-logger) | Execute wandb experiment logger operations. Auto-activating skill for ML Training. Triggers on: w... | jeremylongshore |
 | [whisper](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/whisper) | OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translat... | zechenzhangAGI |
+| [whisper](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-whisper) | OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translat... | davila7 |
 | [windsurf-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-enterprise-rbac) | Configure Windsurf enterprise SSO, role-based access control, and organization management. Use wh... | jeremylongshore |
 | [windsurf-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-enterprise-rbac) | Configure Windsurf enterprise SSO, role-based access control, and organization management. Use wh... | jeremylongshore |
 | [windsurf-enterprise-sso](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-enterprise-sso) | Configure enterprise SSO integration for Windsurf. Activate when users mention "sso configuration... | jeremylongshore |
@@ -159,13 +176,15 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*29 skills*
+*33 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [athlete-social-media-manager](https://github.com/OneWave-AI/claude-skills/tree/main/athlete-social-media-manager) | Create brand-safe content for athletes. Personal branding strategy, engagement optimization, cris... | OneWave-AI |
 | [capa-officer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/capa-officer) | Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Mana... | davila7 |
 | [cirq](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/cirq) | Quantum computing framework for building, simulating, optimizing, and executing quantum circuits.... | davila7 |
+| [clerk-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-cost-tuning) | Optimize Clerk costs and understand pricing. Use when planning budget, reducing costs, or underst... | jeremylongshore |
+| [clerk-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-cost-tuning) | Optimize Clerk costs and understand pricing. Use when planning budget, reducing costs, or underst... | jeremylongshore |
 | [content-creator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/content-creator) | Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer... | davila7 |
 | [Context Optimization Hub](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/context-optimization) |  | athola |
 | [embedded-systems](https://github.com/Jeffallan/claude-skills/tree/main/skills/embedded-systems) | Use when developing firmware for microcontrollers, implementing RTOS applications, or optimizing ... | Jeffallan |
@@ -175,7 +194,9 @@
 | [klingai-pricing-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-pricing-basics) | Manage understand Kling AI pricing, credits, and cost optimization. Use when budgeting or optimiz... | jeremylongshore |
 | [knowledge-base-builder](https://github.com/OneWave-AI/claude-skills/tree/main/knowledge-base-builder) | FAQ identification from support tickets, step-by-step tutorial creation, screenshot/video script ... | OneWave-AI |
 | [llama-factory](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/llama-factory) | Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8... | zechenzhangAGI |
+| [llama-factory](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-llama-factory) | Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8... | davila7 |
 | [llava](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/llava) | Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversati... | zechenzhangAGI |
+| [llava](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-llava) | Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversati... | davila7 |
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage and token efficiency. Use when managing costs or hitting context li... | jeremylongshore |
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage and token efficiency. Use when managing costs or hitting context li... | jeremylongshore |
 | [qiskit](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/qiskit) | IBM quantum computing framework. Use when targeting IBM Quantum hardware, working with Qiskit Run... | K-Dense-AI |
@@ -222,11 +243,12 @@
 
 <a name="model-deployment"></a>
 ## Model Deployment
-*4 skills*
+*5 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [awq-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/awq) | Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accura... | zechenzhangAGI |
+| [awq-quantization](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-awq) | Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accura... | davila7 |
 | [nowait-reasoning-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/nowait) | Implements the NOWAIT technique for efficient reasoning in R1-style LLMs. Use when optimizing inf... | davila7 |
 | [pymc-bayesian-modeling](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pymc) | Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/W... | K-Dense-AI |
 | [pymc-bayesian-modeling](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pymc) | Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/W... | davila7 |

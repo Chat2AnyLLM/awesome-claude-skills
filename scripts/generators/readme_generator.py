@@ -45,7 +45,7 @@ Total Skills: {skill_count}
 
 Last updated: {timestamp}
 
-**[📋 View Complete Skills List](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits."""
+**[📋 See full skill list](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits."""
 
     def generate_what_are_skills(self) -> str:
         """Generate the 'What Are Claude Skills?' section."""
@@ -905,25 +905,25 @@ To add a new skill or marketplace:
             key=lambda x: (-len(x[1]), x[0])
         )
 
-        # Add category links to TOC - point to FULL-SKILLS.md
+        # Add category links to TOC - point to domain files
         for category_name, skills_in_category in sorted_categories:
             if not skills_in_category:
                 continue
 
-            anchor = self._category_to_simple_anchor(category_name)
-            lines.append(f"  - [{category_name}](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#{anchor})")
+            domain_filename = self._category_to_filename(category_name)
+            lines.append(f"  - [{category_name}](./domains/{domain_filename})")
 
-            # Add subcategories to TOC if they exist (for large categories)
-            subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
-            if subcategories:
-                sorted_subcats = sorted(
-                    [(k, v) for k, v in subcategories.items() if v],
-                    key=lambda x: len(x[1]),
-                    reverse=True
-                )
-                for subcat_name, _ in sorted_subcats:
-                    sub_anchor = self._category_to_simple_anchor(subcat_name)
-                    lines.append(f"    - [{subcat_name}](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#{sub_anchor})")
+            # Remove subcategory links from main README TOC - they belong in domain files
+            # subcategories = self._get_subcategories(category_name, skills_in_category) if len(skills_in_category) >= 50 else {}
+            # if subcategories:
+            #     sorted_subcats = sorted(
+            #         [(k, v) for k, v in subcategories.items() if v],
+            #         key=lambda x: len(x[1]),
+            #         reverse=True
+            #     )
+            #     for subcat_name, _ in sorted_subcats:
+            #         sub_anchor = self._category_to_simple_anchor(subcat_name)
+            #         lines.append(f"    - [{subcat_name}](https://github.com/Chat2AnyLLM/awesome-claude-skills/blob/main/FULL-SKILLS.md#{sub_anchor})")
 
         lines.append("")
 
@@ -1055,9 +1055,9 @@ To add a new skill or marketplace:
                     lines.append(f"*{len(subcat_skills)} skills*")
                     lines.append("")
 
-                    # Create skills list for this subcategory using awesome format
-                    lines.append("### Skills")
-                    lines.append("")
+                    # Create skills table for this subcategory
+                    lines.append("| Skill | Description | Author |")
+                    lines.append("| --- | --- | --- |")
 
                     # Sort skills by name within subcategory
                     sorted_skills = sorted(subcat_skills, key=lambda x: x.get('name', '').lower())
@@ -1066,6 +1066,7 @@ To add a new skill or marketplace:
                         name = skill.get('name', 'Unknown')
                         url = skill.get('url', '') or skill.get('readme_url', '')
                         description = skill.get('description', '').replace('\n', ' ').strip()
+                        author = skill.get('author', 'Unknown')
 
                         # Keep descriptions concise like awesome lists
                         if len(description) > 120:
@@ -1076,13 +1077,13 @@ To add a new skill or marketplace:
                         else:
                             skill_link = name
 
-                        lines.append(f"- {skill_link} - {description}")
+                        lines.append(f"| {skill_link} | {description} | {author} |")
 
                     lines.append("")
             else:
-                # Display all skills without subcategories using awesome format
-                lines.append("### Skills")
-                lines.append("")
+                # Display all skills without subcategories using table format
+                lines.append("| Skill | Description | Author |")
+                lines.append("| --- | --- | --- |")
 
                 # Sort skills by name within category
                 sorted_skills = sorted(skills_in_category, key=lambda x: x.get('name', '').lower())
@@ -1091,6 +1092,7 @@ To add a new skill or marketplace:
                     name = skill.get('name', 'Unknown')
                     url = skill.get('url', '') or skill.get('readme_url', '')
                     description = skill.get('description', '').replace('\n', ' ').strip()
+                    author = skill.get('author', 'Unknown')
 
                     # Keep descriptions concise like awesome lists
                     if len(description) > 120:
@@ -1101,7 +1103,7 @@ To add a new skill or marketplace:
                     else:
                         skill_link = name
 
-                    lines.append(f"- {skill_link} - {description}")
+                    lines.append(f"| {skill_link} | {description} | {author} |")
 
                 lines.append("")
 

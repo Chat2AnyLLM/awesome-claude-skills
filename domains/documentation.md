@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*80 skills in this domain*
+*82 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -27,6 +27,8 @@
 | [contributing-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/contributing-guide-creator) | Create contributing guide creator operations. Auto-activating skill for Technical Documentation. ... | jeremylongshore |
 | [cursor-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-upgrade-migration) | Execute upgrade Cursor versions and migrate settings. Triggers on "upgrade cursor", "update curso... | jeremylongshore |
 | [cursor-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-upgrade-migration) | Execute upgrade Cursor versions and migrate settings. Triggers on "upgrade cursor", "update curso... | jeremylongshore |
+| [customerio-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-debug-bundle) | Collect Customer.io debug evidence for support. Use when creating support tickets, reporting issu... | jeremylongshore |
+| [customerio-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-debug-bundle) | Collect Customer.io debug evidence for support. Use when creating support tickets, reporting issu... | jeremylongshore |
 | [deprecation-notice-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/deprecation-notice-generator) | Generate deprecation notice generator operations. Auto-activating skill for Technical Documentati... | jeremylongshore |
 | [deprecation-notice-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/deprecation-notice-generator) | Generate deprecation notice generator operations. Auto-activating skill for Technical Documentati... | jeremylongshore |
 | [design-doc-template](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/design-doc-template) | Build Doc Template - Auto-activating skill for Technical Documentation. Triggers on: design doc t... | jeremylongshore |
@@ -41,7 +43,7 @@
 | [docusaurus-config-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/docusaurus-config-setup) | Configure docusaurus config setup operations. Auto-activating skill for Technical Documentation. ... | jeremylongshore |
 | [faq-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/faq-generator) | Generate faq generator operations. Auto-activating skill for Technical Documentation. Triggers on... | jeremylongshore |
 | [faq-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/faq-generator) | Generate faq generator operations. Auto-activating skill for Technical Documentation. Triggers on... | jeremylongshore |
-| [hex-docs-search](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/core/skills/hex-docs-search) | Research Hex packages (Sobelow, Phoenix, Ecto, Credo, Ash, etc). Use when investigating packages,... | bradleygolden |
+| [hex-docs-search](https://github.com/bradleygolden/claude-marketplace-elixir/tree/main/plugins/elixir/skills/hex-docs-search) | Research Hex packages (Sobelow, Phoenix, Ecto, Credo, Ash, etc). Use when investigating packages,... | bradleygolden |
 | [Hookify Rule Writing Guide](https://github.com/athola/claude-night-market/tree/master/plugins/hookify/skills/writing-rules) |  | athola |
 | [image-enhancer](https://github.com/Prat011/awesome-llm-skills/tree/master/image-enhancer) | Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and c... | Prat011 |
 | [image-enhancer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/image-enhancer) | Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and c... | davila7 |

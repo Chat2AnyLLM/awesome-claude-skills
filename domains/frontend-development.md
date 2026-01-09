@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*224 skills in this domain*
+*225 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -62,8 +62,8 @@
 | [fireflies-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fireflies-pack/skills/fireflies-reference-architecture) | Implement Fireflies.ai reference architecture with best-practice project layout. Use when designi... | jeremylongshore |
 | [flutter-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/flutter-expert) | Use when building cross-platform applications with Flutter 3+ and Dart. Invoke for widget develop... | Jeffallan |
 | [frontend-design](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | mrgoonie |
-| [frontend-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | davila7 |
 | [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | anthropics |
+| [frontend-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | davila7 |
 | [frontend-design](https://github.com/bear2u/my-skills/tree/master/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | bear2u |
 | [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | anthropics |
 | [frontend-dev-guidelines](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-development) | Frontend development guidelines for React/TypeScript applications. Modern patterns including Susp... | mrgoonie |
@@ -87,6 +87,7 @@
 | [kpi-dashboard-design](https://github.com/wshobson/agents/tree/main/plugins/business-analytics/skills/kpi-dashboard-design) | Design effective KPI dashboards with metrics selection, visualization best practices, and real-ti... | wshobson |
 | [landing-page-guide](https://github.com/bear2u/my-skills/tree/master/skills/landing-page-guide) | Comprehensive guide for creating effective landing pages using Next.js or React. This skill shoul... | bear2u |
 | [langchain](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/langchain) | Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple p... | zechenzhangAGI |
+| [langchain](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-langchain) | Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple p... | davila7 |
 | [laravel-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/laravel-specialist) | Use when building Laravel 10+ applications requiring Eloquent ORM, API resources, or queue system... | Jeffallan |
 | [latex-posters](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/latex-posters) | Create professional research posters in LaTeX using beamerposter, tikzposter, or baposter. Suppor... | K-Dense-AI |
 | [latex-posters](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pptx-posters) | Create professional research posters in LaTeX using beamerposter, tikzposter, or baposter. Suppor... | davila7 |
@@ -114,8 +115,8 @@
 | [playwright-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/playwright-expert) | Use when writing E2E tests with Playwright, setting up test infrastructure, or debugging flaky br... | Jeffallan |
 | [playwright-skill](https://github.com/lackeyjb/playwright-skill/tree/main/skills/playwright-skill) | Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts ... | lackeyjb |
 | [plotly](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/plotly) | Interactive scientific and statistical data visualization library for Python. Use when creating c... | davila7 |
-| [Plugin Structure](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plugin-structure) | This skill should be used when the user asks to "create a plugin", "scaffold a plugin", "understa... | davila7 |
 | [Plugin Structure](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/plugin-structure) | This skill should be used when the user asks to "create a plugin", "scaffold a plugin", "understa... | anthropics |
+| [Plugin Structure](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plugin-structure) | This skill should be used when the user asks to "create a plugin", "scaffold a plugin", "understa... | davila7 |
 | [posthog-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-reference-architecture) | Implement PostHog reference architecture with best-practice project layout. Use when designing ne... | jeremylongshore |
 | [posthog-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-reference-architecture) | Implement PostHog reference architecture with best-practice project layout. Use when designing ne... | jeremylongshore |
 | [pptx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pptx) | Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx... | mrgoonie |
