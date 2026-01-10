@@ -161,21 +161,6 @@ class BaseEntityFetcher(ABC, Generic[T]):
                                 continue
                             skill_dirs.add(skill_file.parent)
 
-                        # Also find agent files in agents directories
-                        if scan_dir.name.lower() == 'agents':
-                            for agent_file in scan_dir.glob("*.md"):
-                                if agent_file.name.lower() == 'readme.md':
-                                    continue
-                                if self._should_exclude_file(agent_file, temp_dir, repo):
-                                    logger.debug(f"Excluded file: {agent_file}")
-                                    continue
-                                # Check if the directory should be excluded
-                                if self._should_exclude_directory(agent_file.parent.parent, temp_dir, repo):
-                                    logger.debug(f"Excluded directory: {agent_file.parent.parent}")
-                                    continue
-                                # For agent files, the "directory" is the parent of agents
-                                skill_dirs.add(agent_file.parent.parent)
-
                         # Process each skill directory
                         for skill_dir in skill_dirs:
                             skill_file = skill_dir / "SKILL.md"
@@ -183,17 +168,8 @@ class BaseEntityFetcher(ABC, Generic[T]):
                                 # Regular skill directory with SKILL.md
                                 entity_file = skill_file
                             else:
-                                # Agent file - find the .md file in the agents subdirectory
-                                agents_dir = skill_dir / "agents"
-                                if agents_dir.exists():
-                                    agent_files = list(agents_dir.glob("*.md"))
-                                    agent_files = [f for f in agent_files if f.name.lower() != 'readme.md']
-                                    if agent_files:
-                                        entity_file = agent_files[0]  # Use the first agent file
-                                    else:
-                                        continue
-                                else:
-                                    continue
+                                # This should not happen since we only added directories with SKILL.md
+                                continue
 
                             try:
                                 entity = self.parser.parse_from_file(entity_file, repo)
