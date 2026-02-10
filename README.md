@@ -90,6 +90,11 @@ To add a new skill or marketplace:
 - [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tool for managing Claude skills
 - [Claude CLI](https://github.com/anthropics/claude-code/tree/main/packages/cli) - Command-line interface for Claude
 
+### Articles
+
+- [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
+
+
 ## Join the Community
 
 Connect with other Claude developers and skill creators:
