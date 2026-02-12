@@ -89,6 +89,7 @@ To add a new skill or marketplace:
 ### Development Tools
 - [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tool for managing Claude skills
 - [Claude CLI](https://github.com/anthropics/claude-code/tree/main/packages/cli) - Command-line interface for Claude
+- [Skill This](https://skillthis.ai) - Web app and Chrome extension that generates graded Claude skills from any input or webpage
 
 ## Join the Community
 
