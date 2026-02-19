@@ -421,4 +421,6 @@
 | [prospect-research-compiler](https://github.com/OneWave-AI/claude-skills/tree/main/prospect-research-compiler) | Aggregate prospect intelligence from multiple sources including news, social media, company websi... | OneWave-AI |
 
 
+| [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) | Claude skill for multi-chain crypto portfolio tracking. Query wallet holdings, DeFi positions, transaction history, and token analytics via natural language across 20+ blockchains. | Octav-Labs |
+
 [← Back to Main README](../README.md)
