@@ -174,7 +174,7 @@ def cmd_generate_readme(args, config, logger):
     duplicates_removed = 0
 
     for skill in all_skills:
-        skill_name = skill.get("name", "").strip().lower()
+        skill_name = str(skill.get("name", "") or "").strip().lower()
         repo_owner = skill.get("repo_owner", "")
         repo_name = skill.get("repo_name", "")
         # Create a unique key combining name and repository

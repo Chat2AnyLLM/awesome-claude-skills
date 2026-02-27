@@ -86,8 +86,8 @@ class SkillParser(EntityParser[Skill]):
         # Create skill entity
         skill = Skill(
             id=self.create_entity_key(repo_config, directory),
-            name=meta.get("name", directory),
-            description=meta.get("description", ""),
+            name=str(meta.get("name", directory) or directory),
+            description=str(meta.get("description", "") or ""),
             category=meta.get("category", "Uncategorized"),
             tags=meta.get("tags", []),
             marketplace_id=f"{repo_config.owner}/{repo_config.name}",
