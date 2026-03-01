@@ -1245,4 +1245,6 @@
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | Process this skill enables AI assistant to forecast future values based on historical time series... | jeremylongshore |
 
 
+| [octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) | Claude skill for multi-chain crypto portfolio tracking. Query wallet holdings, DeFi positions, transaction history, and token analytics via natural language across 20+ blockchains. | Octav-Labs |
+
 [← Back to Main README](../README.md)
