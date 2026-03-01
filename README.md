@@ -58,7 +58,11 @@ Want to contribute your own skills? Here's how to get started:
 - **Provide examples** - Include usage examples and edge cases
 - **Follow conventions** - Use standard patterns and naming conventions
 
-### Resources
+### Notable Skill Frameworks
+
+- [OpenPaw](https://github.com/daxaur/openpaw) - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
+
+## Resources
 
 - [Claude Code Documentation](https://docs.anthropic.com/claude/docs/claude-code)
 - [Skill Development Guide](https://github.com/anthropics/claude-code/tree/main/docs/skills)
