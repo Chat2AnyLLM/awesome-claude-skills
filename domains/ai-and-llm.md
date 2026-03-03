@@ -11,6 +11,7 @@
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [skillboss-ai-gateway](https://github.com/heeyo-life/skillboss-mcp) | Unified AI gateway for 100+ services (Claude, GPT, Gemini, DALL-E, Midjourney, Runway, ElevenLabs). One API key, OpenAI-compatible. | heeyo-life |
 | [000-jeremy-content-consistency-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/000-jeremy-content-consistency-validator/skills/000-jeremy-content-consistency-validator) | Validate messaging consistency across website, GitHub repos, and local documentation generating r... | jeremylongshore |
 | [000-jeremy-content-consistency-validator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/000-jeremy-content-consistency-validator/skills/000-jeremy-content-consistency-validator) | Validate messaging consistency across website, GitHub repos, and local documentation generating r... | jeremylongshore |
 | [10dlc-registration](https://github.com/moltbot/skills/tree/main/skills/teamtelnyx/telnyx-10dlc) | Register for 10DLC as a sole proprietor to enable SMS messaging in the USA. Use when setting up A... | moltbot |
