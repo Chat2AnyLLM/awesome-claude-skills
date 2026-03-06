@@ -116,3 +116,4 @@ This repository is licensed under the Apache License 2.0 - see the [LICENSE](LIC
 ---
 
 *Built with ❤️ by the Claude Code community. Empowering developers with AI-enhanced workflows.*
+- [agent-cards/skill](https://github.com/agent-cards/skill) - Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools.
