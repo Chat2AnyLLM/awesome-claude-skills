@@ -76,6 +76,7 @@
 | [Photography](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/photography) | Camera settings, composition, lighting, editing workflow, and genre-specific techniques. | moltbot |
 | [pls-marketing-ideas](https://github.com/moltbot/skills/tree/main/skills/mattvalenta/pls-marketing-ideas) |  | moltbot |
 | [postsyncer](https://github.com/moltbot/skills/tree/main/skills/abakermi/openclaw-postsyncer) | Manage your PostSyncer social media workflows. | moltbot |
+| [product-manager-skills](https://github.com/Digidai/product-manager-skills) | Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks for discovery, strategy, delivery, SaaS metrics, PM career coaching, and AI product craft. | Digidai |
 | [pushover-notify](https://github.com/moltbot/skills/tree/main/skills/digitallyborn/pushover-notify) | Send push notifications to your phone via Pushover (pushover.net). Use when you want reliable out... | moltbot |
 | [qinglong-crm-extractor](https://github.com/moltbot/skills/tree/main/skills/pandasun/qinglong-crm-extractor) |  | moltbot |
 | [reef-n8n-automation](https://github.com/moltbot/skills/tree/main/skills/staybased/reef-n8n-automation) |  | moltbot |
