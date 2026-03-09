@@ -713,6 +713,7 @@
 | [WIP.release](https://github.com/moltbot/skills/tree/main/skills/parkertoddbrooks/wip-release) | One-command release pipeline. Bumps version, updates changelog + SKILL.md, publishes to npm + Git... | moltbot |
 | [xiaohongshu-extract](https://github.com/moltbot/skills/tree/main/skills/jovijovi/xiaohongshu-extract) | Extract metadata from Xiaohongshu (XHS) share or discovery URLs by parsing window.__INITIAL_STATE... | moltbot |
 | [xmtp-cli-groups](https://github.com/moltbot/skills/tree/main/skills/humanagent/xmtp-cli/groups) | Create and manage XMTP groups and DMs from the CLI. Use when creating a DM or group, or updating ... | moltbot |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data skill — MCP server, REST API, 20 extraction tools, account monitoring. | Xquik-dev |
 | [yahoo-data-fetcher](https://github.com/moltbot/skills/tree/main/skills/rhcit/cputemp) | Fetch real-time stock quotes from Yahoo Finance. | moltbot |
 | [yahoo-finance-forex](https://github.com/moltbot/skills/tree/main/skills/nazimboudeffa/yahoo-finance-forex) | Fetches real-time FOREX news and market data from Yahoo Finance for major currency pairs (EUR/USD... | moltbot |
 | [yc-new-way](https://github.com/moltbot/skills/tree/main/skills/jack4world/yc-new-way) | Apply Y Combinator’s “New Way to Build a Startup” playbook to ship fast, validate with real distr... | moltbot |
