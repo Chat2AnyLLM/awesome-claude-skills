@@ -1211,6 +1211,8 @@
 | [health-chat](https://github.com/moltbot/skills/tree/main/skills/huifer/wellally-health-skills/skills/health-chat) | Unified health conversation entry point - automatically loads all health data for each conversati... | moltbot |
 | [indirect-prompt-injection](https://github.com/moltbot/skills/tree/main/skills/aviv4339/indirect-prompt-injection) | Detect and reject indirect prompt injection attacks when reading external content (social media p... | moltbot |
 | [pci-compliance](https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/pci-compliance) | Implement PCI DSS compliance requirements for secure handling of payment card data and payment sy... | wshobson |
+| [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) | Search scientific papers with full-text experimental data via MCP. SSE + Streamable HTTP endpoints. | connerlambden |
+
 | [prompt-guard](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/prompt-guard) | Meta's 86M prompt injection and jailbreak detector. Filters malicious prompts and third-party dat... | zechenzhangAGI |
 | [pywayne-crypto](https://github.com/moltbot/skills/tree/main/skills/wangyendt/crypto-2) | Encryption and decryption toolkit for string and byte data. Supports Fernet (AES-128) symmetric e... | moltbot |
 | [timesfm-forecasting](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/timesfm-forecasting) | Zero-shot time series forecasting with Google's TimesFM foundation model. Use this skill when for... | K-Dense-AI |
