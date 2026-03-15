@@ -251,6 +251,7 @@
 | [deliberate-frontend-redesign](https://github.com/moltbot/skills/tree/main/skills/vishnubedi3/deliberate-frontend-redesign) | Generates a deliberately designed frontend aesthetic that avoids generic UI patterns. Use when th... | moltbot |
 | [demo-video](https://github.com/moltbot/skills/tree/main/skills/0xs4m1337/demo-video) | Create product demo videos by automating browser interactions and capturing frames. Use when the ... | moltbot |
 | [desearch-crawl](https://github.com/moltbot/skills/tree/main/skills/okradze/desearch-crawl) | Crawl/scrape and extract content from any webpage URL. Returns the page content as clean text or ... | moltbot |
+| [design-auditor-skill](https://github.com/Ashutos1997/claude-design-auditor-skill) | Audit designs against 17 professional rules. Supports Figma MCP, HTML/CSS/React/Vue, and screenshots. Bilingual (English/Korean). | Ashutos1997 |
 | [Design System](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/design-system) | Build design systems with tokens, components, and documentation that scale across teams and produ... | moltbot |
 | [design-system-components](https://github.com/moltbot/skills/tree/main/skills/wpank/design-system-components) | Patterns for building design system components using Surface primitives, CVA variants, and consis... | moltbot |
 | [design-system-creation](https://github.com/moltbot/skills/tree/main/skills/wpank/design-system-creation) | Complete workflow for creating distinctive design systems from scratch. Orchestrates aesthetic do... | moltbot |
