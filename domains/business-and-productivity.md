@@ -1,4 +1,4 @@
-# Business & Productivity
+h# Business & Productivity
 
 [← Back to Main README](../README.md)
 
@@ -16,7 +16,7 @@
 | [audit-badge-demo](https://github.com/moltbot/skills/tree/main/skills/tezatezaz/audit-badge-demo) | Demo skill showcasing the audit badge workflow; still experimental. | moltbot |
 | [billing-automation](https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/billing-automation) | Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and du... | wshobson |
 | [Business Administration](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/business-administration) | Support business understanding from small ventures to corporate strategy and academic research. | moltbot |
-| [business-planner](https://github.com/moltbot/skills/tree/main/skills/mupengi-bot/business-planner) |  | moltbot |
+| [business-planner](https://github.com/moltbot/skills/tree/main/skills/mupengi-bot/business-planner) |  | moltbot |h
 | [Chief Business Officer](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/cbo) | Drive business growth with partnerships, market expansion, deal-making, and commercial strategy. | moltbot |
 | [Clockify Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/clockify-automation) | Automate time tracking workflows in Clockify -- create and manage time entries, workspaces, and u... | ComposioHQ |
 | [competitive-intelligence-market-research](https://github.com/moltbot/skills/tree/main/skills/shashwatgtm/competitive-intelligence-market-research) | B2B SaaS competitive intelligence with 24 scenarios across Sales/HR/Fintech/Ops Tech | moltbot |
@@ -57,6 +57,7 @@
 | [memory-lancedb-hybrid](https://github.com/moltbot/skills/tree/main/skills/joeykrug/memory-lancedb-hybrid) | LanceDB long-term memory plugin with BM25 + vector hybrid search (RRF or linear reranking). | moltbot |
 | [mia-twitter-stealth](https://github.com/moltbot/skills/tree/main/skills/arubiku/mia-twitter-stealth) | Twitter/X automation with advanced stealth and anti-detection | moltbot |
 | [monzo](https://github.com/moltbot/skills/tree/main/skills/rhesketh/monzo) | Access Monzo bank account - check balance, view transactions, manage pots, send feed notification... | moltbot |
+| [moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) | Hotel search, comparison, reviews, real-time pricing, and booking handoff via MoodTrip.ai MCP server. 12 tools for AI-driven hotel discovery and booking. | adiny |
 | [NetSuite Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/netsuite-automation) | NetSuite Automation: manage customers, sales orders, invoices, inventory, and records via Oracle ... | ComposioHQ |
 | [newsletter-creation-curation](https://github.com/moltbot/skills/tree/main/skills/brianrwagner/brw-newsletter-creation-curation) | Industry-adaptive B2B newsletter creation with stage, role, and geography-aware workflows | moltbot |
 | [nordvpn](https://github.com/moltbot/skills/tree/main/skills/maciekish/nordvpn) | Control NordVPN on Linux via the `nordvpn` CLI (connect/disconnect, choose country/city/group, re... | moltbot |
