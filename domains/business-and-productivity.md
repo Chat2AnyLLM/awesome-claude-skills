@@ -1,4 +1,4 @@
-h# Business & Productivity
+# Business & Productivity
 
 [← Back to Main README](../README.md)
 
@@ -16,7 +16,7 @@ h# Business & Productivity
 | [audit-badge-demo](https://github.com/moltbot/skills/tree/main/skills/tezatezaz/audit-badge-demo) | Demo skill showcasing the audit badge workflow; still experimental. | moltbot |
 | [billing-automation](https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/billing-automation) | Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and du... | wshobson |
 | [Business Administration](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/business-administration) | Support business understanding from small ventures to corporate strategy and academic research. | moltbot |
-| [business-planner](https://github.com/moltbot/skills/tree/main/skills/mupengi-bot/business-planner) |  | moltbot |h
+| [business-planner](https://github.com/moltbot/skills/tree/main/skills/mupengi-bot/business-planner) |  | moltbot |
 | [Chief Business Officer](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/cbo) | Drive business growth with partnerships, market expansion, deal-making, and commercial strategy. | moltbot |
 | [Clockify Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/clockify-automation) | Automate time tracking workflows in Clockify -- create and manage time entries, workspaces, and u... | ComposioHQ |
 | [competitive-intelligence-market-research](https://github.com/moltbot/skills/tree/main/skills/shashwatgtm/competitive-intelligence-market-research) | B2B SaaS competitive intelligence with 24 scenarios across Sales/HR/Fintech/Ops Tech | moltbot |
