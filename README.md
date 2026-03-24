@@ -64,6 +64,11 @@ Want to contribute your own skills? Here's how to get started:
 - [Skill Development Guide](https://github.com/anthropics/claude-code/tree/main/docs/skills)
 - [Community Examples](https://github.com/anthropics/claude-code/tree/main/examples)
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contributing
 
 We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details on how to add new marketplaces or skills.
