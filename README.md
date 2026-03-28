@@ -88,6 +88,7 @@ To add a new skill or marketplace:
 
 ### Development Tools
 - [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tool for managing Claude skills
+- [claude-dash](https://github.com/krabat-l/claude-dash) - Real-time statusline plugin showing context health, quota, cost, cache efficiency, and tool activity
 - [Claude CLI](https://github.com/anthropics/claude-code/tree/main/packages/cli) - Command-line interface for Claude
 
 ## Join the Community
