@@ -102,6 +102,11 @@
 | [upwork-automation-gig](https://github.com/moltbot/skills/tree/main/skills/katrina-jpg/upwork-automation-gig) |  | moltbot |
 | [visa-business-planner](https://github.com/moltbot/skills/tree/main/skills/calbabyjr/visa-business-planner) |  | moltbot |
 | [volcengine-compute-ecs](https://github.com/moltbot/skills/tree/main/skills/cinience/volcengine-compute-ecs) | Manage Volcengine ECS instances and related resources. Use when users need instance inventory, li... | moltbot |
+| [bouch-skills](https://github.com/paulieb89/bouch-skills) | 9 free skills for UK professionals: property comps (MCP), P6 schedule summary (MCP), legislation lookup (MCP), Pine Script v6 lookup (MCP), humaniser, meeting actions, client prep, workflow auditor, AI policy | paulieb89 |
+| [property-shared](https://github.com/paulieb89/property-shared) | UK property data MCP server: Land Registry comps, EPC, Rightmove, rental yields, stamp duty, Companies House, planning | paulieb89 |
+| [pyp6xer-mcp](https://github.com/paulieb89/pyp6xer-mcp) | Primavera P6 XER schedule analysis MCP server: critical path, earned value, float, quality checks, CSV export | paulieb89 |
+| [uk-legal-mcp](https://github.com/paulieb89/uk-legal-mcp) | UK legal research MCP server: case law, legislation, Hansard, HMRC guidance, OSCOLA citations | paulieb89 |
+| [pinescript-mcp](https://github.com/paulieb89/pinescript-mcp) | Pine Script v6 MCP server: documentation lookup, function validation, linting | paulieb89 |
 | [Webex Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/webex-automation) | Automate Cisco Webex messaging, rooms, teams, webhooks, and people management through natural lan... | ComposioHQ |
 | [webhook-robot](https://github.com/moltbot/skills/tree/main/skills/takedwind/webhook-robot) | Send messages to various webhook-based bots (WeCom, DingTalk, Feishu, etc.). | moltbot |
 | [webhook-router](https://github.com/moltbot/skills/tree/main/skills/yoder-bawt/webhook-router) |  | moltbot |
