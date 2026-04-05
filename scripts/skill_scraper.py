@@ -129,7 +129,7 @@ def parse_marketplace_data(raw_data: dict) -> list:
             marketplaces.append(marketplace)
     return marketplaces
 
-def cmd_generate_readme(args, config, logger):
+def cmd_generate_readme(args, config, logger) -> int:
     """Handle generate-readme command."""
     logger.info("Skill Scraper starting...")
 
@@ -200,7 +200,7 @@ def cmd_generate_readme(args, config, logger):
         print("Failed to generate README")
         return 1
 
-def cmd_validate_config(args, config, logger):
+def cmd_validate_config(args, config, logger) -> int:
     """Handle validate-config command."""
     print("Configuration validation:")
 
@@ -229,7 +229,7 @@ def cmd_validate_config(args, config, logger):
         print(f"✗ Configuration validation failed: {e}")
         return 1
 
-def cmd_list_sources(args, config, logger):
+def cmd_list_sources(args, config, logger) -> int:
     """Handle list-sources command."""
     try:
         sources = config.get_enabled_sources()
