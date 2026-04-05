@@ -28,7 +28,7 @@ def setup_logging(level: str = "INFO") -> None:
         format='%(asctime)s - %(levelname)s - %(message)s'
     )
 
-def generate_readme(marketplaces: list, skills: list, output_file: str, args=None) -> bool:
+def generate_readme(marketplaces: list, skills: list, output_file: str, args: list=None) -> bool:
     """Generate README from marketplace and skill data."""
     generator = SkillReadmeGenerator()
     # Handle both dict and object formats
@@ -129,7 +129,7 @@ def parse_marketplace_data(raw_data: dict) -> list:
             marketplaces.append(marketplace)
     return marketplaces
 
-def cmd_generate_readme(args, config, logger):
+def cmd_generate_readme(args: list, config: dict, logger) -> int:
     """Handle generate-readme command."""
     logger.info("Skill Scraper starting...")
 
@@ -200,7 +200,7 @@ def cmd_generate_readme(args, config, logger):
         print("Failed to generate README")
         return 1
 
-def cmd_validate_config(args, config, logger):
+def cmd_validate_config(args: list, config: dict, logger) -> int:
     """Handle validate-config command."""
     print("Configuration validation:")
 
@@ -229,7 +229,7 @@ def cmd_validate_config(args, config, logger):
         print(f"✗ Configuration validation failed: {e}")
         return 1
 
-def cmd_list_sources(args, config, logger):
+def cmd_list_sources(args: list, config: dict, logger) -> int:
     """Handle list-sources command."""
     try:
         sources = config.get_enabled_sources()
@@ -256,7 +256,7 @@ def cmd_list_sources(args, config, logger):
         print(f"Failed to list sources: {e}")
         return 1
 
-def main():
+def main() -> int:
     """Main entry point for the skill scraper."""
     parser = argparse.ArgumentParser(
         description="Generate curated README from Claude marketplace skill data"
