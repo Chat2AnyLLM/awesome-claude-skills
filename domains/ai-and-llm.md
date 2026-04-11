@@ -1785,6 +1785,7 @@
 | [nadfunagent](https://github.com/moltbot/skills/tree/main/skills/encipher88/nadfunagent) |  | moltbot |
 | [nag](https://github.com/moltbot/skills/tree/main/skills/meimakes/nag) | Persistent reminder system that keeps bugging you until you confirm completion. Use when setting ... | moltbot |
 | [nano-banana-cog](https://github.com/moltbot/skills/tree/main/skills/nitishgargiitd/nano-banana-cog) | Nano Banana × CellCog. Experience Nano Banana image generation through one of the most powerful A... | moltbot |
+| [nanobananas-api-guide](https://github.com/ailingqu/nanobananas-api-guide) | Complete guide for NanoBananas.AI API — AI image generation (Flux, Recraft, Ideogram) and video generation (Kling, Wan, Hunyuan) with pricing, auth, and code examples in Python/Node.js/cURL. | ailingqu |
 | [naruto-multi-agent](https://github.com/moltbot/skills/tree/main/skills/be1human/naruto-multi-agent) | Naruto-themed multi-agent dispatcher. You are Tsunade, the 5th Hokage, assigning missions to 5 el... | moltbot |
 | [naruto-multi-agent-cn](https://github.com/moltbot/skills/tree/main/skills/be1human/naruto-multi-agent-cn) | Multi-agent dispatcher: main agent becomes a pure coordinator that delegates ALL real work to 5 p... | moltbot |
 | [NAS](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/nas) | Configure, secure, and optimize network attached storage with proper backup strategy, remote acce... | moltbot |
