@@ -75,6 +75,7 @@
 | [personal-crm](https://github.com/moltbot/skills/tree/main/skills/matthewpoe/personal-crm) | Personal relationship manager that helps you stay in touch with important people through gentle n... | moltbot |
 | [Photography](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/photography) | Camera settings, composition, lighting, editing workflow, and genre-specific techniques. | moltbot |
 | [pls-marketing-ideas](https://github.com/moltbot/skills/tree/main/skills/mattvalenta/pls-marketing-ideas) |  | moltbot |
+| [pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 90 professional Claude Skills across 14 professions — PM, legal, finance, HR, sales, engineering, design, Figma, and more. Install: /plugin marketplace add mohitagw15856/pm-claude-skills | mohitagw15856 |
 | [postsyncer](https://github.com/moltbot/skills/tree/main/skills/abakermi/openclaw-postsyncer) | Manage your PostSyncer social media workflows. | moltbot |
 | [pushover-notify](https://github.com/moltbot/skills/tree/main/skills/digitallyborn/pushover-notify) | Send push notifications to your phone via Pushover (pushover.net). Use when you want reliable out... | moltbot |
 | [qinglong-crm-extractor](https://github.com/moltbot/skills/tree/main/skills/pandasun/qinglong-crm-extractor) |  | moltbot |
