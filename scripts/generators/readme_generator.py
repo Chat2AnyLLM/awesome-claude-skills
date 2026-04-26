@@ -19,11 +19,11 @@ class SkillReadmeGenerator:
         self.marketplaces: List[Dict[str, Any]] = []  # Now contains repositories
         self.skills: List[Dict[str, Any]] = []
 
-    def add_marketplaces(self, marketplaces: List[Dict[str, Any]]):
+    def add_marketplaces(self, marketplaces: List[Dict[str, Any]]) -> None:
         """Add marketplace data."""
         self.marketplaces.extend(marketplaces)
 
-    def add_skills(self, skills: List[Dict[str, Any]]):
+    def add_skills(self, skills: List[Dict[str, Any]]) -> None:
         """Add skill data."""
         self.skills.extend(skills)
 
