@@ -18,6 +18,7 @@
 | [Business Administration](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/business-administration) | Support business understanding from small ventures to corporate strategy and academic research. | moltbot |
 | [business-planner](https://github.com/moltbot/skills/tree/main/skills/mupengi-bot/business-planner) |  | moltbot |
 | [Chief Business Officer](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/cbo) | Drive business growth with partnerships, market expansion, deal-making, and commercial strategy. | moltbot |
+| [claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | AI-powered marketing skills — SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, Lead Qualification. Free, no account required. | cognyai |
 | [Clockify Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/clockify-automation) | Automate time tracking workflows in Clockify -- create and manage time entries, workspaces, and u... | ComposioHQ |
 | [competitive-intelligence-market-research](https://github.com/moltbot/skills/tree/main/skills/shashwatgtm/competitive-intelligence-market-research) | B2B SaaS competitive intelligence with 24 scenarios across Sales/HR/Fintech/Ops Tech | moltbot |
 | [Content Marketing](https://github.com/moltbot/skills/tree/main/skills/ivangdavila/content-marketing) | Plan, create, and distribute content with editorial calendars, funnel strategy, and repurposing w... | moltbot |
