@@ -169,6 +169,18 @@ def cmd_generate_readme(args: list, config: dict, logger) -> int:
     logger.info("Total repositories processed: %d", len(all_repos))
     logger.info("Total skills collected: %d", len(all_skills))
 
+    # Sort first for deterministic deduplication output across runs
+    all_skills = sorted(
+        all_skills,
+        key=lambda skill: (
+            str(skill.get("repo_owner", "") or ""),
+            str(skill.get("repo_name", "") or ""),
+            str(skill.get("name", "") or "").strip().lower(),
+            str(skill.get("readme_url", "") or ""),
+            str(skill.get("directory", "") or "")
+        )
+    )
+
     # Deduplicate skills based on name and repository (keep skills with same name from different repos)
     seen_keys = set()
     unique_skills = []

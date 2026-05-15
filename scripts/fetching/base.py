@@ -162,7 +162,7 @@ class BaseEntityFetcher(ABC, Generic[T]):
                             skill_dirs.add(skill_file.parent)
 
                         # Process each skill directory
-                        for skill_dir in skill_dirs:
+                        for skill_dir in sorted(skill_dirs, key=lambda p: str(p)):
                             skill_file = skill_dir / "SKILL.md"
                             if skill_file.exists():
                                 # Regular skill directory with SKILL.md
