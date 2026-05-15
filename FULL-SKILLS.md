@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4431 skills
-  - [APIs & REST](#apis-and-rest) - 2638 skills
+- [Backend Development](#backend-development) - 4432 skills
+  - [APIs & REST](#apis-and-rest) - 2639 skills
   - [Database Design](#database-design) - 1298 skills
   - [Request Handling](#request-handling) - 262 skills
   - [Web Frameworks](#web-frameworks) - 170 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4431 skills in this domain*
+*4432 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2638 skills*
+*2639 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1531,6 +1531,7 @@
 | [lucidchart-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lucidchart-pack/skills/lucidchart-install-auth) | Install and configure Lucidchart SDK/API authentication. Use when setting up a new Lucidchart integration. Trigger: "... | jeremylongshore |
 | [lucidchart-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lucidchart-pack/skills/lucidchart-performance-tuning) | Optimize Lucidchart API integration performance with caching, batch shape operations, and pagination strategies. Use ... | jeremylongshore |
 | [lucidchart-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lucidchart-pack/skills/lucidchart-performance-tuning) | Optimize Lucidchart API integration performance with caching, batch shape operations, and pagination strategies. Use ... | jeremylongshore |
+| [luma-imagegen](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/luma-imagegen) | Use when the user asks to generate images via the Luma AI API (Dream Machine / Photon); collects a prompt and options... | davila7 |
 | [maintainx-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/maintainx-pack/skills/maintainx-ci-integration) | Integrate MaintainX API testing into CI/CD pipelines. Use when setting up automated testing, configuring CI workflows... | jeremylongshore |
 | [maintainx-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/maintainx-pack/skills/maintainx-ci-integration) | Integrate MaintainX API testing into CI/CD pipelines. Use when setting up automated testing, configuring CI workflows... | jeremylongshore |
 | [maintainx-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/maintainx-pack/skills/maintainx-common-errors) | Debug and resolve common MaintainX API errors. Use when encountering API errors, authentication issues, or unexpected... | jeremylongshore |
