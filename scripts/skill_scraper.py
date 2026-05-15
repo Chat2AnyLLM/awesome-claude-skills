@@ -40,7 +40,34 @@ def generate_readme(marketplaces: list, skills: list, output_file: str, args: li
 
     content = generator.generate_readme()
 
-    # Check if content has actually changed (excluding timestamp)
+    # Generate full document with all skills (always regenerate)
+    full_document_path = Path(output_file).parent / "FULL-SKILLS.md"
+    try:
+        full_content = generator.generate_full_document()
+        with open(full_document_path, 'w', encoding='utf-8') as f:
+            f.write(full_content)
+        logger = logging.getLogger(__name__)
+        logger.info("Full skills document generated successfully: %s", full_document_path)
+    except Exception as e:
+        logger = logging.getLogger(__name__)
+        logger.error(f"Failed to generate full skills document: {e}")
+
+    # Generate domain files (always regenerate)
+    try:
+        domain_files = generator.generate_domain_files_mapping()
+        domains_dir = Path(output_file).parent / "domains"
+        domains_dir.mkdir(exist_ok=True)
+        for filename, domain_content in domain_files.items():
+            domain_path = domains_dir / filename
+            with open(domain_path, 'w', encoding='utf-8') as f:
+                f.write(domain_content)
+        logger = logging.getLogger(__name__)
+        logger.info(f"Generated {len(domain_files)} domain files in {domains_dir}")
+    except Exception as e:
+        logger = logging.getLogger(__name__)
+        logger.error(f"Failed to generate domain files: {e}")
+
+    # Check if README content has actually changed (excluding timestamp)
     output_path = Path(output_file)
     if output_path.exists() and not args.force:
         try:
@@ -78,32 +105,6 @@ def generate_readme(marketplaces: list, skills: list, output_file: str, args: li
             f.write(content)
         logger = logging.getLogger(__name__)
         logger.info("README generated successfully: %s", output_file)
-
-        # Generate full document with all skills
-        full_document_path = output_path.parent / "FULL-SKILLS.md"
-        try:
-            full_content = generator.generate_full_document()
-            with open(full_document_path, 'w', encoding='utf-8') as f:
-                f.write(full_content)
-            logger.info("Full skills document generated successfully: %s", full_document_path)
-        except Exception as e:
-            logger.error(f"Failed to generate full skills document: {e}")
-
-        # Generate domain files
-        domain_files = generator.generate_domain_files_mapping()
-        domains_dir = output_path.parent / "domains"
-        domains_dir.mkdir(exist_ok=True)
-
-        for filename, domain_content in domain_files.items():
-            domain_path = domains_dir / filename
-            try:
-                with open(domain_path, 'w', encoding='utf-8') as f:
-                    f.write(domain_content)
-                logger.info(f"Generated domain file: {domain_path}")
-            except Exception as e:
-                logger.error(f"Failed to write domain file {filename}: {e}")
-
-        logger.info(f"Generated {len(domain_files)} domain files in {domains_dir}")
         return True
     except Exception as e:
         logger = logging.getLogger(__name__)
@@ -167,6 +168,18 @@ def cmd_generate_readme(args: list, config: dict, logger) -> int:
 
     logger.info("Total repositories processed: %d", len(all_repos))
     logger.info("Total skills collected: %d", len(all_skills))
+
+    # Sort first for deterministic deduplication output across runs
+    all_skills = sorted(
+        all_skills,
+        key=lambda skill: (
+            str(skill.get("repo_owner", "") or ""),
+            str(skill.get("repo_name", "") or ""),
+            str(skill.get("name", "") or "").strip().lower(),
+            str(skill.get("readme_url", "") or ""),
+            str(skill.get("directory", "") or "")
+        )
+    )
 
     # Deduplicate skills based on name and repository (keep skills with same name from different repos)
     seen_keys = set()

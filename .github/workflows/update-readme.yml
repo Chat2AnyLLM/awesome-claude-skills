@@ -53,7 +53,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${{ github.repository }}.git
-        git add README.md
+        git add README.md FULL-SKILLS.md domains/
         git commit -m "🤖 Update README with latest skills
 
         Auto-generated from skill scraper

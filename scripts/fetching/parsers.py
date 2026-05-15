@@ -27,11 +27,6 @@ class SkillParser(EntityParser[Skill]):
 
         skill_dir = file_path.parent
 
-        # Skip generated/cache skills that start with 'cam_'
-        if skill_dir.name.startswith('cam_'):
-            logger.debug(f"Skipping generated skill directory: {skill_dir.name}")
-            return None
-
         # Parse metadata from the file
         meta = self._parse_metadata(file_path)
         if meta is None:
@@ -59,22 +54,13 @@ class SkillParser(EntityParser[Skill]):
                 except IndexError:
                     repo_root = repo_root_search_dir.parent
 
-        # Get relative path from repo root to skill directory
+        # Get the full relative path from repo root to skill directory (used for readme_url)
         try:
-            repo_relative_path = str(skill_dir.relative_to(repo_root))
+            relative = skill_dir.relative_to(repo_root)
+            # When skill is at repo root, relative_to returns "."; use empty string so URL ends cleanly
+            repo_relative_path = "" if str(relative) == "." else str(relative)
         except ValueError:
             repo_relative_path = directory
-
-        # If skills_path is set, adjust repo_relative_path accordingly
-        if repo_config.path:
-            skills_path = Path(repo_config.path)
-            try:
-                # Try to make repo_relative_path relative to skills_path
-                full_skills_path = repo_root / skills_path
-                repo_relative_path = str(skill_dir.relative_to(full_skills_path))
-            except ValueError:
-                # If we can't make it relative, keep the full path but warn
-                logger.warning(f"Skill directory {skill_dir} is not under skills_path {repo_config.path}")
 
         # Determine directory name for key
         if skill_dir == repo_root:
@@ -82,6 +68,12 @@ class SkillParser(EntityParser[Skill]):
             directory = repo_config.name if repo_config.name else "."
         else:
             directory = skill_dir.name
+
+        # Build readme_url; skip trailing slash when skill is at repo root
+        if repo_relative_path:
+            readme_url = f"https://github.com/{repo_config.owner}/{repo_config.name}/tree/{repo_config.branch}/{repo_relative_path}"
+        else:
+            readme_url = f"https://github.com/{repo_config.owner}/{repo_config.name}/tree/{repo_config.branch}"
 
         # Create skill entity
         skill = Skill(
@@ -95,7 +87,7 @@ class SkillParser(EntityParser[Skill]):
             repo_name=repo_config.name,
             repo_branch=repo_config.branch,
             directory=directory,
-            readme_url=f"https://github.com/{repo_config.owner}/{repo_config.name}/tree/{repo_config.branch}/{repo_relative_path}",
+            readme_url=readme_url,
         )
 
         return skill

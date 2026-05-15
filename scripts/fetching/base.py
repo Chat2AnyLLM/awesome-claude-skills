@@ -162,7 +162,7 @@ class BaseEntityFetcher(ABC, Generic[T]):
                             skill_dirs.add(skill_file.parent)
 
                         # Process each skill directory
-                        for skill_dir in skill_dirs:
+                        for skill_dir in sorted(skill_dirs, key=lambda p: str(p)):
                             skill_file = skill_dir / "SKILL.md"
                             if skill_file.exists():
                                 # Regular skill directory with SKILL.md
@@ -196,6 +196,10 @@ class BaseEntityFetcher(ABC, Generic[T]):
         except Exception as e:
             logger.error(f"Failed to fetch from {repo.owner}/{repo.name}: {e}")
 
+        if not entities:
+            logger.info(f"No entities found in {repo.owner}/{repo.name} (path={repo.path!r})")
+        else:
+            logger.info(f"Found {len(entities)} entities in {repo.owner}/{repo.name}")
         return entities
 
     def _get_scan_dirs(self, temp_dir: Path, repo: RepoConfig) -> List[Path]:
