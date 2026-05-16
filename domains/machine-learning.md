@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*342 skills in this domain*
+*343 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 220 skills
+- [Model Training](#model-training) - 221 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
 - [Model Evaluation](#model-evaluation) - 21 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*220 skills*
+*221 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -234,6 +234,7 @@
 | [wandb-experiment-logger](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/07-ml-training/wandb-experiment-logger) | Wandb Experiment Logger - Auto-activating skill for ML Training. Triggers on: wandb experiment lo... | jeremylongshore |
 | [warden](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/warden) | Security engineer — IAM, secrets, threat modeling, hardening, auth, and supply chain security. | jeremylongshore |
 | [warden](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/warden) | Security engineer — IAM, secrets, threat modeling, hardening, auth, and supply chain security. | jeremylongshore |
+| [wechat-article-writing-master](https://github.com/voidborne-d/master-skill/tree/main/prototypes/wechat-article-writing-master/output) | 公众号写作助手 (微信公众号文章 全链路 — 选题 / 标题 / 开篇 / 结构 / 行文 / 排版 / 配图 / 推送 / 涨粉 / 留言 / 二次传播 / 变现, 单 artifact = ... | voidborne-d |
 | [whisper](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-whisper) | OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translat... | davila7 |
 | [whisper](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/whisper) | OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translat... | zechenzhangAGI |
 | [windsurf-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-enterprise-rbac) | Configure Windsurf enterprise SSO, RBAC, and organization-level controls. Use when implementing S... | jeremylongshore |
