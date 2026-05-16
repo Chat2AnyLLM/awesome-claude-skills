@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*536 skills in this domain*
+*542 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -391,7 +391,13 @@
 | [planning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/planning) | Create and manage persistent markdown planning files for structured task execution. Use when the ... | davila7 |
 | [planning-disaster-recovery](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/disaster-recovery-planner/skills/planning-disaster-recovery) | Execute use when you need to work with backup and recovery. This skill provides backup automation... | jeremylongshore |
 | [planning-disaster-recovery](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/disaster-recovery-planner/skills/planning-disaster-recovery) | Execute use when you need to work with backup and recovery. This skill provides backup automation... | jeremylongshore |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) | Implements Manus-style file-based planning to organize and track progress on complex tasks. Creat... | OthmanAdi |
 | [planning-with-files](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/planning-with-files) | Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, ... | davila7 |
+| [planning-with-files-ar](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-ar) | نظام تخطيط الملفات بنمط Manus لتنظيم وتتبع تقدم المهام المعقدة. ينشئ ملفات task_plan.md و finding... | OthmanAdi |
+| [planning-with-files-de](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-de) | Manus-artiges Dateiplanungssystem zur Organisation und Verfolgung des Fortschritts komplexer Aufg... | OthmanAdi |
+| [planning-with-files-es](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-es) | Sistema de planificación basado en archivos estilo Manus para organizar y rastrear el progreso de... | OthmanAdi |
+| [planning-with-files-zh](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-zh) | 基于 Manus 风格的文件规划系统，用于组织和跟踪复杂任务的进度。创建 task_plan.md、findings.md 和 progress.md 三个文件。当用户要求规划、拆解或组织多步骤... | OthmanAdi |
+| [planning-with-files-zht](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-zht) | 基於 Manus 風格的檔案規劃系統，用於組織和追蹤複雜任務的進度。建立 task_plan.md、findings.md 和 progress.md 三個檔案。當使用者要求規劃、拆解或組織多步... | OthmanAdi |
 | [posthog-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-cost-tuning) | Optimize PostHog costs: autocapture tuning, event sampling with before_send, bot filtering, sessi... | jeremylongshore |
 | [posthog-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-cost-tuning) | Optimize PostHog costs: autocapture tuning, event sampling with before_send, bot filtering, sessi... | jeremylongshore |
 | [posthog-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-multi-env-setup) | Configure PostHog across development, staging, and production environments. Separate PostHog proj... | jeremylongshore |
