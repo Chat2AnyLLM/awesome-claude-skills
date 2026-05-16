@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*821 skills in this domain*
+*822 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Cloud Platforms](#cloud-platforms) - 473 skills
-- [CI/CD](#cicd) - 218 skills
+- [CI/CD](#cicd) - 219 skills
 - [Containers](#containers) - 80 skills
 - [Monitoring](#monitoring) - 20 skills
 - [Security](#security) - 12 skills
@@ -502,7 +502,7 @@
 
 <a name="cicd"></a>
 ## CI/CD
-*218 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -703,6 +703,7 @@
 | [speculative-decoding](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/speculative-decoding) | Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decodin... | zechenzhangAGI |
 | [sub-agent-orchestrator](https://github.com/OneWave-AI/claude-skills/tree/main/sub-agent-orchestrator) | Manages parent/child agent relationships with task delegation and result aggregation. Supports se... | OneWave-AI |
 | [supply-chain-guard](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/supply-chain-guard) | Detect and remediate software supply chain attacks in npm, PyPI, crates.io, GitHub Actions, and C... | davila7 |
+| [tech-resume-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/tech-resume-optimizer) | Optimize resumes for software engineering, product management, and technical roles. Use when the ... | davila7 |
 | [twinmind-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-ci-integration) | Integrate TwinMind meeting transcription workflows into CI/CD pipelines for automated meeting doc... | jeremylongshore |
 | [twinmind-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-ci-integration) | Integrate TwinMind meeting transcription workflows into CI/CD pipelines for automated meeting doc... | jeremylongshore |
 | [vastai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-ci-integration) | Configure Vast.ai CI/CD integration with GitHub Actions and automated GPU testing. Use when setti... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*727 skills in this domain*
+*731 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -323,6 +323,7 @@
 | [iterate-pr](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/iterate-pr) | Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, o... | davila7 |
 | [javascript-mastery](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/javascript-mastery) | Comprehensive JavaScript reference covering 33+ essential concepts every developer should know. F... | davila7 |
 | [job-application-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/job-application-optimizer) | Optimize job applications by tailoring resumes to job postings, generating customized cover lette... | OneWave-AI |
+| [job-description-analyzer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/job-description-analyzer) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. ... | davila7 |
 | [kaizen](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/kaizen) | Guide for continuous improvement, error proofing, and standardization. Use this skill when the us... | davila7 |
 | [karpathy-guidelines](https://github.com/swarmclawai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines) | Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refac... | swarmclawai |
 | [keep-onboard](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/keep-onboard) | Optimize customer onboarding — map the activation sequence, identify drop-off points, design the ... | jeremylongshore |
@@ -506,6 +507,8 @@
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitH... | jeremylongshore |
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitH... | jeremylongshore |
 | [resemble-detect](https://github.com/Prat011/awesome-llm-skills/tree/master/resemble-detect) | Deepfake detection and media safety — detect AI-generated audio, images, video, and text, trace s... | Prat011 |
+| [resume-tailor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-tailor) | Customize resume for specific job postings while maintaining truthfulness. Use when the user want... | davila7 |
+| [resume-version-manager](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-version-manager) | Track different resume versions, maintain a master resume, and manage tailored variants. Use when... | davila7 |
 | [retailed-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/retailed-automation) | Automate Retailed tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [retellai-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-advanced-troubleshooting) | Retell AI advanced troubleshooting — AI voice agent and phone call automation. Use when working w... | jeremylongshore |
 | [retellai-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-advanced-troubleshooting) | Retell AI advanced troubleshooting — AI voice agent and phone call automation. Use when working w... | jeremylongshore |
@@ -568,6 +571,7 @@
 | [safety-critical-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/safety-critical-patterns) | NASA Power of 10 rules adapted for verifiable code. | athola |
 | [safetyculture-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/safetyculture-automation) | Automate Safetyculture tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [saga-orchestration](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/saga-orchestration) | Implement saga patterns for distributed transactions and cross-aggregate workflows. Use this skil... | wshobson |
+| [salary-negotiation-prep](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/salary-negotiation-prep) | Research market rates, build negotiation strategy, and create counter-offer scripts. Use when the... | davila7 |
 | [sales-methodology-implementer](https://github.com/OneWave-AI/claude-skills/tree/main/sales-methodology-implementer) | Implement proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. ... | OneWave-AI |
 | [scan](https://github.com/wshobson/agents/tree/main/plugins/ship-mate/skills/scan) | Scans the codebase to generate project-doc.md and AGENTS.md. Runs a full scan on first use and a ... | wshobson |
 | [scanning-market-movers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/market-movers-scanner/skills/scanning-market-movers) | Detect significant price movements and unusual volume across crypto markets. Calculates significa... | jeremylongshore |

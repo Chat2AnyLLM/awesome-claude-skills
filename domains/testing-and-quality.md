@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*342 skills in this domain*
+*343 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -150,6 +150,7 @@
 | [intercom-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-prod-checklist) | Execute Intercom production readiness checklist and rollback procedures. Use when deploying Inter... | jeremylongshore |
 | [intercom-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-security-basics) | Apply Intercom security best practices for tokens, webhook verification, and scopes. Use when sec... | jeremylongshore |
 | [intercom-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-security-basics) | Apply Intercom security best practices for tokens, webhook verification, and scopes. Use when sec... | jeremylongshore |
+| [interview-prep-generator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/interview-prep-generator) | Generate STAR stories, practice questions, and talking points from a resume. Use when the user me... | davila7 |
 | [iqair-airvisual-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/iqair-airvisual-automation) | Automate Iqair Airvisual tasks via Rube MCP (Composio). Always search tools first for current sch... | ComposioHQ |
 | [javascript-testing-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/javascript-testing-patterns) | Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applicati... | davila7 |
 | [jest-test-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/09-test-automation/jest-test-generator) | Jest Test Generator - Auto-activating skill for Test Automation. Triggers on: jest test generator... | jeremylongshore |

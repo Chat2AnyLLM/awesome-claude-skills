@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*271 skills in this domain*
+*273 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -25,6 +25,7 @@
 | [beat-hintermann-taa-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/foot-ankle-surgery-master/output/sub-skills/beat-hintermann-taa) | Beat Hintermann (Kantonsspital Baselland, Switzerland) 视角. 踝关节置换 (TAA) HINTEGRA 假体设计师 + 20 年长期 fo... | voidborne-d |
 | [bradley-sutton-helium10-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/cross-border-ecommerce-master/output/sub-skills/bradley-sutton-helium10) | Bradley Sutton (Helium 10 VP of Education) 视角. 数据驱动亚马逊运营方法论. 调用此 skill 时, 用 Bradley 的认知框架做 Amazon... | voidborne-d |
 | [brian-dean-backlinko-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/seo-master/output/sub-skills/brian-dean-backlinko) | Brian Dean (Backlinko 创始人) 视角. Content-driven SEO 派代表. Skyscraper Technique + Pillar Cluster + 长内... | voidborne-d |
+| [career-changer-translator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/career-changer-translator) | Translate skills from one industry to another and identify transferable skills for career pivots.... | davila7 |
 | [chrome-extension-developer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/chrome-extension-developer) | Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service worker... | davila7 |
 | [class-diagram](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/class-diagram) | Generate class diagrams showing classes, interfaces, inheritance, and composition. | athola |
 | [code-communities](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/code-communities) | Detect architectural clusters via community detection on the code graph. Shows boundaries and cou... | athola |
@@ -58,6 +59,7 @@
 | [evernote-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-reference-architecture) | Reference architecture for Evernote integrations. Use when designing system architecture, plannin... | jeremylongshore |
 | [executing-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/executing-plans) | Use when you have a written implementation plan to execute in a separate session with review chec... | davila7 |
 | [executing-plans](https://github.com/obra/superpowers/tree/main/skills/executing-plans) | Use when you have a written implementation plan to execute in a separate session with review chec... | obra |
+| [executive-resume-writer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/executive-resume-writer) | Create C-suite and VP-level resumes emphasizing strategic leadership, P&L ownership, and board-le... | davila7 |
 | [expert-panel](https://github.com/OneWave-AI/claude-skills/tree/main/expert-panel) | Assemble 2-3 complementary experts to collaboratively analyze anything. Experts work together to ... | OneWave-AI |
 | [fathom-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fathom-pack/skills/fathom-reference-architecture) | Reference architecture for Fathom meeting intelligence integrations. Trigger with phrases like "f... | jeremylongshore |
 | [fathom-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/fathom-pack/skills/fathom-reference-architecture) | Reference architecture for Fathom meeting intelligence integrations. Trigger with phrases like "f... | jeremylongshore |

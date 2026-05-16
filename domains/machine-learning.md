@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*341 skills in this domain*
+*342 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Model Training](#model-training) - 220 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 69 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
 - [Model Evaluation](#model-evaluation) - 21 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
 - [Model Deployment](#model-deployment) - 11 skills
@@ -246,7 +246,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*69 skills*
+*70 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -303,6 +303,7 @@
 | [quality-manager-qms-iso13485](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qms-iso13485) | ISO 13485 Quality Management System specialist for medical device companies. Provides QMS impleme... | davila7 |
 | [rag-implementation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-implementation) | Retrieval-Augmented Generation patterns including chunking, embeddings, vector stores, and retrie... | davila7 |
 | [referral-program](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/referral-program) | When the user wants to create, optimize, or analyze a referral program, affiliate program, or wor... | davila7 |
+| [resume-ats-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-ats-optimizer) | Optimize resumes for Applicant Tracking Systems, check ATS compatibility, and analyze keyword mat... | davila7 |
 | [schema-optimization-orchestrator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/workspace/lab/schema-optimization) | Multi-phase schema optimization workflow orchestrator. Creates session directories, spawns phase ... | jeremylongshore |
 | [schema-optimization-orchestrator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/workspace/lab/schema-optimization) | Multi-phase schema optimization workflow orchestrator. Creates session directories, spawns phase ... | jeremylongshore |
 | [sentry-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-cost-tuning) | Optimize Sentry costs, reduce event volume, and manage quota spend. Use when analyzing Sentry bil... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*630 skills in this domain*
+*632 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -147,6 +147,7 @@
 | [conveyor-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/conveyor-automation) | Automate Conveyor tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [corrently-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/corrently-automation) | Automate Corrently tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [coupa-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/coupa-automation) | Automate Coupa tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [cover-letter-generator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/cover-letter-generator) | Create personalized, compelling cover letters from a resume and job description. Use when the use... | davila7 |
 | [craftmypdf-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/craftmypdf-automation) | Automate Craftmypdf tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [crowdin-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/crowdin-automation) | Automate Crowdin tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [cults-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/cults-automation) | Automate Cults tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -409,6 +410,7 @@
 | [npm-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/npm-automation) | Automate NPM tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [ocr-web-service-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/ocr-web-service-automation) | Automate OCR Web Service tasks via Rube MCP (Composio). Always search tools first for current sch... | ComposioHQ |
 | [ocrspace-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/ocrspace-automation) | Automate Ocrspace tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [offer-comparison-analyzer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/offer-comparison-analyzer) | Compare multiple job offers side-by-side with total compensation analysis. Use when the user has ... | davila7 |
 | [oncehub-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/oncehub-automation) | Automate Oncehub tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [onedesk-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/onedesk-automation) | Automate Onedesk tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [onepage-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/onepage-automation) | Automate Onepage tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |

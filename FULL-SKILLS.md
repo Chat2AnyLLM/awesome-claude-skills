@@ -2,51 +2,51 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4432 skills
+- [Backend Development](#backend-development) - 4436 skills
   - [APIs & REST](#apis-and-rest) - 2639 skills
-  - [Database Design](#database-design) - 1298 skills
+  - [Database Design](#database-design) - 1302 skills
   - [Request Handling](#request-handling) - 262 skills
   - [Web Frameworks](#web-frameworks) - 170 skills
   - [Authentication](#authentication) - 21 skills
   - [Message Queues](#message-queues) - 17 skills
   - [Microservices](#microservices) - 16 skills
   - [Caching](#caching) - 9 skills
-- [DevOps & Infrastructure](#devops-and-infrastructure) - 821 skills
+- [DevOps & Infrastructure](#devops-and-infrastructure) - 822 skills
   - [Cloud Platforms](#cloud-platforms) - 473 skills
-  - [CI/CD](#cicd) - 218 skills
+  - [CI/CD](#cicd) - 219 skills
   - [Containers](#containers) - 80 skills
   - [Monitoring](#monitoring) - 20 skills
   - [Security](#security) - 12 skills
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 794 skills
-  - [Data Pipelines](#data-pipelines) - 519 skills
+- [Data & Analytics](#data-and-analytics) - 795 skills
+  - [Data Pipelines](#data-pipelines) - 520 skills
   - [Analytics & Queries](#analytics-and-queries) - 210 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 13 skills
   - [Business Intelligence](#business-intelligence) - 5 skills
   - [Time Series](#time-series) - 4 skills
-- [AI & LLM](#ai-and-llm) - 727 skills
-- [Tools & Utilities](#tools-and-utilities) - 630 skills
-- [Frontend Development](#frontend-development) - 536 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 534 skills
-- [Testing & Quality](#testing-and-quality) - 342 skills
-- [Machine Learning](#machine-learning) - 341 skills
+- [AI & LLM](#ai-and-llm) - 731 skills
+- [Tools & Utilities](#tools-and-utilities) - 632 skills
+- [Frontend Development](#frontend-development) - 537 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 536 skills
+- [Testing & Quality](#testing-and-quality) - 343 skills
+- [Machine Learning](#machine-learning) - 342 skills
   - [Model Training](#model-training) - 220 skills
-  - [Hyperparameter Tuning](#hyperparameter-tuning) - 69 skills
+  - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
   - [Model Evaluation](#model-evaluation) - 21 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
   - [Model Deployment](#model-deployment) - 11 skills
 - [Security](#security) - 274 skills
-- [Uncategorized](#uncategorized) - 271 skills
+- [Uncategorized](#uncategorized) - 273 skills
 - [Documentation](#documentation) - 167 skills
-- [Business & Productivity](#business-and-productivity) - 98 skills
+- [Business & Productivity](#business-and-productivity) - 99 skills
 
 <a name="backend-development"></a>
 # Backend Development
 
-*4432 skills in this domain*
+*4436 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2696,7 +2696,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1298 skills*
+*1302 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2704,6 +2704,7 @@
 | [abridge-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-install-auth) | Set up Abridge clinical AI platform authentication and EHR integration credentials. Use when onboarding a healthcare ... | jeremylongshore |
 | [abridge-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-performance-tuning) | Optimize Abridge clinical AI integration performance for high-volume deployments. Use when reducing note generation l... | jeremylongshore |
 | [abridge-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-performance-tuning) | Optimize Abridge clinical AI integration performance for high-volume deployments. Use when reducing note generation l... | jeremylongshore |
+| [academic-cv-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/academic-cv-builder) | Format CVs for academic positions, including publications, grants, teaching, and research experience. Use when the us... | davila7 |
 | [adapting-transfer-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/transfer-learning-adapter/skills/adapting-transfer-learning-models) | Build this skill automates the adaptation of pre-trained machine learning models using transfer learning techniques. ... | jeremylongshore |
 | [adapting-transfer-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/transfer-learning-adapter/skills/adapting-transfer-learning-models) | Build this skill automates the adaptation of pre-trained machine learning models using transfer learning techniques. ... | jeremylongshore |
 | [adk-infra-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/jeremy-adk-terraform/skills/adk-infra-expert) | Execute use when provisioning Vertex AI ADK infrastructure with Terraform. Trigger with phrases like "deploy ADK terr... | jeremylongshore |
@@ -3577,6 +3578,7 @@
 | [podium-review-request-automation](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/podium-pack/skills/podium-review-request-automation) | Trigger Podium review requests from Shopify order-shipped events and survive the delivery-side failures — cooldown-wi... | jeremylongshore |
 | [podium-review-request-automation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/podium-pack/skills/podium-review-request-automation) | Trigger Podium review requests from Shopify order-shipped events and survive the delivery-side failures — cooldown-wi... | jeremylongshore |
 | [popup-cro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/popup-cro) | When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Al... | davila7 |
+| [portfolio-case-study-writer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/portfolio-case-study-writer) | Transform resume bullets into detailed portfolio case studies with context, action, and outcome. Use when the user me... | davila7 |
 | [postgres-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/postgres-pro) | Use when optimizing PostgreSQL queries, configuring replication, or implementing advanced database features. Invoke f... | Jeffallan |
 | [postgresql](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/postgresql) | Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, ... | davila7 |
 | [postgresql-optimization](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/postgresql-optimization) | PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production... | davila7 |
@@ -3638,6 +3640,7 @@
 | [receiving-code-review](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/receiving-code-review) | Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or tec... | davila7 |
 | [receiving-code-review](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review) | Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or tec... | obra |
 | [Red Team Tools and Methodology](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/red-team-tools) | This skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automat... | davila7 |
+| [reference-list-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/reference-list-builder) | Format professional references properly and prepare reference materials. Use when the user mentions references, refer... | davila7 |
 | [render-deploy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/render-deploy) | Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deep... | davila7 |
 | [renderform-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/renderform-automation) | Automate Renderform tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [rep-performance-scorecard](https://github.com/OneWave-AI/claude-skills/tree/main/rep-performance-scorecard) |  | OneWave-AI |
@@ -3672,6 +3675,7 @@
 | [research-to-deploy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/research-to-deploy/skills/research-to-deploy) | Researches infrastructure best practices and generates deployment-ready configurations, Terraform modules, Dockerfile... | jeremylongshore |
 | [response-time-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/10-performance-testing/response-time-analyzer) | Response Time Analyzer - Auto-activating skill for Performance Testing. Triggers on: response time analyzer, response... | jeremylongshore |
 | [response-time-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/10-performance-testing/response-time-analyzer) | Response Time Analyzer - Auto-activating skill for Performance Testing. Triggers on: response time analyzer, response... | jeremylongshore |
+| [resume-bullet-writer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-bullet-writer) | Transform weak resume bullets into achievement-focused statements with metrics and impact. Use when the user wants to... | davila7 |
 | [retellai-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-performance-tuning) | Retell AI performance tuning — AI voice agent and phone call automation. Use when working with Retell AI for voice ag... | jeremylongshore |
 | [retellai-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-performance-tuning) | Retell AI performance tuning — AI voice agent and phone call automation. Use when working with Retell AI for voice ag... | jeremylongshore |
 | [risk-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/general-legal-assistant/skills/risk-analysis) | Performs deep clause-by-clause risk scoring across 10 categories with poison pill detection and financial exposure es... | jeremylongshore |
@@ -4539,7 +4543,7 @@
 <a name="devops-and-infrastructure"></a>
 # DevOps & Infrastructure
 
-*821 skills in this domain*
+*822 skills in this domain*
 
 <a name="cloud-platforms"></a>
 ## Cloud Platforms
@@ -5023,7 +5027,7 @@
 
 <a name="cicd"></a>
 ## CI/CD
-*218 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5224,6 +5228,7 @@
 | [speculative-decoding](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/speculative-decoding) | Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use wh... | zechenzhangAGI |
 | [sub-agent-orchestrator](https://github.com/OneWave-AI/claude-skills/tree/main/sub-agent-orchestrator) | Manages parent/child agent relationships with task delegation and result aggregation. Supports sequential chains, par... | OneWave-AI |
 | [supply-chain-guard](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/supply-chain-guard) | Detect and remediate software supply chain attacks in npm, PyPI, crates.io, GitHub Actions, and CI/CD pipelines by sc... | davila7 |
+| [tech-resume-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/tech-resume-optimizer) | Optimize resumes for software engineering, product management, and technical roles. Use when the user mentions softwa... | davila7 |
 | [twinmind-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-ci-integration) | Integrate TwinMind meeting transcription workflows into CI/CD pipelines for automated meeting documentation and actio... | jeremylongshore |
 | [twinmind-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-ci-integration) | Integrate TwinMind meeting transcription workflows into CI/CD pipelines for automated meeting documentation and actio... | jeremylongshore |
 | [vastai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-ci-integration) | Configure Vast.ai CI/CD integration with GitHub Actions and automated GPU testing. Use when setting up automated test... | jeremylongshore |
@@ -5421,11 +5426,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*794 skills in this domain*
+*795 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*519 skills*
+*520 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5860,6 +5865,7 @@
 | [rand-fishkin-moz-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/seo-master/output/sub-skills/rand-fishkin-moz) | Rand Fishkin (Moz 创始人 + SparkToro) 视角. SEO 长期主义 + 跨平台视野 + 受众洞察派. 调用此 skill 时, 用 Rand 框架做战略级 SEO 决策. | voidborne-d |
 | [ray-data](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/05-data-processing/ray-data) | Scalable data processing for ML workloads. Streaming execution across CPU/GPU, supports Parquet/CSV/JSON/images. Inte... | zechenzhangAGI |
 | [renewal-predictor](https://github.com/OneWave-AI/claude-skills/tree/main/renewal-predictor) | Predicts client renewal likelihood based on health score signals. Analyzes engagement, support, adoption, satisfactio... | OneWave-AI |
+| [resume-quantifier](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-quantifier) | Find opportunities to add metrics and estimate numbers when exact data is unavailable. Use when the user wants to qua... | davila7 |
 | [retellai-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-data-handling) | Retell AI data handling — AI voice agent and phone call automation. Use when working with Retell AI for voice agents,... | jeremylongshore |
 | [retellai-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-data-handling) | Retell AI data handling — AI voice agent and phone call automation. Use when working with Retell AI for voice agents,... | jeremylongshore |
 | [rocketlane-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/rocketlane-automation) | Automate Rocketlane tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -6262,7 +6268,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*727 skills in this domain*
+*731 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6578,6 +6584,7 @@
 | [iterate-pr](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/iterate-pr) | Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push ... | davila7 |
 | [javascript-mastery](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/javascript-mastery) | Comprehensive JavaScript reference covering 33+ essential concepts every developer should know. From fundamentals lik... | davila7 |
 | [job-application-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/job-application-optimizer) | Optimize job applications by tailoring resumes to job postings, generating customized cover letters, and preparing ro... | OneWave-AI |
+| [job-description-analyzer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/job-description-analyzer) | Analyze job postings, calculate match scores, identify gaps, and create an application strategy. Use when the user sh... | davila7 |
 | [kaizen](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/kaizen) | Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve ... | davila7 |
 | [karpathy-guidelines](https://github.com/swarmclawai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines) | Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid... | swarmclawai |
 | [keep-onboard](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/keep-onboard) | Optimize customer onboarding — map the activation sequence, identify drop-off points, design the aha moment, and prod... | jeremylongshore |
@@ -6761,6 +6768,8 @@
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitHub repos for evidenc... | jeremylongshore |
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitHub repos for evidenc... | jeremylongshore |
 | [resemble-detect](https://github.com/Prat011/awesome-llm-skills/tree/master/resemble-detect) | Deepfake detection and media safety — detect AI-generated audio, images, video, and text, trace synthesis sources, ap... | Prat011 |
+| [resume-tailor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-tailor) | Customize resume for specific job postings while maintaining truthfulness. Use when the user wants to tailor, customi... | davila7 |
+| [resume-version-manager](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-version-manager) | Track different resume versions, maintain a master resume, and manage tailored variants. Use when the user mentions m... | davila7 |
 | [retailed-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/retailed-automation) | Automate Retailed tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [retellai-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-advanced-troubleshooting) | Retell AI advanced troubleshooting — AI voice agent and phone call automation. Use when working with Retell AI for vo... | jeremylongshore |
 | [retellai-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-advanced-troubleshooting) | Retell AI advanced troubleshooting — AI voice agent and phone call automation. Use when working with Retell AI for vo... | jeremylongshore |
@@ -6823,6 +6832,7 @@
 | [safety-critical-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/safety-critical-patterns) | NASA Power of 10 rules adapted for verifiable code. | athola |
 | [safetyculture-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/safetyculture-automation) | Automate Safetyculture tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [saga-orchestration](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/saga-orchestration) | Implement saga patterns for distributed transactions and cross-aggregate workflows. Use this skill when implementing ... | wshobson |
+| [salary-negotiation-prep](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/salary-negotiation-prep) | Research market rates, build negotiation strategy, and create counter-offer scripts. Use when the user mentions salar... | davila7 |
 | [sales-methodology-implementer](https://github.com/OneWave-AI/claude-skills/tree/main/sales-methodology-implementer) | Implement proven sales methodologies (MEDDIC, BANT, Sandler, Challenger, SPIN) across your team. Generate framework-s... | OneWave-AI |
 | [scan](https://github.com/wshobson/agents/tree/main/plugins/ship-mate/skills/scan) | Scans the codebase to generate project-doc.md and AGENTS.md. Runs a full scan on first use and a smart delta scan on ... | wshobson |
 | [scanning-market-movers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/market-movers-scanner/skills/scanning-market-movers) | Detect significant price movements and unusual volume across crypto markets. Calculates significance scores combining... | jeremylongshore |
@@ -6997,7 +7007,7 @@
 <a name="tools-and-utilities"></a>
 # Tools & Utilities
 
-*630 skills in this domain*
+*632 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7137,6 +7147,7 @@
 | [conveyor-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/conveyor-automation) | Automate Conveyor tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [corrently-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/corrently-automation) | Automate Corrently tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [coupa-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/coupa-automation) | Automate Coupa tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [cover-letter-generator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/cover-letter-generator) | Create personalized, compelling cover letters from a resume and job description. Use when the user asks for a cover l... | davila7 |
 | [craftmypdf-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/craftmypdf-automation) | Automate Craftmypdf tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [crowdin-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/crowdin-automation) | Automate Crowdin tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [cults-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/cults-automation) | Automate Cults tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -7399,6 +7410,7 @@
 | [npm-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/npm-automation) | Automate NPM tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [ocr-web-service-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/ocr-web-service-automation) | Automate OCR Web Service tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [ocrspace-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/ocrspace-automation) | Automate Ocrspace tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [offer-comparison-analyzer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/offer-comparison-analyzer) | Compare multiple job offers side-by-side with total compensation analysis. Use when the user has multiple offers and ... | davila7 |
 | [oncehub-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/oncehub-automation) | Automate Oncehub tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [onedesk-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/onedesk-automation) | Automate Onedesk tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [onepage-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/onepage-automation) | Automate Onepage tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -7635,7 +7647,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*536 skills in this domain*
+*537 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8036,6 +8048,7 @@
 | [responsive-breakpoint-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/05-frontend-dev/responsive-breakpoint-analyzer) | Responsive Breakpoint Analyzer - Auto-activating skill for Frontend Development. Triggers on: responsive breakpoint a... | jeremylongshore |
 | [responsive-design](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/responsive-design) | Implement modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first breakpoint ... | wshobson |
 | [responsive-layout-builder](https://github.com/OneWave-AI/claude-skills/tree/main/responsive-layout-builder) | Build responsive layouts with CSS Grid, Flexbox, and container queries. Use when creating responsive designs, fixing ... | OneWave-AI |
+| [resume-formatter](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-formatter) | Ensure ATS-friendly formatting and create clean, scannable layouts. Use when the user mentions resume format, layout,... | davila7 |
 | [running-e2e-tests](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/e2e-test-framework/skills/running-e2e-tests) | Execute end-to-end tests covering full user workflows across frontend and backend. Use when performing specialized te... | jeremylongshore |
 | [running-e2e-tests](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/e2e-test-framework/skills/running-e2e-tests) | Execute end-to-end tests covering full user workflows across frontend and backend. Use when performing specialized te... | jeremylongshore |
 | [running-integration-tests](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/integration-test-runner/skills/running-integration-tests) | Execute integration tests validating component interactions and system integration. Use when performing specialized t... | jeremylongshore |
@@ -8179,7 +8192,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*534 skills in this domain*
+*536 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8473,6 +8486,7 @@
 | [linear-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-webhooks-events) | Configure and handle Linear webhooks for real-time event processing. Use when setting up webhooks, handling issue/pro... | jeremylongshore |
 | [linear-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linear-pack/skills/linear-webhooks-events) | Configure and handle Linear webhooks for real-time event processing. Use when setting up webhooks, handling issue/pro... | jeremylongshore |
 | [linkedin-post-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/linkedin-post-optimizer) | Professional narrative style with line breaks, hashtag strategy, and hooks in first 2 lines to avoid truncation | OneWave-AI |
+| [linkedin-profile-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/linkedin-profile-optimizer) | Optimize a LinkedIn profile for searchability, recruiter visibility, and engagement. Use when the user mentions Linke... | davila7 |
 | [linktree-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linktree-pack/skills/linktree-core-workflow-a) | Execute Linktree primary workflow: Profile & Links Management. Trigger: "linktree profile & links management", "prima... | jeremylongshore |
 | [linktree-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linktree-pack/skills/linktree-core-workflow-a) | Execute Linktree primary workflow: Profile & Links Management. Trigger: "linktree profile & links management", "prima... | jeremylongshore |
 | [linktree-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linktree-pack/skills/linktree-prod-checklist) | Prod Checklist for Linktree. Trigger: "linktree prod checklist". | jeremylongshore |
@@ -8598,6 +8612,7 @@
 | [red-team-tactics](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/red-team-tactics) | Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting. | davila7 |
 | [replit-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/replit-pack/skills/replit-architecture-variants) | Choose and implement Replit architecture blueprints: single-file script, modular app, and multi-service. Use when des... | jeremylongshore |
 | [replit-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/replit-pack/skills/replit-architecture-variants) | Choose and implement Replit architecture blueprints: single-file script, modular app, and multi-service. Use when des... | jeremylongshore |
+| [resume-section-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-section-builder) | Create targeted resume sections optimized for different experience levels and roles. Use when the user wants to build... | davila7 |
 | [review-chamber](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/review-chamber) | Capture-and-retrieve sink for PR-review findings in memory palaces. | athola |
 | [risk-assessment-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/20-enterprise-workflows/risk-assessment-creator) | Risk Assessment Creator - Auto-activating skill for Enterprise Workflows. Triggers on: risk assessment creator, risk ... | jeremylongshore |
 | [risk-assessment-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/20-enterprise-workflows/risk-assessment-creator) | Risk Assessment Creator - Auto-activating skill for Enterprise Workflows. Triggers on: risk assessment creator, risk ... | jeremylongshore |
@@ -8721,7 +8736,7 @@
 <a name="testing-and-quality"></a>
 # Testing & Quality
 
-*342 skills in this domain*
+*343 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8864,6 +8879,7 @@
 | [intercom-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-prod-checklist) | Execute Intercom production readiness checklist and rollback procedures. Use when deploying Intercom integrations to ... | jeremylongshore |
 | [intercom-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-security-basics) | Apply Intercom security best practices for tokens, webhook verification, and scopes. Use when securing access tokens,... | jeremylongshore |
 | [intercom-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-security-basics) | Apply Intercom security best practices for tokens, webhook verification, and scopes. Use when securing access tokens,... | jeremylongshore |
+| [interview-prep-generator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/interview-prep-generator) | Generate STAR stories, practice questions, and talking points from a resume. Use when the user mentions interview pre... | davila7 |
 | [iqair-airvisual-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/iqair-airvisual-automation) | Automate Iqair Airvisual tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [javascript-testing-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/javascript-testing-patterns) | Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern tes... | davila7 |
 | [jest-test-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/09-test-automation/jest-test-generator) | Jest Test Generator - Auto-activating skill for Test Automation. Triggers on: jest test generator, jest test generato... | jeremylongshore |
@@ -9071,7 +9087,7 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*341 skills in this domain*
+*342 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
@@ -9302,7 +9318,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*69 skills*
+*70 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9359,6 +9375,7 @@
 | [quality-manager-qms-iso13485](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qms-iso13485) | ISO 13485 Quality Management System specialist for medical device companies. Provides QMS implementation, maintenance... | davila7 |
 | [rag-implementation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-implementation) | Retrieval-Augmented Generation patterns including chunking, embeddings, vector stores, and retrieval optimization Use... | davila7 |
 | [referral-program](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/referral-program) | When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.... | davila7 |
+| [resume-ats-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-ats-optimizer) | Optimize resumes for Applicant Tracking Systems, check ATS compatibility, and analyze keyword match. Use when the use... | davila7 |
 | [schema-optimization-orchestrator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/workspace/lab/schema-optimization) | Multi-phase schema optimization workflow orchestrator. Creates session directories, spawns phase agents sequentially,... | jeremylongshore |
 | [schema-optimization-orchestrator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/workspace/lab/schema-optimization) | Multi-phase schema optimization workflow orchestrator. Creates session directories, spawns phase agents sequentially,... | jeremylongshore |
 | [sentry-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-cost-tuning) | Optimize Sentry costs, reduce event volume, and manage quota spend. Use when analyzing Sentry billing, reducing error... | jeremylongshore |
@@ -9734,7 +9751,7 @@
 <a name="uncategorized"></a>
 # Uncategorized
 
-*271 skills in this domain*
+*273 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9752,6 +9769,7 @@
 | [beat-hintermann-taa-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/foot-ankle-surgery-master/output/sub-skills/beat-hintermann-taa) | Beat Hintermann (Kantonsspital Baselland, Switzerland) 视角. 踝关节置换 (TAA) HINTEGRA 假体设计师 + 20 年长期 follow-up 数据 + Patient... | voidborne-d |
 | [bradley-sutton-helium10-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/cross-border-ecommerce-master/output/sub-skills/bradley-sutton-helium10) | Bradley Sutton (Helium 10 VP of Education) 视角. 数据驱动亚马逊运营方法论. 调用此 skill 时, 用 Bradley 的认知框架做 Amazon 运营 / 关键词 / PPC 决策. | voidborne-d |
 | [brian-dean-backlinko-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/seo-master/output/sub-skills/brian-dean-backlinko) | Brian Dean (Backlinko 创始人) 视角. Content-driven SEO 派代表. Skyscraper Technique + Pillar Cluster + 长内容 + 链接建设. 调用此 skill ... | voidborne-d |
+| [career-changer-translator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/career-changer-translator) | Translate skills from one industry to another and identify transferable skills for career pivots. Use when the user m... | davila7 |
 | [chrome-extension-developer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/chrome-extension-developer) | Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service workers, content scripts, ... | davila7 |
 | [class-diagram](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/class-diagram) | Generate class diagrams showing classes, interfaces, inheritance, and composition. | athola |
 | [code-communities](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/code-communities) | Detect architectural clusters via community detection on the code graph. Shows boundaries and coupling. | athola |
@@ -9785,6 +9803,7 @@
 | [evernote-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-reference-architecture) | Reference architecture for Evernote integrations. Use when designing system architecture, planning integrations, or b... | jeremylongshore |
 | [executing-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/executing-plans) | Use when you have a written implementation plan to execute in a separate session with review checkpoints | davila7 |
 | [executing-plans](https://github.com/obra/superpowers/tree/main/skills/executing-plans) | Use when you have a written implementation plan to execute in a separate session with review checkpoints | obra |
+| [executive-resume-writer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/executive-resume-writer) | Create C-suite and VP-level resumes emphasizing strategic leadership, P&L ownership, and board-level impact. Use when... | davila7 |
 | [expert-panel](https://github.com/OneWave-AI/claude-skills/tree/main/expert-panel) | Assemble 2-3 complementary experts to collaboratively analyze anything. Experts work together to explore topics from ... | OneWave-AI |
 | [fathom-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fathom-pack/skills/fathom-reference-architecture) | Reference architecture for Fathom meeting intelligence integrations. Trigger with phrases like "fathom architecture",... | jeremylongshore |
 | [fathom-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/fathom-pack/skills/fathom-reference-architecture) | Reference architecture for Fathom meeting intelligence integrations. Trigger with phrases like "fathom architecture",... | jeremylongshore |
@@ -10188,7 +10207,7 @@
 <a name="business-and-productivity"></a>
 # Business & Productivity
 
-*98 skills in this domain*
+*99 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10227,6 +10246,7 @@
 | [Clockify Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/clockify-automation) | Automate time tracking workflows in Clockify -- create and manage time entries, workspaces, and users through natural... | ComposioHQ |
 | [configure](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/slack-channel/skills/configure) | Configure Slack channel tokens (bot token + app-level token) | jeremylongshore |
 | [configure](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/slack-channel/skills/configure) | Configure Slack channel tokens (bot token + app-level token) | jeremylongshore |
+| [creative-portfolio-resume](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/creative-portfolio-resume) | Balance visual design with ATS compatibility for creative roles. Use when the user is in design, art, writing, market... | davila7 |
 | [elevenlabs-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-core-workflow-b) | Implement ElevenLabs speech-to-speech, sound effects, audio isolation, and speech-to-text. Use when converting voice ... | jeremylongshore |
 | [elevenlabs-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-core-workflow-b) | Implement ElevenLabs speech-to-speech, sound effects, audio isolation, and speech-to-text. Use when converting voice ... | jeremylongshore |
 | [Eventbrite Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/eventbrite-automation) | Automate Eventbrite event management, attendee tracking, organization discovery, and category browsing through natura... | ComposioHQ |

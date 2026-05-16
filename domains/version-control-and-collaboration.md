@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*534 skills in this domain*
+*536 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -301,6 +301,7 @@
 | [linear-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-webhooks-events) | Configure and handle Linear webhooks for real-time event processing. Use when setting up webhooks... | jeremylongshore |
 | [linear-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linear-pack/skills/linear-webhooks-events) | Configure and handle Linear webhooks for real-time event processing. Use when setting up webhooks... | jeremylongshore |
 | [linkedin-post-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/linkedin-post-optimizer) | Professional narrative style with line breaks, hashtag strategy, and hooks in first 2 lines to av... | OneWave-AI |
+| [linkedin-profile-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/linkedin-profile-optimizer) | Optimize a LinkedIn profile for searchability, recruiter visibility, and engagement. Use when the... | davila7 |
 | [linktree-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linktree-pack/skills/linktree-core-workflow-a) | Execute Linktree primary workflow: Profile & Links Management. Trigger: "linktree profile & links... | jeremylongshore |
 | [linktree-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linktree-pack/skills/linktree-core-workflow-a) | Execute Linktree primary workflow: Profile & Links Management. Trigger: "linktree profile & links... | jeremylongshore |
 | [linktree-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linktree-pack/skills/linktree-prod-checklist) | Prod Checklist for Linktree. Trigger: "linktree prod checklist". | jeremylongshore |
@@ -426,6 +427,7 @@
 | [red-team-tactics](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/red-team-tactics) | Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting. | davila7 |
 | [replit-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/replit-pack/skills/replit-architecture-variants) | Choose and implement Replit architecture blueprints: single-file script, modular app, and multi-s... | jeremylongshore |
 | [replit-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/replit-pack/skills/replit-architecture-variants) | Choose and implement Replit architecture blueprints: single-file script, modular app, and multi-s... | jeremylongshore |
+| [resume-section-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-section-builder) | Create targeted resume sections optimized for different experience levels and roles. Use when the... | davila7 |
 | [review-chamber](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/review-chamber) | Capture-and-retrieve sink for PR-review findings in memory palaces. | athola |
 | [risk-assessment-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/20-enterprise-workflows/risk-assessment-creator) | Risk Assessment Creator - Auto-activating skill for Enterprise Workflows. Triggers on: risk asses... | jeremylongshore |
 | [risk-assessment-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/20-enterprise-workflows/risk-assessment-creator) | Risk Assessment Creator - Auto-activating skill for Enterprise Workflows. Triggers on: risk asses... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*98 skills in this domain*
+*99 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -46,6 +46,7 @@
 | [Clockify Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/clockify-automation) | Automate time tracking workflows in Clockify -- create and manage time entries, workspaces, and u... | ComposioHQ |
 | [configure](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/slack-channel/skills/configure) | Configure Slack channel tokens (bot token + app-level token) | jeremylongshore |
 | [configure](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/slack-channel/skills/configure) | Configure Slack channel tokens (bot token + app-level token) | jeremylongshore |
+| [creative-portfolio-resume](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/creative-portfolio-resume) | Balance visual design with ATS compatibility for creative roles. Use when the user is in design, ... | davila7 |
 | [elevenlabs-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-core-workflow-b) | Implement ElevenLabs speech-to-speech, sound effects, audio isolation, and speech-to-text. Use wh... | jeremylongshore |
 | [elevenlabs-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-core-workflow-b) | Implement ElevenLabs speech-to-speech, sound effects, audio isolation, and speech-to-text. Use wh... | jeremylongshore |
 | [Eventbrite Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/eventbrite-automation) | Automate Eventbrite event management, attendee tracking, organization discovery, and category bro... | ComposioHQ |
