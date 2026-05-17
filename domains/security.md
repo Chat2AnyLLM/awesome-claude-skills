@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*274 skills in this domain*
+*276 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -283,6 +283,8 @@
 | [windsurf-theme-customization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-theme-customization) | Configure Windsurf themes and visual settings for accessibility. Activate when users mention "cha... | jeremylongshore |
 | [xss-vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/03-security-fundamentals/xss-vulnerability-scanner) | Xss Vulnerability Scanner - Auto-activating skill for Security Fundamentals. Triggers on: xss vul... | jeremylongshore |
 | [xss-vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/03-security-fundamentals/xss-vulnerability-scanner) | Xss Vulnerability Scanner - Auto-activating skill for Security Fundamentals. Triggers on: xss vul... | jeremylongshore |
+| [zero-tech-debt](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/zero-tech-debt/skills/zero-tech-debt) | Rebuild a feature as if the correct product architecture existed from day one — remove compatibil... | jeremylongshore |
+| [zero-tech-debt](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/zero-tech-debt/skills/zero-tech-debt) | Rebuild a feature as if the correct product architecture existed from day one — remove compatibil... | jeremylongshore |
 | [zero-trust-config-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/04-security-advanced/zero-trust-config-helper) | Zero Trust Config Helper - Auto-activating skill for Security Advanced. Triggers on: zero trust c... | jeremylongshore |
 | [zero-trust-config-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/04-security-advanced/zero-trust-config-helper) | Zero Trust Config Helper - Auto-activating skill for Security Advanced. Triggers on: zero trust c... | jeremylongshore |
 

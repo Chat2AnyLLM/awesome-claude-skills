@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4436 skills in this domain*
+*4434 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -13,7 +13,7 @@
 
 - [APIs & REST](#apis-rest) - 2639 skills
 - [Database Design](#database-design) - 1302 skills
-- [Request Handling](#request-handling) - 262 skills
+- [Request Handling](#request-handling) - 260 skills
 - [Web Frameworks](#web-frameworks) - 170 skills
 - [Authentication](#authentication) - 21 skills
 - [Message Queues](#message-queues) - 17 skills
@@ -3977,7 +3977,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*262 skills*
+*260 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3993,8 +3993,6 @@
 | [analyzing-system-throughput](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/throughput-analyzer/skills/analyzing-system-throughput) | Analyze and optimize system throughput including request handling, data processing, and resource ... | jeremylongshore |
 | [anima-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/anima-pack/skills/anima-debug-bundle) | Collect Anima SDK debug evidence for support tickets and troubleshooting. Use when filing Anima s... | jeremylongshore |
 | [anima-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-debug-bundle) | Collect Anima SDK debug evidence for support tickets and troubleshooting. Use when filing Anima s... | jeremylongshore |
-| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude C... | jeremylongshore |
-| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude C... | jeremylongshore |
 | [apollo-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-incident-runbook) | Apollo.io incident response procedures. Use when handling Apollo outages, debugging production is... | jeremylongshore |
 | [apollo-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-incident-runbook) | Apollo.io incident response procedures. Use when handling Apollo outages, debugging production is... | jeremylongshore |
 | [app-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder) | Main application building orchestrator. Creates full-stack applications from natural language req... | davila7 |

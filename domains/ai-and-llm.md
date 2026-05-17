@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*731 skills in this domain*
+*733 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -60,6 +60,8 @@
 | [anima-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-common-errors) | Diagnose and fix common Anima SDK design-to-code errors. Use when encountering Figma token errors... | jeremylongshore |
 | [anth-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-enterprise-rbac) | Configure Anthropic enterprise organization management, Workspaces, and role-based access control... | jeremylongshore |
 | [anth-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-enterprise-rbac) | Configure Anthropic enterprise organization management, Workspaces, and role-based access control... | jeremylongshore |
+| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude C... | jeremylongshore |
+| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude C... | jeremylongshore |
 | [apex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/apex-recon) | Engineering lead reconnaissance — inventory the project before planning. Use when asked to "under... | jeremylongshore |
 | [apex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/apex-recon) | Engineering lead reconnaissance — inventory the project before planning. Use when asked to "under... | jeremylongshore |
 | [apollo-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-core-workflow-b) | Implement Apollo.io email sequences and outreach workflow. Use when building automated email camp... | jeremylongshore |

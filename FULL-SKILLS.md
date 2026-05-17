@@ -2,10 +2,10 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4436 skills
+- [Backend Development](#backend-development) - 4434 skills
   - [APIs & REST](#apis-and-rest) - 2639 skills
   - [Database Design](#database-design) - 1302 skills
-  - [Request Handling](#request-handling) - 262 skills
+  - [Request Handling](#request-handling) - 260 skills
   - [Web Frameworks](#web-frameworks) - 170 skills
   - [Authentication](#authentication) - 21 skills
   - [Message Queues](#message-queues) - 17 skills
@@ -27,18 +27,18 @@
   - [Data Science](#data-science) - 13 skills
   - [Business Intelligence](#business-intelligence) - 5 skills
   - [Time Series](#time-series) - 4 skills
-- [AI & LLM](#ai-and-llm) - 731 skills
+- [AI & LLM](#ai-and-llm) - 733 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 542 skills
 - [Frontend Development](#frontend-development) - 537 skills
-- [Machine Learning](#machine-learning) - 343 skills
+- [Machine Learning](#machine-learning) - 344 skills
   - [Model Training](#model-training) - 221 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
-  - [Model Evaluation](#model-evaluation) - 21 skills
+  - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
   - [Model Deployment](#model-deployment) - 11 skills
 - [Testing & Quality](#testing-and-quality) - 343 skills
-- [Security](#security) - 274 skills
+- [Security](#security) - 276 skills
 - [Uncategorized](#uncategorized) - 267 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 99 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4436 skills in this domain*
+*4434 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -4005,7 +4005,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*262 skills*
+*260 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4021,8 +4021,6 @@
 | [analyzing-system-throughput](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/throughput-analyzer/skills/analyzing-system-throughput) | Analyze and optimize system throughput including request handling, data processing, and resource utilization. Use whe... | jeremylongshore |
 | [anima-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/anima-pack/skills/anima-debug-bundle) | Collect Anima SDK debug evidence for support tickets and troubleshooting. Use when filing Anima support requests, deb... | jeremylongshore |
 | [anima-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-debug-bundle) | Collect Anima SDK debug evidence for support tickets and troubleshooting. Use when filing Anima support requests, deb... | jeremylongshore |
-| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude Code / Cursor / Codex... | jeremylongshore |
-| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude Code / Cursor / Codex... | jeremylongshore |
 | [apollo-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-incident-runbook) | Apollo.io incident response procedures. Use when handling Apollo outages, debugging production issues, or responding ... | jeremylongshore |
 | [apollo-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-incident-runbook) | Apollo.io incident response procedures. Use when handling Apollo outages, debugging production issues, or responding ... | jeremylongshore |
 | [app-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder) | Main application building orchestrator. Creates full-stack applications from natural language requests. Determines pr... | davila7 |
@@ -6270,7 +6268,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*731 skills in this domain*
+*733 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6323,6 +6321,8 @@
 | [anima-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-common-errors) | Diagnose and fix common Anima SDK design-to-code errors. Use when encountering Figma token errors, code generation fa... | jeremylongshore |
 | [anth-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-enterprise-rbac) | Configure Anthropic enterprise organization management, Workspaces, and role-based access control for teams. Trigger ... | jeremylongshore |
 | [anth-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-enterprise-rbac) | Configure Anthropic enterprise organization management, Workspaces, and role-based access control for teams. Trigger ... | jeremylongshore |
+| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude Code / Cursor / Codex... | jeremylongshore |
+| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude Code / Cursor / Codex... | jeremylongshore |
 | [apex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/apex-recon) | Engineering lead reconnaissance — inventory the project before planning. Use when asked to "understand this project",... | jeremylongshore |
 | [apex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/apex-recon) | Engineering lead reconnaissance — inventory the project before planning. Use when asked to "understand this project",... | jeremylongshore |
 | [apollo-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-core-workflow-b) | Implement Apollo.io email sequences and outreach workflow. Use when building automated email campaigns, creating sequ... | jeremylongshore |
@@ -8744,7 +8744,7 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*343 skills in this domain*
+*344 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
@@ -9053,10 +9053,11 @@
 
 <a name="model-evaluation"></a>
 ## Model Evaluation
-*21 skills*
+*22 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [architecture-design-master](https://github.com/voidborne-d/master-skill/tree/main/prototypes/architecture-design-master/output) | 现代建筑设计 (从 concept 草图到施工图与现场服务的整套设计流程, 含 BIM / 可持续 / 参数化 / 在地性 模块, 全球语境 + 中国本土实践并重) (modern architecture design — 当代建筑... | voidborne-d |
 | [coreweave-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-hello-world) | Deploy a GPU workload on CoreWeave with kubectl. Use when running your first GPU job, testing inference, or verifying... | jeremylongshore |
 | [coreweave-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-hello-world) | Deploy a GPU workload on CoreWeave with kubectl. Use when running your first GPU job, testing inference, or verifying... | jeremylongshore |
 | [e2e-testing-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/e2e-testing-patterns) | Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch ... | davila7 |
@@ -9478,7 +9479,7 @@
 <a name="security"></a>
 # Security
 
-*274 skills in this domain*
+*276 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9754,6 +9755,8 @@
 | [windsurf-theme-customization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-theme-customization) | Configure Windsurf themes and visual settings for accessibility. Activate when users mention "change theme", "customi... | jeremylongshore |
 | [xss-vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/03-security-fundamentals/xss-vulnerability-scanner) | Xss Vulnerability Scanner - Auto-activating skill for Security Fundamentals. Triggers on: xss vulnerability scanner, ... | jeremylongshore |
 | [xss-vulnerability-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/03-security-fundamentals/xss-vulnerability-scanner) | Xss Vulnerability Scanner - Auto-activating skill for Security Fundamentals. Triggers on: xss vulnerability scanner, ... | jeremylongshore |
+| [zero-tech-debt](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/zero-tech-debt/skills/zero-tech-debt) | Rebuild a feature as if the correct product architecture existed from day one — remove compatibility cruft, dead abst... | jeremylongshore |
+| [zero-tech-debt](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/zero-tech-debt/skills/zero-tech-debt) | Rebuild a feature as if the correct product architecture existed from day one — remove compatibility cruft, dead abst... | jeremylongshore |
 | [zero-trust-config-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/04-security-advanced/zero-trust-config-helper) | Zero Trust Config Helper - Auto-activating skill for Security Advanced. Triggers on: zero trust config helper, zero t... | jeremylongshore |
 | [zero-trust-config-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/04-security-advanced/zero-trust-config-helper) | Zero Trust Config Helper - Auto-activating skill for Security Advanced. Triggers on: zero trust config helper, zero t... | jeremylongshore |
 

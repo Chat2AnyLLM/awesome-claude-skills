@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*343 skills in this domain*
+*344 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -13,7 +13,7 @@
 
 - [Model Training](#model-training) - 221 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
-- [Model Evaluation](#model-evaluation) - 21 skills
+- [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
 - [Model Deployment](#model-deployment) - 11 skills
 
@@ -324,10 +324,11 @@
 
 <a name="model-evaluation"></a>
 ## Model Evaluation
-*21 skills*
+*22 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [architecture-design-master](https://github.com/voidborne-d/master-skill/tree/main/prototypes/architecture-design-master/output) | 现代建筑设计 (从 concept 草图到施工图与现场服务的整套设计流程, 含 BIM / 可持续 / 参数化 / 在地性 模块, 全球语境 + 中国本土实践并重) (modern archit... | voidborne-d |
 | [coreweave-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-hello-world) | Deploy a GPU workload on CoreWeave with kubectl. Use when running your first GPU job, testing inf... | jeremylongshore |
 | [coreweave-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-hello-world) | Deploy a GPU workload on CoreWeave with kubectl. Use when running your first GPU job, testing inf... | jeremylongshore |
 | [e2e-testing-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/e2e-testing-patterns) | Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship cod... | davila7 |
