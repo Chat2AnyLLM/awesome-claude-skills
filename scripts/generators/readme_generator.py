@@ -123,9 +123,9 @@ Want to contribute your own skills? Here's how to get started:
 
 ### Resources
 
-- [Claude Code Documentation](https://docs.anthropic.com/claude/docs/claude-code)
-- [Skill Development Guide](https://github.com/anthropics/claude-code/tree/main/docs/skills)
-- [Community Examples](https://github.com/anthropics/claude-code/tree/main/examples)"""
+- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tooling for skill management
+- [Awesome Repo Configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) - Source configuration for this catalog
+- [Full Skills Listing](FULL-SKILLS.md#complete-skills-listing) - Browse all indexed skills"""
 
     def generate_resources(self) -> str:
         """Generate the resources section."""
@@ -133,18 +133,17 @@ Want to contribute your own skills? Here's how to get started:
 ## Resources
 
 ### Official Documentation
-- [Claude Code](https://docs.anthropic.com/claude/docs/claude-code) - Official Claude Code documentation
-- [Claude API](https://docs.anthropic.com/claude/reference/getting-started-with-the-api) - API reference and guides
-- [Anthropic Console](https://console.anthropic.com/) - Manage your Claude API usage
+- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Installation and usage documentation
+- [Awesome Repo Configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) - Add and maintain skill source configs
 
 ### Community Resources
-- [Claude Code GitHub](https://github.com/anthropics/claude-code) - Source code and issues
 - [Awesome Claude](https://github.com/sindresorhus/awesome-claude) - Curated list of Claude resources
-- [Claude Community](https://community.anthropic.com/) - Community discussions and support
+- [Awesome Claude Agents](https://github.com/Chat2AnyLLM/awesome-claude-agents) - Curated Claude agent resources
+- [Awesome Claude Plugins](https://github.com/Chat2AnyLLM/awesome-claude-plugins) - Curated Claude plugin resources
 
 ### Development Tools
 - [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tool for managing Claude skills
-- [Claude CLI](https://github.com/anthropics/claude-code/tree/main/packages/cli) - Command-line interface for Claude"""
+- [Awesome Claude Skills](https://github.com/Chat2AnyLLM/awesome-claude-skills) - This curated skill catalog"""
 
     def generate_community(self) -> str:
         """Generate the join the community section."""
@@ -154,9 +153,9 @@ Want to contribute your own skills? Here's how to get started:
 Connect with other Claude developers and skill creators:
 
 ### Social Media
-- **Twitter/X**: [@anthropic](https://twitter.com/anthropic)
-- **LinkedIn**: [Anthropic](https://www.linkedin.com/company/anthropic)
-- **Discord**: [Claude Community](https://discord.gg/anthropic)
+- **GitHub Organization**: [Chat2AnyLLM](https://github.com/Chat2AnyLLM)
+- **Project Updates**: [awesome-claude-skills repository](https://github.com/Chat2AnyLLM/awesome-claude-skills)
+- **Related Projects**: [code-assistant-manager](https://github.com/Chat2AnyLLM/code-assistant-manager)
 
 ### Contribution
 - **Add a Skill**: [Submit new skill configs to awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs)
@@ -164,8 +163,8 @@ Connect with other Claude developers and skill creators:
 - **Discussions**: [Share ideas and get help](https://github.com/Chat2AnyLLM/awesome-claude-skills/discussions)
 
 ### Support
-- **Documentation**: [Claude Code Docs](https://docs.anthropic.com/claude/docs/claude-code)
-- **Community Forum**: [Anthropic Community](https://community.anthropic.com/)
+- **Documentation**: [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager)
+- **Community Forum**: [GitHub Discussions](https://github.com/Chat2AnyLLM/awesome-claude-skills/discussions)
 - **Stack Overflow**: [claude-code tag](https://stackoverflow.com/questions/tagged/claude-code)"""
 
     def generate_license(self) -> str:
