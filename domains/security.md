@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*276 skills in this domain*
+*274 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -146,8 +146,6 @@
 | [klingai-compliance-review](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-compliance-review) | Security and compliance review framework for Kling AI integrations. Use when preparing for audits... | jeremylongshore |
 | [klingai-content-policy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-content-policy) | Implement content policy compliance for Kling AI prompts and outputs. Use when filtering user pro... | jeremylongshore |
 | [klingai-content-policy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-content-policy) | Implement content policy compliance for Kling AI prompts and outputs. Use when filtering user pro... | jeremylongshore |
-| [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-common-errors) | Diagnose and fix common LangChain errors and exceptions. Use when encountering LangChain import e... | jeremylongshore |
-| [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-common-errors) | Diagnose and fix common LangChain errors and exceptions. Use when encountering LangChain import e... | jeremylongshore |
 | [license-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/03-security-fundamentals/license-compliance-scanner) | License Compliance Scanner - Auto-activating skill for Security Fundamentals. Triggers on: licens... | jeremylongshore |
 | [license-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/03-security-fundamentals/license-compliance-scanner) | License Compliance Scanner - Auto-activating skill for Security Fundamentals. Triggers on: licens... | jeremylongshore |
 | [lindy-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-enterprise-rbac) | Configure enterprise role-based access control for Lindy AI workspaces. Use when setting up team ... | jeremylongshore |

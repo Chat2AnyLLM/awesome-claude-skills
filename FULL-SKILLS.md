@@ -2,17 +2,17 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4434 skills
-  - [APIs & REST](#apis-and-rest) - 2639 skills
-  - [Database Design](#database-design) - 1302 skills
-  - [Request Handling](#request-handling) - 260 skills
+- [Backend Development](#backend-development) - 4424 skills
+  - [APIs & REST](#apis-and-rest) - 2627 skills
+  - [Database Design](#database-design) - 1298 skills
+  - [Request Handling](#request-handling) - 264 skills
   - [Web Frameworks](#web-frameworks) - 170 skills
   - [Authentication](#authentication) - 21 skills
   - [Message Queues](#message-queues) - 17 skills
   - [Microservices](#microservices) - 16 skills
-  - [Caching](#caching) - 9 skills
-- [DevOps & Infrastructure](#devops-and-infrastructure) - 822 skills
-  - [Cloud Platforms](#cloud-platforms) - 473 skills
+  - [Caching](#caching) - 11 skills
+- [DevOps & Infrastructure](#devops-and-infrastructure) - 826 skills
+  - [Cloud Platforms](#cloud-platforms) - 477 skills
   - [CI/CD](#cicd) - 219 skills
   - [Containers](#containers) - 80 skills
   - [Monitoring](#monitoring) - 20 skills
@@ -20,25 +20,25 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 797 skills
-  - [Data Pipelines](#data-pipelines) - 522 skills
+- [Data & Analytics](#data-and-analytics) - 793 skills
+  - [Data Pipelines](#data-pipelines) - 520 skills
   - [Analytics & Queries](#analytics-and-queries) - 210 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 13 skills
   - [Business Intelligence](#business-intelligence) - 5 skills
-  - [Time Series](#time-series) - 4 skills
-- [AI & LLM](#ai-and-llm) - 733 skills
+  - [Time Series](#time-series) - 2 skills
+- [AI & LLM](#ai-and-llm) - 735 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 542 skills
 - [Frontend Development](#frontend-development) - 537 skills
 - [Machine Learning](#machine-learning) - 344 skills
-  - [Model Training](#model-training) - 221 skills
-  - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
+  - [Model Training](#model-training) - 219 skills
+  - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
   - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
   - [Model Deployment](#model-deployment) - 11 skills
-- [Testing & Quality](#testing-and-quality) - 343 skills
-- [Security](#security) - 276 skills
+- [Testing & Quality](#testing-and-quality) - 341 skills
+- [Security](#security) - 274 skills
 - [Uncategorized](#uncategorized) - 267 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 99 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4434 skills in this domain*
+*4424 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2639 skills*
+*2627 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1448,20 +1448,8 @@
 | [kotlin-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kotlin-specialist) | Provides idiomatic Kotlin implementation patterns including coroutine concurrency, Flow stream handling, multiplatfor... | Jeffallan |
 | [labarchive-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/labarchive-integration) | Electronic lab notebook API integration. Access notebooks, manage entries/attachments, backup notebooks, integrate wi... | K-Dense-AI |
 | [labarchive-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/labarchive-integration) | Electronic lab notebook API integration. Access notebooks, manage entries/attachments, backup notebooks, integrate wi... | davila7 |
-| [langchain-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-cost-tuning) | Optimize LangChain API costs with token tracking, model tiering, caching, prompt compression, and budget enforcement.... | jeremylongshore |
-| [langchain-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-cost-tuning) | Optimize LangChain API costs with token tracking, model tiering, caching, prompt compression, and budget enforcement.... | jeremylongshore |
-| [langchain-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-install-auth) | Install and configure LangChain SDK with provider authentication. Use when setting up a new LangChain project, config... | jeremylongshore |
-| [langchain-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-install-auth) | Install and configure LangChain SDK with provider authentication. Use when setting up a new LangChain project, config... | jeremylongshore |
-| [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-local-dev-loop) | Configure LangChain local development workflow with testing and mocks. Use when setting up dev environment, creating ... | jeremylongshore |
-| [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-local-dev-loop) | Configure LangChain local development workflow with testing and mocks. Use when setting up dev environment, creating ... | jeremylongshore |
-| [langchain-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-multi-env-setup) | Configure LangChain across dev/staging/production environments with isolated API keys, environment-specific settings,... | jeremylongshore |
-| [langchain-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-multi-env-setup) | Configure LangChain across dev/staging/production environments with isolated API keys, environment-specific settings,... | jeremylongshore |
-| [langchain-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-rate-limits) | Implement LangChain rate limiting, retry strategies, and backoff. Use when handling API rate limits, controlling requ... | jeremylongshore |
-| [langchain-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-rate-limits) | Implement LangChain rate limiting, retry strategies, and backoff. Use when handling API rate limits, controlling requ... | jeremylongshore |
-| [langchain-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-security-basics) | Apply LangChain security best practices for production LLM apps. Use when securing API keys, preventing prompt inject... | jeremylongshore |
-| [langchain-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-security-basics) | Apply LangChain security best practices for production LLM apps. Use when securing API keys, preventing prompt inject... | jeremylongshore |
-| [langchain-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-upgrade-migration) | Upgrade LangChain SDK versions safely with import path migration, LCEL conversion from legacy chains, and agent API u... | jeremylongshore |
-| [langchain-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-upgrade-migration) | Upgrade LangChain SDK versions safely with import path migration, LCEL conversion from legacy chains, and agent API u... | jeremylongshore |
+| [langchain-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-performance-tuning) | Tune LangChain 1.0 / LangGraph 1.0 Python chains and agents for throughput, latency, and cost — streaming modes, expl... | jeremylongshore |
+| [langchain-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-performance-tuning) | Tune LangChain 1.0 / LangGraph 1.0 Python chains and agents for throughput, latency, and cost — streaming modes, expl... | jeremylongshore |
 | [langfuse-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-install-auth) | Install and configure Langfuse SDK authentication for LLM observability. Use when setting up a new Langfuse integrati... | jeremylongshore |
 | [langfuse-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-install-auth) | Install and configure Langfuse SDK authentication for LLM observability. Use when setting up a new Langfuse integrati... | jeremylongshore |
 | [langfuse-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-security-basics) | Implement Langfuse security best practices for API keys and data privacy. Use when securing Langfuse integration, pro... | jeremylongshore |
@@ -2696,7 +2684,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1302 skills*
+*1298 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3328,10 +3316,6 @@
 | [lamindb](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology that makes data querya... | K-Dense-AI |
 | [lamindb](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology that makes data querya... | davila7 |
 | [landing-page-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-optimizer) | Optimize landing pages for conversions, performance, and SEO. Use when improving landing pages, increasing conversion... | OneWave-AI |
-| [langchain-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-deploy-integration) | Deploy LangChain applications to production with LangServe, Docker, and cloud platforms (Cloud Run, AWS Lambda). Trig... | jeremylongshore |
-| [langchain-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-deploy-integration) | Deploy LangChain applications to production with LangServe, Docker, and cloud platforms (Cloud Run, AWS Lambda). Trig... | jeremylongshore |
-| [langchain-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-performance-tuning) | Optimize LangChain application performance: latency, throughput, streaming, caching, batch processing, and connection... | jeremylongshore |
-| [langchain-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-performance-tuning) | Optimize LangChain application performance: latency, throughput, streaming, caching, batch processing, and connection... | jeremylongshore |
 | [langfuse](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langfuse) | Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datas... | davila7 |
 | [langfuse-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-debug-bundle) | Collect Langfuse debug evidence for support tickets and troubleshooting. Use when encountering persistent issues, pre... | jeremylongshore |
 | [langfuse-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-debug-bundle) | Collect Langfuse debug evidence for support tickets and troubleshooting. Use when encountering persistent issues, pre... | jeremylongshore |
@@ -4005,7 +3989,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*260 skills*
+*264 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4153,10 +4137,14 @@
 | [kpi-dashboard-design](https://github.com/wshobson/agents/tree/main/plugins/business-analytics/skills/kpi-dashboard-design) | Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patter... | wshobson |
 | [kubernetes-configmap-handler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/02-devops-advanced/kubernetes-configmap-handler) | Kubernetes Configmap Handler - Auto-activating skill for DevOps Advanced. Triggers on: kubernetes configmap handler, ... | jeremylongshore |
 | [kubernetes-configmap-handler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/02-devops-advanced/kubernetes-configmap-handler) | Kubernetes Configmap Handler - Auto-activating skill for DevOps Advanced. Triggers on: kubernetes configmap handler, ... | jeremylongshore |
+| [langchain-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-enterprise-rbac) | Enforce tenant isolation and role-based access across LangChain 1.0 chains and LangGraph 1.0 agents — per-request ret... | jeremylongshore |
+| [langchain-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-enterprise-rbac) | Enforce tenant isolation and role-based access across LangChain 1.0 chains and LangGraph 1.0 agents — per-request ret... | jeremylongshore |
 | [langchain-eval-harness](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-eval-harness) | Build reproducible evaluation pipelines for LangChain 1.0 chains and LangGraph 1.0 agents — golden datasets, LangSmit... | jeremylongshore |
 | [langchain-eval-harness](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-eval-harness) | Build reproducible evaluation pipelines for LangChain 1.0 chains and LangGraph 1.0 agents — golden datasets, LangSmit... | jeremylongshore |
-| [langchain-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-incident-runbook) | Incident response procedures for LangChain production issues: provider outages, high error rates, latency spikes, and... | jeremylongshore |
-| [langchain-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-incident-runbook) | Incident response procedures for LangChain production issues: provider outages, high error rates, latency spikes, and... | jeremylongshore |
+| [langchain-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-incident-runbook) | Triage LangChain 1.0 / LangGraph 1.0 production incidents — LLM-specific SLOs, provider outage runbook, latency spike... | jeremylongshore |
+| [langchain-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-incident-runbook) | Triage LangChain 1.0 / LangGraph 1.0 production incidents — LLM-specific SLOs, provider outage runbook, latency spike... | jeremylongshore |
+| [langchain-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-reference-architecture) | A reference layered architecture for production LangChain 1.0 / LangGraph 1.0 services — LLM factory with version-saf... | jeremylongshore |
+| [langchain-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-reference-architecture) | A reference layered architecture for production LangChain 1.0 / LangGraph 1.0 services — LLM factory with version-saf... | jeremylongshore |
 | [langfuse-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-core-workflow-a) | Execute Langfuse primary workflow: Tracing LLM calls and spans. Use when implementing LLM tracing, building traced AI... | jeremylongshore |
 | [langfuse-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-core-workflow-a) | Execute Langfuse primary workflow: Tracing LLM calls and spans. Use when implementing LLM tracing, building traced AI... | jeremylongshore |
 | [lindy-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-deploy-integration) | Deploy applications that integrate with Lindy AI agents. Use when deploying webhook receivers, callback handlers, or ... | jeremylongshore |
@@ -4489,8 +4477,8 @@
 | [incident-responder](https://github.com/OneWave-AI/claude-skills/tree/main/incident-responder) | Production incident response automation. Reads logs, checks recent deploys, identifies root cause, suggests fixes, dr... | OneWave-AI |
 | [kafka-producer-consumer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/06-backend-dev/kafka-producer-consumer) | Kafka Producer Consumer - Auto-activating skill for Backend Development. Triggers on: kafka producer consumer, kafka ... | jeremylongshore |
 | [kafka-producer-consumer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/06-backend-dev/kafka-producer-consumer) | Kafka Producer Consumer - Auto-activating skill for Backend Development. Triggers on: kafka producer consumer, kafka ... | jeremylongshore |
-| [langchain-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-webhooks-events) | Implement LangChain callback handlers, streaming, webhooks, Server-Sent Events (SSE), and WebSocket integration. Trig... | jeremylongshore |
-| [langchain-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-webhooks-events) | Implement LangChain callback handlers, streaming, webhooks, Server-Sent Events (SSE), and WebSocket integration. Trig... | jeremylongshore |
+| [langchain-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-webhooks-events) | Dispatch LangChain 1.0 chain/agent events to external systems — webhooks, Kafka, Redis Streams, SNS — via async fire-... | jeremylongshore |
+| [langchain-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-webhooks-events) | Dispatch LangChain 1.0 chain/agent events to external systems — webhooks, Kafka, Redis Streams, SNS — via async fire-... | jeremylongshore |
 | [neurokit2](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/neurokit2) | Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, a... | K-Dense-AI |
 | [neurokit2](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/neurokit2) | Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, a... | davila7 |
 | [rabbitmq-queue-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/06-backend-dev/rabbitmq-queue-setup) | Rabbitmq Queue Setup - Auto-activating skill for Backend Development. Triggers on: rabbitmq queue setup, rabbitmq que... | jeremylongshore |
@@ -4524,10 +4512,12 @@
 
 <a name="caching"></a>
 ## Caching
-*9 skills*
+*11 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [langchain-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-security-basics) | Harden a LangChain 1.0 chain or LangGraph agent against prompt injection, tool abuse, PII leakage in traces, and secr... | jeremylongshore |
+| [langchain-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-security-basics) | Harden a LangChain 1.0 chain or LangGraph agent against prompt injection, tool abuse, PII leakage in traces, and secr... | jeremylongshore |
 | [memcached-config-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/06-backend-dev/memcached-config-helper) | Memcached Config Helper - Auto-activating skill for Backend Development. Triggers on: memcached config helper, memcac... | jeremylongshore |
 | [memcached-config-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/06-backend-dev/memcached-config-helper) | Memcached Config Helper - Auto-activating skill for Backend Development. Triggers on: memcached config helper, memcac... | jeremylongshore |
 | [prompt-caching](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-caching) | Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Gen... | davila7 |
@@ -4541,11 +4531,11 @@
 <a name="devops-and-infrastructure"></a>
 # DevOps & Infrastructure
 
-*822 skills in this domain*
+*826 skills in this domain*
 
 <a name="cloud-platforms"></a>
 ## Cloud Platforms
-*473 skills*
+*477 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4805,8 +4795,12 @@
 | [lambda-function-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/13-aws-skills/lambda-function-generator) | Lambda Function Generator - Auto-activating skill for AWS Skills. Triggers on: lambda function generator, lambda func... | jeremylongshore |
 | [lambda-layer-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/13-aws-skills/lambda-layer-creator) | Lambda Layer Creator - Auto-activating skill for AWS Skills. Triggers on: lambda layer creator, lambda layer creator ... | jeremylongshore |
 | [lambda-layer-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/13-aws-skills/lambda-layer-creator) | Lambda Layer Creator - Auto-activating skill for AWS Skills. Triggers on: lambda layer creator, lambda layer creator ... | jeremylongshore |
-| [langchain-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-prod-checklist) | Production readiness checklist for LangChain applications. Use when preparing for launch, validating deployment readi... | jeremylongshore |
-| [langchain-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-prod-checklist) | Production readiness checklist for LangChain applications. Use when preparing for launch, validating deployment readi... | jeremylongshore |
+| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-data-handling) | Load and chunk documents for LangChain 1.0 RAG pipelines correctly — language-aware splitters, table-safe PDF loaders... | jeremylongshore |
+| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-data-handling) | Load and chunk documents for LangChain 1.0 RAG pipelines correctly — language-aware splitters, table-safe PDF loaders... | jeremylongshore |
+| [langchain-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-deploy-integration) | Deploy a LangChain 1.0 / LangGraph 1.0 app to Cloud Run, Vercel, or LangServe correctly — timeouts sized for chain le... | jeremylongshore |
+| [langchain-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-deploy-integration) | Deploy a LangChain 1.0 / LangGraph 1.0 app to Cloud Run, Vercel, or LangServe correctly — timeouts sized for chain le... | jeremylongshore |
+| [langchain-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-multi-env-setup) | Build reliable dev / staging / prod isolation for LangChain 1.0 services — Pydantic `Settings` + `SecretStr`, cloud S... | jeremylongshore |
+| [langchain-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-multi-env-setup) | Build reliable dev / staging / prod isolation for LangChain 1.0 services — Pydantic `Settings` + `SecretStr`, cloud S... | jeremylongshore |
 | [lindy-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-prod-checklist) | Production readiness checklist for Lindy AI agent deployments. Use when preparing agents for production, auditing liv... | jeremylongshore |
 | [lindy-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-prod-checklist) | Production readiness checklist for Lindy AI agent deployments. Use when preparing agents for production, auditing liv... | jeremylongshore |
 | [linear-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-deploy-integration) | Deploy Linear-integrated applications and track deployments. Use when deploying to production, linking deploys to iss... | jeremylongshore |
@@ -5150,8 +5144,8 @@
 | [klaviyo-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klaviyo-pack/skills/klaviyo-ci-integration) | Configure CI/CD pipelines for Klaviyo integrations with GitHub Actions. Use when setting up automated testing, config... | jeremylongshore |
 | [klingai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-ci-integration) | Integrate Kling AI video generation into CI/CD pipelines. Use when automating video content in GitHub Actions or GitL... | jeremylongshore |
 | [klingai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-ci-integration) | Integrate Kling AI video generation into CI/CD pipelines. Use when automating video content in GitHub Actions or GitL... | jeremylongshore |
-| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-ci-integration) | Configure CI/CD for LangChain with GitHub Actions, mocked unit tests, gated integration tests, and RAG pipeline valid... | jeremylongshore |
-| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-ci-integration) | Configure CI/CD for LangChain with GitHub Actions, mocked unit tests, gated integration tests, and RAG pipeline valid... | jeremylongshore |
+| [langchain-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-rate-limits) | Rate-limit LangChain 1.0 calls correctly across multi-worker deployments — Redis-backed limiters, asyncio.Semaphore, ... | jeremylongshore |
+| [langchain-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-rate-limits) | Rate-limit LangChain 1.0 calls correctly across multi-worker deployments — Redis-backed limiters, asyncio.Semaphore, ... | jeremylongshore |
 | [langfuse-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-ci-integration) | Configure Langfuse CI/CD integration with GitHub Actions and automated testing. Use when setting up automated testing... | jeremylongshore |
 | [langfuse-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-ci-integration) | Configure Langfuse CI/CD integration with GitHub Actions and automated testing. Use when setting up automated testing... | jeremylongshore |
 | [langfuse-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-multi-env-setup) | Configure Langfuse across development, staging, and production environments. Use when setting up multi-environment de... | jeremylongshore |
@@ -5424,11 +5418,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*797 skills in this domain*
+*793 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*522 skills*
+*520 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5744,16 +5738,14 @@
 | [klingai-webhook-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-webhook-config) | Configure webhook callbacks for Kling AI task completion. Use when building event-driven pipelines or replacing polli... | jeremylongshore |
 | [Kommo Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/kommo-automation) | Automate Kommo CRM operations -- manage leads, pipelines, pipeline stages, tasks, and custom fields -- using natural ... | ComposioHQ |
 | [labs64-netlicensing-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/labs64-netlicensing-automation) | Automate Labs64 Netlicensing tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-ci-integration) | Wire LangChain 1.0 / LangGraph 1.0 tests into a GitHub Actions pipeline — unit tests with FakeListChatModel, VCR-gate... | jeremylongshore |
+| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-ci-integration) | Wire LangChain 1.0 / LangGraph 1.0 tests into a GitHub Actions pipeline — unit tests with FakeListChatModel, VCR-gate... | jeremylongshore |
 | [langchain-core-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-core-workflow) | Compose LangChain 1.0 chains with RunnableParallel, RunnableBranch, RunnablePassthrough.assign, and RunnableLambda — ... | jeremylongshore |
 | [langchain-core-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-core-workflow) | Compose LangChain 1.0 chains with RunnableParallel, RunnableBranch, RunnablePassthrough.assign, and RunnableLambda — ... | jeremylongshore |
-| [langchain-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-a) | Build LangChain LCEL chains with prompts, parsers, and composition. Use when creating prompt templates, building Runn... | jeremylongshore |
-| [langchain-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-a) | Build LangChain LCEL chains with prompts, parsers, and composition. Use when creating prompt templates, building Runn... | jeremylongshore |
-| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-data-handling) | Implement LangChain RAG pipelines with document loaders, text splitters, embeddings, and vector stores (Chroma, Pinec... | jeremylongshore |
-| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-data-handling) | Implement LangChain RAG pipelines with document loaders, text splitters, embeddings, and vector stores (Chroma, Pinec... | jeremylongshore |
 | [langchain-embeddings-search](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-embeddings-search) | Build and query vector stores with LangChain 1.0 without getting burned by flipped score semantics, embedding-dim mis... | jeremylongshore |
 | [langchain-embeddings-search](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-embeddings-search) | Build and query vector stores with LangChain 1.0 without getting burned by flipped score semantics, embedding-dim mis... | jeremylongshore |
-| [langchain-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-reference-architecture) | Implement LangChain reference architecture for production systems: layered design, provider abstraction, chain regist... | jeremylongshore |
-| [langchain-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-reference-architecture) | Implement LangChain reference architecture for production systems: layered design, provider abstraction, chain regist... | jeremylongshore |
+| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-observability) | Wire LangSmith tracing and custom metric callbacks into a LangChain 1.0 chain or LangGraph 1.0 agent correctly — env-... | jeremylongshore |
+| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-observability) | Wire LangSmith tracing and custom metric callbacks into a LangChain 1.0 chain or LangGraph 1.0 agent correctly — env-... | jeremylongshore |
 | [langfuse-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-core-workflow-b) | Execute Langfuse secondary workflow: Evaluation, scoring, and datasets. Use when implementing LLM evaluation, adding ... | jeremylongshore |
 | [langfuse-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-core-workflow-b) | Execute Langfuse secondary workflow: Evaluation, scoring, and datasets. Use when implementing LLM evaluation, adding ... | jeremylongshore |
 | [langfuse-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-data-handling) | Manage Langfuse data export, retention, and compliance requirements. Use when exporting trace data, configuring reten... | jeremylongshore |
@@ -6256,19 +6248,17 @@
 
 <a name="time-series"></a>
 ## Time Series
-*4 skills*
+*2 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | Process this skill enables AI assistant to forecast future values based on historical time series data. it analyzes t... | jeremylongshore |
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | Process this skill enables AI assistant to forecast future values based on historical time series data. it analyzes t... | jeremylongshore |
-| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-observability) | Set up comprehensive observability for LangChain applications with LangSmith tracing, OpenTelemetry, Prometheus metri... | jeremylongshore |
-| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-observability) | Set up comprehensive observability for LangChain applications with LangSmith tracing, OpenTelemetry, Prometheus metri... | jeremylongshore |
 
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*733 skills in this domain*
+*735 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6610,10 +6600,10 @@
 | [landing-page-copywriter](https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-copywriter) | Write high-converting landing page copy using proven frameworks like PAS (Problem-Agitate-Solution), AIDA, and StoryB... | OneWave-AI |
 | [landing-page-guide-v2](https://github.com/bear2u/my-skills/tree/master/.claude/skills/landing-page-guide-v2) | Create distinctive, high-converting landing pages that combine proven conversion elements with exceptional design qua... | bear2u |
 | [langchain-architecture](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/langchain-architecture) | Design LLM applications using LangChain 1.x and LangGraph for agents, memory, and tool integration. Use when building... | wshobson |
+| [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-common-errors) | Paste-match catalog of 14 real LangChain 1.0 / LangGraph 1.0 exceptions with named causes and named fixes, plus a tri... | jeremylongshore |
+| [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-common-errors) | Paste-match catalog of 14 real LangChain 1.0 / LangGraph 1.0 exceptions with named causes and named fixes, plus a tri... | jeremylongshore |
 | [langchain-content-blocks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-content-blocks) | Works correctly with LangChain 1.0's typed content blocks on AIMessage.content — text, tool_use, image, thinking, doc... | jeremylongshore |
 | [langchain-content-blocks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-content-blocks) | Works correctly with LangChain 1.0's typed content blocks on AIMessage.content — text, tool_use, image, thinking, doc... | jeremylongshore |
-| [langchain-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-debug-bundle) | Collect LangChain debug evidence for troubleshooting and bug reports. Use when preparing GitHub issues, collecting La... | jeremylongshore |
-| [langchain-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-debug-bundle) | Collect LangChain debug evidence for troubleshooting and bug reports. Use when preparing GitHub issues, collecting La... | jeremylongshore |
 | [langchain-deep-agents](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-deep-agents) | Build a LangGraph 1.0 Deep Agent — planner + subagents + virtual filesystem + reflection loop — without the state-gro... | jeremylongshore |
 | [langchain-deep-agents](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-deep-agents) | Build a LangGraph 1.0 Deep Agent — planner + subagents + virtual filesystem + reflection loop — without the state-gro... | jeremylongshore |
 | [langchain-langgraph-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-basics) | Build a correct LangGraph 1.0 StateGraph — typed TypedDict state with reducers, nodes, edges, compile, and recursion ... | jeremylongshore |
@@ -6622,8 +6612,10 @@
 | [langchain-langgraph-checkpointing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-checkpointing) | Persist LangGraph agent state correctly with MemorySaver and PostgresSaver — thread_id discipline, JSON-serializable ... | jeremylongshore |
 | [langchain-langgraph-human-in-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-human-in-loop) | Build LangGraph 1.0 human-in-the-loop approval flows with `interrupt_before` / `interrupt_after` and `Command(resume=... | jeremylongshore |
 | [langchain-langgraph-human-in-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-human-in-loop) | Build LangGraph 1.0 human-in-the-loop approval flows with `interrupt_before` / `interrupt_after` and `Command(resume=... | jeremylongshore |
-| [langchain-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-sdk-patterns) | Apply production-ready LangChain SDK patterns for structured output, fallbacks, batch processing, streaming, and cach... | jeremylongshore |
-| [langchain-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-sdk-patterns) | Apply production-ready LangChain SDK patterns for structured output, fallbacks, batch processing, streaming, and cach... | jeremylongshore |
+| [langchain-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-sdk-patterns) | Compose LangChain 1.0 Python runnables with the production defaults the docs do not warn about: parallel batching, na... | jeremylongshore |
+| [langchain-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-sdk-patterns) | Compose LangChain 1.0 Python runnables with the production defaults the docs do not warn about: parallel batching, na... | jeremylongshore |
+| [langchain-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-upgrade-migration) | Migrate a LangChain 0.3.x Python codebase to LangChain 1.0 / LangGraph 1.0 without breaking production — named breaki... | jeremylongshore |
+| [langchain-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-upgrade-migration) | Migrate a LangChain 0.3.x Python codebase to LangChain 1.0 / LangGraph 1.0 without breaking production — named breaki... | jeremylongshore |
 | [langfuse-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-incident-runbook) | Troubleshoot and respond to Langfuse-related incidents and outages. Use when experiencing Langfuse outages, debugging... | jeremylongshore |
 | [langfuse-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-incident-runbook) | Troubleshoot and respond to Langfuse-related incidents and outages. Use when experiencing Langfuse outages, debugging... | jeremylongshore |
 | [langfuse-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-local-dev-loop) | Set up Langfuse local development workflow with hot reload and debugging. Use when developing LLM applications locall... | jeremylongshore |
@@ -8748,7 +8740,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*221 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8842,10 +8834,8 @@
 | [john-gottman-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/love-coach-master/output/sub-skills/john-gottman) | John Gottman (Gottman Institute) 视角. 循证婚姻研究派代表. Four Horsemen + 5:1 Magic Ratio + Cascade Model. 调用此 skill 时, 用 Gottm... | voidborne-d |
 | [keep-health](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/keep-health) | Design a customer health scoring model — define signals, weights, thresholds, and action triggers. Use when asked to ... | jeremylongshore |
 | [keep-health](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/keep-health) | Design a customer health scoring model — define signals, weights, thresholds, and action triggers. Use when asked to ... | jeremylongshore |
-| [langchain-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-b) | Build LangChain agents with tool calling for autonomous task execution. Use when creating AI agents, implementing too... | jeremylongshore |
-| [langchain-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-b) | Build LangChain agents with tool calling for autonomous task execution. Use when creating AI agents, implementing too... | jeremylongshore |
-| [langchain-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-enterprise-rbac) | Implement role-based access control for LangChain applications with multi-tenant isolation, model access control, and... | jeremylongshore |
-| [langchain-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-enterprise-rbac) | Implement role-based access control for LangChain applications with multi-tenant isolation, model access control, and... | jeremylongshore |
+| [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-local-dev-loop) | Build a fast, deterministic local test loop for LangChain 1.0 / LangGraph 1.0 — FakeListChatModel fixtures, pytest co... | jeremylongshore |
+| [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-local-dev-loop) | Build a fast, deterministic local test loop for LangChain 1.0 / LangGraph 1.0 — FakeListChatModel fixtures, pytest co... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/07-ml-training/learning-rate-scheduler) | Learning Rate Scheduler - Auto-activating skill for ML Training. Triggers on: learning rate scheduler, learning rate ... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/07-ml-training/learning-rate-scheduler) | Learning Rate Scheduler - Auto-activating skill for ML Training. Triggers on: learning rate scheduler, learning rate ... | jeremylongshore |
 | [linear-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-enterprise-rbac) | Implement enterprise role-based access control with Linear. Use when setting up team permissions, OAuth scopes, SAML ... | jeremylongshore |
@@ -8976,7 +8966,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*70 skills*
+*72 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9007,6 +8997,8 @@
 | [klingai-pricing-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-pricing-basics) | Understand Kling AI pricing, credits, and cost optimization strategies. Use when budgeting or estimating costs. Trigg... | jeremylongshore |
 | [klingai-pricing-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-pricing-basics) | Understand Kling AI pricing, credits, and cost optimization strategies. Use when budgeting or estimating costs. Trigg... | jeremylongshore |
 | [knowledge-base-builder](https://github.com/OneWave-AI/claude-skills/tree/main/knowledge-base-builder) | FAQ identification from support tickets, step-by-step tutorial creation, screenshot/video script guidance, search opt... | OneWave-AI |
+| [langchain-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-cost-tuning) | Control LangChain 1.0 AI spend with accurate streaming token accounting, model tiering, provider-specific cache hit t... | jeremylongshore |
+| [langchain-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-cost-tuning) | Control LangChain 1.0 AI spend with accurate streaming token accounting, model tiering, provider-specific cache hit t... | jeremylongshore |
 | [lindy-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-cost-tuning) | Optimize Lindy AI costs through credit management, model selection, and agent consolidation. Use when reducing spend,... | jeremylongshore |
 | [lindy-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-cost-tuning) | Optimize Lindy AI costs through credit management, model selection, and agent consolidation. Use when reducing spend,... | jeremylongshore |
 | [llama-factory](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-llama-factory) | Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimod... | davila7 |
@@ -9128,7 +9120,7 @@
 <a name="testing-and-quality"></a>
 # Testing & Quality
 
-*343 skills in this domain*
+*341 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9282,12 +9274,10 @@
 | [klingai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-hello-world) | Create your first Kling AI video generation with a minimal working example. Use when learning Kling AI or testing you... | jeremylongshore |
 | [klingai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-hello-world) | Create your first Kling AI video generation with a minimal working example. Use when learning Kling AI or testing you... | jeremylongshore |
 | [kotlin-coroutines-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/kotlin-coroutines-expert) | Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing. | davila7 |
-| [langchain-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-hello-world) | Create a minimal working LangChain example with LCEL chains. Use when starting a new LangChain integration, testing y... | jeremylongshore |
-| [langchain-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-hello-world) | Create a minimal working LangChain example with LCEL chains. Use when starting a new LangChain integration, testing y... | jeremylongshore |
+| [langchain-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-debug-bundle) | Produce a reproducible, sanitized diagnostic bundle for a LangChain / LangGraph incident — environment snapshot, vers... | jeremylongshore |
+| [langchain-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-debug-bundle) | Produce a reproducible, sanitized diagnostic bundle for a LangChain / LangGraph incident — environment snapshot, vers... | jeremylongshore |
 | [langchain-langgraph-subgraphs](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-subgraphs) | Compose LangGraph 1.0 subgraphs correctly — shared state key propagation, Send / Command(graph=...) dispatch, callbac... | jeremylongshore |
 | [langchain-langgraph-subgraphs](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-subgraphs) | Compose LangGraph 1.0 subgraphs correctly — shared state key propagation, Send / Command(graph=...) dispatch, callbac... | jeremylongshore |
-| [langchain-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-migration-deep-dive) | Migrate to LangChain from raw OpenAI SDK, LlamaIndex, or custom LLM code. Covers codebase assessment, side-by-side va... | jeremylongshore |
-| [langchain-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-migration-deep-dive) | Migrate to LangChain from raw OpenAI SDK, LlamaIndex, or custom LLM code. Covers codebase assessment, side-by-side va... | jeremylongshore |
 | [langfuse-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-hello-world) | Create a minimal working Langfuse trace example. Use when starting a new Langfuse integration, testing your setup, or... | jeremylongshore |
 | [langfuse-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-hello-world) | Create a minimal working Langfuse trace example. Use when starting a new Langfuse integration, testing your setup, or... | jeremylongshore |
 | [lindy-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-hello-world) | Create your first Lindy AI agent with a real trigger and action. Use when starting with Lindy, testing your setup, or... | jeremylongshore |
@@ -9479,7 +9469,7 @@
 <a name="security"></a>
 # Security
 
-*276 skills in this domain*
+*274 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9618,8 +9608,6 @@
 | [klingai-compliance-review](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-compliance-review) | Security and compliance review framework for Kling AI integrations. Use when preparing for audits or reviewing securi... | jeremylongshore |
 | [klingai-content-policy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-content-policy) | Implement content policy compliance for Kling AI prompts and outputs. Use when filtering user prompts or handling mod... | jeremylongshore |
 | [klingai-content-policy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-content-policy) | Implement content policy compliance for Kling AI prompts and outputs. Use when filtering user prompts or handling mod... | jeremylongshore |
-| [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-common-errors) | Diagnose and fix common LangChain errors and exceptions. Use when encountering LangChain import errors, auth failures... | jeremylongshore |
-| [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-common-errors) | Diagnose and fix common LangChain errors and exceptions. Use when encountering LangChain import errors, auth failures... | jeremylongshore |
 | [license-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/03-security-fundamentals/license-compliance-scanner) | License Compliance Scanner - Auto-activating skill for Security Fundamentals. Triggers on: license compliance scanner... | jeremylongshore |
 | [license-compliance-scanner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/03-security-fundamentals/license-compliance-scanner) | License Compliance Scanner - Auto-activating skill for Security Fundamentals. Triggers on: license compliance scanner... | jeremylongshore |
 | [lindy-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-enterprise-rbac) | Configure enterprise role-based access control for Lindy AI workspaces. Use when setting up team permissions, managin... | jeremylongshore |

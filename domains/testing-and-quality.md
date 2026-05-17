@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*343 skills in this domain*
+*341 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -161,12 +161,10 @@
 | [klingai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-hello-world) | Create your first Kling AI video generation with a minimal working example. Use when learning Kli... | jeremylongshore |
 | [klingai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-hello-world) | Create your first Kling AI video generation with a minimal working example. Use when learning Kli... | jeremylongshore |
 | [kotlin-coroutines-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/kotlin-coroutines-expert) | Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, ... | davila7 |
-| [langchain-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-hello-world) | Create a minimal working LangChain example with LCEL chains. Use when starting a new LangChain in... | jeremylongshore |
-| [langchain-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-hello-world) | Create a minimal working LangChain example with LCEL chains. Use when starting a new LangChain in... | jeremylongshore |
+| [langchain-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-debug-bundle) | Produce a reproducible, sanitized diagnostic bundle for a LangChain / LangGraph incident — enviro... | jeremylongshore |
+| [langchain-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-debug-bundle) | Produce a reproducible, sanitized diagnostic bundle for a LangChain / LangGraph incident — enviro... | jeremylongshore |
 | [langchain-langgraph-subgraphs](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-subgraphs) | Compose LangGraph 1.0 subgraphs correctly — shared state key propagation, Send / Command(graph=..... | jeremylongshore |
 | [langchain-langgraph-subgraphs](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-subgraphs) | Compose LangGraph 1.0 subgraphs correctly — shared state key propagation, Send / Command(graph=..... | jeremylongshore |
-| [langchain-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-migration-deep-dive) | Migrate to LangChain from raw OpenAI SDK, LlamaIndex, or custom LLM code. Covers codebase assessm... | jeremylongshore |
-| [langchain-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-migration-deep-dive) | Migrate to LangChain from raw OpenAI SDK, LlamaIndex, or custom LLM code. Covers codebase assessm... | jeremylongshore |
 | [langfuse-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-hello-world) | Create a minimal working Langfuse trace example. Use when starting a new Langfuse integration, te... | jeremylongshore |
 | [langfuse-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-hello-world) | Create a minimal working Langfuse trace example. Use when starting a new Langfuse integration, te... | jeremylongshore |
 | [lindy-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-hello-world) | Create your first Lindy AI agent with a real trigger and action. Use when starting with Lindy, te... | jeremylongshore |

@@ -11,15 +11,15 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 221 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
+- [Model Training](#model-training) - 219 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
 - [Model Deployment](#model-deployment) - 11 skills
 
 <a name="model-training"></a>
 ## Model Training
-*221 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -113,10 +113,8 @@
 | [john-gottman-perspective](https://github.com/voidborne-d/master-skill/tree/main/prototypes/love-coach-master/output/sub-skills/john-gottman) | John Gottman (Gottman Institute) 视角. 循证婚姻研究派代表. Four Horsemen + 5:1 Magic Ratio + Cascade Model. ... | voidborne-d |
 | [keep-health](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/keep-health) | Design a customer health scoring model — define signals, weights, thresholds, and action triggers... | jeremylongshore |
 | [keep-health](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/keep-health) | Design a customer health scoring model — define signals, weights, thresholds, and action triggers... | jeremylongshore |
-| [langchain-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-b) | Build LangChain agents with tool calling for autonomous task execution. Use when creating AI agen... | jeremylongshore |
-| [langchain-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-b) | Build LangChain agents with tool calling for autonomous task execution. Use when creating AI agen... | jeremylongshore |
-| [langchain-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-enterprise-rbac) | Implement role-based access control for LangChain applications with multi-tenant isolation, model... | jeremylongshore |
-| [langchain-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-enterprise-rbac) | Implement role-based access control for LangChain applications with multi-tenant isolation, model... | jeremylongshore |
+| [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-local-dev-loop) | Build a fast, deterministic local test loop for LangChain 1.0 / LangGraph 1.0 — FakeListChatModel... | jeremylongshore |
+| [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-local-dev-loop) | Build a fast, deterministic local test loop for LangChain 1.0 / LangGraph 1.0 — FakeListChatModel... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/07-ml-training/learning-rate-scheduler) | Learning Rate Scheduler - Auto-activating skill for ML Training. Triggers on: learning rate sched... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/07-ml-training/learning-rate-scheduler) | Learning Rate Scheduler - Auto-activating skill for ML Training. Triggers on: learning rate sched... | jeremylongshore |
 | [linear-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-enterprise-rbac) | Implement enterprise role-based access control with Linear. Use when setting up team permissions,... | jeremylongshore |
@@ -247,7 +245,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*70 skills*
+*72 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -278,6 +276,8 @@
 | [klingai-pricing-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-pricing-basics) | Understand Kling AI pricing, credits, and cost optimization strategies. Use when budgeting or est... | jeremylongshore |
 | [klingai-pricing-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-pricing-basics) | Understand Kling AI pricing, credits, and cost optimization strategies. Use when budgeting or est... | jeremylongshore |
 | [knowledge-base-builder](https://github.com/OneWave-AI/claude-skills/tree/main/knowledge-base-builder) | FAQ identification from support tickets, step-by-step tutorial creation, screenshot/video script ... | OneWave-AI |
+| [langchain-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-cost-tuning) | Control LangChain 1.0 AI spend with accurate streaming token accounting, model tiering, provider-... | jeremylongshore |
+| [langchain-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-cost-tuning) | Control LangChain 1.0 AI spend with accurate streaming token accounting, model tiering, provider-... | jeremylongshore |
 | [lindy-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-cost-tuning) | Optimize Lindy AI costs through credit management, model selection, and agent consolidation. Use ... | jeremylongshore |
 | [lindy-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-cost-tuning) | Optimize Lindy AI costs through credit management, model selection, and agent consolidation. Use ... | jeremylongshore |
 | [llama-factory](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-llama-factory) | Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8... | davila7 |

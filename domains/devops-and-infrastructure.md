@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*822 skills in this domain*
+*826 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Cloud Platforms](#cloud-platforms) - 473 skills
+- [Cloud Platforms](#cloud-platforms) - 477 skills
 - [CI/CD](#cicd) - 219 skills
 - [Containers](#containers) - 80 skills
 - [Monitoring](#monitoring) - 20 skills
@@ -22,7 +22,7 @@
 
 <a name="cloud-platforms"></a>
 ## Cloud Platforms
-*473 skills*
+*477 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -282,8 +282,12 @@
 | [lambda-function-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/13-aws-skills/lambda-function-generator) | Lambda Function Generator - Auto-activating skill for AWS Skills. Triggers on: lambda function ge... | jeremylongshore |
 | [lambda-layer-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/13-aws-skills/lambda-layer-creator) | Lambda Layer Creator - Auto-activating skill for AWS Skills. Triggers on: lambda layer creator, l... | jeremylongshore |
 | [lambda-layer-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/13-aws-skills/lambda-layer-creator) | Lambda Layer Creator - Auto-activating skill for AWS Skills. Triggers on: lambda layer creator, l... | jeremylongshore |
-| [langchain-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-prod-checklist) | Production readiness checklist for LangChain applications. Use when preparing for launch, validat... | jeremylongshore |
-| [langchain-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-prod-checklist) | Production readiness checklist for LangChain applications. Use when preparing for launch, validat... | jeremylongshore |
+| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-data-handling) | Load and chunk documents for LangChain 1.0 RAG pipelines correctly — language-aware splitters, ta... | jeremylongshore |
+| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-data-handling) | Load and chunk documents for LangChain 1.0 RAG pipelines correctly — language-aware splitters, ta... | jeremylongshore |
+| [langchain-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-deploy-integration) | Deploy a LangChain 1.0 / LangGraph 1.0 app to Cloud Run, Vercel, or LangServe correctly — timeout... | jeremylongshore |
+| [langchain-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-deploy-integration) | Deploy a LangChain 1.0 / LangGraph 1.0 app to Cloud Run, Vercel, or LangServe correctly — timeout... | jeremylongshore |
+| [langchain-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-multi-env-setup) | Build reliable dev / staging / prod isolation for LangChain 1.0 services — Pydantic `Settings` + ... | jeremylongshore |
+| [langchain-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-multi-env-setup) | Build reliable dev / staging / prod isolation for LangChain 1.0 services — Pydantic `Settings` + ... | jeremylongshore |
 | [lindy-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-prod-checklist) | Production readiness checklist for Lindy AI agent deployments. Use when preparing agents for prod... | jeremylongshore |
 | [lindy-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-prod-checklist) | Production readiness checklist for Lindy AI agent deployments. Use when preparing agents for prod... | jeremylongshore |
 | [linear-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-deploy-integration) | Deploy Linear-integrated applications and track deployments. Use when deploying to production, li... | jeremylongshore |
@@ -627,8 +631,8 @@
 | [klaviyo-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klaviyo-pack/skills/klaviyo-ci-integration) | Configure CI/CD pipelines for Klaviyo integrations with GitHub Actions. Use when setting up autom... | jeremylongshore |
 | [klingai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-ci-integration) | Integrate Kling AI video generation into CI/CD pipelines. Use when automating video content in Gi... | jeremylongshore |
 | [klingai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-ci-integration) | Integrate Kling AI video generation into CI/CD pipelines. Use when automating video content in Gi... | jeremylongshore |
-| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-ci-integration) | Configure CI/CD for LangChain with GitHub Actions, mocked unit tests, gated integration tests, an... | jeremylongshore |
-| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-ci-integration) | Configure CI/CD for LangChain with GitHub Actions, mocked unit tests, gated integration tests, an... | jeremylongshore |
+| [langchain-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-rate-limits) | Rate-limit LangChain 1.0 calls correctly across multi-worker deployments — Redis-backed limiters,... | jeremylongshore |
+| [langchain-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-rate-limits) | Rate-limit LangChain 1.0 calls correctly across multi-worker deployments — Redis-backed limiters,... | jeremylongshore |
 | [langfuse-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-ci-integration) | Configure Langfuse CI/CD integration with GitHub Actions and automated testing. Use when setting ... | jeremylongshore |
 | [langfuse-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-ci-integration) | Configure Langfuse CI/CD integration with GitHub Actions and automated testing. Use when setting ... | jeremylongshore |
 | [langfuse-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-multi-env-setup) | Configure Langfuse across development, staging, and production environments. Use when setting up ... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*797 skills in this domain*
+*793 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,16 +11,16 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 522 skills
+- [Data Pipelines](#data-pipelines) - 520 skills
 - [Analytics & Queries](#analytics-queries) - 210 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 13 skills
 - [Business Intelligence](#business-intelligence) - 5 skills
-- [Time Series](#time-series) - 4 skills
+- [Time Series](#time-series) - 2 skills
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*522 skills*
+*520 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -336,16 +336,14 @@
 | [klingai-webhook-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-webhook-config) | Configure webhook callbacks for Kling AI task completion. Use when building event-driven pipeline... | jeremylongshore |
 | [Kommo Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/kommo-automation) | Automate Kommo CRM operations -- manage leads, pipelines, pipeline stages, tasks, and custom fiel... | ComposioHQ |
 | [labs64-netlicensing-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/labs64-netlicensing-automation) | Automate Labs64 Netlicensing tasks via Rube MCP (Composio). Always search tools first for current... | ComposioHQ |
+| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-ci-integration) | Wire LangChain 1.0 / LangGraph 1.0 tests into a GitHub Actions pipeline — unit tests with FakeLis... | jeremylongshore |
+| [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-ci-integration) | Wire LangChain 1.0 / LangGraph 1.0 tests into a GitHub Actions pipeline — unit tests with FakeLis... | jeremylongshore |
 | [langchain-core-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-core-workflow) | Compose LangChain 1.0 chains with RunnableParallel, RunnableBranch, RunnablePassthrough.assign, a... | jeremylongshore |
 | [langchain-core-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-core-workflow) | Compose LangChain 1.0 chains with RunnableParallel, RunnableBranch, RunnablePassthrough.assign, a... | jeremylongshore |
-| [langchain-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-a) | Build LangChain LCEL chains with prompts, parsers, and composition. Use when creating prompt temp... | jeremylongshore |
-| [langchain-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-core-workflow-a) | Build LangChain LCEL chains with prompts, parsers, and composition. Use when creating prompt temp... | jeremylongshore |
-| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-data-handling) | Implement LangChain RAG pipelines with document loaders, text splitters, embeddings, and vector s... | jeremylongshore |
-| [langchain-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-data-handling) | Implement LangChain RAG pipelines with document loaders, text splitters, embeddings, and vector s... | jeremylongshore |
 | [langchain-embeddings-search](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-embeddings-search) | Build and query vector stores with LangChain 1.0 without getting burned by flipped score semantic... | jeremylongshore |
 | [langchain-embeddings-search](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-embeddings-search) | Build and query vector stores with LangChain 1.0 without getting burned by flipped score semantic... | jeremylongshore |
-| [langchain-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-reference-architecture) | Implement LangChain reference architecture for production systems: layered design, provider abstr... | jeremylongshore |
-| [langchain-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-reference-architecture) | Implement LangChain reference architecture for production systems: layered design, provider abstr... | jeremylongshore |
+| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-observability) | Wire LangSmith tracing and custom metric callbacks into a LangChain 1.0 chain or LangGraph 1.0 ag... | jeremylongshore |
+| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-observability) | Wire LangSmith tracing and custom metric callbacks into a LangChain 1.0 chain or LangGraph 1.0 ag... | jeremylongshore |
 | [langfuse-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-core-workflow-b) | Execute Langfuse secondary workflow: Evaluation, scoring, and datasets. Use when implementing LLM... | jeremylongshore |
 | [langfuse-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-core-workflow-b) | Execute Langfuse secondary workflow: Evaluation, scoring, and datasets. Use when implementing LLM... | jeremylongshore |
 | [langfuse-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-data-handling) | Manage Langfuse data export, retention, and compliance requirements. Use when exporting trace dat... | jeremylongshore |
@@ -848,14 +846,12 @@
 
 <a name="time-series"></a>
 ## Time Series
-*4 skills*
+*2 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | Process this skill enables AI assistant to forecast future values based on historical time series... | jeremylongshore |
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | Process this skill enables AI assistant to forecast future values based on historical time series... | jeremylongshore |
-| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-observability) | Set up comprehensive observability for LangChain applications with LangSmith tracing, OpenTelemet... | jeremylongshore |
-| [langchain-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-pack/skills/langchain-observability) | Set up comprehensive observability for LangChain applications with LangSmith tracing, OpenTelemet... | jeremylongshore |
 
 
 [← Back to Main README](../README.md)
