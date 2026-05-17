@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4425 skills
-  - [APIs & REST](#apis-and-rest) - 2628 skills
+- [Backend Development](#backend-development) - 4426 skills
+  - [APIs & REST](#apis-and-rest) - 2629 skills
   - [Database Design](#database-design) - 1298 skills
   - [Request Handling](#request-handling) - 264 skills
   - [Web Frameworks](#web-frameworks) - 170 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4425 skills in this domain*
+*4426 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2628 skills*
+*2629 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -775,6 +775,7 @@
 | [deepgram-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-security-basics) | Apply Deepgram security best practices for API key management and data protection. Use when securing Deepgram integra... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 to v4 to v5), migrat... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 to v4 to v5), migrat... | jeremylongshore |
+| [dentistry-implant-master](https://github.com/voidborne-d/master-skill/tree/main/prototypes/dentistry-implant-master/output) | 口腔种植 (含 单牙/多牙缺失种植 / 全口 All-on-X / 即刻种植 即刻负重 / 上颌窦提升 / 牙槽嵴骨增量 GBR / 软组织移植 / 数字化种植 (CBCT 设计 + 口扫 + 导板 + CAD-CAM 上部) / 种... | voidborne-d |
 | [designing-apis](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis) | Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation. Use when creating n... | CloudAI-X |
 | [dictionary-api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/dictionary-api-automation) | Automate Dictionary API tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [docs-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/docs-search) | Search auto-generated codebase documentation for function signatures, API docs, class definitions, and code comments.... | davila7 |
