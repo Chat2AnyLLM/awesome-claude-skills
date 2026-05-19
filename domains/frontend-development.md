@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*538 skills in this domain*
+*540 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -410,6 +410,8 @@
 | [responsive-design](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/responsive-design) | Implement modern responsive layouts using container queries, fluid typography, CSS Grid, and mobi... | wshobson |
 | [responsive-layout-builder](https://github.com/OneWave-AI/claude-skills/tree/main/responsive-layout-builder) | Build responsive layouts with CSS Grid, Flexbox, and container queries. Use when creating respons... | OneWave-AI |
 | [resume-formatter](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-formatter) | Ensure ATS-friendly formatting and create clean, scannable layouts. Use when the user mentions re... | davila7 |
+| [root-level-skill-fixture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/tests/fixtures/root-level-skill-plugin) | Minimal fixture skill for regression coverage of root-level SKILL.md discovery. Use when validati... | jeremylongshore |
+| [root-level-skill-fixture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/tests/fixtures/root-level-skill-plugin) | Minimal fixture skill for regression coverage of root-level SKILL.md discovery. Use when validati... | jeremylongshore |
 | [running-e2e-tests](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/e2e-test-framework/skills/running-e2e-tests) | Execute end-to-end tests covering full user workflows across frontend and backend. Use when perfo... | jeremylongshore |
 | [running-e2e-tests](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/e2e-test-framework/skills/running-e2e-tests) | Execute end-to-end tests covering full user workflows across frontend and backend. Use when perfo... | jeremylongshore |
 | [running-integration-tests](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/integration-test-runner/skills/running-integration-tests) | Execute integration tests validating component interactions and system integration. Use when perf... | jeremylongshore |
