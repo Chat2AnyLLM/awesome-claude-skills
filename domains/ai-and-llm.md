@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*728 skills in this domain*
+*729 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -307,6 +307,7 @@
 | [hex-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hex-pack/skills/hex-core-workflow-a) | Execute Hex primary workflow: Core Workflow A. Use when implementing primary use case, building m... | jeremylongshore |
 | [hootsuite-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hootsuite-pack/skills/hootsuite-core-workflow-a) | Execute Hootsuite primary workflow: Core Workflow A. Use when implementing primary use case, buil... | jeremylongshore |
 | [hootsuite-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hootsuite-pack/skills/hootsuite-core-workflow-a) | Execute Hootsuite primary workflow: Core Workflow A. Use when implementing primary use case, buil... | jeremylongshore |
+| [huggingface-zerogpu](https://github.com/huggingface/skills/tree/main/skills/huggingface-zerogpu) | AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces ZeroGPU. Use when writing or ... | huggingface |
 | [humanizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/humanizer) | Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sou... | davila7 |
 | [Hunter Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/hunter-automation) | Automate Hunter.io email intelligence -- search domains for email addresses, find specific contac... | ComposioHQ |
 | [hybrid-search-implementation](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/hybrid-search-implementation) | Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, buil... | wshobson |

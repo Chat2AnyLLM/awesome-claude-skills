@@ -27,7 +27,7 @@
   - [Data Science](#data-science) - 13 skills
   - [Business Intelligence](#business-intelligence) - 5 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 728 skills
+- [AI & LLM](#ai-and-llm) - 729 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 543 skills
 - [Frontend Development](#frontend-development) - 540 skills
@@ -6256,7 +6256,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*728 skills in this domain*
+*729 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6556,6 +6556,7 @@
 | [hex-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hex-pack/skills/hex-core-workflow-a) | Execute Hex primary workflow: Core Workflow A. Use when implementing primary use case, building main features, or cor... | jeremylongshore |
 | [hootsuite-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hootsuite-pack/skills/hootsuite-core-workflow-a) | Execute Hootsuite primary workflow: Core Workflow A. Use when implementing primary use case, building main features, ... | jeremylongshore |
 | [hootsuite-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hootsuite-pack/skills/hootsuite-core-workflow-a) | Execute Hootsuite primary workflow: Core Workflow A. Use when implementing primary use case, building main features, ... | jeremylongshore |
+| [huggingface-zerogpu](https://github.com/huggingface/skills/tree/main/skills/huggingface-zerogpu) | AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces ZeroGPU. Use when writing or reviewing code that ... | huggingface |
 | [humanizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/humanizer) | Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and ... | davila7 |
 | [Hunter Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/hunter-automation) | Automate Hunter.io email intelligence -- search domains for email addresses, find specific contacts, verify email del... | ComposioHQ |
 | [hybrid-search-implementation](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/hybrid-search-implementation) | Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines,... | wshobson |
