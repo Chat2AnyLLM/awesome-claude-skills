@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4434 skills in this domain*
+*4435 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -14,7 +14,7 @@
 - [APIs & REST](#apis-rest) - 2637 skills
 - [Database Design](#database-design) - 1298 skills
 - [Request Handling](#request-handling) - 264 skills
-- [Web Frameworks](#web-frameworks) - 170 skills
+- [Web Frameworks](#web-frameworks) - 171 skills
 - [Authentication](#authentication) - 21 skills
 - [Message Queues](#message-queues) - 17 skills
 - [Microservices](#microservices) - 16 skills
@@ -4242,7 +4242,7 @@
 
 <a name="web-frameworks"></a>
 ## Web Frameworks
-*170 skills*
+*171 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4356,6 +4356,7 @@
 | [obsidian-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/obsidian-pack/skills/obsidian-performance-tuning) | Optimize Obsidian plugin performance for smooth operation in large vaults. Use when experiencing ... | jeremylongshore |
 | [openrouter-audit-logging](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-audit-logging) | Implement audit logging for OpenRouter API calls. Use when building compliance trails, debugging ... | jeremylongshore |
 | [openrouter-audit-logging](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-audit-logging) | Implement audit logging for OpenRouter API calls. Use when building compliance trails, debugging ... | jeremylongshore |
+| [pacsomatic](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pacsomatic) | Operator toolkit for nf-core/pacsomatic matched tumor-normal workflows from BAM inputs. Use this ... | K-Dense-AI |
 | [paypal-integration](https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/paypal-integration) | Integrate PayPal payment processing with support for express checkout, subscriptions, and refund ... | wshobson |
 | [perplexity-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-policy-guardrails) | Implement content moderation, model selection policy, citation quality enforcement, and per-user ... | jeremylongshore |
 | [perplexity-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-policy-guardrails) | Implement content moderation, model selection policy, citation quality enforcement, and per-user ... | jeremylongshore |
