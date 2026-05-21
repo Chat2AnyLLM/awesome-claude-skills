@@ -20,9 +20,9 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 791 skills
+- [Data & Analytics](#data-and-analytics) - 793 skills
   - [Data Pipelines](#data-pipelines) - 518 skills
-  - [Analytics & Queries](#analytics-and-queries) - 210 skills
+  - [Analytics & Queries](#analytics-and-queries) - 212 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 13 skills
   - [Business Intelligence](#business-intelligence) - 5 skills
@@ -5428,7 +5428,7 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*791 skills in this domain*
+*793 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
@@ -5957,7 +5957,7 @@
 
 <a name="analytics-and-queries"></a>
 ## Analytics & Queries
-*210 skills*
+*212 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6164,6 +6164,8 @@
 | [vastai-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-observability) | Monitor Vast.ai GPU instance health, utilization, and costs. Use when setting up monitoring dashboards, configuring a... | jeremylongshore |
 | [visualization-best-practices](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/12-data-analytics/visualization-best-practices) | Visualization Best Practices - Auto-activating skill for Data Analytics. Triggers on: visualization best practices, v... | jeremylongshore |
 | [visualization-best-practices](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/12-data-analytics/visualization-best-practices) | Visualization Best Practices - Auto-activating skill for Data Analytics. Triggers on: visualization best practices, v... | jeremylongshore |
+| [web-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/analytics/web-analytics/skills/web-analytics) | Push-based web analytics intelligence for your entire site portfolio. Fetches data from Umami (primary) and GA4 (fall... | jeremylongshore |
+| [web-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/analytics/web-analytics/skills/web-analytics) | Push-based web analytics intelligence for your entire site portfolio. Fetches data from Umami (primary) and GA4 (fall... | jeremylongshore |
 | [weekly-business-report](https://github.com/OneWave-AI/claude-skills/tree/main/weekly-business-report) | Auto-generates weekly KPI reports from multiple data sources including Supabase analytics, CRM data, financial spread... | OneWave-AI |
 | [window-function-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/planned-skills/generated/12-data-analytics/window-function-generator) | Window Function Generator - Auto-activating skill for Data Analytics. Triggers on: window function generator, window ... | jeremylongshore |
 | [window-function-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/planned-skills/generated/12-data-analytics/window-function-generator) | Window Function Generator - Auto-activating skill for Data Analytics. Triggers on: window function generator, window ... | jeremylongshore |
