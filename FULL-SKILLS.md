@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4437 skills
+- [Backend Development](#backend-development) - 4439 skills
   - [APIs & REST](#apis-and-rest) - 2637 skills
-  - [Database Design](#database-design) - 1300 skills
+  - [Database Design](#database-design) - 1302 skills
   - [Request Handling](#request-handling) - 264 skills
   - [Web Frameworks](#web-frameworks) - 171 skills
   - [Authentication](#authentication) - 21 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4437 skills in this domain*
+*4439 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2694,7 +2694,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1300 skills*
+*1302 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2709,6 +2709,8 @@
 | [adk-infra-expert](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/jeremy-adk-terraform/skills/adk-infra-expert) | Execute use when provisioning Vertex AI ADK infrastructure with Terraform. Trigger with phrases like "deploy ADK terr... | jeremylongshore |
 | [adobe-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/adobe-pack/skills/adobe-webhooks-events) | Implement Adobe I/O Events webhook registration, RSA-SHA256 signature verification, challenge handshake, and event-dr... | jeremylongshore |
 | [adobe-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/adobe-pack/skills/adobe-webhooks-events) | Implement Adobe I/O Events webhook registration, RSA-SHA256 signature verification, challenge handshake, and event-dr... | jeremylongshore |
+| [agency-os](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/agency-os/skills/agency-os) | Notion-as-source-of-truth dispatch board for running your work like an AI agency. One Tasks database is the source of... | jeremylongshore |
+| [agency-os](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/agency-os/skills/agency-os) | Notion-as-source-of-truth dispatch board for running your work like an AI agency. One Tasks database is the source of... | jeremylongshore |
 | [agent-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/sprint/skills/agent-patterns) | Execute this skill should be used when the user asks about "SPAWN REQUEST format", "agent reports", "agent coordinati... | jeremylongshore |
 | [agent-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/sprint/skills/agent-patterns) | Execute this skill should be used when the user asks about "SPAWN REQUEST format", "agent reports", "agent coordinati... | jeremylongshore |
 | [aggregating-performance-metrics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/metrics-aggregator/skills/aggregating-performance-metrics) | Aggregate and centralize performance metrics from applications, systems, databases, caches, and services. Use when co... | jeremylongshore |
