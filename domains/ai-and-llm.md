@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*731 skills in this domain*
+*732 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -89,6 +89,7 @@
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail hel... | jeremylongshore |
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail hel... | jeremylongshore |
 | [beaconchain-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/beaconchain-automation) | Automate Beaconchain tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [before-you-build](https://github.com/bin1874/before-you-build-skill/tree/main) | Use before building or changing a product, feature, SaaS, AI app, side project, or startup idea t... | bin1874 |
 | [bigmailer-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/bigmailer-automation) | Automate Bigmailer tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [block-no-verify-hook](https://github.com/wshobson/agents/tree/main/plugins/block-no-verify/skills/block-no-verify-hook) | Configure a PreToolUse hook to prevent AI agents from skipping git pre-commit hooks with --no-ver... | wshobson |
 | [bonsai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/bonsai-automation) | Automate Bonsai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |

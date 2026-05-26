@@ -27,7 +27,7 @@
   - [Data Science](#data-science) - 13 skills
   - [Business Intelligence](#business-intelligence) - 5 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 731 skills
+- [AI & LLM](#ai-and-llm) - 732 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Frontend Development](#frontend-development) - 544 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 544 skills
@@ -6272,7 +6272,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*731 skills in this domain*
+*732 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6354,6 +6354,7 @@
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail helper, audit trail hel... | jeremylongshore |
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail helper, audit trail hel... | jeremylongshore |
 | [beaconchain-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/beaconchain-automation) | Automate Beaconchain tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [before-you-build](https://github.com/bin1874/before-you-build-skill/tree/main) | Use before building or changing a product, feature, SaaS, AI app, side project, or startup idea to run a short demand... | bin1874 |
 | [bigmailer-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/bigmailer-automation) | Automate Bigmailer tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [block-no-verify-hook](https://github.com/wshobson/agents/tree/main/plugins/block-no-verify/skills/block-no-verify-hook) | Configure a PreToolUse hook to prevent AI agents from skipping git pre-commit hooks with --no-verify and other bypass... | wshobson |
 | [bonsai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/bonsai-automation) | Automate Bonsai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
