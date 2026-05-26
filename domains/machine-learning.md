@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*324 skills in this domain*
+*327 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,15 +11,15 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 201 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
-- [Model Evaluation](#model-evaluation) - 21 skills
+- [Model Training](#model-training) - 205 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
+- [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
-- [Model Deployment](#model-deployment) - 11 skills
+- [Model Deployment](#model-deployment) - 10 skills
 
 <a name="model-training"></a>
 ## Model Training
-*201 skills*
+*205 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -66,7 +66,7 @@
 | [ElevenLabs Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/elevenlabs-automation) | Automate ElevenLabs text-to-speech workflows -- generate speech from text, browse and inspect voi... | ComposioHQ |
 | [email-drafting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/executive-assistant-skills/skills/email-drafting) | Draft email replies for Gonto's Gmail accounts (m@gon.to, gonto@hypergrowthpartners.com). Handles... | jeremylongshore |
 | [email-drafting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/executive-assistant-skills/skills/email-drafting) | Draft email replies for Gonto's Gmail accounts (m@gon.to, gonto@hypergrowthpartners.com). Handles... | jeremylongshore |
-| [error-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/error-patterns) | Error handling patterns: classification, recovery, logging, graceful degradation, resilience. | athola |
+| [error-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/error-patterns) | Provides error classification, recovery, and graceful-degradation patterns. Use when implementing... | athola |
 | [escalation-governance](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/escalation-governance) | Assess whether to escalate models. Use when evaluating reasoning depth. | athola |
 | [event-sourcing-architect](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/event-sourcing-architect) | Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store desig... | davila7 |
 | [example-skill](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/templates/skill-plugin/skills/example-skill) | Brief description of what this skill does and when the model should activate it. Use when [descri... | jeremylongshore |
@@ -84,6 +84,7 @@
 | [feedback-mastery](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/feedback-mastery) | Navigate difficult conversations and deliver constructive feedback using structured frameworks. C... | davila7 |
 | [flyio-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flyio-pack/skills/flyio-core-workflow-a) | Execute Fly.io primary workflow: deploy, scale, and manage apps with flyctl and fly.toml. Use whe... | jeremylongshore |
 | [flyio-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flyio-pack/skills/flyio-core-workflow-a) | Execute Fly.io primary workflow: deploy, scale, and manage apps with flyctl and fly.toml. Use whe... | jeremylongshore |
+| [gemini-delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/gemini-delegation) | Delegates tasks to Gemini CLI implementing delegation-core for Google's models. Use when delegati... | athola |
 | [generate-image](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/generate-image) | Generate or edit images using AI models (FLUX, Nano Banana 2). Use for general-purpose image gene... | K-Dense-AI |
 | [generate-image](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/generate-image) | Generate or edit images using AI models (FLUX, Gemini). Use for general-purpose image generation ... | davila7 |
 | [gradient-clipping-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/gradient-clipping-helper) | Configure with gradient clipping helper operations. Auto-activating skill for ML Training. Trigge... | jeremylongshore |
@@ -111,6 +112,7 @@
 | [llamaguard](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-llamaguard) | Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - vi... | davila7 |
 | [llamaguard](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/07-safety-alignment/llamaguard) | Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - vi... | zechenzhangAGI |
 | [marketing-psychology](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/marketing-psychology) | When the user wants to apply psychological principles, mental models, or behavioral science to ma... | davila7 |
+| [math-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/math-review) | Verifies math-heavy code for algorithmic correctness and numerical stability. Use when reviewing ... | athola |
 | [miles-rl-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-miles) | Provides guidance for enterprise-grade RL training using miles, a production-ready fork of slime.... | davila7 |
 | [miles-rl-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/miles) | Provides guidance for enterprise-grade RL training using miles, a production-ready fork of slime.... | zechenzhangAGI |
 | [mindtickle-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-core-workflow-a) | Execute MindTickle primary workflow: Training Content Management. Trigger: "mindtickle training c... | jeremylongshore |
@@ -158,6 +160,7 @@
 | [pydantic-ai](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/pydantic-ai) | Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, depend... | davila7 |
 | [pymoo](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pymoo) | Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint hand... | K-Dense-AI |
 | [pymoo](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pymoo) | Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint hand... | davila7 |
+| [python-packaging](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-packaging) | Python package creation and PyPI distribution via pyproject.toml and entry points. Use when publi... | athola |
 | [python-packaging](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-packaging) | Create distributable Python packages with proper project structure, setup.py/pyproject.toml, and ... | wshobson |
 | [pytorch-fsdp2](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/pytorch-fsdp2) | Adds PyTorch FSDP2 (fully_shard) to training scripts with correct init, sharding, mixed precision... | zechenzhangAGI |
 | [pytorch-lightning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-lightning) | High-level PyTorch framework with Trainer class, automatic distributed training (DDP/FSDP/DeepSpe... | davila7 |
@@ -167,8 +170,9 @@
 | [qiskit](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/qiskit) | Comprehensive quantum computing toolkit for building, optimizing, and executing quantum circuits.... | davila7 |
 | [QuickBooks Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/quickbooks-automation) | QuickBooks Automation: manage invoices, customers, accounts, and payments in QuickBooks Online fo... | ComposioHQ |
 | [quota-setting-calculator](https://github.com/OneWave-AI/claude-skills/tree/main/quota-setting-calculator) | Top-down vs bottom-up quota models. Historical attainment, market growth assumptions, ramp period... | OneWave-AI |
+| [qwen-delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/qwen-delegation) | Delegates tasks to Qwen CLI via delegation-core for Alibaba's models. Use when delegation-core se... | athola |
 | [ray-train](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/ray-train) | Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/HuggingFace from la... | zechenzhangAGI |
-| [risk-classification](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/risk-classification) | 4-tier risk classification for agent tasks. GREEN/YELLOW heuristic, RED/CRITICAL escalate to war-... | athola |
+| [risk-classification](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/risk-classification) | Classifies agent tasks into 4 risk tiers (GREEN/YELLOW/RED/CRITICAL). Use when assessing action r... | athola |
 | [roc-curve-plotter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/roc-curve-plotter) | Manage roc curve plotter operations. Auto-activating skill for ML Training. Triggers on: roc curv... | jeremylongshore |
 | [roc-curve-plotter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/roc-curve-plotter) | Manage roc curve plotter operations. Auto-activating skill for ML Training. Triggers on: roc curv... | jeremylongshore |
 | [scientific-schematics](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/scientific-schematics) | Create publication-quality scientific diagrams using Nano Banana 2 AI with smart iterative refine... | K-Dense-AI |
@@ -227,7 +231,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*71 skills*
+*70 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -244,7 +248,7 @@
 | [coderabbit-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-cost-tuning) | Optimize CodeRabbit costs through seat management, repo selection, and review scope tuning. Use w... | jeremylongshore |
 | [coderabbit-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-cost-tuning) | Optimize CodeRabbit costs through seat management, repo selection, and review scope tuning. Use w... | jeremylongshore |
 | [content-creator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/content-creator) | Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer... | davila7 |
-| [context-optimization](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/context-optimization) | Optimize context window via MECW principles, memory tiering, and subagent coordination. | athola |
+| [context-optimization](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/context-optimization) | Optimizes context window via MECW principles and memory tiering. Use when context exceeds 30% or ... | athola |
 | [elevenlabs-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-cost-tuning) | Optimize ElevenLabs costs through model selection, character-efficient patterns, caching, and usa... | jeremylongshore |
 | [elevenlabs-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-cost-tuning) | Optimize ElevenLabs costs through model selection, character-efficient patterns, caching, and usa... | jeremylongshore |
 | [embedding-strategies](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/embedding-strategies) | Select and optimize embedding models for semantic search and RAG applications. Use when choosing ... | wshobson |
@@ -266,7 +270,7 @@
 | [llama-factory](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/03-fine-tuning/llama-factory) | Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8... | zechenzhangAGI |
 | [llava](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-llava) | Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversati... | davila7 |
 | [llava](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/llava) | Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversati... | zechenzhangAGI |
-| [metacognitive-self-mod](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/metacognitive-self-mod) | Analyze and improve the improvement process. Use for detecting quality regressions and refining m... | athola |
+| [metacognitive-self-mod](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/metacognitive-self-mod) | Analyze and improve the improvement process. Use for detecting regressions and meta-optimization. | athola |
 | [mistral_ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mistral_ai-automation) | Automate Mistral AI tasks via Rube MCP (Composio): completions, embeddings, fine-tuning, and mode... | ComposioHQ |
 | [ml-paper-writing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/ml-paper-writing) | Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting ... | davila7 |
 | [ml-paper-writing](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/20-ml-paper-writing/ml-paper-writing) | Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting ... | zechenzhangAGI |
@@ -280,7 +284,6 @@
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage for OpenRouter models to reduce cost and improve quality. Use when ... | jeremylongshore |
 | [polis-protocol](https://github.com/yehudalevy-collab/polis-protocol/tree/main) | Set up a self-optimizing multi-vendor AI agent team using the Polis Protocol — a markdown-based "... | yehudalevy-collab |
 | [pricing-strategy](https://github.com/OneWave-AI/claude-skills/tree/main/pricing-strategy) | Designs pricing strategies for products and services. Takes product/service, costs, target market... | OneWave-AI |
-| [progressive-loading](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/progressive-loading) | Progressive module loading with hub-and-spoke pattern for token optimization. Lazy loading. | athola |
 | [prompt-engineering](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering) | Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use whe... | davila7 |
 | [qiskit](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/qiskit) | IBM quantum computing framework. Use when targeting IBM Quantum hardware, working with Qiskit Run... | K-Dense-AI |
 | [quality-manager-qms-iso13485](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qms-iso13485) | ISO 13485 Quality Management System specialist for medical device companies. Provides QMS impleme... | davila7 |
@@ -305,7 +308,7 @@
 
 <a name="model-evaluation"></a>
 ## Model Evaluation
-*21 skills*
+*22 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -325,6 +328,7 @@
 | [optimizing-defi-yields](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/defi-yield-optimizer/skills/optimizing-defi-yields) | Find and compare DeFi yield opportunities across protocols with APY calculations, risk assessment... | jeremylongshore |
 | [optimizing-defi-yields](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/defi-yield-optimizer/skills/optimizing-defi-yields) | Find and compare DeFi yield opportunities across protocols with APY calculations, risk assessment... | jeremylongshore |
 | [qa-test-planner](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/qa-test-planner) | Generate comprehensive test plans, manual test cases, regression test suites, and bug reports for... | davila7 |
+| [setup](https://github.com/athola/claude-night-market/tree/master/plugins/oracle/skills/setup) | Provisions the oracle ML inference daemon with onnxruntime via uv. Use when setting up local ONNX... | athola |
 | [statsmodels](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/statsmodels) | Statistical modeling toolkit. OLS, GLM, logistic, ARIMA, time series, hypothesis tests, diagnosti... | davila7 |
 | [surge-plg](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/surge-plg) | PLG motion design — free tier definition, activation sequence, expansion trigger points, viral me... | jeremylongshore |
 | [surge-plg](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/surge-plg) | PLG motion design — free tier definition, activation sequence, expansion trigger points, viral me... | jeremylongshore |
@@ -360,7 +364,7 @@
 
 <a name="model-deployment"></a>
 ## Model Deployment
-*11 skills*
+*10 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -374,7 +378,6 @@
 | [pymc](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pymc) | Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/W... | K-Dense-AI |
 | [pymc-bayesian-modeling](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pymc) | Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/W... | davila7 |
 | [Replicate Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/replicate-automation) | Automate Replicate AI model operations -- run predictions, upload files, inspect model schemas, l... | ComposioHQ |
-| [setup](https://github.com/athola/claude-night-market/tree/master/plugins/oracle/skills/setup) | Provision the oracle inference daemon (Python 3.11+, onnxruntime via uv). | athola |
 
 
 [← Back to Main README](../README.md)

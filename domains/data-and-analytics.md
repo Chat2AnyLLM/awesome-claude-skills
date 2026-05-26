@@ -11,16 +11,16 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 518 skills
-- [Analytics & Queries](#analytics-queries) - 212 skills
+- [Data Pipelines](#data-pipelines) - 517 skills
+- [Analytics & Queries](#analytics-queries) - 215 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
-- [Data Science](#data-science) - 13 skills
-- [Business Intelligence](#business-intelligence) - 5 skills
+- [Data Science](#data-science) - 12 skills
+- [Business Intelligence](#business-intelligence) - 4 skills
 - [Time Series](#time-series) - 2 skills
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*518 skills*
+*517 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -193,6 +193,7 @@
 | [deepspeed](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-deepspeed) | Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline para... | davila7 |
 | [deepspeed](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/08-distributed-training/deepspeed) | Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline para... | zechenzhangAGI |
 | [Defense-in-Depth Validation](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/defense-in-depth) | Validate at every layer data passes through to make bugs impossible | mrgoonie |
+| [digital-garden-cultivator](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/digital-garden-cultivator) | Manages digital garden notes, link structures, and health metrics. Use when curating a knowledge ... | athola |
 | [documenso-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-data-handling) | Handle document data, signatures, and PII in Documenso integrations. Use when managing document l... | jeremylongshore |
 | [documenso-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-data-handling) | Handle document data, signatures, and PII in Documenso integrations. Use when managing document l... | jeremylongshore |
 | [documenso-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-observability) | Implement monitoring, logging, and tracing for Documenso integrations. Use when setting up observ... | jeremylongshore |
@@ -258,7 +259,6 @@
 | [fondo-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-security-basics) | Apply security best practices for Fondo including OAuth token management, financial data protecti... | jeremylongshore |
 | [forensics-data-collector](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/04-security-advanced/forensics-data-collector) | Process forensics data collector operations. Auto-activating skill for Security Advanced. Trigger... | jeremylongshore |
 | [forensics-data-collector](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/forensics-data-collector) | Process forensics data collector operations. Auto-activating skill for Security Advanced. Trigger... | jeremylongshore |
-| [friction-detector](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/friction-detector) | Detect friction signals and graduate recurring patterns into rules. Use for session retrospective... | athola |
 | [game-art](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/game-art) | Game art principles. Visual style selection, asset pipeline, animation workflow. | davila7 |
 | [gamma-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/gamma-pack/skills/gamma-data-handling) | Handle data privacy, retention, and compliance for Gamma integrations. Use when implementing GDPR... | jeremylongshore |
 | [gamma-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/gamma-pack/skills/gamma-data-handling) | Handle data privacy, retention, and compliance for Gamma integrations. Use when implementing GDPR... | jeremylongshore |
@@ -286,7 +286,6 @@
 | [granola-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/granola-pack/skills/granola-security-basics) | Security and privacy configuration for Granola meeting data. Use when reviewing data handling pra... | jeremylongshore |
 | [granola-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/granola-pack/skills/granola-upgrade-migration) | Upgrade Granola app versions and migrate between subscription plans. Use when upgrading the deskt... | jeremylongshore |
 | [granola-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/granola-pack/skills/granola-upgrade-migration) | Upgrade Granola app versions and migrate between subscription plans. Use when upgrading the deskt... | jeremylongshore |
-| [graph-build](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/graph-build) | Build or update the code knowledge graph. Tree-sitter AST parsing, SQLite storage. | athola |
 | [groq-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-reference-architecture) | Implement Groq reference architecture with model routing, streaming pipelines, and fallbacks. Use... | jeremylongshore |
 | [groq-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-reference-architecture) | Implement Groq reference architecture with model routing, streaming pipelines, and fallbacks. Use... | jeremylongshore |
 | [groq-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-webhooks-events) | Build event-driven architectures with Groq streaming, batch processing, and async patterns. Use w... | jeremylongshore |
@@ -448,7 +447,7 @@
 | [pytorch-fsdp](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-fsdp) | Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, ... | davila7 |
 | [pytorch-lightning](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pytorch-lightning) | Deep learning framework (PyTorch Lightning). Organize PyTorch code into LightningModules, configu... | K-Dense-AI |
 | [qa-expert](https://github.com/daymade/claude-code-skills/tree/main/qa-expert) | This skill should be used when establishing comprehensive QA testing processes for any software p... | daymade |
-| [quality-gate](https://github.com/athola/claude-night-market/tree/master/plugins/egregore/skills/quality-gate) | Orchestrate egregore's QUALITY pipeline stage. | athola |
+| [quality-gate](https://github.com/athola/claude-night-market/tree/master/plugins/egregore/skills/quality-gate) | Orchestrates the QUALITY pipeline stage for egregore work items, running code review, unbloat, an... | athola |
 | [ray-data](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/05-data-processing/ray-data) | Scalable data processing for ML workloads. Streaming execution across CPU/GPU, supports Parquet/C... | zechenzhangAGI |
 | [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect/tree/main) | Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrato... | mturac |
 | [recsys-pipeline-architect](https://github.com/wshobson/agents/tree/main/plugins/machine-learning-ops/skills/recsys-pipeline-architect) | Design composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator... | wshobson |
@@ -499,7 +498,7 @@
 | [supabase-reliability-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-reliability-patterns) | Build resilient Supabase integrations: circuit breakers wrapping createClient calls, offline queu... | jeremylongshore |
 | [test-data-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/09-test-automation/test-data-builder) | Test Data Builder - Auto-activating skill for Test Automation. Triggers on: test data builder, te... | jeremylongshore |
 | [test-data-builder](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-data-builder) | Test Data Builder - Auto-activating skill for Test Automation. Triggers on: test data builder, te... | jeremylongshore |
-| [testing-quality-standards](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/testing-quality-standards) | Testing quality metrics, coverage thresholds, and anti-patterns. | athola |
+| [testing-quality-standards](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/testing-quality-standards) | Defines testing quality metrics, coverage thresholds, and anti-patterns. Use when establishing te... | athola |
 | [tiledbvcf](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/tiledbvcf) | Efficient storage and retrieval of genomic variant data using TileDB. Scalable VCF/BCF ingestion,... | K-Dense-AI |
 | [torch-geometric](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/torch-geometric) | Guide for building Graph Neural Networks with PyTorch Geometric (PyG). Use this skill whenever th... | K-Dense-AI |
 | [torchdrug](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/torchdrug) | PyTorch-native graph neural networks for molecules and proteins. Use when building custom GNN arc... | K-Dense-AI |
@@ -545,7 +544,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*212 skills*
+*215 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -605,6 +604,7 @@
 | [deploying-monitoring-stacks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/monitoring-stack-deployer/skills/deploying-monitoring-stacks) | Monitor use when deploying monitoring stacks including Prometheus, Grafana, and Datadog. Trigger ... | jeremylongshore |
 | [deploying-monitoring-stacks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/monitoring-stack-deployer/skills/deploying-monitoring-stacks) | Monitor use when deploying monitoring stacks including Prometheus, Grafana, and Datadog. Trigger ... | jeremylongshore |
 | [depmap](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/depmap) | Query the Cancer Dependency Map (DepMap) for cancer cell line gene dependency scores (CRISPR Chro... | K-Dense-AI |
+| [diff-analysis](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/diff-analysis) | Analyzes changesets with risk scoring, categorization by type and impact, and release note prepar... | athola |
 | [echo-segment](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo-segment) | User segmentation and persona creation from mixed data sources — analytics, CRM, support tickets,... | jeremylongshore |
 | [echo-segment](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-segment) | User segmentation and persona creation from mixed data sources — analytics, CRM, support tickets,... | jeremylongshore |
 | [ecom](https://github.com/takechanman1228/claude-ecom/tree/main/skills/ecom) | Claude-powered ecommerce business review toolkit for D2C stores. Single command: review. Analyzes... | takechanman1228 |
@@ -636,6 +636,7 @@
 | [geniml](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/geniml) | This skill should be used when working with genomic interval data (BED files) for machine learnin... | davila7 |
 | [Gong Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/gong-automation) | Automate Gong conversation intelligence -- retrieve call recordings, transcripts, detailed analyt... | ComposioHQ |
 | [grafana-dashboards](https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/grafana-dashboards) | Create and manage production Grafana dashboards for real-time visualization of system and applica... | wshobson |
+| [graph-build](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/graph-build) | Builds or updates the code knowledge graph via tree-sitter AST and SQLite. Use when setting up th... | athola |
 | [groq-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-observability) | Set up observability for Groq integrations: latency histograms, token throughput, rate limit gaug... | jeremylongshore |
 | [groq-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-observability) | Set up observability for Groq integrations: latency histograms, token throughput, rate limit gaug... | jeremylongshore |
 | [hypogenic](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/hypogenic) | Automated hypothesis generation and testing using large language models. Use this skill when gene... | davila7 |
@@ -748,6 +749,7 @@
 | [tracking-crypto-portfolio](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-portfolio-tracker/skills/tracking-crypto-portfolio) | Track cryptocurrency portfolio with real-time valuations, allocation analysis, and P&L tracking. ... | jeremylongshore |
 | [umap-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/umap-learn) | UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clusteri... | K-Dense-AI |
 | [umap-learn](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/umap-learn) | UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clusteri... | davila7 |
+| [usage-logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) | Implements structured usage logging and audit trails for cost and session tracking. Use when addi... | athola |
 | [vastai-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-observability) | Monitor Vast.ai GPU instance health, utilization, and costs. Use when setting up monitoring dashb... | jeremylongshore |
 | [vastai-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-observability) | Monitor Vast.ai GPU instance health, utilization, and costs. Use when setting up monitoring dashb... | jeremylongshore |
 | [visualization-best-practices](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/visualization-best-practices) | Manage visualization best practices operations. Auto-activating skill for Data Analytics. Trigger... | jeremylongshore |
@@ -814,12 +816,11 @@
 
 <a name="data-science"></a>
 ## Data Science
-*13 skills*
+*12 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [agent-swarm-deployer](https://github.com/OneWave-AI/claude-skills/tree/main/agent-swarm-deployer) | Deploys swarms of sub-agents for massive parallel data processing tasks. Unlike agent-army (which... | OneWave-AI |
-| [architecture-paradigm-space-based](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-space-based) | Apply data-grid architecture for high-traffic stateful workloads with in-memory processing and li... | athola |
 | [dask](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/dask) | Parallel/distributed computing. Scale pandas/NumPy beyond memory, parallel DataFrames/Arrays, mul... | davila7 |
 | [data-processing-ray-data](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/data-processing-ray-data) |  | davila7 |
 | [evernote-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-data-handling) | Best practices for handling Evernote data. Use when implementing data storage, processing notes, ... | jeremylongshore |
@@ -834,11 +835,10 @@
 
 <a name="business-intelligence"></a>
 ## Business Intelligence
-*5 skills*
+*4 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
-| [extract](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/extract) | Build a codebase knowledge base of business logic, architecture, data flow, and patterns. | athola |
 | [lead-scoring-model](https://github.com/OneWave-AI/claude-skills/tree/main/lead-scoring-model) | Builds a custom lead scoring model for a business. Takes ICP definition, historical win/loss data... | OneWave-AI |
 | [prospect-research-compiler](https://github.com/OneWave-AI/claude-skills/tree/main/prospect-research-compiler) | Aggregate prospect intelligence from multiple sources including news, social media, company websi... | OneWave-AI |
 | [terms-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/general-legal-assistant/skills/terms-generator) | Generates comprehensive terms of service by analyzing a website or application to detect business... | jeremylongshore |

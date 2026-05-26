@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*99 skills in this domain*
+*98 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -33,6 +33,7 @@
 | [apple-notes-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-upgrade-migration) | Migrate Apple Notes automation scripts between macOS versions. Trigger: "apple notes upgrade migr... | jeremylongshore |
 | [apple-notes-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-webhooks-events) | Monitor Apple Notes changes using file system events and Shortcuts triggers. Trigger: "apple note... | jeremylongshore |
 | [apple-notes-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-webhooks-events) | Monitor Apple Notes changes using file system events and Shortcuts triggers. Trigger: "apple note... | jeremylongshore |
+| [architecture-paradigm-modular-monolith](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-modular-monolith) | Applies modular monolith with enforced internal boundaries. Use when teams want service-level aut... | athola |
 | [Ashby Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/ashby-automation) | Automate recruiting and hiring workflows in Ashby -- manage candidates, jobs, applications, inter... | ComposioHQ |
 | [attio-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/attio-pack/skills/attio-core-workflow-a) | Full CRUD on Attio records -- create, read, update, delete, and search across people, companies, ... | jeremylongshore |
 | [attio-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/attio-pack/skills/attio-core-workflow-a) | Full CRUD on Attio records -- create, read, update, delete, and search across people, companies, ... | jeremylongshore |
@@ -53,7 +54,6 @@
 | [Facebook Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/facebook-automation) | Automate Facebook Page management including post creation, scheduling, video uploads, Messenger c... | ComposioHQ |
 | [flexport-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-webhooks-events) | Implement Flexport webhook event handling for shipment milestones, booking updates, purchase orde... | jeremylongshore |
 | [flexport-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-webhooks-events) | Implement Flexport webhook event handling for shipment milestones, booking updates, purchase orde... | jeremylongshore |
-| [gemini-delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/gemini-delegation) | Gemini CLI delegation workflow implementing delegation-core for Google's. | athola |
 | [google-sheets-automation](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/google-sheets-automation) | Manage google sheets automation operations. Auto-activating skill for Business Automation. Trigge... | jeremylongshore |
 | [google-sheets-automation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/google-sheets-automation) | Manage google sheets automation operations. Auto-activating skill for Business Automation. Trigge... | jeremylongshore |
 | [Gorgias Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/gorgias-automation) | Automate e-commerce customer support workflows in Gorgias -- manage tickets, customers, tags, and... | ComposioHQ |
@@ -98,11 +98,10 @@
 | [persona-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/persona-pack/skills/persona-core-workflow-a) | Build a complete KYC verification flow with Persona inquiries and embedded UI. Use when implement... | jeremylongshore |
 | [persona-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/persona-pack/skills/persona-webhooks-events) | Handle Persona webhook events for inquiry and verification status changes. Use when working with ... | jeremylongshore |
 | [persona-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/persona-pack/skills/persona-webhooks-events) | Handle Persona webhook events for inquiry and verification status changes. Use when working with ... | jeremylongshore |
-| [qwen-delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/qwen-delegation) | Qwen CLI delegation workflow implementing delegation-core for Alibaba's. | athola |
-| [review-core](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/review-core) | Review-workflow scaffolding (context, evidence, output). | athola |
 | [sales-comp-plan-designer](https://github.com/OneWave-AI/claude-skills/tree/main/sales-comp-plan-designer) | Base/variable split recommendations, accelerators, decelerators, quota retirement methods, SPIFs,... | OneWave-AI |
 | [salesforce-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/salesforce-pack/skills/salesforce-architecture-variants) | Choose and implement Salesforce integration architecture patterns for different scales. Use when ... | jeremylongshore |
 | [salesforce-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/salesforce-pack/skills/salesforce-architecture-variants) | Choose and implement Salesforce integration architecture patterns for different scales. Use when ... | jeremylongshore |
+| [speckit-orchestrator](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/speckit-orchestrator) | Orchestrates Spec Driven Development by coordinating spec, plan, and task skills. Use when runnin... | athola |
 | [teams-webhook-sender](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/teams-webhook-sender) | Manage teams webhook sender operations. Auto-activating skill for Business Automation. Triggers o... | jeremylongshore |
 | [teams-webhook-sender](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/teams-webhook-sender) | Manage teams webhook sender operations. Auto-activating skill for Business Automation. Triggers o... | jeremylongshore |
 | [Uploadcare Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/uploadcare-automation) | Automate Uploadcare file management including listing, storing, inspecting, downloading, and orga... | ComposioHQ |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*824 skills in this domain*
+*827 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [Cloud Platforms](#cloud-platforms) - 473 skills
-- [CI/CD](#cicd) - 219 skills
+- [Cloud Platforms](#cloud-platforms) - 472 skills
+- [CI/CD](#cicd) - 223 skills
 - [Containers](#containers) - 80 skills
 - [Monitoring](#monitoring) - 22 skills
 - [Security](#security) - 12 skills
@@ -22,7 +22,7 @@
 
 <a name="cloud-platforms"></a>
 ## Cloud Platforms
-*473 skills*
+*472 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -46,9 +46,8 @@
 | [apple-notes-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-prod-checklist) | Production checklist for Apple Notes automation deployments. Trigger: "apple notes production che... | jeremylongshore |
 | [apple-notes-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-rate-limits) | Handle Apple Notes automation rate limits and iCloud sync throttling. Trigger: "apple notes rate ... | jeremylongshore |
 | [apple-notes-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-rate-limits) | Handle Apple Notes automation rate limits and iCloud sync throttling. Trigger: "apple notes rate ... | jeremylongshore |
-| [architecture-paradigm-hexagonal](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-hexagonal) | Hexagonal (Ports and Adapters) architecture isolating domain logic from infrastructure. | athola |
-| [architecture-paradigm-microservices](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-microservices) | Apply microservices for independent deployment and per-service scaling. | athola |
-| [architecture-paradigm-service-based](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-service-based) | Design coarse-grained service architecture for deployment independence without microservices comp... | athola |
+| [architecture-paradigm-hexagonal](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-hexagonal) | Applies hexagonal architecture isolating domain from infrastructure. Use when designing systems w... | athola |
+| [architecture-paradigm-microservices](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-microservices) | Applies microservices for independent deployment and per-service scaling. Use when teams need aut... | athola |
 | [assemblyai-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-prod-checklist) | Execute AssemblyAI production deployment checklist and rollback procedures. Use when deploying As... | jeremylongshore |
 | [assemblyai-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-prod-checklist) | Execute AssemblyAI production deployment checklist and rollback procedures. Use when deploying As... | jeremylongshore |
 | [attio-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/attio-pack/skills/attio-deploy-integration) | Deploy Attio integrations to Vercel, Fly.io, Railway, and Cloud Run with proper secrets, health c... | jeremylongshore |
@@ -213,7 +212,7 @@
 | [FreshBooks Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/freshbooks-automation) | FreshBooks Automation: manage businesses, projects, time tracking, and billing in FreshBooks clou... | ComposioHQ |
 | [gamma-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/gamma-pack/skills/gamma-prod-checklist) | Production readiness checklist for Gamma integration. Use when preparing to deploy Gamma integrat... | jeremylongshore |
 | [gamma-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/gamma-pack/skills/gamma-prod-checklist) | Production readiness checklist for Gamma integration. Use when preparing to deploy Gamma integrat... | jeremylongshore |
-| [gauntlet-curate](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/gauntlet-curate) | Refresh the problem bank during /update-plugins (data/problems/*.yaml). | athola |
+| [gauntlet-curate](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/gauntlet-curate) | Audits the DSA problem bank for coverage gaps and proposes new YAML entries. Use when refreshing ... | athola |
 | [gcp-examples-expert](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/jeremy-gcp-starter-examples/skills/gcp-examples-expert) | Generate production-ready Google Cloud code examples from official repositories including ADK sam... | jeremylongshore |
 | [gcp-examples-expert](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/jeremy-gcp-starter-examples/skills/gcp-examples-expert) | Generate production-ready Google Cloud code examples from official repositories including ADK sam... | jeremylongshore |
 | [gcs-bucket-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/14-gcp-skills/gcs-bucket-config) | Configure gcs bucket config operations. Auto-activating skill for GCP Skills. Triggers on: gcs bu... | jeremylongshore |
@@ -392,7 +391,7 @@
 | [rds-instance-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/13-aws-skills/rds-instance-setup) | Configure rds instance setup operations. Auto-activating skill for AWS Skills. Triggers on: rds i... | jeremylongshore |
 | [readme-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/01-devops-basics/readme-generator) | Generate readme generator operations. Auto-activating skill for DevOps Basics. Triggers on: readm... | jeremylongshore |
 | [readme-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/readme-generator) | Generate readme generator operations. Auto-activating skill for DevOps Basics. Triggers on: readm... | jeremylongshore |
-| [release-health-gates](https://github.com/athola/claude-night-market/tree/master/plugins/minister/skills/release-health-gates) | Standardize release approvals with GitHub-aware checklists and deployment gate validation. | athola |
+| [release-health-gates](https://github.com/athola/claude-night-market/tree/master/plugins/minister/skills/release-health-gates) | Standardizes release approvals with GitHub-aware checklists and deployment gates. Use before rele... | athola |
 | [release-notes-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/01-devops-basics/release-notes-generator) | Generate release notes generator operations. Auto-activating skill for DevOps Basics. Triggers on... | jeremylongshore |
 | [release-notes-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/release-notes-generator) | Generate release notes generator operations. Auto-activating skill for DevOps Basics. Triggers on... | jeremylongshore |
 | [replit-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/replit-pack/skills/replit-debug-bundle) | Collect Replit diagnostic info for debugging deployments, workspace issues, and support tickets. ... | jeremylongshore |
@@ -502,7 +501,7 @@
 
 <a name="cicd"></a>
 ## CI/CD
-*219 skills*
+*223 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -617,6 +616,7 @@
 | [ideogram-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-ci-integration) | Configure CI/CD pipelines for Ideogram integrations with GitHub Actions. Use when setting up auto... | jeremylongshore |
 | [ideogram-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-multi-env-setup) | Configure Ideogram across development, staging, and production environments. Use when setting up ... | jeremylongshore |
 | [ideogram-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-multi-env-setup) | Configure Ideogram across development, staging, and production environments. Use when setting up ... | jeremylongshore |
+| [install-watchdog](https://github.com/athola/claude-night-market/tree/master/plugins/egregore/skills/install-watchdog) | Installs egregore watchdog daemon via launchd or systemd for autonomous relaunching. Use when set... | athola |
 | [istio-traffic-management](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management) | Configure Istio traffic management including routing, load balancing, circuit breakers, and canar... | wshobson |
 | [javascript-testing-patterns](https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/javascript-testing-patterns) | Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests... | wshobson |
 | [jenkins-pipeline-intro](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/01-devops-basics/jenkins-pipeline-intro) | Manage jenkins pipeline intro operations. Auto-activating skill for DevOps Basics. Triggers on: j... | jeremylongshore |
@@ -646,7 +646,7 @@
 | [lokalise-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lokalise-pack/skills/lokalise-ci-integration) | Configure Lokalise CI/CD integration with GitHub Actions and automated sync. Use when setting up ... | jeremylongshore |
 | [lokalise-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lokalise-pack/skills/lokalise-multi-env-setup) | Configure Lokalise across development, staging, and production environments. Use when setting up ... | jeremylongshore |
 | [lokalise-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lokalise-pack/skills/lokalise-multi-env-setup) | Configure Lokalise across development, staging, and production environments. Use when setting up ... | jeremylongshore |
-| [makefile-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/makefile-review) | Audit Makefiles for build correctness and recipe duplication. | athola |
+| [makefile-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/makefile-review) | Audits Makefiles for build correctness, portability, and recipe duplication. Use when reviewing a... | athola |
 | [managing-deployment-rollbacks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/deployment-rollback-manager/skills/managing-deployment-rollbacks) | Deploy use when you need to work with deployment and CI/CD. This skill provides deployment automa... | jeremylongshore |
 | [managing-deployment-rollbacks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/deployment-rollback-manager/skills/managing-deployment-rollbacks) | Deploy use when you need to work with deployment and CI/CD. This skill provides deployment automa... | jeremylongshore |
 | [mistral-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-ci-integration) | Configure Mistral AI CI/CD integration with GitHub Actions and prompt testing. Use when setting u... | jeremylongshore |
@@ -670,7 +670,8 @@
 | [plugin-settings](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/plugin-settings) | This skill should be used when the user asks about "plugin settings", "store plugin configuration... | anthropics |
 | [posthog-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-ci-integration) | Configure PostHog CI/CD with GitHub Actions: unit tests with mocked PostHog, integration tests ag... | jeremylongshore |
 | [posthog-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-ci-integration) | Configure PostHog CI/CD with GitHub Actions: unit tests with mocked PostHog, integration tests ag... | jeremylongshore |
-| [python-packaging](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-packaging) | Python package creation and distribution: pyproject.toml, entry points, PyPI publishing, CI/CD. | athola |
+| [project-init](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/project-init) | Scaffolds new projects with git, CI/CD workflows, pre-commit hooks, and build config. Use when st... | athola |
+| [pytest-config](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/pytest-config) | Provides standardized pytest config, reusable fixtures, and CI integration patterns. Use when set... | athola |
 | [quicknode-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/quicknode-pack/skills/quicknode-ci-integration) | QuickNode ci integration — blockchain RPC and Web3 infrastructure integration. Use when working w... | jeremylongshore |
 | [quicknode-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/quicknode-pack/skills/quicknode-ci-integration) | QuickNode ci integration — blockchain RPC and Web3 infrastructure integration. Use when working w... | jeremylongshore |
 | [quicknode-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/quicknode-pack/skills/quicknode-core-workflow-a) | QuickNode core workflow a — blockchain RPC and Web3 infrastructure integration. Use when working ... | jeremylongshore |
@@ -706,6 +707,7 @@
 | [tech-resume-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/tech-resume-optimizer) | Optimize resumes for software engineering, product management, and technical roles. Use when the ... | davila7 |
 | [twinmind-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-ci-integration) | Integrate TwinMind meeting transcription workflows into CI/CD pipelines for automated meeting doc... | jeremylongshore |
 | [twinmind-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-ci-integration) | Integrate TwinMind meeting transcription workflows into CI/CD pipelines for automated meeting doc... | jeremylongshore |
+| [uninstall-watchdog](https://github.com/athola/claude-night-market/tree/master/plugins/egregore/skills/uninstall-watchdog) | Removes the egregore watchdog daemon and its associated files. Use when stopping automated sessio... | athola |
 | [vastai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-ci-integration) | Configure Vast.ai CI/CD integration with GitHub Actions and automated GPU testing. Use when setti... | jeremylongshore |
 | [vastai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-ci-integration) | Configure Vast.ai CI/CD integration with GitHub Actions and automated GPU testing. Use when setti... | jeremylongshore |
 | [vastai-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-prod-checklist) | Execute Vast.ai production deployment checklist for GPU workloads. Use when deploying training pi... | jeremylongshore |
@@ -724,7 +726,8 @@
 | [windsurf-cicd-github-actions](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-cicd-github-actions) | Generate and maintain GitHub Actions with Cascade assistance. Activate when users mention "github... | jeremylongshore |
 | [windsurf-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-deploy-integration) | Deploy applications using Windsurf's built-in deployment features and Cascade automation. Use whe... | jeremylongshore |
 | [windsurf-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-deploy-integration) | Deploy applications using Windsurf's built-in deployment features and Cascade automation. Use whe... | jeremylongshore |
-| [workflow-setup](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/workflow-setup) | Configure GitHub Actions CI/CD workflows for automated testing, linting, and deployment pipelines. | athola |
+| [workflow-diagram](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/workflow-diagram) | Generates a Mermaid workflow diagram showing process steps, decisions, and state transitions. Use... | athola |
+| [workflow-setup](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/workflow-setup) | Configures GitHub Actions CI/CD workflows for testing, linting, and deployment. Use when setting ... | athola |
 
 <a name="containers"></a>
 ## Containers

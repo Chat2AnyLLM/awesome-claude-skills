@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4440 skills in this domain*
+*4444 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,18 +11,18 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2638 skills
-- [Database Design](#database-design) - 1302 skills
-- [Request Handling](#request-handling) - 264 skills
-- [Web Frameworks](#web-frameworks) - 171 skills
-- [Authentication](#authentication) - 21 skills
+- [APIs & REST](#apis-rest) - 2637 skills
+- [Database Design](#database-design) - 1305 skills
+- [Request Handling](#request-handling) - 263 skills
+- [Web Frameworks](#web-frameworks) - 173 skills
+- [Authentication](#authentication) - 22 skills
 - [Message Queues](#message-queues) - 17 skills
 - [Microservices](#microservices) - 16 skills
 - [Caching](#caching) - 11 skills
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2638 skills*
+*2637 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -218,7 +218,7 @@
 | [api-reference-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/api-reference-creator) | Create api reference creator operations. Auto-activating skill for Technical Documentation. Trigg... | jeremylongshore |
 | [api-response-cacher](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/16-api-integration/api-response-cacher) | Configure api response cacher operations. Auto-activating skill for API Integration. Triggers on:... | jeremylongshore |
 | [api-response-cacher](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/api-response-cacher) | Configure api response cacher operations. Auto-activating skill for API Integration. Triggers on:... | jeremylongshore |
-| [api-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/api-review) | Evaluate API surface design, consistency, and exemplar alignment. | athola |
+| [api-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/api-review) | Evaluates API surface design, consistency, and exemplar alignment. Use when reviewing public API ... | athola |
 | [api-security-best-practices](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/api-security-best-practices) | Implement secure API design patterns including authentication, authorization, input validation, r... | davila7 |
 | [api-security-testing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/api-security-testing) | API security testing workflow for REST and GraphQL APIs covering authentication, authorization, r... | davila7 |
 | [api-sports-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/api-sports-automation) | Automate API Sports tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -319,7 +319,6 @@
 | [appfolio-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/appfolio-pack/skills/appfolio-security-basics) | Secure AppFolio API credentials and tenant data. Trigger: "appfolio security". | jeremylongshore |
 | [appfolio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/appfolio-pack/skills/appfolio-upgrade-migration) | Migrate between AppFolio API versions and handle endpoint changes. Trigger: "appfolio upgrade". | jeremylongshore |
 | [appfolio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/appfolio-pack/skills/appfolio-upgrade-migration) | Migrate between AppFolio API versions and handle endpoint changes. Trigger: "appfolio upgrade". | jeremylongshore |
-| [architecture-paradigm-client-server](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-client-server) | Client-server architecture for web/mobile apps with centralized services and API design. | athola |
 | [asin-data-api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/asin-data-api-automation) | Automate Asin Data API tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [asr-transcribe-to-text](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/asr-transcribe-to-text) | Transcribes audio and video files to text using Qwen3-ASR. Supports two modes — local MLX inferen... | daymade |
 | [assemblyai-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-deploy-integration) | Deploy AssemblyAI integrations to Vercel, Cloud Run, and Fly.io platforms. Use when deploying Ass... | jeremylongshore |
@@ -359,7 +358,7 @@
 | [attio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/attio-pack/skills/attio-upgrade-migration) | Migrate between Attio API versions, handle breaking changes in the v1-to-v2 transition, and plan ... | jeremylongshore |
 | [attio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/attio-pack/skills/attio-upgrade-migration) | Migrate between Attio API versions, handle breaking changes in the v1-to-v2 transition, and plan ... | jeremylongshore |
 | [auth-implementation-patterns](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/auth-implementation-patterns) | Master authentication and authorization patterns including JWT, OAuth2, session management, and R... | wshobson |
-| [authentication-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/authentication-patterns) | Authentication patterns: API keys, OAuth, token management, credentials. | athola |
+| [authentication-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/authentication-patterns) | Provides auth patterns for API keys, OAuth, and token management. Use when implementing or review... | athola |
 | [automating-api-testing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/api-test-automation/skills/automating-api-testing) | Test automate API endpoint testing including request generation, validation, and comprehensive te... | jeremylongshore |
 | [automating-api-testing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/api-test-automation/skills/automating-api-testing) | Test automate API endpoint testing including request generation, validation, and comprehensive te... | jeremylongshore |
 | [autoresearch](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/0-autoresearch-skill) | Orchestrates end-to-end autonomous AI research projects using a two-loop architecture. The inner ... | zechenzhangAGI |
@@ -555,6 +554,7 @@
 | [clari-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clari-pack/skills/clari-security-basics) | Secure Clari API tokens and implement data handling best practices. Use when managing API tokens,... | jeremylongshore |
 | [clari-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clari-pack/skills/clari-upgrade-migration) | Handle Clari API version changes and export schema migrations. Use when Clari updates their API, ... | jeremylongshore |
 | [clari-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clari-pack/skills/clari-upgrade-migration) | Handle Clari API version changes and export schema migrations. Use when Clari updates their API, ... | jeremylongshore |
+| [class-diagram](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/class-diagram) | Generates a Mermaid class diagram showing types, inheritance, and composition. Use when visualizi... | athola |
 | [claude-api](https://github.com/anthropics/skills/tree/main/skills/claude-api) | Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should inc... | anthropics |
 | [claude-api](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/claude-api) | Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should inc... | davila7 |
 | [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | Migrate prompts and code from Claude Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. Use when th... | anthropics |
@@ -675,7 +675,6 @@
 | [cohere-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-upgrade-migration) | Migrate from Cohere API v1 to v2 and upgrade SDK versions. Use when upgrading cohere-ai SDK, migr... | jeremylongshore |
 | [cohere-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-upgrade-migration) | Migrate from Cohere API v1 to v2 and upgrade SDK versions. Use when upgrading cohere-ai SDK, migr... | jeremylongshore |
 | [commit-smart](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/git/commit-smart) | Analyze staged/unstaged changes and create semantic conventional commits with context about WHY, ... | davila7 |
-| [computer-control](https://github.com/athola/claude-night-market/tree/master/plugins/phantom/skills/computer-control) | Automate desktop GUI workflows via Claude computer use API with screenshot capture and mouse/keyb... | athola |
 | [conditional-request-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/15-api-development/conditional-request-helper) | Configure with conditional request helper operations. Auto-activating skill for API Development. ... | jeremylongshore |
 | [conditional-request-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/conditional-request-helper) | Configure with conditional request helper operations. Auto-activating skill for API Development. ... | jeremylongshore |
 | [connection-pooling-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/16-api-integration/connection-pooling-config) | Configure connection pooling config operations. Auto-activating skill for API Integration. Trigge... | jeremylongshore |
@@ -769,7 +768,7 @@
 | [documenso-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-upgrade-migration) | Manage Documenso API version upgrades and SDK migrations. Use when upgrading from v1 to v2 API, u... | jeremylongshore |
 | [documenso-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-upgrade-migration) | Manage Documenso API version upgrades and SDK migrations. Use when upgrading from v1 to v2 API, u... | jeremylongshore |
 | [documentation-templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/documentation-templates) | Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendl... | davila7 |
-| [dora-metrics](https://github.com/athola/claude-night-market/tree/master/plugins/minister/skills/dora-metrics) | Compute DORA delivery-performance metrics from local git and GitHub API. Classify tier and surfac... | athola |
+| [dora-metrics](https://github.com/athola/claude-night-market/tree/master/plugins/minister/skills/dora-metrics) | Computes DORA delivery-performance metrics from git and GitHub API. Use when assessing deployment... | athola |
 | [dotnet-backend](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/dotnet-backend) | Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API pa... | davila7 |
 | [dotnet-backend-patterns](https://github.com/wshobson/agents/tree/main/plugins/dotnet-contribution/skills/dotnet-backend-patterns) | Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise... | wshobson |
 | [dotnet-core-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/dotnet-core-expert) | Use when building .NET 8 applications with minimal APIs, clean architecture, or cloud-native micr... | Jeffallan |
@@ -1971,14 +1970,14 @@
 | [pubchem-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pubchem-database) | Query PubChem via PUG-REST API/PubChemPy (110M+ compounds). Search by name/CID/SMILES, retrieve p... | davila7 |
 | [pubmed-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pubmed-database) | Direct REST API access to PubMed. Advanced Boolean/MeSH queries, E-utilities API, batch processin... | davila7 |
 | [pylabrobot](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pylabrobot) | Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton... | K-Dense-AI |
-| [python-async](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-async) | Async Python patterns and concurrency: async APIs, I/O-bound apps, rate limiting, context managers. | athola |
+| [python-async](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-async) | Async Python patterns via asyncio and aiohttp for I/O-bound concurrency. Use when adding async AP... | athola |
 | [python-error-handling](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-error-handling) | Python error handling patterns including input validation, exception hierarchies, and partial fai... | wshobson |
 | [pyzotero](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pyzotero) | Interact with Zotero reference management libraries using the pyzotero Python client. Retrieve, c... | K-Dense-AI |
 | [qdrant-vector-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-qdrant) | High-performance vector similarity search engine for RAG and semantic search. Use when building p... | davila7 |
 | [qdrant-vector-search](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/qdrant) | High-performance vector similarity search engine for RAG and semantic search. Use when building p... | zechenzhangAGI |
 | [quicknode-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/quicknode-pack/skills/quicknode-core-workflow-b) | Work with NFT and token APIs via QuickNode: metadata, balances, transfer history. Use when buildi... | jeremylongshore |
 | [quicknode-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/quicknode-pack/skills/quicknode-core-workflow-b) | Work with NFT and token APIs via QuickNode: metadata, balances, transfer history. Use when buildi... | jeremylongshore |
-| [quota-management](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/quota-management) | Quota tracking, threshold monitoring, graceful degradation for rate-limited APIs. | athola |
+| [quota-management](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/quota-management) | Tracks quotas, monitors thresholds, and degrades gracefully for rate-limited APIs. Use when integ... | athola |
 | [railway-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/railway/database) | Add official Railway database services (Postgres, Redis, MySQL, MongoDB). Use when user wants to ... | davila7 |
 | [railway-deployment](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/railway/deployment) | Manage Railway deployments - view logs, redeploy, restart, or remove deployments. Use for deploym... | davila7 |
 | [railway-templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/railway/templates) | Search and deploy services from Railway's template marketplace. Use when user wants to add a serv... | davila7 |
@@ -2667,7 +2666,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1302 skills*
+*1305 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2725,8 +2724,10 @@
 | [apple-notes-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-performance-tuning) | Optimize Apple Notes automation performance for large note collections. Trigger: "apple notes per... | jeremylongshore |
 | [ara-compiler](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/22-agent-native-research-artifact/compiler) | Compiles any research input — PDF papers, GitHub repositories, experiment logs, code directories,... | zechenzhangAGI |
 | [ara-rigor-reviewer](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/22-agent-native-research-artifact/rigor-reviewer) | Performs ARA Seal Level 2 semantic epistemic review on Agent-Native Research Artifacts, scoring s... | zechenzhangAGI |
-| [architecture-paradigm-microkernel](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-microkernel) | Microkernel architecture with a minimal core and plugin-based extensibility for platforms. | athola |
-| [architecture-paradigm-pipeline](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-pipeline) | Design pipes-and-filters for sequential data transformations. | athola |
+| [architecture-paradigm-microkernel](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-microkernel) | Applies microkernel architecture with minimal core and plugin extensibility. Use when building pl... | athola |
+| [architecture-paradigm-pipeline](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-pipeline) | Applies pipes-and-filters for sequential data transformations. Use when data flows through discre... | athola |
+| [architecture-paradigm-service-based](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-service-based) | Applies coarse-grained service architecture for deployment independence. Use when independent dep... | athola |
+| [architecture-paradigm-space-based](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-space-based) | Applies data-grid architecture for high-traffic stateful workloads. Use when a single database ca... | athola |
 | [archiving-databases](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-archival-system/skills/archiving-databases) | Process use when you need to archive historical database records to reduce primary database size.... | jeremylongshore |
 | [archiving-databases](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/database/database-archival-system/skills/archiving-databases) | Process use when you need to archive historical database records to reduce primary database size.... | jeremylongshore |
 | [artillery-config-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/artillery-config-generator) | Generate artillery config generator operations. Auto-activating skill for Performance Testing. Tr... | jeremylongshore |
@@ -2858,6 +2859,7 @@
 | [commit](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/commit) | Create commit messages following Sentry conventions. Use when committing code changes, writing co... | davila7 |
 | [commit-message-formatter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/01-devops-basics/commit-message-formatter) | Manage commit message formatter operations. Auto-activating skill for DevOps Basics. Triggers on:... | jeremylongshore |
 | [commit-message-formatter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/commit-message-formatter) | Manage commit message formatter operations. Auto-activating skill for DevOps Basics. Triggers on:... | jeremylongshore |
+| [commit-messages](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/commit-messages) | Generates conventional commit messages from staged changes. Use when committing and needing a wel... | athola |
 | [comparing-database-schemas](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-diff-tool/skills/comparing-database-schemas) | Process use when you need to work with schema comparison. This skill provides database schema dif... | jeremylongshore |
 | [comparing-database-schemas](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/database/database-diff-tool/skills/comparing-database-schemas) | Process use when you need to work with schema comparison. This skill provides database schema dif... | jeremylongshore |
 | [competitor-alternatives](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/competitor-alternatives) | When the user wants to create competitor comparison or alternative pages for SEO and sales enable... | davila7 |
@@ -2886,7 +2888,7 @@
 | [cosmic-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/cosmic-database) | Access COSMIC cancer mutation database. Query somatic mutations, Cancer Gene Census, mutational s... | davila7 |
 | [cpp-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/cpp-pro) | Writes, optimizes, and debugs C++ applications using modern C++20/23 features, template metaprogr... | Jeffallan |
 | [cpp-pro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cpp-pro) | Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles ... | davila7 |
-| [cpu-gpu-performance](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/cpu-gpu-performance) | Establish CPU/GPU baselines before resource-intensive operations. | athola |
+| [cpu-gpu-performance](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/cpu-gpu-performance) | Establishes CPU/GPU baselines before resource-intensive operations. Use before builds, training r... | athola |
 | [cpu-profiler-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/cpu-profiler-config) | Configure cpu profiler config operations. Auto-activating skill for Performance Testing. Triggers... | jeremylongshore |
 | [cpu-profiler-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/cpu-profiler-config) | Configure cpu profiler config operations. Auto-activating skill for Performance Testing. Triggers... | jeremylongshore |
 | [cqrs-implementation](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/cqrs-implementation) | Implement Command Query Responsibility Segregation for scalable architectures. Use when separatin... | wshobson |
@@ -3181,7 +3183,7 @@
 | [gget](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/gget) | Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST ... | K-Dense-AI |
 | [gguf-quantization](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models... | davila7 |
 | [gguf-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models... | zechenzhangAGI |
-| [git-platform](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/git-platform) | Git platform detection and cross-platform command mapping for GitHub, GitLab, and Bitbucket. | athola |
+| [git-platform](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/git-platform) | Detects git forge (GitHub/GitLab/Bitbucket) and maps CLI commands cross-platform. Use when writin... | athola |
 | [github-contributor](https://github.com/daymade/claude-code-skills/tree/main/github-contributor) | End-to-end playbook for shipping high-quality pull requests to open-source projects you don't mai... | daymade |
 | [gitlab-ci-patterns](https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/gitlab-ci-patterns) | Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for sca... | wshobson |
 | [glean-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-debug-bundle) | Collect Glean diagnostic information for support including datasource config, indexing status, an... | jeremylongshore |
@@ -3297,6 +3299,7 @@
 | [klingai-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-reference-architecture) | Production reference architecture for Kling AI video generation platforms. Use when designing sca... | jeremylongshore |
 | [knowledge-distillation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-knowledge-distillation) | Compress large language models using knowledge distillation from teacher to student models. Use w... | davila7 |
 | [knowledge-distillation](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/knowledge-distillation) | Compress large language models using knowledge distillation from teacher to student models. Use w... | zechenzhangAGI |
+| [knowledge-locator](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/knowledge-locator) | Searches and navigates stored knowledge in memory palaces. Use when looking for previously stored... | athola |
 | [kubernetes-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kubernetes-specialist) | Use when deploying or managing Kubernetes workloads. Invoke to create deployment manifests, confi... | Jeffallan |
 | [lambda-labs-gpu-cloud](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedic... | davila7 |
 | [lambda-labs-gpu-cloud](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedic... | zechenzhangAGI |
@@ -3347,7 +3350,7 @@
 | [maintainx-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/maintainx-pack/skills/maintainx-deploy-integration) | Deploy MaintainX integrations to production environments. Use when deploying to cloud platforms, ... | jeremylongshore |
 | [maintainx-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/maintainx-pack/skills/maintainx-migration-deep-dive) | Execute complete platform migrations to or from MaintainX. Use when migrating from legacy CMMS sy... | jeremylongshore |
 | [maintainx-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/maintainx-pack/skills/maintainx-migration-deep-dive) | Execute complete platform migrations to or from MaintainX. Use when migrating from legacy CMMS sy... | jeremylongshore |
-| [makefile-generation](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/makefile-generation) | Generate Makefiles with testing, linting, formatting, and automation targets for new projects. | athola |
+| [makefile-generation](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/makefile-generation) | Generates Makefiles with testing, linting, formatting, and automation targets. Use when starting ... | athola |
 | [mamba-architecture](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-mamba) | State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token... | davila7 |
 | [mamba-architecture](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/mamba) | State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token... | zechenzhangAGI |
 | [managing-database-migrations](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-migration-manager/skills/managing-database-migrations) | Process use when you need to work with database migrations. This skill provides schema migration ... | jeremylongshore |
@@ -3364,7 +3367,7 @@
 | [managing-database-tests](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/database-test-manager/skills/managing-database-tests) | Test database testing including fixtures, transactions, and rollback management. Use when perform... | jeremylongshore |
 | [managing-test-environments](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/test-environment-manager/skills/managing-test-environments) | Test provision and manage isolated test environments with configuration and data. Use when perfor... | jeremylongshore |
 | [managing-test-environments](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/test-environment-manager/skills/managing-test-environments) | Test provision and manage isolated test environments with configuration and data. Use when perfor... | jeremylongshore |
-| [markdown-formatting](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/markdown-formatting) | Markdown formatting conventions for diff-friendly docs. | athola |
+| [markdown-formatting](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/markdown-formatting) | Enforces markdown line-wrap and structure rules for clean git diffs. Use when writing or editing ... | athola |
 | [market-research-reports](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/market-research-reports) | Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (... | K-Dense-AI |
 | [market-research-reports](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/market-research-reports) | Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (... | davila7 |
 | [marketplace-dev](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/marketplace-dev) | Converts any Claude Code skills repository into an official plugin marketplace. Analyzes existing... | daymade |
@@ -3492,6 +3495,7 @@
 | [palantir-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-local-dev-loop) | Configure Palantir Foundry local development with Python transforms and testing. Use when setting... | jeremylongshore |
 | [pandas-pro](https://github.com/Jeffallan/claude-skills/tree/main/skills/pandas-pro) | Performs pandas DataFrame operations for data analysis, manipulation, and transformation. Use whe... | Jeffallan |
 | [paper-2-web](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/paper-2-web) | This skill should be used when converting academic papers into promotional and presentation forma... | davila7 |
+| [papers](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/papers) | Searches academic literature via arXiv, Semantic Scholar, and open-access PDFs. Use when building... | athola |
 | [parallel-debugging](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-debugging) | Debug complex issues using competing hypotheses with parallel investigation, evidence collection,... | wshobson |
 | [parallel-web](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/parallel-web) | All-in-one web toolkit powered by parallel-cli, with a strong emphasis on academic and scientific... | K-Dense-AI |
 | [pathml](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/pathml) | Full-featured computational pathology toolkit. Use for advanced WSI analysis including multiplexe... | K-Dense-AI |
@@ -3523,7 +3527,7 @@
 | [performance-baseline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/performance-baseline-creator) | Create performance baseline creator operations. Auto-activating skill for Performance Testing. Tr... | jeremylongshore |
 | [performance-profiler](https://github.com/OneWave-AI/claude-skills/tree/main/performance-profiler) | Profile and optimize application performance including load times, memory usage, and rendering. U... | OneWave-AI |
 | [performance-profiling](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/performance-profiling) | Performance profiling principles. Measurement, analysis, and optimization techniques. | davila7 |
-| [performance-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/performance-review) | Detect time and space complexity hotspots via AST scan. | athola |
+| [performance-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/performance-review) | Detects time and space complexity hotspots via AST scan. Use when code feels slow, before perform... | athola |
 | [performing-regression-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/regression-analysis-tool/skills/performing-regression-analysis) | Execute this skill empowers AI assistant to perform regression analysis and modeling using the re... | jeremylongshore |
 | [performing-regression-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/regression-analysis-tool/skills/performing-regression-analysis) | Execute this skill empowers AI assistant to perform regression analysis and modeling using the re... | jeremylongshore |
 | [performing-security-audits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/packages/security-pro-pack/skills/performing-security-audits) | Analyze code, infrastructure, and configurations by conducting comprehensive security audits. It ... | jeremylongshore |
@@ -3562,7 +3566,7 @@
 | [posthog-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-performance-tuning) | Optimize PostHog performance: local flag evaluation, client batching config, event sampling, effi... | jeremylongshore |
 | [posthog-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-performance-tuning) | Optimize PostHog performance: local flag evaluation, client batching config, event sampling, effi... | jeremylongshore |
 | [ppt-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/ppt-creator) | Create professional slide decks from topics or documents. Generates structured content with data-... | daymade |
-| [precommit-setup](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/precommit-setup) | Configure pre-commit hooks for linting, type checking, formatting, and testing. | athola |
+| [precommit-setup](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/precommit-setup) | Configures pre-commit hooks for linting, type checking, formatting, and testing. Use when setting... | athola |
 | [preprocessing-data-with-automated-pipelines](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/data-preprocessing-pipeline/skills/preprocessing-data-with-automated-pipelines) | Process automate data cleaning, transformation, and validation for ML tasks. Use when requesting ... | jeremylongshore |
 | [preprocessing-data-with-automated-pipelines](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/data-preprocessing-pipeline/skills/preprocessing-data-with-automated-pipelines) | Process automate data cleaning, transformation, and validation for ML tasks. Use when requesting ... | jeremylongshore |
 | [prisma-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/prisma-expert) | Prisma ORM expert for schema design, migrations, query optimization, relations modeling, and data... | davila7 |
@@ -3573,8 +3577,8 @@
 | [production-code-audit](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/production-code-audit) | Autonomously deep-scan entire codebase line-by-line, understand architecture and patterns, then s... | davila7 |
 | [profiling-application-performance](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/application-profiler/skills/profiling-application-performance) | Execute this skill enables AI assistant to profile application performance, analyzing cpu usage, ... | jeremylongshore |
 | [profiling-application-performance](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/application-profiler/skills/profiling-application-performance) | Execute this skill enables AI assistant to profile application performance, analyzing cpu usage, ... | jeremylongshore |
-| [project-brainstorming](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/project-brainstorming) | Guide project ideation via Socratic questioning to generate project briefs. | athola |
-| [project-specification](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/project-specification) | Transform project briefs into testable specifications with user stories, acceptance criteria, and... | athola |
+| [project-brainstorming](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/project-brainstorming) | Guides project ideation via Socratic questioning to produce a validated brief. Use before specifi... | athola |
+| [project-specification](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/project-specification) | Transforms project briefs into testable specifications with user stories and acceptance criteria.... | athola |
 | [projection-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/projection-patterns) | Build read models and projections from event streams. Use when implementing CQRS read sides, buil... | wshobson |
 | [prompt-engineer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineer) | Expert in designing effective prompts for LLM-powered applications. Masters prompt structure, con... | davila7 |
 | [prompt-engineering-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-patterns) | Master advanced prompt engineering techniques to maximize LLM performance, reliability, and contr... | davila7 |
@@ -3592,7 +3596,7 @@
 | [pyspark-transformer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/11-data-pipelines/pyspark-transformer) | Transform pyspark transformer operations. Auto-activating skill for Data Pipelines. Triggers on: ... | jeremylongshore |
 | [pyspark-transformer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/pyspark-transformer) | Transform pyspark transformer operations. Auto-activating skill for Data Pipelines. Triggers on: ... | jeremylongshore |
 | [python-code-style](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-code-style) | Python code style, linting, formatting, naming conventions, and documentation standards. Use when... | wshobson |
-| [python-performance](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-performance) | Python performance profiling and optimization: bottleneck detection, memory tuning, benchmarking. | athola |
+| [python-performance](https://github.com/athola/claude-night-market/tree/master/plugins/parseltongue/skills/python-performance) | Profiles Python code for performance bottlenecks and memory issues. Use when Python code is slow ... | athola |
 | [python-performance-optimization](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-performance-optimization) | Profile and optimize Python code using cProfile, memory profilers, and performance best practices... | wshobson |
 | [python-tooling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/cli-power-skills/skills/python-tooling) | Use when managing Python packages, virtual environments, or linting and formatting Python code | jeremylongshore |
 | [python-tooling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/cli-power-skills/skills/python-tooling) | Use when managing Python packages, virtual environments, or linting and formatting Python code | jeremylongshore |
@@ -3728,7 +3732,6 @@
 | [security-ownership-map](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/security-ownership-map) | Analyze git repositories to build a security ownership topology (people-to-file), compute bus fac... | davila7 |
 | [security-threat-model](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/security-threat-model) | Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabiliti... | davila7 |
 | [segment-cdp](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/segment-cdp) | Expert patterns for Segment Customer Data Platform including Analytics.js, server-side tracking, ... | davila7 |
-| [sem-integration](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/sem-integration) | Foundation for sem (semantic diff CLI) integration: detection, install-on-first-use, output norma... | athola |
 | [senior-computer-vision](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-computer-vision) | World-class computer vision skill for image/video processing, object detection, segmentation, and... | davila7 |
 | [senior-data-scientist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-data-scientist) | World-class data science skill for statistical modeling, experimentation, causal inference, and a... | davila7 |
 | [senior-devops](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-devops) | Comprehensive DevOps skill for CI/CD, infrastructure automation, containerization, and cloud plat... | davila7 |
@@ -3768,7 +3771,6 @@
 | [skill-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-skill/skill-creator) | Create new skills, modify and improve existing skills, and measure skill performance. Use when us... | daymade |
 | [slack-message-formatter](https://github.com/OneWave-AI/claude-skills/tree/main/slack-message-formatter) | Convert long text into Slack-optimized format with emojis, bullets, code blocks, and threading su... | OneWave-AI |
 | [slo-implementation](https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/slo-implementation) | Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with err... | wshobson |
-| [smart-sourcing](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/smart-sourcing) | Select optimal information sources for tool calls and file reads, balancing accuracy with token e... | athola |
 | [SMTP Penetration Testing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/smtp-penetration-testing) | This skill should be used when the user asks to "perform SMTP penetration testing", "enumerate em... | davila7 |
 | [Snowflake Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/snowflake-automation) | Automate Snowflake data warehouse operations -- list databases, schemas, and tables, execute SQL ... | ComposioHQ |
 | [snowflake-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-advanced-troubleshooting) | Apply advanced Snowflake debugging with query profiling, spill analysis, lock contention, and per... | jeremylongshore |
@@ -3831,7 +3833,7 @@
 | [stormglass-io-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/stormglass-io-automation) | Automate Stormglass IO tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers ... | jeremylongshore |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers ... | jeremylongshore |
-| [structured-output](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/structured-output) | Format final review deliverables with consistent structure for comparable findings across reviews. | athola |
+| [structured-output](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/structured-output) | Formats review deliverables with consistent structure for comparable findings. Use when finalizin... | athola |
 | [supabase-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-advanced-troubleshooting) | Deep Supabase diagnostics: pg_stat_statements for slow queries, lock debugging with pg_locks, con... | jeremylongshore |
 | [supabase-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-advanced-troubleshooting) | Deep Supabase diagnostics: pg_stat_statements for slow queries, lock debugging with pg_locks, con... | jeremylongshore |
 | [supabase-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-ci-integration) | Configure Supabase CI/CD pipelines with GitHub Actions: link projects, push migrations, deploy Ed... | jeremylongshore |
@@ -3856,7 +3858,7 @@
 | [supabase-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-webhooks-events) | Implement Supabase database webhooks, pg_net async HTTP, LISTEN/NOTIFY, and Edge Function event h... | jeremylongshore |
 | [supabase-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-webhooks-events) | Implement Supabase database webhooks, pg_net async HTTP, LISTEN/NOTIFY, and Edge Function event h... | jeremylongshore |
 | [survey_monkey-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/survey_monkey-automation) | Automate SurveyMonkey tasks via Rube MCP (Composio): surveys, responses, collectors, and survey a... | ComposioHQ |
-| [synthesize](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/synthesize) | Merge, dedupe, rank, and format research findings into a report. | athola |
+| [synthesize](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/synthesize) | Merges, dedupes, ranks, and formats research findings into a report. Use after research agents re... | athola |
 | [tapform-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/tapform-automation) | Automate Tapform tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [team-communication-protocols](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-communication-protocols) | Structured messaging protocols for agent team communication including message type selection, pla... | wshobson |
 | [tech-due-diligence](https://github.com/OneWave-AI/claude-skills/tree/main/tech-due-diligence) | Technical due diligence for M&A, investment, or acquisition. Reads a target company's codebase an... | OneWave-AI |
@@ -3976,7 +3978,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*264 skills*
+*263 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4169,7 +4171,8 @@
 | [posthog-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-incident-runbook) | PostHog incident response: triage decision tree, immediate actions for 401/429/500 errors, gracef... | jeremylongshore |
 | [posthog-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-incident-runbook) | PostHog incident response: triage decision tree, immediate actions for 401/429/500 errors, gracef... | jeremylongshore |
 | [postmortem-writing](https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/postmortem-writing) | Write effective blameless postmortems with root cause analysis, timelines, and action items. Use ... | wshobson |
-| [pr-prep](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/pr-prep) | Prepare pull requests by running quality gates, drafting descriptions, and validating tests befor... | athola |
+| [pr-prep](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/pr-prep) | Prepares pull requests by running quality gates, drafting descriptions, and validating tests. Use... | athola |
+| [pr-review](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/pr-review) | Reviews pull requests with scope validation, requirements compliance, and line comments. Use when... | athola |
 | [processing-computer-vision-tasks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/computer-vision-processor/skills/processing-computer-vision-tasks) | Process images using object detection, classification, and segmentation. Use when requesting "ana... | jeremylongshore |
 | [processing-computer-vision-tasks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/computer-vision-processor/skills/processing-computer-vision-tasks) | Process images using object detection, classification, and segmentation. Use when requesting "ana... | jeremylongshore |
 | [prompt-enhancer](https://github.com/bear2u/my-skills/tree/master/skills/prompt-enhancer) | Enhance user prompts by analyzing project context (code structure, dependencies, conventions, exi... | bear2u |
@@ -4183,7 +4186,6 @@
 | [requesting-code-review](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) | Use when completing tasks, implementing major features, or before merging to verify work meets re... | obra |
 | [responding-to-security-incidents](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-incident-responder/skills/responding-to-security-incidents) | Analyze and guide security incident response, investigation, and remediation processes. Use when ... | jeremylongshore |
 | [responding-to-security-incidents](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/security-incident-responder/skills/responding-to-security-incidents) | Analyze and guide security incident response, investigation, and remediation processes. Use when ... | jeremylongshore |
-| [response-compression](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/response-compression) | Compress verbose responses by removing filler, hype, and unnecessary framing. Directness and term... | athola |
 | [running-clustering-algorithms](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/clustering-algorithm-runner/skills/running-clustering-algorithms) | Analyze datasets by running clustering algorithms (K-means, DBSCAN, hierarchical) to identify dat... | jeremylongshore |
 | [running-clustering-algorithms](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/clustering-algorithm-runner/skills/running-clustering-algorithms) | Analyze datasets by running clustering algorithms (K-means, DBSCAN, hierarchical) to identify dat... | jeremylongshore |
 | [salesforce-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/salesforce-pack/skills/salesforce-data-handling) | Implement Salesforce data privacy, GDPR/CCPA compliance, and field-level encryption patterns. Use... | jeremylongshore |
@@ -4211,7 +4213,6 @@
 | [subtitles](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/subtitles) | Use when subtitles or the spoken text of a YouTube video is needed: pasted video links or IDs, re... | ZeroPointRepo |
 | [supabase-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-incident-runbook) | Execute Supabase incident response: dashboard health checks, connection pool status, pg_stat_acti... | jeremylongshore |
 | [supabase-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-incident-runbook) | Execute Supabase incident response: dashboard health checks, connection pool status, pg_stat_acti... | jeremylongshore |
-| [supply-chain-advisory](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/supply-chain-advisory) | Supply chain security: bad-version detection, incident response, lockfile audit, artifact scan. | athola |
 | [SurveyMonkey Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/survey-monkey-automation) | Automate SurveyMonkey survey creation, response collection, collector management, and survey disc... | ComposioHQ |
 | [test-fixing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/test-fixing) | Run tests and systematically fix all failing tests using smart error grouping. Use when user asks... | davila7 |
 | [transcript](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/transcript) | Use when the spoken content of a YouTube video is needed — even if not explicitly requested: past... | ZeroPointRepo |
@@ -4247,7 +4248,7 @@
 
 <a name="web-frameworks"></a>
 ## Web Frameworks
-*171 skills*
+*173 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4262,6 +4263,7 @@
 | [anth-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-security-basics) | Apply Anthropic Claude API security best practices for key management, input validation, and prom... | jeremylongshore |
 | [arboreto](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/scientific-skills/arboreto) | Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoo... | K-Dense-AI |
 | [arboreto](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/arboreto) | Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoo... | davila7 |
+| [architecture-paradigm-client-server](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-client-server) | Applies client-server architecture for web/mobile apps. Use when designing systems with centraliz... | athola |
 | [architecture-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/architecture-patterns) | Master proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,... | davila7 |
 | [attio-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/attio-pack/skills/attio-local-dev-loop) | Set up a fast local development loop for Attio integrations with hot reload, mock server, and int... | jeremylongshore |
 | [attio-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/attio-pack/skills/attio-local-dev-loop) | Set up a fast local development loop for Attio integrations with hot reload, mock server, and int... | jeremylongshore |
@@ -4342,7 +4344,7 @@
 | [loki-mode](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/loki-mode) | Multi-agent autonomous startup system for Claude Code. Triggers on "Loki Mode". Orchestrates 100+... | davila7 |
 | [MCP Integration](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/mcp-integration) | This skill should be used when the user asks to "add MCP server", "integrate MCP", "configure MCP... | anthropics |
 | [MCP Integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/mcp-integration) | This skill should be used when the user asks to "add MCP server", "integrate MCP", "configure MCP... | davila7 |
-| [mcp-code-execution](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/mcp-code-execution) | Optimize multi-tool workflows via MCP server integration for large datasets and pipelines. | athola |
+| [mcp-code-execution](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/mcp-code-execution) | Routes multi-tool workflows through MCP servers for large datasets and pipelines. Use when Bash t... | athola |
 | [mcp-integration](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/mcp-integration) | This skill should be used when the user asks to "add MCP server", "integrate MCP", "configure MCP... | anthropics |
 | [n8n-expression-syntax](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-expression-syntax) | Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using &#123;&#123;}... | czlonkowski |
 | [n8n-expression-syntax](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/n8n/n8n-expression-syntax) | Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using &#123;&#123;}... | davila7 |
@@ -4422,10 +4424,11 @@
 | [windsurf-mcp-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-mcp-integration) | Manage integrate MCP servers with Windsurf for extended capabilities. Activate when users mention... | jeremylongshore |
 | [windsurf-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-sdk-patterns) | Apply production-ready Windsurf workspace configuration and Cascade interaction patterns. Use whe... | jeremylongshore |
 | [windsurf-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-sdk-patterns) | Apply production-ready Windsurf workspace configuration and Cascade interaction patterns. Use whe... | jeremylongshore |
+| [writing-rules](https://github.com/athola/claude-night-market/tree/master/plugins/hookify/skills/writing-rules) | Creates behavioral rules in markdown to block dangerous commands or restrict AI behavior. Use whe... | athola |
 
 <a name="authentication"></a>
 ## Authentication
-*21 skills*
+*22 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4449,6 +4452,7 @@
 | [oraclecloud-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-data-handling) | Manage OCI Object Storage — buckets, uploads, PARs, and lifecycle policies. Use when uploading ob... | jeremylongshore |
 | [oraclecloud-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-data-handling) | Manage OCI Object Storage — buckets, uploads, PARs, and lifecycle policies. Use when uploading ob... | jeremylongshore |
 | [post-game-press-conference-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/post-game-press-conference-simulator) | Generate realistic coach/player interview responses for wins, losses, controversies, injuries. Au... | OneWave-AI |
+| [response-compression](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/response-compression) | Compresses verbose responses by removing filler and framing to save 200-400 tokens. Use when resp... | athola |
 | [session-handoff](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/session-handoff) | Creates comprehensive handoff documents for seamless AI agent session transfers. Triggered when: ... | davila7 |
 
 <a name="message-queues"></a>
@@ -4485,7 +4489,7 @@
 | [adobe-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/adobe-pack/skills/adobe-architecture-variants) | Choose and implement Adobe architecture blueprints: standalone SDK integration, Adobe App Builder... | jeremylongshore |
 | [apollo-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-webhooks-events) | Implement Apollo.io webhook and event-driven integrations. Use when receiving Apollo notification... | jeremylongshore |
 | [apollo-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-webhooks-events) | Implement Apollo.io webhook and event-driven integrations. Use when receiving Apollo notification... | jeremylongshore |
-| [architecture-paradigm-serverless](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-serverless) | Apply serverless FaaS patterns for event-driven workloads with minimal infrastructure. | athola |
+| [architecture-paradigm-serverless](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-serverless) | Applies serverless FaaS patterns for event-driven workloads. Use when designing bursty workloads ... | athola |
 | [architecture-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/architecture-patterns) | Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architectu... | wshobson |
 | [azure-functions](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/azure-functions) | Expert patterns for Azure Functions development including isolated worker model, Durable Function... | davila7 |
 | [gcp-cloud-run](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/gcp-cloud-run) | Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run ... | davila7 |
