@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4443 skills in this domain*
+*4444 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2638 skills
-- [Database Design](#database-design) - 1304 skills
+- [Database Design](#database-design) - 1305 skills
 - [Request Handling](#request-handling) - 263 skills
 - [Web Frameworks](#web-frameworks) - 172 skills
 - [Authentication](#authentication) - 22 skills
@@ -2667,7 +2667,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1304 skills*
+*1305 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3416,6 +3416,7 @@
 | [Network 101](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/network-101) | This skill should be used when the user asks to "set up a web server", "configure HTTP or HTTPS",... | davila7 |
 | [network-latency-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/network-latency-tester) | Test network latency tester operations. Auto-activating skill for Performance Testing. Triggers o... | jeremylongshore |
 | [network-latency-tester](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/network-latency-tester) | Test network latency tester operations. Auto-activating skill for Performance Testing. Triggers o... | jeremylongshore |
+| [nextflow](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/nextflow) | Build, run, and debug Nextflow data pipelines and nf-core workflows end to end. Use whenever the ... | K-Dense-AI |
 | [nmap](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/nmap) | Professional network reconnaissance and port scanning using nmap. Supports various scan types (qu... | BrownFineSecurity |
 | [nosql-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nosql-expert) | Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, ... | davila7 |
 | [notion-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/notion-pack/skills/notion-architecture-variants) | Different Notion integration architectures: CMS (headless blog), task tracker (project management... | jeremylongshore |

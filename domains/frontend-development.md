@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*549 skills in this domain*
+*550 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -318,6 +318,7 @@
 | [palantir-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-reference-architecture) | Implement Palantir Foundry reference architecture with best-practice project layout. Use when des... | jeremylongshore |
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Onto... | jeremylongshore |
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Onto... | jeremylongshore |
+| [pathway-enrichment](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pathway-enrichment) | Run pathway and gene-set enrichment analysis on gene lists or ranked gene data, then interpret th... | K-Dense-AI |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
 | [perplexity-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-architecture-variants) | Choose and implement Perplexity architecture blueprints for different scales: direct search widge... | jeremylongshore |

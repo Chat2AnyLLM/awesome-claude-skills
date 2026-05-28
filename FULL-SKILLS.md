@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4443 skills
+- [Backend Development](#backend-development) - 4444 skills
   - [APIs & REST](#apis-and-rest) - 2638 skills
-  - [Database Design](#database-design) - 1304 skills
+  - [Database Design](#database-design) - 1305 skills
   - [Request Handling](#request-handling) - 263 skills
   - [Web Frameworks](#web-frameworks) - 172 skills
   - [Authentication](#authentication) - 22 skills
@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 736 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
-- [Frontend Development](#frontend-development) - 549 skills
+- [Frontend Development](#frontend-development) - 550 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 544 skills
 - [Testing & Quality](#testing-and-quality) - 345 skills
 - [Machine Learning](#machine-learning) - 327 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4443 skills in this domain*
+*4444 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2695,7 +2695,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1304 skills*
+*1305 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3444,6 +3444,7 @@
 | [Network 101](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/network-101) | This skill should be used when the user asks to "set up a web server", "configure HTTP or HTTPS", "perform SNMP enume... | davila7 |
 | [network-latency-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/network-latency-tester) | Test network latency tester operations. Auto-activating skill for Performance Testing. Triggers on: network latency t... | jeremylongshore |
 | [network-latency-tester](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/network-latency-tester) | Test network latency tester operations. Auto-activating skill for Performance Testing. Triggers on: network latency t... | jeremylongshore |
+| [nextflow](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/nextflow) | Build, run, and debug Nextflow data pipelines and nf-core workflows end to end. Use whenever the user mentions Nextfl... | K-Dense-AI |
 | [nmap](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/nmap) | Professional network reconnaissance and port scanning using nmap. Supports various scan types (quick, full, UDP, stea... | BrownFineSecurity |
 | [nosql-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nosql-expert) | Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling... | davila7 |
 | [notion-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/notion-pack/skills/notion-architecture-variants) | Different Notion integration architectures: CMS (headless blog), task tracker (project management), knowledge base (w... | jeremylongshore |
@@ -7662,7 +7663,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*549 skills in this domain*
+*550 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7973,6 +7974,7 @@
 | [palantir-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-reference-architecture) | Implement Palantir Foundry reference architecture with best-practice project layout. Use when designing new Foundry i... | jeremylongshore |
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Ontology object changes,... | jeremylongshore |
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Ontology object changes,... | jeremylongshore |
+| [pathway-enrichment](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pathway-enrichment) | Run pathway and gene-set enrichment analysis on gene lists or ranked gene data, then interpret the results. Use whene... | K-Dense-AI |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. Triggers on: perform... | jeremylongshore |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. Triggers on: perform... | jeremylongshore |
 | [perplexity-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-architecture-variants) | Choose and implement Perplexity architecture blueprints for different scales: direct search widget, cached research l... | jeremylongshore |
