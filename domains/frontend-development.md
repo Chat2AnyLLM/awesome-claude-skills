@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*548 skills in this domain*
+*549 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -29,6 +29,7 @@
 | [algolia-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/algolia-search) | Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and ... | davila7 |
 | [algolia-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/algolia-pack/skills/algolia-security-basics) | Apply Algolia security best practices: API key scoping, secured API keys, frontend vs backend key... | jeremylongshore |
 | [algolia-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/algolia-pack/skills/algolia-security-basics) | Apply Algolia security best practices: API key scoping, secured API keys, frontend vs backend key... | jeremylongshore |
+| [alpha-insights](https://github.com/Ericyoung-183/alpha-insights/tree/main) | Business Analyst Skill. Triggered when users ask about business analysis, industry research, comp... | Ericyoung-183 |
 | [anchor-browser-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/anchor-browser-automation) | Automate Anchor Browser tasks via Rube MCP (Composio). Always search tools first for current sche... | ComposioHQ |
 | [android-cicd](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/android-cicd) | Automated Android CI/CD pipeline to Google Play — supports TWA, React Native, Flutter, and native... | davila7 |
 | [angular](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/angular) | Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless appl... | davila7 |

@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 736 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
-- [Frontend Development](#frontend-development) - 548 skills
+- [Frontend Development](#frontend-development) - 549 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 544 skills
 - [Testing & Quality](#testing-and-quality) - 345 skills
 - [Machine Learning](#machine-learning) - 327 skills
@@ -7662,7 +7662,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*548 skills in this domain*
+*549 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7684,6 +7684,7 @@
 | [algolia-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/algolia-search) | Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use... | davila7 |
 | [algolia-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/algolia-pack/skills/algolia-security-basics) | Apply Algolia security best practices: API key scoping, secured API keys, frontend vs backend key separation, and key... | jeremylongshore |
 | [algolia-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/algolia-pack/skills/algolia-security-basics) | Apply Algolia security best practices: API key scoping, secured API keys, frontend vs backend key separation, and key... | jeremylongshore |
+| [alpha-insights](https://github.com/Ericyoung-183/alpha-insights/tree/main) | Business Analyst Skill. Triggered when users ask about business analysis, industry research, competitive analysis, pr... | Ericyoung-183 |
 | [anchor-browser-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/anchor-browser-automation) | Automate Anchor Browser tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [android-cicd](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/android-cicd) | Automated Android CI/CD pipeline to Google Play — supports TWA, React Native, Flutter, and native Android. Run npx an... | davila7 |
 | [angular](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/angular) | Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydrat... | davila7 |
