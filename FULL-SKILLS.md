@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4445 skills
+- [Backend Development](#backend-development) - 4446 skills
   - [APIs & REST](#apis-and-rest) - 2638 skills
-  - [Database Design](#database-design) - 1305 skills
+  - [Database Design](#database-design) - 1306 skills
   - [Request Handling](#request-handling) - 263 skills
   - [Web Frameworks](#web-frameworks) - 173 skills
   - [Authentication](#authentication) - 22 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4445 skills in this domain*
+*4446 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2695,7 +2695,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1305 skills*
+*1306 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3544,6 +3544,7 @@
 | [pdf](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf) | Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables... | davila7 |
 | [pdf](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents... | mrgoonie |
 | [PDF Processing Pro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-processing-pro) | Production-ready PDF processing with forms, tables, OCR, validation, and batch operations. Use when working with comp... | davila7 |
+| [pdf-fill-studio](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-fill-studio) | Fill any PDF locally and place each value precisely in a visual editor. Use when the user wants to fill out a PDF for... | davila7 |
 | [pdf-official](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-official) | Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables... | davila7 |
 | [peer-review](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/peer-review) | Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specifi... | K-Dense-AI |
 | [peft-fine-tuning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-peft) | Parameter-efficient fine-tuning for LLMs using LoRA, QLoRA, and 25+ methods. Use when fine-tuning large models (7B-70... | davila7 |
