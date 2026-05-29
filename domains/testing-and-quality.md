@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*345 skills in this domain*
+*346 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -328,6 +328,7 @@
 | [unified-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/unified-review) | Orchestrates multi-domain review (code, arch, tests, security) in a single pass. Use when compreh... | athola |
 | [unittest-test-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/09-test-automation/unittest-test-creator) | Create unittest test creator operations. Auto-activating skill for Test Automation. Triggers on: ... | jeremylongshore |
 | [unittest-test-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/unittest-test-creator) | Create unittest test creator operations. Auto-activating skill for Test Automation. Triggers on: ... | jeremylongshore |
+| [validate-mr](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/validate-mr) | Use when you need a diff-derived test plan for an MR — reads the diff, groups changes by area, ru... | athola |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/validate-plugin/skills/validate-plugin) | Validate a Claude Code plugin directory against the official Anthropic spec and Intent Solutions ... | jeremylongshore |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/validate-plugin/skills/validate-plugin) | Validate a Claude Code plugin directory against the official Anthropic spec and Intent Solutions ... | jeremylongshore |
 | [vastai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-hello-world) | Rent your first GPU instance on Vast.ai and run a workload. Use when starting a new Vast.ai integ... | jeremylongshore |

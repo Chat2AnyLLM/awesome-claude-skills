@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*544 skills in this domain*
+*546 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -330,6 +330,7 @@
 | [meeting-to-tasks](https://github.com/OneWave-AI/claude-skills/tree/main/meeting-to-tasks) | Takes meeting transcripts, extracts action items with owners and deadlines, detects implicit comm... | OneWave-AI |
 | [memory](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/claude-never-forgets/skills/memory) | Execute extract and use project memories from previous sessions for context-aware assistance. Use... | jeremylongshore |
 | [memory](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/claude-never-forgets/skills/memory) | Execute extract and use project memories from previous sessions for context-aware assistance. Use... | jeremylongshore |
+| [memory-clarity-probe](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/memory-clarity-probe) | Probe memory/summary clarity via dual anchor questions: task progress, info gaps. Use when verify... | athola |
 | [memory-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/memory-search) | Search conversation history and semantic memory to recall previous discussions, decisions, and co... | davila7 |
 | [microservices-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/microservices-architect) | Designs distributed system architectures, decomposes monoliths into bounded-context services, rec... | Jeffallan |
 | [mindtickle-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-prod-checklist) | Prod Checklist for MindTickle. Trigger: "mindtickle prod checklist". | jeremylongshore |
@@ -367,6 +368,7 @@
 | [openrouter-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-prod-checklist) | Validate production readiness of your OpenRouter integration. Use before launching to production ... | jeremylongshore |
 | [openrouter-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-prod-checklist) | Validate production readiness of your OpenRouter integration. Use before launching to production ... | jeremylongshore |
 | [owl-protocol-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/owl-protocol-automation) | Automate Owl Protocol tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [palace-index-curator](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/palace-index-curator) | Curate the web-capture index. Use when the capture backlog grows, captures sit unprocessed at see... | athola |
 | [palantir-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-enterprise-rbac) | Configure Palantir Foundry enterprise access control with project roles, markings, and service us... | jeremylongshore |
 | [palantir-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-enterprise-rbac) | Configure Palantir Foundry enterprise access control with project roles, markings, and service us... | jeremylongshore |
 | [pave-contribute](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/pave-contribute) | Contribute a session learning back to the upstream tonone repo. Scans the conversation, extracts ... | jeremylongshore |

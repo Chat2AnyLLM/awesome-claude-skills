@@ -30,8 +30,8 @@
 - [AI & LLM](#ai-and-llm) - 736 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Frontend Development](#frontend-development) - 550 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 544 skills
-- [Testing & Quality](#testing-and-quality) - 345 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 546 skills
+- [Testing & Quality](#testing-and-quality) - 346 skills
 - [Machine Learning](#machine-learning) - 327 skills
   - [Model Training](#model-training) - 205 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
@@ -8222,7 +8222,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*544 skills in this domain*
+*546 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8545,6 +8545,7 @@
 | [meeting-to-tasks](https://github.com/OneWave-AI/claude-skills/tree/main/meeting-to-tasks) | Takes meeting transcripts, extracts action items with owners and deadlines, detects implicit commitments, generates s... | OneWave-AI |
 | [memory](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/claude-never-forgets/skills/memory) | Execute extract and use project memories from previous sessions for context-aware assistance. Use when recalling past... | jeremylongshore |
 | [memory](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/claude-never-forgets/skills/memory) | Execute extract and use project memories from previous sessions for context-aware assistance. Use when recalling past... | jeremylongshore |
+| [memory-clarity-probe](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/memory-clarity-probe) | Probe memory/summary clarity via dual anchor questions: task progress, info gaps. Use when verifying session state or... | athola |
 | [memory-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/memory-search) | Search conversation history and semantic memory to recall previous discussions, decisions, and context. Use when the ... | davila7 |
 | [microservices-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/microservices-architect) | Designs distributed system architectures, decomposes monoliths into bounded-context services, recommends communicatio... | Jeffallan |
 | [mindtickle-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-prod-checklist) | Prod Checklist for MindTickle. Trigger: "mindtickle prod checklist". | jeremylongshore |
@@ -8582,6 +8583,7 @@
 | [openrouter-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-prod-checklist) | Validate production readiness of your OpenRouter integration. Use before launching to production or during operationa... | jeremylongshore |
 | [openrouter-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-prod-checklist) | Validate production readiness of your OpenRouter integration. Use before launching to production or during operationa... | jeremylongshore |
 | [owl-protocol-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/owl-protocol-automation) | Automate Owl Protocol tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [palace-index-curator](https://github.com/athola/claude-night-market/tree/master/plugins/memory-palace/skills/palace-index-curator) | Curate the web-capture index. Use when the capture backlog grows, captures sit unprocessed at seedling/pending, or to... | athola |
 | [palantir-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-enterprise-rbac) | Configure Palantir Foundry enterprise access control with project roles, markings, and service users. Use when implem... | jeremylongshore |
 | [palantir-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-enterprise-rbac) | Configure Palantir Foundry enterprise access control with project roles, markings, and service users. Use when implem... | jeremylongshore |
 | [pave-contribute](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/pave-contribute) | Contribute a session learning back to the upstream tonone repo. Scans the conversation, extracts the single most reus... | jeremylongshore |
@@ -8774,7 +8776,7 @@
 <a name="testing-and-quality"></a>
 # Testing & Quality
 
-*345 skills in this domain*
+*346 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9095,6 +9097,7 @@
 | [unified-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/unified-review) | Orchestrates multi-domain review (code, arch, tests, security) in a single pass. Use when comprehensive pre-release r... | athola |
 | [unittest-test-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/09-test-automation/unittest-test-creator) | Create unittest test creator operations. Auto-activating skill for Test Automation. Triggers on: unittest test creato... | jeremylongshore |
 | [unittest-test-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/unittest-test-creator) | Create unittest test creator operations. Auto-activating skill for Test Automation. Triggers on: unittest test creato... | jeremylongshore |
+| [validate-mr](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/validate-mr) | Use when you need a diff-derived test plan for an MR — reads the diff, groups changes by area, runs targeted verifica... | athola |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/validate-plugin/skills/validate-plugin) | Validate a Claude Code plugin directory against the official Anthropic spec and Intent Solutions enterprise standard.... | jeremylongshore |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/validate-plugin/skills/validate-plugin) | Validate a Claude Code plugin directory against the official Anthropic spec and Intent Solutions enterprise standard.... | jeremylongshore |
 | [vastai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-hello-world) | Rent your first GPU instance on Vast.ai and run a workload. Use when starting a new Vast.ai integration, testing your... | jeremylongshore |
