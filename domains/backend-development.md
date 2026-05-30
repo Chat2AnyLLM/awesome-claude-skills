@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4452 skills in this domain*
+*4453 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2642 skills
+- [APIs & REST](#apis-rest) - 2643 skills
 - [Database Design](#database-design) - 1308 skills
 - [Request Handling](#request-handling) - 263 skills
 - [Web Frameworks](#web-frameworks) - 173 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2642 skills*
+*2643 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -398,6 +398,7 @@
 | [benchling-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/benchling-integration) | Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, work... | K-Dense-AI |
 | [benchling-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/benchling-integration) | Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, work... | davila7 |
 | [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp/tree/main/skills/bgpt-mcp) | How to use BGPT MCP to search scientific papers and retrieve structured experimental data includi... | connerlambden |
+| [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | Pull Bigdata.com (RavenPack) financial and news data through the official `bigdata-client` SDK an... | daymade |
 | [biopython](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/biopython) | Primary Python toolkit for molecular biology. Preferred for Python-based PubMed/NCBI queries (Bio... | davila7 |
 | [brightdata-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-cost-tuning) | Optimize Bright Data costs through tier selection, sampling, and usage monitoring. Use when analy... | jeremylongshore |
 | [brightdata-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-cost-tuning) | Optimize Bright Data costs through tier selection, sampling, and usage monitoring. Use when analy... | jeremylongshore |

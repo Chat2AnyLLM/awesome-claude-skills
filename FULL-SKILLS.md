@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4452 skills
-  - [APIs & REST](#apis-and-rest) - 2642 skills
+- [Backend Development](#backend-development) - 4453 skills
+  - [APIs & REST](#apis-and-rest) - 2643 skills
   - [Database Design](#database-design) - 1308 skills
   - [Request Handling](#request-handling) - 263 skills
   - [Web Frameworks](#web-frameworks) - 173 skills
@@ -32,8 +32,8 @@
 - [Frontend Development](#frontend-development) - 554 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 546 skills
 - [Testing & Quality](#testing-and-quality) - 346 skills
-- [Machine Learning](#machine-learning) - 327 skills
-  - [Model Training](#model-training) - 205 skills
+- [Machine Learning](#machine-learning) - 328 skills
+  - [Model Training](#model-training) - 206 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
   - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4452 skills in this domain*
+*4453 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2642 skills*
+*2643 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -426,6 +426,7 @@
 | [benchling-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/benchling-integration) | Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling App... | K-Dense-AI |
 | [benchling-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/benchling-integration) | Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, workflows via API, build... | davila7 |
 | [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp/tree/main/skills/bgpt-mcp) | How to use BGPT MCP to search scientific papers and retrieve structured experimental data including methods, results,... | connerlambden |
+| [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | Pull Bigdata.com (RavenPack) financial and news data through the official `bigdata-client` SDK and its public `/v1/*`... | daymade |
 | [biopython](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/biopython) | Primary Python toolkit for molecular biology. Preferred for Python-based PubMed/NCBI queries (Bio.Entrez), sequence m... | davila7 |
 | [brightdata-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-cost-tuning) | Optimize Bright Data costs through tier selection, sampling, and usage monitoring. Use when analyzing Bright Data bil... | jeremylongshore |
 | [brightdata-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-cost-tuning) | Optimize Bright Data costs through tier selection, sampling, and usage monitoring. Use when analyzing Bright Data bil... | jeremylongshore |
@@ -9141,17 +9142,18 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*327 skills in this domain*
+*328 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
-*205 skills*
+*206 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [apktool](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/apktool) | Android APK unpacking and resource extraction tool for reverse engineering. Use when you need to decode APK files, ex... | BrownFineSecurity |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgrading the assemblyai ... | jeremylongshore |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgrading the assemblyai ... | jeremylongshore |
+| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | Adversarial due-diligence on a benchmark you envy — a founder, KOL, company, or product whose claimed success you sus... | daymade |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, classifying, redacting,... | jeremylongshore |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, classifying, redacting,... | jeremylongshore |
 | [ceo-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ceo-advisor) | Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. ... | davila7 |

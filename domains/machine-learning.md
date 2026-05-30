@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*327 skills in this domain*
+*328 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 205 skills
+- [Model Training](#model-training) - 206 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
@@ -19,13 +19,14 @@
 
 <a name="model-training"></a>
 ## Model Training
-*205 skills*
+*206 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [apktool](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/apktool) | Android APK unpacking and resource extraction tool for reverse engineering. Use when you need to ... | BrownFineSecurity |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgra... | jeremylongshore |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgra... | jeremylongshore |
+| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | Adversarial due-diligence on a benchmark you envy — a founder, KOL, company, or product whose cla... | daymade |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, cla... | jeremylongshore |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, cla... | jeremylongshore |
 | [ceo-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ceo-advisor) | Executive leadership guidance for strategic decision-making, organizational development, and stak... | davila7 |
