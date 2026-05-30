@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4450 skills
+- [Backend Development](#backend-development) - 4452 skills
   - [APIs & REST](#apis-and-rest) - 2642 skills
-  - [Database Design](#database-design) - 1306 skills
+  - [Database Design](#database-design) - 1308 skills
   - [Request Handling](#request-handling) - 263 skills
   - [Web Frameworks](#web-frameworks) - 173 skills
   - [Authentication](#authentication) - 22 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4450 skills in this domain*
+*4452 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2699,7 +2699,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1306 skills*
+*1308 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3003,6 +3003,8 @@
 | [detecting-data-anomalies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/anomaly-detection-system/skills/detecting-data-anomalies) | Process identify anomalies and outliers in datasets using machine learning algorithms. Use when analyzing data for un... | jeremylongshore |
 | [detecting-database-deadlocks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/database-deadlock-detector/skills/detecting-database-deadlocks) | Process use when you need to work with deadlock detection. This skill provides deadlock detection and resolution with... | jeremylongshore |
 | [detecting-database-deadlocks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/database/database-deadlock-detector/skills/detecting-database-deadlocks) | Process use when you need to work with deadlock detection. This skill provides deadlock detection and resolution with... | jeremylongshore |
+| [detecting-exposed-secrets-files](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-exposed-secrets-files) | Probe a target for accidentally-served secret-bearing files in the web root — `.git/`, `.env`, `.DS_Store`, backup fi... | jeremylongshore |
+| [detecting-exposed-secrets-files](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-exposed-secrets-files) | Probe a target for accidentally-served secret-bearing files in the web root — `.git/`, `.env`, `.DS_Store`, backup fi... | jeremylongshore |
 | [detecting-infrastructure-drift](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/infrastructure-drift-detector/skills/detecting-infrastructure-drift) | Execute use when detecting infrastructure drift from desired state. Trigger with phrases like "check for drift", "inf... | jeremylongshore |
 | [detecting-infrastructure-drift](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/infrastructure-drift-detector/skills/detecting-infrastructure-drift) | Execute use when detecting infrastructure drift from desired state. Trigger with phrases like "check for drift", "inf... | jeremylongshore |
 | [detecting-memory-leaks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/memory-leak-detector/skills/detecting-memory-leaks) | Detect potential memory leaks and analyze memory usage patterns in code. Use when troubleshooting performance issues ... | jeremylongshore |
