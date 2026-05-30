@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 736 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
-- [Frontend Development](#frontend-development) - 554 skills
+- [Frontend Development](#frontend-development) - 556 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 546 skills
 - [Testing & Quality](#testing-and-quality) - 346 skills
 - [Machine Learning](#machine-learning) - 328 skills
@@ -7672,7 +7672,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*554 skills in this domain*
+*556 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7832,6 +7832,8 @@
 | [design-system-patterns](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/design-system-patterns) | Build scalable design systems with design tokens, theming infrastructure, and component architecture patterns. Use wh... | wshobson |
 | [design-system-starter](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/design-system-starter) | Create and evolve design systems with design tokens, component architecture, accessibility guidelines, and documentat... | davila7 |
 | [design-to-code](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/design-to-code) | Pixel-perfect Figma to React conversion using coderio. Generates production-ready code (TypeScript, Vite, TailwindCSS... | davila7 |
+| [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actuator, Apache server-... | jeremylongshore |
+| [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actuator, Apache server-... | jeremylongshore |
 | [develop-web-game](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/develop-web-game) | Use when Codex is building or iterating on a web game (HTML/JS) and needs a reliable development + testing loop: impl... | davila7 |
 | [discord-bot-architect](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/discord-bot-architect) | Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gat... | davila7 |
 | [doc](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/doc) | Use when the task involves reading, creating, or editing `.docx` documents, especially when formatting or layout fide... | davila7 |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*554 skills in this domain*
+*556 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -167,6 +167,8 @@
 | [design-system-patterns](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/design-system-patterns) | Build scalable design systems with design tokens, theming infrastructure, and component architect... | wshobson |
 | [design-system-starter](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/design-system-starter) | Create and evolve design systems with design tokens, component architecture, accessibility guidel... | davila7 |
 | [design-to-code](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/design-to-code) | Pixel-perfect Figma to React conversion using coderio. Generates production-ready code (TypeScrip... | davila7 |
+| [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actu... | jeremylongshore |
+| [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actu... | jeremylongshore |
 | [develop-web-game](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/develop-web-game) | Use when Codex is building or iterating on a web game (HTML/JS) and needs a reliable development ... | davila7 |
 | [discord-bot-architect](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/discord-bot-architect) | Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and ... | davila7 |
 | [doc](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/doc) | Use when the task involves reading, creating, or editing `.docx` documents, especially when forma... | davila7 |
