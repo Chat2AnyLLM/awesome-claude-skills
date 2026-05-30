@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4446 skills in this domain*
+*4450 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2638 skills
+- [APIs & REST](#apis-rest) - 2642 skills
 - [Database Design](#database-design) - 1306 skills
 - [Request Handling](#request-handling) - 263 skills
 - [Web Frameworks](#web-frameworks) - 173 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2638 skills*
+*2642 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -748,6 +748,8 @@
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 ... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 ... | jeremylongshore |
 | [designing-apis](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis) | Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation.... | CloudAI-X |
+| [detecting-ssl-cert-issues](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-ssl-cert-issues) | Audit a target's TLS certificate beyond protocol/expiry — chain ordering, OCSP stapling, revocati... | jeremylongshore |
+| [detecting-ssl-cert-issues](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-ssl-cert-issues) | Audit a target's TLS certificate beyond protocol/expiry — chain ordering, OCSP stapling, revocati... | jeremylongshore |
 | [dictionary-api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/dictionary-api-automation) | Automate Dictionary API tasks via Rube MCP (Composio). Always search tools first for current sche... | ComposioHQ |
 | [docs-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/docs-search) | Search auto-generated codebase documentation for function signatures, API docs, class definitions... | davila7 |
 | [doctor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/promptbook/skills/doctor) | Diagnose Promptbook setup — check config, hooks, API key, and session tracking health. Use when P... | jeremylongshore |
@@ -1912,6 +1914,8 @@
 | [posthog-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-upgrade-migration) | Upgrade posthog-js and posthog-node SDKs with breaking change detection. Covers v4 to v5 posthog-... | jeremylongshore |
 | [posthog-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-webhooks-events) | Implement PostHog webhook destinations, Action-triggered notifications, and event querying via th... | jeremylongshore |
 | [posthog-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-webhooks-events) | Implement PostHog webhook destinations, Action-triggered notifications, and event querying via th... | jeremylongshore |
+| [probing-dangerous-http-methods](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/probing-dangerous-http-methods) | Probe a target for HTTP methods that should not be enabled in production — TRACE (XST attack), un... | jeremylongshore |
+| [probing-dangerous-http-methods](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/probing-dangerous-http-methods) | Probe a target for HTTP methods that should not be enabled in production — TRACE (XST attack), un... | jeremylongshore |
 | [processing-api-batches](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-batch-processor/skills/processing-api-batches) | Optimize bulk API requests with batching, throttling, and parallel execution. Use when processing... | jeremylongshore |
 | [processing-api-batches](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-batch-processor/skills/processing-api-batches) | Optimize bulk API requests with batching, throttling, and parallel execution. Use when processing... | jeremylongshore |
 | [procore-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/procore-pack/skills/procore-ci-integration) | Procore ci integration — construction management platform integration. Use when working with Proc... | jeremylongshore |

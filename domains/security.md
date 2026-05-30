@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*279 skills in this domain*
+*281 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -25,6 +25,8 @@
 | [analyzing-dependencies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/dependency-checker/skills/analyzing-dependencies) | Analyze dependencies for known security vulnerabilities and outdated versions. Use when auditing ... | jeremylongshore |
 | [analyzing-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-headers-analyzer/skills/analyzing-security-headers) | Analyze HTTP security headers of web domains to identify vulnerabilities and misconfigurations. U... | jeremylongshore |
 | [analyzing-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/security-headers-analyzer/skills/analyzing-security-headers) | Analyze HTTP security headers of web domains to identify vulnerabilities and misconfigurations. U... | jeremylongshore |
+| [analyzing-tls-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/analyzing-tls-config) | Analyze a target's TLS configuration — negotiated protocol version, cipher suite, certificate cha... | jeremylongshore |
+| [analyzing-tls-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/analyzing-tls-config) | Analyze a target's TLS configuration — negotiated protocol version, cipher suite, certificate cha... | jeremylongshore |
 | [anti-reversing-techniques](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/anti-reversing-techniques) | Understand anti-reversing, obfuscation, and protection techniques encountered during software ana... | wshobson |
 | [apple-notes-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-install-auth) | Set up macOS automation access for Apple Notes via AppleScript, JXA, and Shortcuts. Use when conf... | jeremylongshore |
 | [apple-notes-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-install-auth) | Set up macOS automation access for Apple Notes via AppleScript, JXA, and Shortcuts. Use when conf... | jeremylongshore |

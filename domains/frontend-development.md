@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*550 skills in this domain*
+*554 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -78,6 +78,8 @@
 | [atlas-present](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-present) | Generate a polished HTML presentation page and Obsidian Canvas for big releases — new products, t... | jeremylongshore |
 | [atlas-report](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/atlas-report) | Render agent findings as a styled HTML report in the browser. Use when asked for "full report", "... | jeremylongshore |
 | [atlas-report](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-report) | Render agent findings as a styled HTML report in the browser. Use when asked for "full report", "... | jeremylongshore |
+| [auditing-cors-policy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/auditing-cors-policy) | Audit a target's CORS posture — Access-Control-Allow-Origin handling, reflected-origin bypass, cr... | jeremylongshore |
+| [auditing-cors-policy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/auditing-cors-policy) | Audit a target's CORS posture — Access-Control-Allow-Origin handling, reflected-origin bypass, cr... | jeremylongshore |
 | [autonomous-agent-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agent-patterns) | Design patterns for building autonomous coding agents. Covers tool integration, permission system... | davila7 |
 | [autonomous-agents](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agents) | Autonomous agents are AI systems that can independently decompose goals, plan actions, execute to... | davila7 |
 | [avalonia-layout-zafiro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-layout-zafiro) | Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generi... | davila7 |
@@ -120,6 +122,8 @@
 | [castai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-upgrade-migration) | Upgrade CAST AI Helm charts, Terraform provider, and agent components. Use when upgrading CAST AI... | jeremylongshore |
 | [castai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/castai-pack/skills/castai-upgrade-migration) | Upgrade CAST AI Helm charts, Terraform provider, and agent components. Use when upgrading CAST AI... | jeremylongshore |
 | [cf-crawl](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/cf-crawl) | Crawl entire websites using Cloudflare Browser Rendering /crawl API. Initiates async crawl jobs, ... | davila7 |
+| [checking-http-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/checking-http-security-headers) | Audit a target's HTTP security headers — CSP, HSTS, X-Frame-Options, X-Content-Type-Options, Refe... | jeremylongshore |
+| [checking-http-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/checking-http-security-headers) | Audit a target's HTTP security headers — CSP, HSTS, X-Frame-Options, X-Content-Type-Options, Refe... | jeremylongshore |
 | [chrome-devtools](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/chrome-devtools) | Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Use for auto... | mrgoonie |
 | [ckm:banner-design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/banner-design) | Design banners for social media, ads, website heroes, creative assets, and print. Multiple art di... | nextlevelbuilder |
 | [ckm:design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design) | Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles... | nextlevelbuilder |

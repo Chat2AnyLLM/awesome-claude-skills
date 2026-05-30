@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4446 skills
-  - [APIs & REST](#apis-and-rest) - 2638 skills
+- [Backend Development](#backend-development) - 4450 skills
+  - [APIs & REST](#apis-and-rest) - 2642 skills
   - [Database Design](#database-design) - 1306 skills
   - [Request Handling](#request-handling) - 263 skills
   - [Web Frameworks](#web-frameworks) - 173 skills
@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 736 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
-- [Frontend Development](#frontend-development) - 550 skills
+- [Frontend Development](#frontend-development) - 554 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 546 skills
 - [Testing & Quality](#testing-and-quality) - 346 skills
 - [Machine Learning](#machine-learning) - 327 skills
@@ -38,7 +38,7 @@
   - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
   - [Model Deployment](#model-deployment) - 10 skills
-- [Security](#security) - 279 skills
+- [Security](#security) - 281 skills
 - [Uncategorized](#uncategorized) - 225 skills
 - [Documentation](#documentation) - 165 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4446 skills in this domain*
+*4450 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2638 skills*
+*2642 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -776,6 +776,8 @@
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 to v4 to v5), migrat... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 to v4 to v5), migrat... | jeremylongshore |
 | [designing-apis](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis) | Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation. Use when creating n... | CloudAI-X |
+| [detecting-ssl-cert-issues](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-ssl-cert-issues) | Audit a target's TLS certificate beyond protocol/expiry — chain ordering, OCSP stapling, revocation status, Certifica... | jeremylongshore |
+| [detecting-ssl-cert-issues](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-ssl-cert-issues) | Audit a target's TLS certificate beyond protocol/expiry — chain ordering, OCSP stapling, revocation status, Certifica... | jeremylongshore |
 | [dictionary-api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/dictionary-api-automation) | Automate Dictionary API tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [docs-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/docs-search) | Search auto-generated codebase documentation for function signatures, API docs, class definitions, and code comments.... | davila7 |
 | [doctor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/promptbook/skills/doctor) | Diagnose Promptbook setup — check config, hooks, API key, and session tracking health. Use when Promptbook seems brok... | jeremylongshore |
@@ -1940,6 +1942,8 @@
 | [posthog-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-upgrade-migration) | Upgrade posthog-js and posthog-node SDKs with breaking change detection. Covers v4 to v5 posthog-node migration (send... | jeremylongshore |
 | [posthog-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-webhooks-events) | Implement PostHog webhook destinations, Action-triggered notifications, and event querying via the Events API and Hog... | jeremylongshore |
 | [posthog-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-webhooks-events) | Implement PostHog webhook destinations, Action-triggered notifications, and event querying via the Events API and Hog... | jeremylongshore |
+| [probing-dangerous-http-methods](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/probing-dangerous-http-methods) | Probe a target for HTTP methods that should not be enabled in production — TRACE (XST attack), unrestricted PUT/DELET... | jeremylongshore |
+| [probing-dangerous-http-methods](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/probing-dangerous-http-methods) | Probe a target for HTTP methods that should not be enabled in production — TRACE (XST attack), unrestricted PUT/DELET... | jeremylongshore |
 | [processing-api-batches](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-batch-processor/skills/processing-api-batches) | Optimize bulk API requests with batching, throttling, and parallel execution. Use when processing bulk API operations... | jeremylongshore |
 | [processing-api-batches](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-batch-processor/skills/processing-api-batches) | Optimize bulk API requests with batching, throttling, and parallel execution. Use when processing bulk API operations... | jeremylongshore |
 | [procore-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/procore-pack/skills/procore-ci-integration) | Procore ci integration — construction management platform integration. Use when working with Procore API for project ... | jeremylongshore |
@@ -7665,7 +7669,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*550 skills in this domain*
+*554 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7736,6 +7740,8 @@
 | [atlas-present](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-present) | Generate a polished HTML presentation page and Obsidian Canvas for big releases — new products, takeovers, major migr... | jeremylongshore |
 | [atlas-report](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/atlas-report) | Render agent findings as a styled HTML report in the browser. Use when asked for "full report", "detailed report", "s... | jeremylongshore |
 | [atlas-report](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-report) | Render agent findings as a styled HTML report in the browser. Use when asked for "full report", "detailed report", "s... | jeremylongshore |
+| [auditing-cors-policy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/auditing-cors-policy) | Audit a target's CORS posture — Access-Control-Allow-Origin handling, reflected-origin bypass, credentials+wildcard m... | jeremylongshore |
+| [auditing-cors-policy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/auditing-cors-policy) | Audit a target's CORS posture — Access-Control-Allow-Origin handling, reflected-origin bypass, credentials+wildcard m... | jeremylongshore |
 | [autonomous-agent-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agent-patterns) | Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automatio... | davila7 |
 | [autonomous-agents](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agents) | Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correc... | davila7 |
 | [avalonia-layout-zafiro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-layout-zafiro) | Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and av... | davila7 |
@@ -7778,6 +7784,8 @@
 | [castai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-upgrade-migration) | Upgrade CAST AI Helm charts, Terraform provider, and agent components. Use when upgrading CAST AI versions, checking ... | jeremylongshore |
 | [castai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/castai-pack/skills/castai-upgrade-migration) | Upgrade CAST AI Helm charts, Terraform provider, and agent components. Use when upgrading CAST AI versions, checking ... | jeremylongshore |
 | [cf-crawl](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/cf-crawl) | Crawl entire websites using Cloudflare Browser Rendering /crawl API. Initiates async crawl jobs, polls for completion... | davila7 |
+| [checking-http-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/checking-http-security-headers) | Audit a target's HTTP security headers — CSP, HSTS, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permiss... | jeremylongshore |
+| [checking-http-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/checking-http-security-headers) | Audit a target's HTTP security headers — CSP, HSTS, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permiss... | jeremylongshore |
 | [chrome-devtools](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/chrome-devtools) | Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Use for automating browsers, tak... | mrgoonie |
 | [ckm:banner-design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/banner-design) | Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with... | nextlevelbuilder |
 | [ckm:design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design) | Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini AI), corpor... | nextlevelbuilder |
@@ -9498,7 +9506,7 @@
 <a name="security"></a>
 # Security
 
-*279 skills in this domain*
+*281 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9516,6 +9524,8 @@
 | [analyzing-dependencies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/dependency-checker/skills/analyzing-dependencies) | Analyze dependencies for known security vulnerabilities and outdated versions. Use when auditing third-party librarie... | jeremylongshore |
 | [analyzing-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-headers-analyzer/skills/analyzing-security-headers) | Analyze HTTP security headers of web domains to identify vulnerabilities and misconfigurations. Use when you need to ... | jeremylongshore |
 | [analyzing-security-headers](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/security-headers-analyzer/skills/analyzing-security-headers) | Analyze HTTP security headers of web domains to identify vulnerabilities and misconfigurations. Use when you need to ... | jeremylongshore |
+| [analyzing-tls-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/analyzing-tls-config) | Analyze a target's TLS configuration — negotiated protocol version, cipher suite, certificate chain, expiry, and down... | jeremylongshore |
+| [analyzing-tls-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/analyzing-tls-config) | Analyze a target's TLS configuration — negotiated protocol version, cipher suite, certificate chain, expiry, and down... | jeremylongshore |
 | [anti-reversing-techniques](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/anti-reversing-techniques) | Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use this skil... | wshobson |
 | [apple-notes-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-install-auth) | Set up macOS automation access for Apple Notes via AppleScript, JXA, and Shortcuts. Use when configuring accessibilit... | jeremylongshore |
 | [apple-notes-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apple-notes-pack/skills/apple-notes-install-auth) | Set up macOS automation access for Apple Notes via AppleScript, JXA, and Shortcuts. Use when configuring accessibilit... | jeremylongshore |
