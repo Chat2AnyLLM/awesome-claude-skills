@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*346 skills in this domain*
+*348 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -89,6 +89,8 @@
 | [deferred-capture](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/deferred-capture) | Defines the contract for deferred-item capture across plugins. Use when building or validating a ... | athola |
 | [defi-protocol-templates](https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates) | Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lendi... | wshobson |
 | [dependency-upgrade](https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade) | Manage major dependency version upgrades with compatibility analysis, staged rollout, and compreh... | wshobson |
+| [detecting-weak-cryptography](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-weak-cryptography) | Scan a source tree for weak cryptographic primitives: MD5 / SHA-1 used for security purposes, DES... | jeremylongshore |
+| [detecting-weak-cryptography](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-weak-cryptography) | Scan a source tree for weak cryptographic primitives: MD5 / SHA-1 used for security purposes, DES... | jeremylongshore |
 | [devil-advocate](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/pm-ai-partner/skills/devil-advocate) | Constructive critic and stress-tester for ideas and proposals. Use when the user needs someone to... | jeremylongshore |
 | [devil-advocate](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/pm-ai-partner/skills/devil-advocate) | Constructive critic and stress-tester for ideas and proposals. Use when the user needs someone to... | jeremylongshore |
 | [doc-to-markdown](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/doc-to-markdown) | Converts DOCX/PDF/PPTX to high-quality Markdown with automatic post-processing. Fixes pandoc grid... | daymade |

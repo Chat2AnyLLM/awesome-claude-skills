@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*556 skills in this domain*
+*560 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -169,6 +169,8 @@
 | [design-to-code](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/design-to-code) | Pixel-perfect Figma to React conversion using coderio. Generates production-ready code (TypeScrip... | davila7 |
 | [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actu... | jeremylongshore |
 | [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actu... | jeremylongshore |
+| [detecting-directory-listing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-directory-listing) | Probe a target for directories that return auto-generated index listings instead of denying or se... | jeremylongshore |
+| [detecting-directory-listing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-directory-listing) | Probe a target for directories that return auto-generated index listings instead of denying or se... | jeremylongshore |
 | [develop-web-game](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/develop-web-game) | Use when Codex is building or iterating on a web game (HTML/JS) and needs a reliable development ... | davila7 |
 | [discord-bot-architect](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/discord-bot-architect) | Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and ... | davila7 |
 | [doc](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/doc) | Use when the task involves reading, creating, or editing `.docx` documents, especially when forma... | davila7 |
@@ -194,6 +196,8 @@
 | [figma-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-reference-architecture) | Reference architecture for production Figma API integrations. Use when designing a new Figma inte... | jeremylongshore |
 | [finding-arbitrage-opportunities](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/arbitrage-opportunity-finder/skills/finding-arbitrage-opportunities) | Detect profitable arbitrage opportunities across CEX, DEX, and cross-chain markets in real-time. ... | jeremylongshore |
 | [finding-arbitrage-opportunities](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/arbitrage-opportunity-finder/skills/finding-arbitrage-opportunities) | Detect profitable arbitrage opportunities across CEX, DEX, and cross-chain markets in real-time. ... | jeremylongshore |
+| [fingerprinting-server-software](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/fingerprinting-server-software) | Identify the server software, framework, and component versions a target is running from its HTTP... | jeremylongshore |
+| [fingerprinting-server-software](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/fingerprinting-server-software) | Identify the server software, framework, and component versions a target is running from its HTTP... | jeremylongshore |
 | [flexport-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-reference-architecture) | Implement Flexport reference architecture for supply chain integrations with best-practice projec... | jeremylongshore |
 | [flexport-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-reference-architecture) | Implement Flexport reference architecture for supply chain integrations with best-practice projec... | jeremylongshore |
 | [flutter-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/flutter-expert) | Use when building cross-platform applications with Flutter 3+ and Dart. Invoke for widget develop... | Jeffallan |

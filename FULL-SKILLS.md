@@ -2,11 +2,11 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4453 skills
-  - [APIs & REST](#apis-and-rest) - 2643 skills
-  - [Database Design](#database-design) - 1308 skills
+- [Backend Development](#backend-development) - 4464 skills
+  - [APIs & REST](#apis-and-rest) - 2649 skills
+  - [Database Design](#database-design) - 1311 skills
   - [Request Handling](#request-handling) - 263 skills
-  - [Web Frameworks](#web-frameworks) - 173 skills
+  - [Web Frameworks](#web-frameworks) - 175 skills
   - [Authentication](#authentication) - 22 skills
   - [Message Queues](#message-queues) - 17 skills
   - [Microservices](#microservices) - 16 skills
@@ -27,14 +27,14 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 4 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 736 skills
+- [AI & LLM](#ai-and-llm) - 737 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
-- [Frontend Development](#frontend-development) - 556 skills
+- [Frontend Development](#frontend-development) - 560 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 546 skills
-- [Testing & Quality](#testing-and-quality) - 346 skills
-- [Machine Learning](#machine-learning) - 328 skills
+- [Testing & Quality](#testing-and-quality) - 348 skills
+- [Machine Learning](#machine-learning) - 329 skills
   - [Model Training](#model-training) - 206 skills
-  - [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
+  - [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
   - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
   - [Model Deployment](#model-deployment) - 10 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4453 skills in this domain*
+*4464 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2643 skills*
+*2649 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -777,6 +777,10 @@
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 to v4 to v5), migrat... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 to v4 to v5), migrat... | jeremylongshore |
 | [designing-apis](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis) | Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation. Use when creating n... | CloudAI-X |
+| [detecting-command-injection-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-command-injection-patterns) | Scan a source tree for command-injection vulnerable patterns: shell=True calls in Python subprocess, os.system / os.p... | jeremylongshore |
+| [detecting-command-injection-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-command-injection-patterns) | Scan a source tree for command-injection vulnerable patterns: shell=True calls in Python subprocess, os.system / os.p... | jeremylongshore |
+| [detecting-insecure-deserialization](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-insecure-deserialization) | Scan a source tree for unsafe-by-default deserialization APIs: Python pickle.loads / cPickle / shelve / dill, Ruby Ma... | jeremylongshore |
+| [detecting-insecure-deserialization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-insecure-deserialization) | Scan a source tree for unsafe-by-default deserialization APIs: Python pickle.loads / cPickle / shelve / dill, Ruby Ma... | jeremylongshore |
 | [detecting-ssl-cert-issues](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-ssl-cert-issues) | Audit a target's TLS certificate beyond protocol/expiry — chain ordering, OCSP stapling, revocation status, Certifica... | jeremylongshore |
 | [detecting-ssl-cert-issues](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-ssl-cert-issues) | Audit a target's TLS certificate beyond protocol/expiry — chain ordering, OCSP stapling, revocation status, Certifica... | jeremylongshore |
 | [dictionary-api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/dictionary-api-automation) | Automate Dictionary API tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -2177,6 +2181,8 @@
 | [salesloft-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/salesloft-pack/skills/salesloft-upgrade-migration) | Migrate between SalesLoft API versions and handle breaking changes. Use when SalesLoft announces API deprecations, up... | jeremylongshore |
 | [scanning-api-security](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-security-scanner/skills/scanning-api-security) | Detect API security vulnerabilities including injection, broken auth, and data exposure. Use when scanning APIs for s... | jeremylongshore |
 | [scanning-api-security](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-security-scanner/skills/scanning-api-security) | Detect API security vulnerabilities including injection, broken auth, and data exposure. Use when scanning APIs for s... | jeremylongshore |
+| [scanning-for-hardcoded-secrets](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/scanning-for-hardcoded-secrets) | Scan a source-code tree for hardcoded credentials embedded in source files: AWS access keys, GitHub tokens, Stripe ke... | jeremylongshore |
+| [scanning-for-hardcoded-secrets](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/scanning-for-hardcoded-secrets) | Scan a source-code tree for hardcoded credentials embedded in source files: AWS access keys, GitHub tokens, Stripe ke... | jeremylongshore |
 | [scanning-for-secrets](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/secret-scanner/skills/scanning-for-secrets) | Detect exposed secrets, API keys, and credentials in code. Use when auditing for secret leaks. Trigger with 'scan for... | jeremylongshore |
 | [scanning-for-secrets](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/secret-scanner/skills/scanning-for-secrets) | Detect exposed secrets, API keys, and credentials in code. Use when auditing for secret leaks. Trigger with 'scan for... | jeremylongshore |
 | [scikit-survival](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scikit-survival) | Comprehensive toolkit for survival analysis and time-to-event modeling in Python using scikit-survival. Use this skil... | K-Dense-AI |
@@ -2700,7 +2706,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1308 skills*
+*1311 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3014,6 +3020,8 @@
 | [detecting-performance-bottlenecks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/bottleneck-detector/skills/detecting-performance-bottlenecks) | Execute this skill enables AI assistant to detect and resolve performance bottlenecks in applications. it analyzes cp... | jeremylongshore |
 | [detecting-performance-regressions](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/performance-regression-detector/skills/detecting-performance-regressions) | Automatically detect performance regressions in CI/CD pipelines by comparing metrics against baselines. Use when vali... | jeremylongshore |
 | [detecting-performance-regressions](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/performance-regression-detector/skills/detecting-performance-regressions) | Automatically detect performance regressions in CI/CD pipelines by comparing metrics against baselines. Use when vali... | jeremylongshore |
+| [detecting-sql-injection-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-sql-injection-patterns) | Scan a source tree for SQL-injection vulnerable patterns: string concatenation into queries, f-string interpolation i... | jeremylongshore |
+| [detecting-sql-injection-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-sql-injection-patterns) | Scan a source tree for SQL-injection vulnerable patterns: string concatenation into queries, f-string interpolation i... | jeremylongshore |
 | [detecting-sql-injection-vulnerabilities](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/sql-injection-detector/skills/detecting-sql-injection-vulnerabilities) | Detect and analyze SQL injection vulnerabilities in application code and database queries. Use when you need to scan ... | jeremylongshore |
 | [detecting-sql-injection-vulnerabilities](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/sql-injection-detector/skills/detecting-sql-injection-vulnerabilities) | Detect and analyze SQL injection vulnerabilities in application code and database queries. Use when you need to scan ... | jeremylongshore |
 | [devops-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/devops-engineer) | Creates Dockerfiles, configures CI/CD pipelines, writes Kubernetes manifests, and generates Terraform/Pulumi infrastr... | Jeffallan |
@@ -3024,6 +3032,7 @@
 | [distributed-tracing](https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/distributed-tracing) | Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance b... | wshobson |
 | [dnanexus-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/dnanexus-integration) | DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, ... | K-Dense-AI |
 | [dnanexus-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/dnanexus-integration) | DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, ... | davila7 |
+| [doc2math](https://github.com/thebrierfox/doc2math-skill/tree/main) | Convert any narrative document to a formal Mathematical Problem Specification (MPS) — activate when user provides a r... | thebrierfox |
 | [docs-seeker](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/docs-seeker) | Searching internet for technical documentation using llms.txt standard, GitHub repositories via Repomix, and parallel... | mrgoonie |
 | [documenso-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-debug-bundle) | Comprehensive debugging toolkit for Documenso integrations. Use when troubleshooting complex issues, gathering diagno... | jeremylongshore |
 | [documenso-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-debug-bundle) | Comprehensive debugging toolkit for Documenso integrations. Use when troubleshooting complex issues, gathering diagno... | jeremylongshore |
@@ -4285,7 +4294,7 @@
 
 <a name="web-frameworks"></a>
 ## Web Frameworks
-*173 skills*
+*175 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4332,6 +4341,8 @@
 | [cron-job-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/cron-job-scheduler) | Manage cron job scheduler operations. Auto-activating skill for Backend Development. Triggers on: cron job scheduler,... | jeremylongshore |
 | [design-sprint](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/wondelai-design-sprint) | Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user ment... | jeremylongshore |
 | [design-sprint](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/wondelai-design-sprint) | Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user ment... | jeremylongshore |
+| [detecting-eval-exec-usage](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-eval-exec-usage) | Scan a source tree for dynamic-code-execution APIs that an attacker can hijack: Python eval / exec / compile, JavaScr... | jeremylongshore |
+| [detecting-eval-exec-usage](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-eval-exec-usage) | Scan a source tree for dynamic-code-execution APIs that an attacker can hijack: Python eval / exec / compile, JavaScr... | jeremylongshore |
 | [devops](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/devops) | Deploy to Cloudflare (Workers, R2, D1), Docker, GCP (Cloud Run, GKE), Kubernetes (kubectl, Helm). Use for serverless,... | mrgoonie |
 | [django-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/django-expert) | Use when building Django web applications or REST APIs with Django REST Framework. Invoke when working with settings.... | Jeffallan |
 | [django-pro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/django-pro) | Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper arc... | davila7 |
@@ -6288,7 +6299,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*736 skills in this domain*
+*737 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6723,6 +6734,7 @@
 | [mistral-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-core-workflow-a) | Execute Mistral AI chat completions with streaming, multi-turn, and guardrails. Use when implementing chat interfaces... | jeremylongshore |
 | [mistral-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-sdk-patterns) | Apply production-ready Mistral AI SDK patterns for TypeScript and Python. Use when implementing Mistral integrations,... | jeremylongshore |
 | [mistral-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-sdk-patterns) | Apply production-ready Mistral AI SDK patterns for TypeScript and Python. Use when implementing Mistral integrations,... | jeremylongshore |
+| [moatmri](https://github.com/thebrierfox/moatmri-skill/tree/main) | AI disruption pressure analysis — activate when user asks where AI will break their business first, wants a competiti... | thebrierfox |
 | [modern-javascript-patterns](https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/modern-javascript-patterns) | Master ES6+ features including async/await, destructuring, spread operators, arrow functions, promises, modules, iter... | wshobson |
 | [monitoring-cross-chain-bridges](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges) | Monitor cross-chain bridge TVL, volume, fees, and transaction status across networks. Use when researching bridges, c... | jeremylongshore |
 | [monitoring-cross-chain-bridges](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges) | Monitor cross-chain bridge TVL, volume, fees, and transaction status across networks. Use when researching bridges, c... | jeremylongshore |
@@ -7672,7 +7684,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*556 skills in this domain*
+*560 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7834,6 +7846,8 @@
 | [design-to-code](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/design-to-code) | Pixel-perfect Figma to React conversion using coderio. Generates production-ready code (TypeScript, Vite, TailwindCSS... | davila7 |
 | [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actuator, Apache server-... | jeremylongshore |
 | [detecting-debug-endpoints](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-debug-endpoints) | Probe a target for accidentally-public admin / debug / introspection endpoints — Spring Boot Actuator, Apache server-... | jeremylongshore |
+| [detecting-directory-listing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-directory-listing) | Probe a target for directories that return auto-generated index listings instead of denying or serving a specific fil... | jeremylongshore |
+| [detecting-directory-listing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-directory-listing) | Probe a target for directories that return auto-generated index listings instead of denying or serving a specific fil... | jeremylongshore |
 | [develop-web-game](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/develop-web-game) | Use when Codex is building or iterating on a web game (HTML/JS) and needs a reliable development + testing loop: impl... | davila7 |
 | [discord-bot-architect](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/discord-bot-architect) | Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gat... | davila7 |
 | [doc](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/doc) | Use when the task involves reading, creating, or editing `.docx` documents, especially when formatting or layout fide... | davila7 |
@@ -7859,6 +7873,8 @@
 | [figma-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-reference-architecture) | Reference architecture for production Figma API integrations. Use when designing a new Figma integration, planning pr... | jeremylongshore |
 | [finding-arbitrage-opportunities](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/arbitrage-opportunity-finder/skills/finding-arbitrage-opportunities) | Detect profitable arbitrage opportunities across CEX, DEX, and cross-chain markets in real-time. Use when scanning fo... | jeremylongshore |
 | [finding-arbitrage-opportunities](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/arbitrage-opportunity-finder/skills/finding-arbitrage-opportunities) | Detect profitable arbitrage opportunities across CEX, DEX, and cross-chain markets in real-time. Use when scanning fo... | jeremylongshore |
+| [fingerprinting-server-software](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/fingerprinting-server-software) | Identify the server software, framework, and component versions a target is running from its HTTP response signatures... | jeremylongshore |
+| [fingerprinting-server-software](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/fingerprinting-server-software) | Identify the server software, framework, and component versions a target is running from its HTTP response signatures... | jeremylongshore |
 | [flexport-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-reference-architecture) | Implement Flexport reference architecture for supply chain integrations with best-practice project layout, service bo... | jeremylongshore |
 | [flexport-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-reference-architecture) | Implement Flexport reference architecture for supply chain integrations with best-practice project layout, service bo... | jeremylongshore |
 | [flutter-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/flutter-expert) | Use when building cross-platform applications with Flutter 3+ and Dart. Invoke for widget development, Riverpod/Bloc ... | Jeffallan |
@@ -8790,7 +8806,7 @@
 <a name="testing-and-quality"></a>
 # Testing & Quality
 
-*346 skills in this domain*
+*348 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8872,6 +8888,8 @@
 | [deferred-capture](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/deferred-capture) | Defines the contract for deferred-item capture across plugins. Use when building or validating a plugin's deferred-ca... | athola |
 | [defi-protocol-templates](https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates) | Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when... | wshobson |
 | [dependency-upgrade](https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade) | Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use ... | wshobson |
+| [detecting-weak-cryptography](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-weak-cryptography) | Scan a source tree for weak cryptographic primitives: MD5 / SHA-1 used for security purposes, DES / 3DES / RC4 cipher... | jeremylongshore |
+| [detecting-weak-cryptography](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-weak-cryptography) | Scan a source tree for weak cryptographic primitives: MD5 / SHA-1 used for security purposes, DES / 3DES / RC4 cipher... | jeremylongshore |
 | [devil-advocate](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/pm-ai-partner/skills/devil-advocate) | Constructive critic and stress-tester for ideas and proposals. Use when the user needs someone to challenge their thi... | jeremylongshore |
 | [devil-advocate](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/pm-ai-partner/skills/devil-advocate) | Constructive critic and stress-tester for ideas and proposals. Use when the user needs someone to challenge their thi... | jeremylongshore |
 | [doc-to-markdown](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/doc-to-markdown) | Converts DOCX/PDF/PPTX to high-quality Markdown with automatic post-processing. Fixes pandoc grid tables, simple tabl... | daymade |
@@ -9144,7 +9162,7 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*328 skills in this domain*
+*329 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
@@ -9361,7 +9379,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*70 skills*
+*71 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9433,6 +9451,7 @@
 | [windsurf-code-completion](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-code-completion) | Configure and optimize Supercomplete code suggestions. Activate when users mention "code completion", "autocomplete",... | jeremylongshore |
 | [windsurf-license-management](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-license-management) | Manage Windsurf licenses and seat allocation. Activate when users mention "license management", "seat allocation", "b... | jeremylongshore |
 | [windsurf-license-management](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-license-management) | Manage Windsurf licenses and seat allocation. Activate when users mention "license management", "seat allocation", "b... | jeremylongshore |
+| [yield-intelligence](https://github.com/thebrierfox/yield-intelligence-skill/tree/main) | Passive income portfolio analysis — activate when user asks about dividend yields, Treasury rates, REIT income, month... | thebrierfox |
 | [yt-packaging](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/youtube-strategy/skills/yt-packaging) | Create optimized YouTube titles and thumbnail concepts for maximum CTR. Use this skill whenever the user says "title ... | jeremylongshore |
 | [yt-packaging](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/youtube-strategy/skills/yt-packaging) | Create optimized YouTube titles and thumbnail concepts for maximum CTR. Use this skill whenever the user says "title ... | jeremylongshore |
 

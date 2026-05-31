@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*736 skills in this domain*
+*737 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -442,6 +442,7 @@
 | [mistral-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-core-workflow-a) | Execute Mistral AI chat completions with streaming, multi-turn, and guardrails. Use when implemen... | jeremylongshore |
 | [mistral-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-sdk-patterns) | Apply production-ready Mistral AI SDK patterns for TypeScript and Python. Use when implementing M... | jeremylongshore |
 | [mistral-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-sdk-patterns) | Apply production-ready Mistral AI SDK patterns for TypeScript and Python. Use when implementing M... | jeremylongshore |
+| [moatmri](https://github.com/thebrierfox/moatmri-skill/tree/main) | AI disruption pressure analysis — activate when user asks where AI will break their business firs... | thebrierfox |
 | [modern-javascript-patterns](https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/modern-javascript-patterns) | Master ES6+ features including async/await, destructuring, spread operators, arrow functions, pro... | wshobson |
 | [monitoring-cross-chain-bridges](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges) | Monitor cross-chain bridge TVL, volume, fees, and transaction status across networks. Use when re... | jeremylongshore |
 | [monitoring-cross-chain-bridges](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges) | Monitor cross-chain bridge TVL, volume, fees, and transaction status across networks. Use when re... | jeremylongshore |

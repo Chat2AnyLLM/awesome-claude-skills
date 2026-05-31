@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*328 skills in this domain*
+*329 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Model Training](#model-training) - 206 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 70 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
 - [Model Deployment](#model-deployment) - 10 skills
@@ -232,7 +232,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*70 skills*
+*71 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -304,6 +304,7 @@
 | [windsurf-code-completion](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-code-completion) | Configure and optimize Supercomplete code suggestions. Activate when users mention "code completi... | jeremylongshore |
 | [windsurf-license-management](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-license-management) | Manage Windsurf licenses and seat allocation. Activate when users mention "license management", "... | jeremylongshore |
 | [windsurf-license-management](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-license-management) | Manage Windsurf licenses and seat allocation. Activate when users mention "license management", "... | jeremylongshore |
+| [yield-intelligence](https://github.com/thebrierfox/yield-intelligence-skill/tree/main) | Passive income portfolio analysis — activate when user asks about dividend yields, Treasury rates... | thebrierfox |
 | [yt-packaging](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/youtube-strategy/skills/yt-packaging) | Create optimized YouTube titles and thumbnail concepts for maximum CTR. Use this skill whenever t... | jeremylongshore |
 | [yt-packaging](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/youtube-strategy/skills/yt-packaging) | Create optimized YouTube titles and thumbnail concepts for maximum CTR. Use this skill whenever t... | jeremylongshore |
 
