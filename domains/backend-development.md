@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4464 skills in this domain*
+*4465 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2649 skills
+- [APIs & REST](#apis-rest) - 2650 skills
 - [Database Design](#database-design) - 1311 skills
 - [Request Handling](#request-handling) - 263 skills
 - [Web Frameworks](#web-frameworks) - 175 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2649 skills*
+*2650 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -360,6 +360,7 @@
 | [attio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/attio-pack/skills/attio-upgrade-migration) | Migrate between Attio API versions, handle breaking changes in the v1-to-v2 transition, and plan ... | jeremylongshore |
 | [auth-implementation-patterns](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/auth-implementation-patterns) | Master authentication and authorization patterns including JWT, OAuth2, session management, and R... | wshobson |
 | [authentication-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/authentication-patterns) | Provides auth patterns for API keys, OAuth, and token management. Use when implementing or review... | athola |
+| [auto-repo-setup](https://github.com/daymade/claude-code-skills/tree/main/auto-repo-setup) | 自动化代码库环境配置、故障诊断与修复。当非技术人员（剪辑、商务、运营）拿到仓库说"跑不起来"、"怎么启动"、"环境怎么配"、"帮我设置代码库"、"初始化项目"、"提交代码"、"冲突了怎么办"时，... | daymade |
 | [automating-api-testing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/api-test-automation/skills/automating-api-testing) | Test automate API endpoint testing including request generation, validation, and comprehensive te... | jeremylongshore |
 | [automating-api-testing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/api-test-automation/skills/automating-api-testing) | Test automate API endpoint testing including request generation, validation, and comprehensive te... | jeremylongshore |
 | [autoresearch](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/0-autoresearch-skill) | Orchestrates end-to-end autonomous AI research projects using a two-loop architecture. The inner ... | zechenzhangAGI |
