@@ -30,7 +30,7 @@
 - [AI & LLM](#ai-and-llm) - 737 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Frontend Development](#frontend-development) - 560 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 546 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 547 skills
 - [Testing & Quality](#testing-and-quality) - 348 skills
 - [Machine Learning](#machine-learning) - 329 skills
   - [Model Training](#model-training) - 206 skills
@@ -8253,7 +8253,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*546 skills in this domain*
+*547 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8512,6 +8512,7 @@
 | [jira-ticket-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/jira-ticket-generator) | Generate jira ticket generator operations. Auto-activating skill for Enterprise Workflows. Triggers on: jira ticket g... | jeremylongshore |
 | [jira-workflow-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/jira-workflow-creator) | Create jira workflow creator operations. Auto-activating skill for Enterprise Workflows. Triggers on: jira workflow c... | jeremylongshore |
 | [jira-workflow-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/jira-workflow-creator) | Create jira workflow creator operations. Auto-activating skill for Enterprise Workflows. Triggers on: jira workflow c... | jeremylongshore |
+| [jtagprobe](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/jtagprobe) | Probe IoT/embedded targets for exposed SWD/JTAG debug interfaces using a SEGGER J-Link. Detects whether debug is OPEN... | BrownFineSecurity |
 | [juicebox-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-deploy-integration) | Deploy Juicebox integrations. Trigger: "deploy juicebox", "juicebox production deploy". | jeremylongshore |
 | [juicebox-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-deploy-integration) | Deploy Juicebox integrations. Trigger: "deploy juicebox", "juicebox production deploy". | jeremylongshore |
 | [juicebox-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-enterprise-rbac) | Configure Juicebox team access. Trigger: "juicebox rbac", "juicebox team roles". | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*546 skills in this domain*
+*547 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -266,6 +266,7 @@
 | [jira-ticket-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/jira-ticket-generator) | Generate jira ticket generator operations. Auto-activating skill for Enterprise Workflows. Trigge... | jeremylongshore |
 | [jira-workflow-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/jira-workflow-creator) | Create jira workflow creator operations. Auto-activating skill for Enterprise Workflows. Triggers... | jeremylongshore |
 | [jira-workflow-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/jira-workflow-creator) | Create jira workflow creator operations. Auto-activating skill for Enterprise Workflows. Triggers... | jeremylongshore |
+| [jtagprobe](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/jtagprobe) | Probe IoT/embedded targets for exposed SWD/JTAG debug interfaces using a SEGGER J-Link. Detects w... | BrownFineSecurity |
 | [juicebox-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-deploy-integration) | Deploy Juicebox integrations. Trigger: "deploy juicebox", "juicebox production deploy". | jeremylongshore |
 | [juicebox-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-deploy-integration) | Deploy Juicebox integrations. Trigger: "deploy juicebox", "juicebox production deploy". | jeremylongshore |
 | [juicebox-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-enterprise-rbac) | Configure Juicebox team access. Trigger: "juicebox rbac", "juicebox team roles". | jeremylongshore |
