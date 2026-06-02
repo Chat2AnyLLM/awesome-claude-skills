@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*547 skills in this domain*
+*549 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -219,6 +219,7 @@
 | [go-concurrency-patterns](https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/go-concurrency-patterns) | Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building ... | wshobson |
 | [governance-checklist-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/governance-checklist-generator) | Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflow... | jeremylongshore |
 | [governance-checklist-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/governance-checklist-generator) | Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflow... | jeremylongshore |
+| [graduated-implementation](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/graduated-implementation) | Ramps implementation ambition a notch only after the prior increment is understood. Use when buil... | athola |
 | [grafana-dashboards](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/grafana-dashboards) | Create and manage production-ready Grafana dashboards for comprehensive system observability. | davila7 |
 | [grammarly-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/grammarly-pack/skills/grammarly-core-workflow-b) | Execute Grammarly secondary workflow: Core Workflow B. Use when implementing secondary use case, ... | jeremylongshore |
 | [grammarly-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/grammarly-pack/skills/grammarly-core-workflow-b) | Execute Grammarly secondary workflow: Core Workflow B. Use when implementing secondary use case, ... | jeremylongshore |
@@ -522,6 +523,7 @@
 | [user-story-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/user-story-generator) | Generate user story generator operations. Auto-activating skill for Enterprise Workflows. Trigger... | jeremylongshore |
 | [using-git-worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | Use when starting feature work that needs isolation from current workspace or before executing im... | obra |
 | [uv-package-manager](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/uv-package-manager) | Master the uv package manager for fast Python dependency management, virtual environments, and mo... | wshobson |
+| [validate-pr](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/validate-pr) |  | athola |
 | [veeva-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-enterprise-rbac) | Veeva Vault enterprise rbac for enterprise operations. Use when implementing advanced Veeva Vault... | jeremylongshore |
 | [veeva-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-enterprise-rbac) | Veeva Vault enterprise rbac for enterprise operations. Use when implementing advanced Veeva Vault... | jeremylongshore |
 | [veeva-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-incident-runbook) | Veeva Vault incident runbook for enterprise operations. Use when implementing advanced Veeva Vaul... | jeremylongshore |

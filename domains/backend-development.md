@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4465 skills in this domain*
+*4466 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2650 skills
+- [APIs & REST](#apis-rest) - 2651 skills
 - [Database Design](#database-design) - 1311 skills
 - [Request Handling](#request-handling) - 263 skills
 - [Web Frameworks](#web-frameworks) - 175 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2650 skills*
+*2651 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2176,6 +2176,7 @@
 | [sentry-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-migration-deep-dive) | Migrate to Sentry from other error tracking tools like Rollbar, Bugsnag, or New Relic. Use when r... | jeremylongshore |
 | [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Upgrade Sentry SDK versions and migrate breaking API changes. Use when upgrading from Sentry v7 t... | jeremylongshore |
 | [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Upgrade Sentry SDK versions and migrate breaking API changes. Use when upgrading from Sentry v7 t... | jeremylongshore |
+| [sequenzy](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy) | Agent guide for operating Sequenzy. Use when Codex needs to authenticate, inspect identity, manag... | Sequenzy |
 | [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Agent guide for operating Sequenzy. Use when Codex needs to authenticate, inspect identity, manag... | Sequenzy |
 | [serpapi-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/serpapi-automation) | Automate Serpapi tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [serpapi-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/serpapi-pack/skills/serpapi-ci-integration) | Set up CI/CD for SerpApi integrations with fixture-based testing. Use when automating SerpApi tes... | jeremylongshore |

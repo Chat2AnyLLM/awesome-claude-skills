@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*737 skills in this domain*
+*739 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -83,6 +83,7 @@
 | [assemblyai-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-sdk-patterns) | Apply production-ready AssemblyAI SDK patterns for TypeScript and Python. Use when implementing A... | jeremylongshore |
 | [assemblyai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-webhooks-events) | Implement AssemblyAI webhook handling for transcription completion events. Use when setting up we... | jeremylongshore |
 | [assemblyai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-webhooks-events) | Implement AssemblyAI webhook handling for transcription completion events. Use when setting up we... | jeremylongshore |
+| [assisted-mastery](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/assisted-mastery) | Makes agent reasoning visible, surfaces tradeoffs, and fades help so humans build judgment. Use w... | athola |
 | [astica-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/astica-ai-automation) | Automate Astica AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [atlas-changelog](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/atlas-changelog) | Maintain per-repo and cross-repo changelogs — append structured entries after agent work. Use whe... | jeremylongshore |
 | [atlas-changelog](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-changelog) | Maintain per-repo and cross-repo changelogs — append structured entries after agent work. Use whe... | jeremylongshore |
@@ -215,6 +216,7 @@
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live trans... | jeremylongshore |
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live trans... | jeremylongshore |
 | [dependency-graph](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/dependency-graph) | Generates a Mermaid dependency graph showing import relationships between modules. Use when analy... | athola |
+| [dependency-verification](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/dependency-verification) | Verifies a package exists before install, defending against hallucination and slopsquatting. Use ... | athola |
 | [deslop](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/deslop) | Remove AI-generated code slop from a branch. Use when cleaning up AI-generated code, removing unn... | davila7 |
 | [developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis) | Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and ... | ComposioHQ |
 | [developer-growth-analysis](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/developer-growth-analysis) | Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and ... | davila7 |

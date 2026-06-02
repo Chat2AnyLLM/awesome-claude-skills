@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4465 skills
-  - [APIs & REST](#apis-and-rest) - 2650 skills
+- [Backend Development](#backend-development) - 4466 skills
+  - [APIs & REST](#apis-and-rest) - 2651 skills
   - [Database Design](#database-design) - 1311 skills
   - [Request Handling](#request-handling) - 263 skills
   - [Web Frameworks](#web-frameworks) - 175 skills
@@ -27,10 +27,10 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 4 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 737 skills
+- [AI & LLM](#ai-and-llm) - 739 skills
 - [Tools & Utilities](#tools-and-utilities) - 632 skills
 - [Frontend Development](#frontend-development) - 560 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 547 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 549 skills
 - [Testing & Quality](#testing-and-quality) - 348 skills
 - [Machine Learning](#machine-learning) - 329 skills
   - [Model Training](#model-training) - 206 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4465 skills in this domain*
+*4466 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2650 skills*
+*2651 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2204,6 +2204,7 @@
 | [sentry-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-migration-deep-dive) | Migrate to Sentry from other error tracking tools like Rollbar, Bugsnag, or New Relic. Use when replacing an existing... | jeremylongshore |
 | [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Upgrade Sentry SDK versions and migrate breaking API changes. Use when upgrading from Sentry v7 to v8, migrating Pyth... | jeremylongshore |
 | [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Upgrade Sentry SDK versions and migrate breaking API changes. Use when upgrading from Sentry v7 to v8, migrating Pyth... | jeremylongshore |
+| [sequenzy](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy) | Agent guide for operating Sequenzy. Use when Codex needs to authenticate, inspect identity, manage subscribers, creat... | Sequenzy |
 | [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Agent guide for operating Sequenzy. Use when Codex needs to authenticate, inspect identity, manage subscribers, creat... | Sequenzy |
 | [serpapi-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/serpapi-automation) | Automate Serpapi tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [serpapi-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/serpapi-pack/skills/serpapi-ci-integration) | Set up CI/CD for SerpApi integrations with fixture-based testing. Use when automating SerpApi tests without consuming... | jeremylongshore |
@@ -6301,7 +6302,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*737 skills in this domain*
+*739 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6377,6 +6378,7 @@
 | [assemblyai-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-sdk-patterns) | Apply production-ready AssemblyAI SDK patterns for TypeScript and Python. Use when implementing AssemblyAI integratio... | jeremylongshore |
 | [assemblyai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-webhooks-events) | Implement AssemblyAI webhook handling for transcription completion events. Use when setting up webhook endpoints, han... | jeremylongshore |
 | [assemblyai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-webhooks-events) | Implement AssemblyAI webhook handling for transcription completion events. Use when setting up webhook endpoints, han... | jeremylongshore |
+| [assisted-mastery](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/assisted-mastery) | Makes agent reasoning visible, surfaces tradeoffs, and fades help so humans build judgment. Use when reviewing or lea... | athola |
 | [astica-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/astica-ai-automation) | Automate Astica AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [atlas-changelog](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/atlas-changelog) | Maintain per-repo and cross-repo changelogs — append structured entries after agent work. Use when asked to "log this... | jeremylongshore |
 | [atlas-changelog](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-changelog) | Maintain per-repo and cross-repo changelogs — append structured entries after agent work. Use when asked to "log this... | jeremylongshore |
@@ -6509,6 +6511,7 @@
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live transcription, voice inte... | jeremylongshore |
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live transcription, voice inte... | jeremylongshore |
 | [dependency-graph](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/dependency-graph) | Generates a Mermaid dependency graph showing import relationships between modules. Use when analyzing coupling, findi... | athola |
+| [dependency-verification](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/dependency-verification) | Verifies a package exists before install, defending against hallucination and slopsquatting. Use when adding, recomme... | athola |
 | [deslop](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/deslop) | Remove AI-generated code slop from a branch. Use when cleaning up AI-generated code, removing unnecessary comments, d... | davila7 |
 | [developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis) | Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvemen... | ComposioHQ |
 | [developer-growth-analysis](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/developer-growth-analysis) | Analyzes your recent Claude Code chat history to identify coding patterns, development gaps, and areas for improvemen... | davila7 |
@@ -8254,7 +8257,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*547 skills in this domain*
+*549 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8466,6 +8469,7 @@
 | [go-concurrency-patterns](https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/go-concurrency-patterns) | Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applic... | wshobson |
 | [governance-checklist-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/governance-checklist-generator) | Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflows. Triggers on: gove... | jeremylongshore |
 | [governance-checklist-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/governance-checklist-generator) | Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflows. Triggers on: gove... | jeremylongshore |
+| [graduated-implementation](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/graduated-implementation) | Ramps implementation ambition a notch only after the prior increment is understood. Use when building a feature you m... | athola |
 | [grafana-dashboards](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/grafana-dashboards) | Create and manage production-ready Grafana dashboards for comprehensive system observability. | davila7 |
 | [grammarly-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/grammarly-pack/skills/grammarly-core-workflow-b) | Execute Grammarly secondary workflow: Core Workflow B. Use when implementing secondary use case, or complementing pri... | jeremylongshore |
 | [grammarly-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/grammarly-pack/skills/grammarly-core-workflow-b) | Execute Grammarly secondary workflow: Core Workflow B. Use when implementing secondary use case, or complementing pri... | jeremylongshore |
@@ -8769,6 +8773,7 @@
 | [user-story-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/user-story-generator) | Generate user story generator operations. Auto-activating skill for Enterprise Workflows. Triggers on: user story gen... | jeremylongshore |
 | [using-git-worktrees](https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees) | Use when starting feature work that needs isolation from current workspace or before executing implementation plans -... | obra |
 | [uv-package-manager](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/uv-package-manager) | Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project ... | wshobson |
+| [validate-pr](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/validate-pr) |  | athola |
 | [veeva-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-enterprise-rbac) | Veeva Vault enterprise rbac for enterprise operations. Use when implementing advanced Veeva Vault patterns. Trigger: ... | jeremylongshore |
 | [veeva-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-enterprise-rbac) | Veeva Vault enterprise rbac for enterprise operations. Use when implementing advanced Veeva Vault patterns. Trigger: ... | jeremylongshore |
 | [veeva-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-incident-runbook) | Veeva Vault incident runbook for enterprise operations. Use when implementing advanced Veeva Vault patterns. Trigger:... | jeremylongshore |
@@ -8888,6 +8893,7 @@
 | [customerio-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-local-dev-loop) | Configure Customer.io local development workflow. Use when setting up local testing, dev/staging isolation, or mockin... | jeremylongshore |
 | [debugger](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/debugger) | Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues. | davila7 |
 | [debugging](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging) | Systematic debugging frameworks for finding and fixing bugs - includes root cause analysis, defense-in-depth validati... | mrgoonie |
+| [decision-journal](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/decision-journal) | Contract for the project decision journal (tradeoffs and lessons-learned logs). Use when recording a decision, tradeo... | athola |
 | [deferred-capture](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/deferred-capture) | Defines the contract for deferred-item capture across plugins. Use when building or validating a plugin's deferred-ca... | athola |
 | [defi-protocol-templates](https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates) | Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when... | wshobson |
 | [dependency-upgrade](https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade) | Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use ... | wshobson |
@@ -9129,10 +9135,9 @@
 | [twinmind-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-observability) | Monitor TwinMind transcription quality, meeting coverage, action item extraction rates, and memory vault health. Use ... | jeremylongshore |
 | [twinmind-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-observability) | Monitor TwinMind transcription quality, meeting coverage, action item extraction rates, and memory vault health. Use ... | jeremylongshore |
 | [ui-designer](https://github.com/daymade/claude-code-skills/tree/main/ui-designer) | Extract design systems from reference UI images and generate implementation-ready UI design prompts. Use when users p... | daymade |
-| [unified-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/unified-review) | Orchestrates multi-domain review (code, arch, tests, security) in a single pass. Use when comprehensive pre-release r... | athola |
+| [unified-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/unified-review) | Orchestrates multi-domain review (code, arch, tests, security) in a single pass. Use when thorough pre-release review... | athola |
 | [unittest-test-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/09-test-automation/unittest-test-creator) | Create unittest test creator operations. Auto-activating skill for Test Automation. Triggers on: unittest test creato... | jeremylongshore |
 | [unittest-test-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/unittest-test-creator) | Create unittest test creator operations. Auto-activating skill for Test Automation. Triggers on: unittest test creato... | jeremylongshore |
-| [validate-mr](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/validate-mr) | Use when you need a diff-derived test plan for an MR — reads the diff, groups changes by area, runs targeted verifica... | athola |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/skill-enhancers/validate-plugin/skills/validate-plugin) | Validate a Claude Code plugin directory against the official Anthropic spec and Intent Solutions enterprise standard.... | jeremylongshore |
 | [validate-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/validate-plugin/skills/validate-plugin) | Validate a Claude Code plugin directory against the official Anthropic spec and Intent Solutions enterprise standard.... | jeremylongshore |
 | [vastai-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-hello-world) | Rent your first GPU instance on Vast.ai and run a workload. Use when starting a new Vast.ai integration, testing your... | jeremylongshore |
@@ -10213,7 +10218,7 @@
 | [tutorial-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/tutorial-updates) | Generates or updates tutorials from VHS tapes and Playwright specs with dual-tone markdown and GIF recording. Use whe... | athola |
 | [twinmind-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-core-workflow-a) | Execute TwinMind primary workflow: Meeting transcription and summary generation. Use when implementing meeting captur... | jeremylongshore |
 | [twinmind-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-core-workflow-a) | Execute TwinMind primary workflow: Meeting transcription and summary generation. Use when implementing meeting captur... | jeremylongshore |
-| [update-readme](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/update-readme) | Refreshes README structure and content using repo context and exemplar research. Use when README needs a structural u... | athola |
+| [update-readme](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/update-readme) | Refreshes README structure favoring concision (an index, not a manual). Use when the README needs a structural update... | athola |
 | [version-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/version-updates) | Bumps versions, updates changelogs, and coordinates version changes across files for releases. Use when preparing a r... | athola |
 | [vhs-recording](https://github.com/athola/claude-night-market/tree/master/plugins/scry/skills/vhs-recording) | Generates terminal recordings using VHS tape scripts and produces GIF outputs. Use when creating demo GIFs or documen... | athola |
 | [visual-design-foundations](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/visual-design-foundations) | Apply typography, color theory, spacing systems, and iconography principles to create cohesive visual designs. Use wh... | wshobson |
