@@ -1,6 +1,5 @@
 # Data & Analytics
 
-| [doc2math](https://github.com/thebrierfox/doc2math-skill) | Document-to-mathematics formalization — converts natural language problem statements, specs, or documents into rigorous mathematical notation. Supports proof sketches, formal definitions, and symbolic representation extraction. | thebrierfox |
 [← Back to Main README](../README.md)
 
 *793 skills in this domain*

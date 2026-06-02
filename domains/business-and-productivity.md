@@ -1,7 +1,5 @@
 # Business & Productivity
 
-| [yield-intelligence](https://github.com/thebrierfox/yield-intelligence-skill) | Passive income portfolio analysis across US Treasuries, dividend ETFs, REITs, and preferred stocks. Build allocations targeting a specific monthly income goal — conservative, moderate, or aggressive. | thebrierfox |
-| [moatmri](https://github.com/thebrierfox/moatmri-skill) | AI disruption pressure analysis — measures moat erosion risk across revenue model, workflow defensibility, and talent leverage. Returns a ranked threat map and strategic countermove set. | thebrierfox |
 [← Back to Main README](../README.md)
 
 *98 skills in this domain*
