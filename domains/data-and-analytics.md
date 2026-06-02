@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*793 skills in this domain*
+*794 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Data Pipelines](#data-pipelines) - 515 skills
-- [Analytics & Queries](#analytics-queries) - 217 skills
+- [Analytics & Queries](#analytics-queries) - 218 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 4 skills
@@ -542,7 +542,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*217 skills*
+*218 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -763,6 +763,7 @@
 | [windsurf-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-observability) | Monitor Windsurf AI adoption, feature usage, and team productivity metrics. Use when tracking AI ... | jeremylongshore |
 | [windsurf-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics) | Analyze team AI usage patterns and productivity metrics. Activate when users mention "usage analy... | jeremylongshore |
 | [windsurf-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics) | Analyze team AI usage patterns and productivity metrics. Activate when users mention "usage analy... | jeremylongshore |
+| [xvary-stock-research](https://github.com/xvary-research/claude-code-stock-analysis-skill/tree/main) | Use when building thesis-driven equity analysis in Claude Code from public SEC EDGAR data and mar... | xvary-research |
 
 <a name="data-warehousing"></a>
 ## Data Warehousing

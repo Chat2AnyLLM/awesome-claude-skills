@@ -20,9 +20,9 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 793 skills
+- [Data & Analytics](#data-and-analytics) - 794 skills
   - [Data Pipelines](#data-pipelines) - 515 skills
-  - [Analytics & Queries](#analytics-and-queries) - 217 skills
+  - [Analytics & Queries](#analytics-and-queries) - 218 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 4 skills
@@ -5460,7 +5460,7 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*793 skills in this domain*
+*794 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
@@ -5986,7 +5986,7 @@
 
 <a name="analytics-and-queries"></a>
 ## Analytics & Queries
-*217 skills*
+*218 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6207,6 +6207,7 @@
 | [windsurf-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-observability) | Monitor Windsurf AI adoption, feature usage, and team productivity metrics. Use when tracking AI feature usage, measu... | jeremylongshore |
 | [windsurf-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics) | Analyze team AI usage patterns and productivity metrics. Activate when users mention "usage analytics", "ai metrics",... | jeremylongshore |
 | [windsurf-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics) | Analyze team AI usage patterns and productivity metrics. Activate when users mention "usage analytics", "ai metrics",... | jeremylongshore |
+| [xvary-stock-research](https://github.com/xvary-research/claude-code-stock-analysis-skill/tree/main) | Use when building thesis-driven equity analysis in Claude Code from public SEC EDGAR data and market snapshots — work... | xvary-research |
 
 <a name="data-warehousing"></a>
 ## Data Warehousing
