@@ -854,5 +854,4 @@
 | [forecasting-time-series-data](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/time-series-forecaster/skills/forecasting-time-series-data) | Process this skill enables AI assistant to forecast future values based on historical time series... | jeremylongshore |
 
 
-| [doc2math](https://github.com/thebrierfox/doc2math-skill) | Document-to-mathematics formalization — converts natural language problem statements, specs, or documents into rigorous mathematical notation. Supports proof sketches, formal definitions, and symbolic representation extraction. | thebrierfox |
 [← Back to Main README](../README.md)
