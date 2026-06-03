@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*165 skills in this domain*
+*167 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -54,6 +54,8 @@
 | [cursor-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-upgrade-migration) | Upgrade Cursor versions, migrate from VS Code, and transfer settings between machines. Triggers o... | jeremylongshore |
 | [deal-playbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/deal-playbook) | Write sales playbooks — outbound sequences, discovery call guides, objection handling scripts, an... | jeremylongshore |
 | [deal-playbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/deal-playbook) | Write sales playbooks — outbound sequences, discovery call guides, objection handling scripts, an... | jeremylongshore |
+| [deal-qualify](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-qualify) | MEDDPICC-based deal qualification worksheet — guide Deal through structured qualification of any ... | jeremylongshore |
+| [deal-qualify](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-qualify) | MEDDPICC-based deal qualification worksheet — guide Deal through structured qualification of any ... | jeremylongshore |
 | [decisive-action](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/decisive-action) | Guides when to ask clarifying questions versus proceed autonomously. Use to reduce unnecessary cl... | athola |
 | [defuddle](https://github.com/kepano/obsidian-skills/tree/main/skills/defuddle) | Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation... | kepano |
 | [deprecation-notice-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/deprecation-notice-generator) | Generate deprecation notice generator operations. Auto-activating skill for Technical Documentati... | jeremylongshore |

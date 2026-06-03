@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*225 skills in this domain*
+*233 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -64,6 +64,12 @@
 | [glean-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/glean-pack/skills/glean-incident-runbook) | Triage: Is search returning results? Check Glean status page. Trigger: "glean incident runbook", ... | jeremylongshore |
 | [google-adk-python](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/google-adk-python) |  | mrgoonie |
 | [graph-search](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/graph-search) | Searches the code knowledge graph by function, class, or type using FTS5 full-text search. Use wh... | athola |
+| [hyperflow-amplify](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-amplify) |  | jeremylongshore |
+| [hyperflow-amplify](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-amplify) |  | jeremylongshore |
+| [hyperflow-scope](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scope) | Hyperflow planning phase. Use when a task is clear enough to decompose into batched steps before ... | jeremylongshore |
+| [hyperflow-scope](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scope) | Hyperflow planning phase. Use when a task is clear enough to decompose into batched steps before ... | jeremylongshore |
+| [hyperflow-sticky](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-sticky) | Hyperflow auto-routing mode. Use to control how aggressively hyperflow auto-routes — "make hyperf... | jeremylongshore |
+| [hyperflow-sticky](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-sticky) | Hyperflow auto-routing mode. Use to control how aggressively hyperflow auto-routes — "make hyperf... | jeremylongshore |
 | [i18n-localization](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/i18n-localization) | Internationalization and localization patterns. Detecting hardcoded strings, managing translation... | davila7 |
 | [injury-report-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/injury-report-tracker) | Monitor injury news across leagues. Fantasy impact analysis, backup player analysis, return timel... | OneWave-AI |
 | [interaction-design](https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/interaction-design) | Design and implement microinteractions, motion design, transitions, and user feedback patterns. U... | wshobson |
@@ -203,6 +209,8 @@
 | [skill-graph-audit](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/skill-graph-audit) | Audit Skill() refs; detect hubs, isolates, and dangling targets. Use when auditing skills. | athola |
 | [snowflake-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-cost-tuning) | Optimize Snowflake costs with resource monitors, warehouse auto-suspend, right-sizing, and credit... | jeremylongshore |
 | [snowflake-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-cost-tuning) | Optimize Snowflake costs with resource monitors, warehouse auto-suspend, right-sizing, and credit... | jeremylongshore |
+| [sticky](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/sticky) | Use when the user wants to set auto-routing mode: on (every task-shaped message routes), auto (in... | jeremylongshore |
+| [sticky](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/sticky) | Use when the user wants to set auto-routing mode: on (every task-shaped message routes), auto (in... | jeremylongshore |
 | [stock-photo-finder](https://github.com/OneWave-AI/claude-skills/tree/main/stock-photo-finder) | Search multiple free stock photo sites simultaneously. Filter by license type, orientation, and c... | OneWave-AI |
 | [surge](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/surge) | Growth engineer — acquisition channels, activation funnels, retention playbooks, and PLG strategy. | jeremylongshore |
 | [surge](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/surge) | Growth engineer — acquisition channels, activation funnels, retention playbooks, and PLG strategy. | jeremylongshore |

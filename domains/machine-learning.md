@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*329 skills in this domain*
+*331 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 206 skills
+- [Model Training](#model-training) - 208 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*206 skills*
+*208 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -104,6 +104,8 @@
 | [implementing-llms-litgpt](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/01-model-architecture/litgpt) | Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, ... | zechenzhangAGI |
 | [keep-health](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/keep-health) | Design a customer health scoring model — define signals, weights, thresholds, and action triggers... | jeremylongshore |
 | [keep-health](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/keep-health) | Design a customer health scoring model — define signals, weights, thresholds, and action triggers... | jeremylongshore |
+| [keep-segment](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/keep-segment) | Customer segmentation model builder — tiers customers by ARR, health, and expansion potential; de... | jeremylongshore |
+| [keep-segment](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/keep-segment) | Customer segmentation model builder — tiers customers by ARR, health, and expansion potential; de... | jeremylongshore |
 | [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-local-dev-loop) | Build a fast, deterministic local test loop for LangChain 1.0 / LangGraph 1.0 — FakeListChatModel... | jeremylongshore |
 | [langchain-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-local-dev-loop) | Build a fast, deterministic local test loop for LangChain 1.0 / LangGraph 1.0 — FakeListChatModel... | jeremylongshore |
 | [learning-rate-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/learning-rate-scheduler) | Manage learning rate scheduler operations. Auto-activating skill for ML Training. Triggers on: le... | jeremylongshore |
@@ -332,8 +334,8 @@
 | [qa-test-planner](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/qa-test-planner) | Generate comprehensive test plans, manual test cases, regression test suites, and bug reports for... | davila7 |
 | [setup](https://github.com/athola/claude-night-market/tree/master/plugins/oracle/skills/setup) | Provisions the oracle ML inference daemon with onnxruntime via uv. Use when setting up local ONNX... | athola |
 | [statsmodels](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/statsmodels) | Statistical modeling toolkit. OLS, GLM, logistic, ARIMA, time series, hypothesis tests, diagnosti... | davila7 |
-| [surge-plg](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/surge-plg) | PLG motion design — free tier definition, activation sequence, expansion trigger points, viral me... | jeremylongshore |
-| [surge-plg](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/surge-plg) | PLG motion design — free tier definition, activation sequence, expansion trigger points, viral me... | jeremylongshore |
+| [surge-plg](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/surge-plg) | PLG motion design — free tier definition, activation sequence, expansion trigger points, viral me... | jeremylongshore |
+| [surge-plg](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/surge-plg) | PLG motion design — free tier definition, activation sequence, expansion trigger points, viral me... | jeremylongshore |
 | [threat-modeling-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/threat-modeling-expert) | Expert in threat modeling methodologies, security architecture review, and risk assessment. Maste... | davila7 |
 | [torch-geometric](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/torch_geometric) | Graph Neural Networks (PyG). Node/graph classification, link prediction, GCN, GAT, GraphSAGE, het... | davila7 |
 

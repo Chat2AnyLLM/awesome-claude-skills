@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4466 skills in this domain*
+*4487 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,9 +11,9 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2651 skills
-- [Database Design](#database-design) - 1311 skills
-- [Request Handling](#request-handling) - 263 skills
+- [APIs & REST](#apis-rest) - 2658 skills
+- [Database Design](#database-design) - 1319 skills
+- [Request Handling](#request-handling) - 269 skills
 - [Web Frameworks](#web-frameworks) - 175 skills
 - [Authentication](#authentication) - 22 skills
 - [Message Queues](#message-queues) - 17 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2651 skills*
+*2658 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -183,6 +183,8 @@
 | [anth-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-webhooks-events) | Implement event-driven patterns with Claude API: streaming SSE events, Message Batches callbacks,... | jeremylongshore |
 | [anthropic_administrator-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/anthropic_administrator-automation) | Automate Anthropic Admin tasks via Rube MCP (Composio): API keys, usage, workspaces, and organiza... | ComposioHQ |
 | [anti-deception](https://github.com/ejentum/ejentum-mcp/tree/main/skills/anti-deception) | Use BEFORE responding when the user's request shows pressure to validate or agree ("tell them wha... | ejentum |
+| [anti-deception](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/ejentum-anti-deception) | Use BEFORE responding when the user's request shows pressure to validate or agree ("tell them wha... | jeremylongshore |
+| [anti-deception](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/ejentum-anti-deception) | Use BEFORE responding when the user's request shows pressure to validate or agree ("tell them wha... | jeremylongshore |
 | [API Fuzzing for Bug Bounty](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/api-fuzzing-bug-bounty) | This skill should be used when the user asks to "test API security", "fuzz APIs", "find IDOR vuln... | davila7 |
 | [API Integration Specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-integration-specialist) | Expert in integrating third-party APIs with proper authentication, error handling, rate limiting,... | davila7 |
 | [api-bible-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/api-bible-automation) | Automate API Bible tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -634,6 +636,8 @@
 | [cloudflare-troubleshooting](https://github.com/daymade/claude-code-skills/tree/main/cloudflare-troubleshooting) | Investigate and resolve Cloudflare configuration issues using API-driven evidence gathering. Use ... | daymade |
 | [cocoindex](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cocoindex) | Comprehensive toolkit for developing with the CocoIndex library. Use when users need to create da... | davila7 |
 | [code](https://github.com/ejentum/ejentum-mcp/tree/main/skills/code) | Use BEFORE generating, refactoring, reviewing, or debugging code. Trigger phrases include "write ... | ejentum |
+| [code](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/ejentum-code) | Use BEFORE generating, refactoring, reviewing, or debugging code. Trigger phrases include "write ... | jeremylongshore |
+| [code](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/ejentum-code) | Use BEFORE generating, refactoring, reviewing, or debugging code. Trigger phrases include "write ... | jeremylongshore |
 | [code-documenter](https://github.com/Jeffallan/claude-skills/tree/main/skills/code-documenter) | Generates, formats, and validates technical documentation — including docstrings, OpenAPI/Swagger... | Jeffallan |
 | [coderabbit-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-rate-limits) | Understand and handle CodeRabbit and GitHub API rate limits for review automation. Use when hitti... | jeremylongshore |
 | [coderabbit-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-rate-limits) | Understand and handle CodeRabbit and GitHub API rate limits for review automation. Use when hitti... | jeremylongshore |
@@ -2043,6 +2047,8 @@
 | [rate-limiting-apis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-rate-limiter/skills/rate-limiting-apis) | Implement sophisticated rate limiting with sliding windows, token buckets, and quotas. Use when p... | jeremylongshore |
 | [rate-limiting-apis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-rate-limiter/skills/rate-limiting-apis) | Implement sophisticated rate limiting with sliding windows, token buckets, and quotas. Use when p... | jeremylongshore |
 | [reasoning](https://github.com/ejentum/ejentum-mcp/tree/main/skills/reasoning) | Use BEFORE answering analytical, diagnostic, planning, or multi-step reasoning questions. Trigger... | ejentum |
+| [reasoning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/ejentum-reasoning) | Use BEFORE answering analytical, diagnostic, planning, or multi-step reasoning questions. Trigger... | jeremylongshore |
+| [reasoning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/ejentum-reasoning) | Use BEFORE answering analytical, diagnostic, planning, or multi-step reasoning questions. Trigger... | jeremylongshore |
 | [remofirst-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/remofirst-pack/skills/remofirst-common-errors) | RemoFirst common errors — global HR, EOR, and payroll platform integration. Use when working with... | jeremylongshore |
 | [remofirst-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/remofirst-pack/skills/remofirst-common-errors) | RemoFirst common errors — global HR, EOR, and payroll platform integration. Use when working with... | jeremylongshore |
 | [remofirst-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/remofirst-pack/skills/remofirst-core-workflow-a) | RemoFirst core workflow a — global HR, EOR, and payroll platform integration. Use when working wi... | jeremylongshore |
@@ -2279,6 +2285,7 @@
 | [similarweb_digitalrank_api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/similarweb_digitalrank_api-automation) | Automate SimilarWeb tasks via Rube MCP (Composio): website traffic, rankings, and digital market ... | ComposioHQ |
 | [snowflake-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-webhooks-events) | Implement Snowflake event-driven patterns with alerts, notifications, and external functions. Use... | jeremylongshore |
 | [snowflake-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-webhooks-events) | Implement Snowflake event-driven patterns with alerts, notifications, and external functions. Use... | jeremylongshore |
+| [social-publishing](https://github.com/wshobson/agents/tree/main/plugins/social-publishing/skills/social-publishing) | Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pag... | wshobson |
 | [socialclaw](https://github.com/ndesv21/socialclaw/tree/main/.agents/skills/socialclaw) | Use when a user wants social media scheduling and publishing for AI agents on X, LinkedIn, Instag... | ndesv21 |
 | [sora](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/video/sora) | Use when the user asks to generate, remix, poll, list, download, or delete Sora videos via OpenAI... | davila7 |
 | [sorting-parameter-handler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/15-api-development/sorting-parameter-handler) | Manage sorting parameter handler operations. Auto-activating skill for API Development. Triggers ... | jeremylongshore |
@@ -2680,7 +2687,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1311 skills*
+*1319 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2752,6 +2759,8 @@
 | [async-python-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/async-python-patterns) | Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurren... | davila7 |
 | [audiocraft-audio-generation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-audiocraft) | PyTorch library for audio generation including text-to-music (MusicGen) and text-to-sound (AudioG... | davila7 |
 | [audiocraft-audio-generation](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/audiocraft) | PyTorch library for audio generation including text-to-music (MusicGen) and text-to-sound (AudioG... | zechenzhangAGI |
+| [audit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/audit) | Use when the user wants a code review on recent changes — quality, spec, security, or performance... | jeremylongshore |
+| [audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/audit) | Use when the user wants a code review on recent changes — quality, spec, security, or performance... | jeremylongshore |
 | [audit-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/claude-workflow-skills/skills/audit-plugin) | Performs a deep review of the Claude Code plugin, skill, or sub-agent defined in the current proj... | jeremylongshore |
 | [audit-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claude-workflow-skills/skills/audit-plugin) | Performs a deep review of the Claude Code plugin, skill, or sub-agent defined in the current proj... | jeremylongshore |
 | [autogpt-agents](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-autogpt) | Autonomous AI agent platform for building and deploying continuous agents. Use when creating visu... | davila7 |
@@ -2790,6 +2799,8 @@
 | [building-terraform-modules](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/terraform-module-builder/skills/building-terraform-modules) | Execute this skill empowers AI assistant to build reusable terraform modules based on user specif... | jeremylongshore |
 | [building-terraform-modules](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/terraform-module-builder/skills/building-terraform-modules) | Execute this skill empowers AI assistant to build reusable terraform modules based on user specif... | jeremylongshore |
 | [Burp Suite Web Application Testing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/burp-suite-testing) | This skill should be used when the user asks to "intercept HTTP traffic", "modify web requests", ... | davila7 |
+| [buzz-devrel](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/buzz-devrel) | Developer relations playbook builder — produces a DevRel program design covering community platfo... | jeremylongshore |
+| [buzz-devrel](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/buzz-devrel) | Developer relations playbook builder — produces a DevRel program design covering community platfo... | jeremylongshore |
 | [byteforms-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/byteforms-automation) | Automate Byteforms tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [castai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-ci-integration) | Integrate CAST AI policy validation and cost checks into CI/CD pipelines. Use when adding CAST AI... | jeremylongshore |
 | [castai-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/castai-pack/skills/castai-ci-integration) | Integrate CAST AI policy validation and cost checks into CI/CD pipelines. Use when adding CAST AI... | jeremylongshore |
@@ -3271,6 +3282,10 @@
 | [hundred-million-offers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-hundred-million-offers) | Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, a... | jeremylongshore |
 | [hundred-million-offers](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-hundred-million-offers) | Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, a... | jeremylongshore |
 | [hybrid-cloud-networking](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/hybrid-cloud-networking) | Configure secure, high-performance connectivity between on-premises infrastructure and cloud plat... | wshobson |
+| [hyperflow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/hyperflow) | Use when applying Hyperflow's orchestration doctrine in Codex, Antigravity, or another single-age... | jeremylongshore |
+| [hyperflow](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/hyperflow) | Use when applying Hyperflow's orchestration doctrine in Codex, Antigravity, or another single-age... | jeremylongshore |
+| [hyperflow-spec](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-spec) | Hyperflow design phase. Use when the user is exploring an idea, weighing approaches, or has an am... | jeremylongshore |
+| [hyperflow-spec](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-spec) | Hyperflow design phase. Use when the user is exploring an idea, weighing approaches, or has an am... | jeremylongshore |
 | [hypogenic](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/hypogenic) | Automated LLM-driven hypothesis generation and testing on tabular datasets. Use when you want to ... | K-Dense-AI |
 | [hypothesis-generation](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/hypothesis-generation) | Structured hypothesis formulation from observations. Use when you have experimental observations ... | K-Dense-AI |
 | [hypothesis-generation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/hypothesis-generation) | Generate testable hypotheses. Formulate from observations, design experiments, explore competing ... | davila7 |
@@ -3998,7 +4013,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*263 skills*
+*269 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4030,6 +4045,8 @@
 | [building-classification-models](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/classification-model-builder/skills/building-classification-models) | Build and evaluate classification models for supervised learning tasks with labeled data. Use whe... | jeremylongshore |
 | [building-neural-networks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/neural-network-builder/skills/building-neural-networks) | Execute this skill allows AI assistant to construct and configure neural network architectures us... | jeremylongshore |
 | [building-neural-networks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/neural-network-builder/skills/building-neural-networks) | Execute this skill allows AI assistant to construct and configure neural network architectures us... | jeremylongshore |
+| [buzz-hn](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/buzz-hn) | Hacker News post crafter — given a product, feature, or story produces a ready-to-post HN submiss... | jeremylongshore |
+| [buzz-hn](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/buzz-hn) | Hacker News post crafter — given a product, feature, or story produces a ready-to-post HN submiss... | jeremylongshore |
 | [captions](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/captions) | Use when captions, subtitles, or the spoken text of a YouTube video is needed — even if not expli... | ZeroPointRepo |
 | [castai-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-core-workflow-b) | Configure CAST AI Workload Autoscaler for pod-level right-sizing and VPA. Use when enabling workl... | jeremylongshore |
 | [castai-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/castai-pack/skills/castai-core-workflow-b) | Configure CAST AI Workload Autoscaler for pod-level right-sizing and VPA. Use when enabling workl... | jeremylongshore |
@@ -4206,6 +4223,8 @@
 | [requesting-code-review](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) | Use when completing tasks, implementing major features, or before merging to verify work meets re... | obra |
 | [responding-to-security-incidents](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/security-incident-responder/skills/responding-to-security-incidents) | Analyze and guide security incident response, investigation, and remediation processes. Use when ... | jeremylongshore |
 | [responding-to-security-incidents](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/security-incident-responder/skills/responding-to-security-incidents) | Analyze and guide security incident response, investigation, and remediation processes. Use when ... | jeremylongshore |
+| [review-pr](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/claude-workflow-skills/skills/review-pr) | Reviews an open pull request against coding standards, security, and test coverage, then posts a ... | jeremylongshore |
+| [review-pr](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claude-workflow-skills/skills/review-pr) | Reviews an open pull request against coding standards, security, and test coverage, then posts a ... | jeremylongshore |
 | [running-clustering-algorithms](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/clustering-algorithm-runner/skills/running-clustering-algorithms) | Analyze datasets by running clustering algorithms (K-means, DBSCAN, hierarchical) to identify dat... | jeremylongshore |
 | [running-clustering-algorithms](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/clustering-algorithm-runner/skills/running-clustering-algorithms) | Analyze datasets by running clustering algorithms (K-means, DBSCAN, hierarchical) to identify dat... | jeremylongshore |
 | [salesforce-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/salesforce-pack/skills/salesforce-data-handling) | Implement Salesforce data privacy, GDPR/CCPA compliance, and field-level encryption patterns. Use... | jeremylongshore |
@@ -4226,6 +4245,8 @@
 | [slack-gif-creator](https://github.com/Prat011/awesome-llm-skills/tree/master/slack-gif-creator) | Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and ... | Prat011 |
 | [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, val... | anthropics |
 | [slack-gif-creator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/slack-gif-creator) | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, val... | davila7 |
+| [spec](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/spec) | Use when the user is exploring a design idea, weighing approaches, or has an ambiguous request. A... | jeremylongshore |
+| [spec](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/spec) | Use when the user is exploring a design idea, weighing approaches, or has an ambiguous request. A... | jeremylongshore |
 | [splitting-datasets](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/dataset-splitter/skills/splitting-datasets) | Process split datasets into training, validation, and testing sets for ML model development. Use ... | jeremylongshore |
 | [splitting-datasets](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/dataset-splitter/skills/splitting-datasets) | Process split datasets into training, validation, and testing sets for ML model development. Use ... | jeremylongshore |
 | [sre-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/sre-engineer) | Defines service level objectives, creates error budget policies, designs incident response proced... | Jeffallan |

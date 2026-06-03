@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*281 skills in this domain*
+*283 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -131,6 +131,8 @@
 | [http-header-security-audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/http-header-security-audit) | Execute http header security audit operations. Auto-activating skill for Security Fundamentals. T... | jeremylongshore |
 | [https-certificate-checker](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/03-security-fundamentals/https-certificate-checker) | Validate https certificate checker operations. Auto-activating skill for Security Fundamentals. T... | jeremylongshore |
 | [https-certificate-checker](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/https-certificate-checker) | Validate https certificate checker operations. Auto-activating skill for Security Fundamentals. T... | jeremylongshore |
+| [hyperflow-audit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-audit) | Hyperflow code review. Use when the user wants the current diff, a commit, branch, or PR reviewed... | jeremylongshore |
+| [hyperflow-audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-audit) | Hyperflow code review. Use when the user wants the current diff, a commit, branch, or PR reviewed... | jeremylongshore |
 | [iam-policy-reviewer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/04-security-advanced/iam-policy-reviewer) | Execute iam policy reviewer operations. Auto-activating skill for Security Advanced. Triggers on:... | jeremylongshore |
 | [iam-policy-reviewer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/iam-policy-reviewer) | Execute iam policy reviewer operations. Auto-activating skill for Security Advanced. Triggers on:... | jeremylongshore |
 | [improve](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/claude-workflow-skills/skills/improve) | Analyses the current project across code quality, feature gaps, documentation, security, competit... | jeremylongshore |

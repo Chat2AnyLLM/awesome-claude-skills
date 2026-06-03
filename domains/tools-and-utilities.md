@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*632 skills in this domain*
+*634 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -307,6 +307,8 @@
 | [infographic-creator](https://github.com/antvis/Infographic/tree/main/skills/infographic-creator) | 基于给定文字内容创建精美信息图。当用户请求创建信息图时使用。 | antvis |
 | [infographic-outline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/18-visual-content/infographic-outline-creator) | Create infographic outline creator operations. Auto-activating skill for Visual Content. Triggers... | jeremylongshore |
 | [infographic-outline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/infographic-outline-creator) | Create infographic outline creator operations. Auto-activating skill for Visual Content. Triggers... | jeremylongshore |
+| [ink-cluster](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/ink-cluster) | Topic cluster architecture builder — takes a core topic and maps the full cluster with 1 pillar p... | jeremylongshore |
+| [ink-cluster](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/ink-cluster) | Topic cluster architecture builder — takes a core topic and maps the full cluster with 1 pillar p... | jeremylongshore |
 | [instacart-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/instacart-automation) | Automate Instacart tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [interzoid-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/interzoid-automation) | Automate Interzoid tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [invoice-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/invoice-generator) | Generate invoice generator operations. Auto-activating skill for Business Automation. Triggers on... | jeremylongshore |

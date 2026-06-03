@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*794 skills in this domain*
+*796 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -15,7 +15,7 @@
 - [Analytics & Queries](#analytics-queries) - 218 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
-- [Business Intelligence](#business-intelligence) - 4 skills
+- [Business Intelligence](#business-intelligence) - 6 skills
 - [Time Series](#time-series) - 2 skills
 
 <a name="data-pipelines"></a>
@@ -836,10 +836,12 @@
 
 <a name="business-intelligence"></a>
 ## Business Intelligence
-*4 skills*
+*6 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [keep-qbr](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/keep-qbr) | Quarterly Business Review template generator — takes account info (ARR tier, adoption metrics, go... | jeremylongshore |
+| [keep-qbr](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/keep-qbr) | Quarterly Business Review template generator — takes account info (ARR tier, adoption metrics, go... | jeremylongshore |
 | [lead-scoring-model](https://github.com/OneWave-AI/claude-skills/tree/main/lead-scoring-model) | Builds a custom lead scoring model for a business. Takes ICP definition, historical win/loss data... | OneWave-AI |
 | [prospect-research-compiler](https://github.com/OneWave-AI/claude-skills/tree/main/prospect-research-compiler) | Aggregate prospect intelligence from multiple sources including news, social media, company websi... | OneWave-AI |
 | [terms-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/general-legal-assistant/skills/terms-generator) | Generates comprehensive terms of service by analyzing a website or application to detect business... | jeremylongshore |
