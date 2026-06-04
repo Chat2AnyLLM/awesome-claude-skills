@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*827 skills in this domain*
+*828 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -13,7 +13,7 @@
 
 - [Cloud Platforms](#cloud-platforms) - 472 skills
 - [CI/CD](#cicd) - 223 skills
-- [Containers](#containers) - 80 skills
+- [Containers](#containers) - 81 skills
 - [Monitoring](#monitoring) - 22 skills
 - [Security](#security) - 12 skills
 - [Networking](#networking) - 8 skills
@@ -731,7 +731,7 @@
 
 <a name="containers"></a>
 ## Containers
-*80 skills*
+*81 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -781,6 +781,7 @@
 | [helm-chart-scaffolding](https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/helm-chart-scaffolding) | Design, organize, and manage Helm charts for templating and packaging Kubernetes applications wit... | wshobson |
 | [helm-values-manager](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/02-devops-advanced/helm-values-manager) | Manage helm values manager operations. Auto-activating skill for DevOps Advanced. Triggers on: he... | jeremylongshore |
 | [helm-values-manager](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/02-devops-advanced/helm-values-manager) | Manage helm values manager operations. Auto-activating skill for DevOps Advanced. Triggers on: he... | jeremylongshore |
+| [huggingface-spaces](https://github.com/huggingface/skills/tree/main/skills/huggingface-spaces) | Build, deploy, and maintain applications on Hugging Face Spaces — Gradio / Docker / Static SDKs, ... | huggingface |
 | [k8s-manifest-generator](https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-manifest-generator) | Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets f... | wshobson |
 | [k8s-security-policies](https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-security-policies) | Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for p... | wshobson |
 | [kubernetes-deployment-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/02-devops-advanced/kubernetes-deployment-creator) | Create kubernetes deployment creator operations. Auto-activating skill for DevOps Advanced. Trigg... | jeremylongshore |
