@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*765 skills in this domain*
+*766 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -627,6 +627,7 @@
 | [sentry-reliability-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-reliability-patterns) | Build reliable Sentry integrations with graceful degradation, circuit breakers, and offline queui... | jeremylongshore |
 | [sentry-reliability-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-reliability-patterns) | Build reliable Sentry integrations with graceful degradation, circuit breakers, and offline queui... | jeremylongshore |
 | [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer/tree/main) | Create blog posts optimized for traditional search engines (SEO) and generative AI citations (GEO... | weipanux |
+| [sequenzy](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy) | Generic compatibility guide for Sequenzy operations. Use for broad Sequenzy references, but prefe... | Sequenzy |
 | [session-management](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/session-management) | Manages Claude Code sessions with naming, checkpointing, and resume strategies. Use when organizi... | athola |
 | [session-replay](https://github.com/athola/claude-night-market/tree/master/plugins/scribe/skills/session-replay) | Converts a Claude Code session JSONL file into an animated GIF terminal replay. Use when creating... | athola |
 | [session-to-post](https://github.com/athola/claude-night-market/tree/master/plugins/scribe/skills/session-to-post) | Converts a Claude Code session into a blog post, case study, or Reddit post. Use when publishing ... | athola |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4487 skills in this domain*
+*4486 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2658 skills
-- [Database Design](#database-design) - 1319 skills
+- [APIs & REST](#apis-rest) - 2656 skills
+- [Database Design](#database-design) - 1320 skills
 - [Request Handling](#request-handling) - 269 skills
 - [Web Frameworks](#web-frameworks) - 175 skills
 - [Authentication](#authentication) - 22 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2658 skills*
+*2656 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2182,8 +2182,6 @@
 | [sentry-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-migration-deep-dive) | Migrate to Sentry from other error tracking tools like Rollbar, Bugsnag, or New Relic. Use when r... | jeremylongshore |
 | [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Upgrade Sentry SDK versions and migrate breaking API changes. Use when upgrading from Sentry v7 t... | jeremylongshore |
 | [sentry-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-upgrade-migration) | Upgrade Sentry SDK versions and migrate breaking API changes. Use when upgrading from Sentry v7 t... | jeremylongshore |
-| [sequenzy](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy) | Agent guide for operating Sequenzy. Use when Codex needs to authenticate, inspect identity, manag... | Sequenzy |
-| [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Agent guide for operating Sequenzy. Use when Codex needs to authenticate, inspect identity, manag... | Sequenzy |
 | [serpapi-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/serpapi-automation) | Automate Serpapi tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [serpapi-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/serpapi-pack/skills/serpapi-ci-integration) | Set up CI/CD for SerpApi integrations with fixture-based testing. Use when automating SerpApi tes... | jeremylongshore |
 | [serpapi-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/serpapi-pack/skills/serpapi-ci-integration) | Set up CI/CD for SerpApi integrations with fixture-based testing. Use when automating SerpApi tes... | jeremylongshore |
@@ -2687,7 +2685,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1319 skills*
+*1320 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3788,6 +3786,7 @@
 | [sentry-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-sdk-patterns) | Best practices for using Sentry SDK in TypeScript and Python. Use when implementing structured er... | jeremylongshore |
 | [sentry-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-sdk-patterns) | Best practices for using Sentry SDK in TypeScript and Python. Use when implementing structured er... | jeremylongshore |
 | [seo-content-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/seo-optimizer) | Optimize content for search engines with keyword analysis, readability scoring, meta descriptions... | OneWave-AI |
+| [sequenzy-email-marketing](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) | Primary agent guide for operating Sequenzy as an email-marketing platform. Use when Codex needs t... | Sequenzy |
 | [ship-learn-next](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/ship-learn-next) | Transform learning content (like YouTube transcripts, articles, tutorials) into actionable implem... | davila7 |
 | [shopify-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-deploy-integration) | Deploy Shopify apps to Vercel, Fly.io, Railway, and Cloud Run with proper environment configurati... | jeremylongshore |
 | [shopify-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-deploy-integration) | Deploy Shopify apps to Vercel, Fly.io, Railway, and Cloud Run with proper environment configurati... | jeremylongshore |
