@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4486 skills in this domain*
+*4485 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2656 skills
-- [Database Design](#database-design) - 1320 skills
+- [Database Design](#database-design) - 1319 skills
 - [Request Handling](#request-handling) - 269 skills
 - [Web Frameworks](#web-frameworks) - 175 skills
 - [Authentication](#authentication) - 22 skills
@@ -2685,7 +2685,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1320 skills*
+*1319 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3334,7 +3334,6 @@
 | [kubernetes-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kubernetes-specialist) | Use when deploying or managing Kubernetes workloads. Invoke to create deployment manifests, confi... | Jeffallan |
 | [lambda-labs-gpu-cloud](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedic... | davila7 |
 | [lambda-labs-gpu-cloud](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedic... | zechenzhangAGI |
-| [lamindb](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology th... | K-Dense-AI |
 | [lamindb](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology th... | davila7 |
 | [landing-page-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-optimizer) | Optimize landing pages for conversions, performance, and SEO. Use when improving landing pages, i... | OneWave-AI |
 | [langfuse](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langfuse) | Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt managemen... | davila7 |

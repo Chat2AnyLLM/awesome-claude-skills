@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*796 skills in this domain*
+*797 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Data Pipelines](#data-pipelines) - 515 skills
-- [Analytics & Queries](#analytics-queries) - 218 skills
+- [Analytics & Queries](#analytics-queries) - 219 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
@@ -542,7 +542,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*218 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -649,6 +649,7 @@
 | [klingai-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-usage-analytics) | Build usage analytics and reporting for Kling AI video generation. Use when tracking patterns, an... | jeremylongshore |
 | [kpi-definition-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/kpi-definition-helper) | Configure with kpi definition helper operations. Auto-activating skill for Data Analytics. Trigge... | jeremylongshore |
 | [kpi-definition-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/kpi-definition-helper) | Configure with kpi definition helper operations. Auto-activating skill for Data Analytics. Trigge... | jeremylongshore |
+| [lamindb](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/lamindb) | Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets a... | K-Dense-AI |
 | [langfuse-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-cost-tuning) | Monitor and optimize LLM costs using Langfuse analytics and dashboards. Use when tracking LLM spe... | jeremylongshore |
 | [langfuse-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-cost-tuning) | Monitor and optimize LLM costs using Langfuse analytics and dashboards. Use when tracking LLM spe... | jeremylongshore |
 | [langfuse-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-observability) | Set up comprehensive observability for Langfuse with metrics, dashboards, and alerts. Use when im... | jeremylongshore |
@@ -678,7 +679,7 @@
 | [metric-calculator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/metric-calculator) | Configure and manage - Calculate metric calculator operations. Auto-activating skill for Data Ana... | jeremylongshore |
 | [mistral-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-observability) | Set up comprehensive observability for Mistral AI with metrics, traces, and alerts. Use when impl... | jeremylongshore |
 | [mistral-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-observability) | Set up comprehensive observability for Mistral AI with metrics, traces, and alerts. Use when impl... | jeremylongshore |
-| [neuropixels-analysis](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/neuropixels-analysis) | Neuropixels neural recording analysis. Load SpikeGLX/OpenEphys data, preprocess, motion correctio... | K-Dense-AI |
+| [neuropixels-analysis](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/neuropixels-analysis) | Analyze Neuropixels extracellular recordings end-to-end with SpikeInterface. Covers loading Spike... | K-Dense-AI |
 | [neuropixels-analysis](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/neuropixels-analysis) | Neuropixels neural recording analysis. Load SpikeGLX/OpenEphys data, preprocess, motion correctio... | davila7 |
 | [onenote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/onenote-pack/skills/onenote-core-workflow-b) | Search, query, and paginate OneNote content with OData filters and client-side search patterns. U... | jeremylongshore |
 | [onenote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/onenote-pack/skills/onenote-core-workflow-b) | Search, query, and paginate OneNote content with OData filters and client-side search patterns. U... | jeremylongshore |

@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4486 skills
+- [Backend Development](#backend-development) - 4485 skills
   - [APIs & REST](#apis-and-rest) - 2656 skills
-  - [Database Design](#database-design) - 1320 skills
+  - [Database Design](#database-design) - 1319 skills
   - [Request Handling](#request-handling) - 269 skills
   - [Web Frameworks](#web-frameworks) - 175 skills
   - [Authentication](#authentication) - 22 skills
@@ -20,9 +20,9 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 796 skills
+- [Data & Analytics](#data-and-analytics) - 797 skills
   - [Data Pipelines](#data-pipelines) - 515 skills
-  - [Analytics & Queries](#analytics-and-queries) - 218 skills
+  - [Analytics & Queries](#analytics-and-queries) - 219 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4486 skills in this domain*
+*4485 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2713,7 +2713,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1320 skills*
+*1319 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3362,7 +3362,6 @@
 | [kubernetes-specialist](https://github.com/Jeffallan/claude-skills/tree/main/skills/kubernetes-specialist) | Use when deploying or managing Kubernetes workloads. Invoke to create deployment manifests, configure pod security po... | Jeffallan |
 | [lambda-labs-gpu-cloud](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances w... | davila7 |
 | [lambda-labs-gpu-cloud](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/lambda-labs) | Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances w... | zechenzhangAGI |
-| [lamindb](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology that makes data querya... | K-Dense-AI |
 | [lamindb](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/lamindb) | This skill should be used when working with LaminDB, an open-source data framework for biology that makes data querya... | davila7 |
 | [landing-page-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-optimizer) | Optimize landing pages for conversions, performance, and SEO. Use when improving landing pages, increasing conversion... | OneWave-AI |
 | [langfuse](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langfuse) | Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datas... | davila7 |
@@ -5482,7 +5481,7 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*796 skills in this domain*
+*797 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
@@ -6008,7 +6007,7 @@
 
 <a name="analytics-and-queries"></a>
 ## Analytics & Queries
-*218 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6115,6 +6114,7 @@
 | [klingai-usage-analytics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-usage-analytics) | Build usage analytics and reporting for Kling AI video generation. Use when tracking patterns, analyzing costs, or bu... | jeremylongshore |
 | [kpi-definition-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/kpi-definition-helper) | Configure with kpi definition helper operations. Auto-activating skill for Data Analytics. Triggers on: kpi definitio... | jeremylongshore |
 | [kpi-definition-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/kpi-definition-helper) | Configure with kpi definition helper operations. Auto-activating skill for Data Analytics. Triggers on: kpi definitio... | jeremylongshore |
+| [lamindb](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/lamindb) | Use when working with LaminDB, the open-source lineage-native lakehouse for biological datasets and models. Covers se... | K-Dense-AI |
 | [langfuse-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-cost-tuning) | Monitor and optimize LLM costs using Langfuse analytics and dashboards. Use when tracking LLM spending, identifying c... | jeremylongshore |
 | [langfuse-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-cost-tuning) | Monitor and optimize LLM costs using Langfuse analytics and dashboards. Use when tracking LLM spending, identifying c... | jeremylongshore |
 | [langfuse-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-observability) | Set up comprehensive observability for Langfuse with metrics, dashboards, and alerts. Use when implementing monitorin... | jeremylongshore |
@@ -6144,7 +6144,7 @@
 | [metric-calculator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/metric-calculator) | Configure and manage - Calculate metric calculator operations. Auto-activating skill for Data Analytics. Triggers on:... | jeremylongshore |
 | [mistral-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-observability) | Set up comprehensive observability for Mistral AI with metrics, traces, and alerts. Use when implementing monitoring ... | jeremylongshore |
 | [mistral-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-observability) | Set up comprehensive observability for Mistral AI with metrics, traces, and alerts. Use when implementing monitoring ... | jeremylongshore |
-| [neuropixels-analysis](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/neuropixels-analysis) | Neuropixels neural recording analysis. Load SpikeGLX/OpenEphys data, preprocess, motion correction, Kilosort4 spike s... | K-Dense-AI |
+| [neuropixels-analysis](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/neuropixels-analysis) | Analyze Neuropixels extracellular recordings end-to-end with SpikeInterface. Covers loading SpikeGLX/Open Ephys/NWB d... | K-Dense-AI |
 | [neuropixels-analysis](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/neuropixels-analysis) | Neuropixels neural recording analysis. Load SpikeGLX/OpenEphys data, preprocess, motion correction, Kilosort4 spike s... | davila7 |
 | [onenote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/onenote-pack/skills/onenote-core-workflow-b) | Search, query, and paginate OneNote content with OData filters and client-side search patterns. Use when building sea... | jeremylongshore |
 | [onenote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/onenote-pack/skills/onenote-core-workflow-b) | Search, query, and paginate OneNote content with OData filters and client-side search patterns. Use when building sea... | jeremylongshore |
