@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*560 skills in this domain*
+*565 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -130,6 +130,9 @@
 | [ckm:design-system](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design-system) | Token architecture, component specifications, and slide generation. Three-layer tokens (primitive... | nextlevelbuilder |
 | [ckm:slides](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/slides) | Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting... | nextlevelbuilder |
 | [ckm:ui-styling](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/ui-styling) | Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailw... | nextlevelbuilder |
+| [claude-design-critic](https://github.com/OneWave-AI/claude-skills/tree/main/claude-design-critic) | Audit a website or UI and de-AI it — find the patterns that make it look template-generated (in b... | OneWave-AI |
+| [claude-design-system-architect](https://github.com/OneWave-AI/claude-skills/tree/main/claude-design-system-architect) | Generate a complete, premium design system from a brand brief or an existing site — color tokens,... | OneWave-AI |
+| [claude-landing-composer](https://github.com/OneWave-AI/claude-skills/tree/main/claude-landing-composer) | Compose a premium, animated landing page section by section in Next.js + Tailwind + Motion (Frame... | OneWave-AI |
 | [clickhouse-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-incident-runbook) | ClickHouse incident response — triage, diagnose, and remediate server issues using system tables,... | jeremylongshore |
 | [clickhouse-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-incident-runbook) | ClickHouse incident response — triage, diagnose, and remediate server issues using system tables,... | jeremylongshore |
 | [clickhouse-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-reference-architecture) | Production reference architecture for ClickHouse-backed applications — project layout, data flow,... | jeremylongshore |
@@ -241,6 +244,7 @@
 | [html-to-image-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/html-to-image-automation) | Automate Html To Image tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [huggingface-gradio](https://github.com/huggingface/skills/tree/main/skills/huggingface-gradio) | Build Gradio web UIs and demos in Python. Use when creating or editing Gradio apps, components, e... | huggingface |
 | [hyperbrowser-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/hyperbrowser-automation) | Automate Hyperbrowser tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [hyperframes-ad-director](https://github.com/OneWave-AI/claude-skills/tree/main/hyperframes-ad-director) | Turn a marketing brief or product offer into a finished short-form video ad built in HyperFrames ... | OneWave-AI |
 | [i18n-expert](https://github.com/daymade/claude-code-skills/tree/main/i18n-expert) | This skill should be used when setting up, auditing, or enforcing internationalization/localizati... | daymade |
 | [image-optimization-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/image-optimization-helper) | Configure with image optimization helper operations. Auto-activating skill for Frontend Developme... | jeremylongshore |
 | [image-optimization-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/image-optimization-helper) | Configure with image optimization helper operations. Auto-activating skill for Frontend Developme... | jeremylongshore |
@@ -385,6 +389,7 @@
 | [project-planner](https://github.com/adrianpuiu/claude-skills-marketplace/tree/master/project-planner-skill) | Comprehensive project planning and documentation generator for software projects. Creates structu... | adrianpuiu |
 | [proof-e2e](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/proof-e2e) | Build E2E test specs for critical user journeys — Playwright or Cypress, page objects, setup/tear... | jeremylongshore |
 | [proof-e2e](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/proof-e2e) | Build E2E test specs for critical user journeys — Playwright or Cypress, page objects, setup/tear... | jeremylongshore |
+| [prospect-panel-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/prospect-panel-simulator) | Simulate a panel of your real prospects and buyers to pressure-test sales and marketing before it... | OneWave-AI |
 | [providing-performance-optimization-advice](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/performance-optimization-advisor/skills/providing-performance-optimization-advice) | Provide comprehensive prioritized performance optimization recommendations for frontend, backend,... | jeremylongshore |
 | [providing-performance-optimization-advice](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/performance-optimization-advisor/skills/providing-performance-optimization-advice) | Provide comprehensive prioritized performance optimization recommendations for frontend, backend,... | jeremylongshore |
 | [pwa-manifest-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/pwa-manifest-generator) | Generate pwa manifest generator operations. Auto-activating skill for Frontend Development. Trigg... | jeremylongshore |

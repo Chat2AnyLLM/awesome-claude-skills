@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*331 skills in this domain*
+*332 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 208 skills
+- [Model Training](#model-training) - 209 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*208 skills*
+*209 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -158,6 +158,7 @@
 | [plantuml-diagram-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/plantuml-diagram-generator) | Generate plantuml diagram generator operations. Auto-activating skill for Visual Content. Trigger... | jeremylongshore |
 | [playwright-java](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/playwright-java) | Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Obje... | davila7 |
 | [presenting-conference-talks](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/20-ml-paper-writing/presenting-conference-talks) | Generates conference presentation slides (Beamer LaTeX PDF and editable PPTX) from a compiled pap... | zechenzhangAGI |
+| [pricing-change-strategist](https://github.com/OneWave-AI/claude-skills/tree/main/pricing-change-strategist) | Design and roll out a price increase or packaging change without triggering churn. Segments the b... | OneWave-AI |
 | [proof-design](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/proof-design) | Design QA audit — red flags, severity classification, visual quality scorecard. Use when asked to... | jeremylongshore |
 | [proof-design](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/proof-design) | Design QA audit — red flags, severity classification, visual quality scorecard. Use when asked to... | jeremylongshore |
 | [pydantic-ai](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/pydantic-ai) | Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, depend... | davila7 |

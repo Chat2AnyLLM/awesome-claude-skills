@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*563 skills in this domain*
+*565 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -123,6 +123,7 @@
 | [cursor-rules-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-rules-config) | Configure Cursor project rules using .cursor/rules/*.mdc files and legacy .cursorrules. Triggers ... | jeremylongshore |
 | [cursor-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-team-setup) | Set up Cursor for teams: plan selection, member management, shared rules, admin dashboard, and on... | jeremylongshore |
 | [cursor-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-team-setup) | Set up Cursor for teams: plan selection, member management, shared rules, admin dashboard, and on... | jeremylongshore |
+| [customer-panel-of-experts](https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts) | Build a panel of your real buyer personas (from a deep scan of any tools you allow it to connect ... | OneWave-AI |
 | [customerio-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-cost-tuning) | Optimize Customer.io costs and usage efficiency. Use when reducing profile count, cleaning inacti... | jeremylongshore |
 | [customerio-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-cost-tuning) | Optimize Customer.io costs and usage efficiency. Use when reducing profile count, cleaning inacti... | jeremylongshore |
 | [customerio-known-pitfalls](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-known-pitfalls) | Identify and avoid Customer.io anti-patterns and gotchas. Use when reviewing integrations, onboar... | jeremylongshore |
@@ -436,6 +437,7 @@
 | [process-flow-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/process-flow-generator) | Process Flow Generator - Auto-activating skill for Visual Content. Triggers on: process flow gene... | jeremylongshore |
 | [process-street-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/process-street-automation) | Automate Process Street tasks via Rube MCP (Composio). Always search tools first for current sche... | ComposioHQ |
 | [procfu-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/procfu-automation) | Automate Procfu tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [product-launch-war-room](https://github.com/OneWave-AI/claude-skills/tree/main/product-launch-war-room) | Run a go-to-market war room for a launch, repositioning, price change, or new product. Convenes o... | OneWave-AI |
 | [productlane-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/productlane-automation) | Automate Productlane tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [progressive-loading](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/progressive-loading) | Implements hub-and-spoke lazy loading to minimize token usage in large skills. Use when building ... | athola |
 | [progressive-web-app](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/progressive-web-app) | Build Progressive Web Apps (PWAs) with offline support, installability, and caching strategies. T... | davila7 |

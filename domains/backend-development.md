@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4485 skills in this domain*
+*4486 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2656 skills
-- [Database Design](#database-design) - 1319 skills
+- [Database Design](#database-design) - 1320 skills
 - [Request Handling](#request-handling) - 269 skills
 - [Web Frameworks](#web-frameworks) - 175 skills
 - [Authentication](#authentication) - 22 skills
@@ -2685,7 +2685,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1319 skills*
+*1320 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3289,6 +3289,7 @@
 | [hypothesis-generation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/hypothesis-generation) | Generate testable hypotheses. Formulate from observations, design experiments, explore competing ... | davila7 |
 | [hypothesis-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/pm-ai-partner/skills/hypothesis-tester) | Structured hypothesis formulation, experiment design, and results interpretation for Product Mana... | jeremylongshore |
 | [hypothesis-tester](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/pm-ai-partner/skills/hypothesis-tester) | Structured hypothesis formulation, experiment design, and results interpretation for Product Mana... | jeremylongshore |
+| [icp-deep-scanner](https://github.com/OneWave-AI/claude-skills/tree/main/icp-deep-scanner) | Deep-scan any tools you connect (CRM, email, support, reviews, analytics, billing, database) to p... | OneWave-AI |
 | [ideogram-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-debug-bundle) | Collect Ideogram debug evidence for support tickets and troubleshooting. Use when encountering pe... | jeremylongshore |
 | [ideogram-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-debug-bundle) | Collect Ideogram debug evidence for support tickets and troubleshooting. Use when encountering pe... | jeremylongshore |
 | [ideogram-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-deploy-integration) | Deploy Ideogram integrations to Vercel, Cloud Run, and Docker platforms. Use when deploying Ideog... | jeremylongshore |

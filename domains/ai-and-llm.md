@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*766 skills in this domain*
+*767 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -27,7 +27,7 @@
 | [aesthetic](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/aesthetic) | Create aesthetically beautiful interfaces following proven design principles. Use when building U... | mrgoonie |
 | [Agent Development](https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/agent-development) | This skill should be used when the user asks to "create an agent", "add an agent", "write a subag... | anthropics |
 | [Agent Development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/agent-development) | This skill should be used when the user asks to "create an agent", "add an agent", "write a subag... | davila7 |
-| [agent-army](https://github.com/OneWave-AI/claude-skills/tree/main/agent-army) | 2-layer parallel agent hierarchy. Layer 1 deploys 3-50+ agents, each with independent context. La... | OneWave-AI |
+| [agent-army](https://github.com/OneWave-AI/claude-skills/tree/main/agent-army) | Deploy a 2-layer parallel agent hierarchy for large, parallelizable work — big refactors, multi-f... | OneWave-AI |
 | [agent-context-loader](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/agent-context-manager/skills/agent-context-loader) | Execute proactive auto-loading: automatically detects and loads agents.md files. Use when appropr... | jeremylongshore |
 | [agent-context-loader](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/agent-context-manager/skills/agent-context-loader) | Execute proactive auto-loading: automatically detects and loads agents.md files. Use when appropr... | jeremylongshore |
 | [agent-development](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/agent-development) | This skill should be used when the user asks to "create an agent", "add an agent", "write a subag... | anthropics |
@@ -336,6 +336,7 @@
 | [hyperflow-dispatch](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-dispatch) | Hyperflow execution phase. Use when a task file exists in .hyperflow/tasks/ and the work needs bu... | jeremylongshore |
 | [hyperflow-scaffold](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scaffold) | Hyperflow project setup. Use when starting hyperflow in a new project or refreshing its cache — "... | jeremylongshore |
 | [hyperflow-scaffold](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scaffold) | Hyperflow project setup. Use when starting hyperflow in a new project or refreshing its cache — "... | jeremylongshore |
+| [hyperframes-sales-demo-builder](https://github.com/OneWave-AI/claude-skills/tree/main/hyperframes-sales-demo-builder) | Build a personalized product-demo or sales-walkthrough video in HyperFrames for a specific prospe... | OneWave-AI |
 | [infographic-template-updater](https://github.com/antvis/Infographic/tree/main/skills/infographic-template-updater) | Update template catalogs and UI prompts after adding new infographic templates (src/templates/*.t... | antvis |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, an... | jeremylongshore |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, an... | jeremylongshore |
