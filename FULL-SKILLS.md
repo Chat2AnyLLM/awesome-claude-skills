@@ -2,10 +2,10 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4486 skills
+- [Backend Development](#backend-development) - 4487 skills
   - [APIs & REST](#apis-and-rest) - 2656 skills
   - [Database Design](#database-design) - 1320 skills
-  - [Request Handling](#request-handling) - 269 skills
+  - [Request Handling](#request-handling) - 270 skills
   - [Web Frameworks](#web-frameworks) - 175 skills
   - [Authentication](#authentication) - 22 skills
   - [Message Queues](#message-queues) - 17 skills
@@ -27,26 +27,26 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 767 skills
-- [Tools & Utilities](#tools-and-utilities) - 634 skills
-- [Frontend Development](#frontend-development) - 565 skills
+- [AI & LLM](#ai-and-llm) - 768 skills
+- [Tools & Utilities](#tools-and-utilities) - 633 skills
+- [Frontend Development](#frontend-development) - 567 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
 - [Testing & Quality](#testing-and-quality) - 356 skills
 - [Machine Learning](#machine-learning) - 332 skills
-  - [Model Training](#model-training) - 209 skills
-  - [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
+  - [Model Training](#model-training) - 208 skills
+  - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
   - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 20 skills
   - [Model Deployment](#model-deployment) - 10 skills
 - [Security](#security) - 283 skills
 - [Uncategorized](#uncategorized) - 233 skills
-- [Documentation](#documentation) - 167 skills
+- [Documentation](#documentation) - 166 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
 
 <a name="backend-development"></a>
 # Backend Development
 
-*4486 skills in this domain*
+*4487 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -429,7 +429,7 @@
 | [benchling-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/benchling-integration) | Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling App... | K-Dense-AI |
 | [benchling-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/benchling-integration) | Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, workflows via API, build... | davila7 |
 | [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp/tree/main/skills/bgpt-mcp) | How to use BGPT MCP to search scientific papers and retrieve structured experimental data including methods, results,... | connerlambden |
-| [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | Pull Bigdata.com (RavenPack) financial and news data through the official `bigdata-client` SDK and its public `/v1/*`... | daymade |
+| [bigdata-skill](https://github.com/daymade/claude-code-skills/tree/main/bigdata-skill) | Pull Bigdata.com (RavenPack) financial and news data via the official `bigdata-client` SDK and `/v1/*` REST endpoints... | daymade |
 | [biopython](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/biopython) | Primary Python toolkit for molecular biology. Preferred for Python-based PubMed/NCBI queries (Bio.Entrez), sequence m... | davila7 |
 | [brightdata-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-cost-tuning) | Optimize Bright Data costs through tier selection, sampling, and usage monitoring. Use when analyzing Bright Data bil... | jeremylongshore |
 | [brightdata-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-cost-tuning) | Optimize Bright Data costs through tier selection, sampling, and usage monitoring. Use when analyzing Bright Data bil... | jeremylongshore |
@@ -1345,7 +1345,7 @@
 | [ideogram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-upgrade-migration) | Migrate between Ideogram API versions (V_1 to V_2 to V3) with breaking change detection. Use when upgrading from lega... | jeremylongshore |
 | [ideogram-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-webhooks-events) | Build event-driven workflows around Ideogram's synchronous API. Use when implementing async generation queues, batch ... | jeremylongshore |
 | [ideogram-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-webhooks-events) | Build event-driven workflows around Ideogram's synchronous API. Use when implementing async generation queues, batch ... | jeremylongshore |
-| [ima-copilot](https://github.com/daymade/claude-code-skills/tree/main/ima-copilot) | One-stop companion and installer for the official Tencent IMA skill (腾讯 IMA / ima.qq.com). Handles zero-config instal... | daymade |
+| [ima-copilot](https://github.com/daymade/claude-code-skills/tree/main/ima-copilot) | Installs, troubleshoots, and personalizes the official Tencent IMA skill (a wrapper layer that orchestrates upstream ... | daymade |
 | [imagegen](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/imagegen) | Use when the user asks to generate or edit images via the OpenAI Image API (for example: generate image, edit/inpaint... | davila7 |
 | [incident-responder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/incident-responder) | Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incid... | davila7 |
 | [instantly-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-ci-integration) | Configure CI/CD pipelines for Instantly.ai integrations with GitHub Actions. Use when setting up automated testing, d... | jeremylongshore |
@@ -2430,7 +2430,7 @@
 | [Telegram Bot Builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/telegram-bot-builder) | This skill should be used when the user asks to "create a Telegram bot", "build a Telegram chatbot", "set up a Telegr... | davila7 |
 | [telegram-bot-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/telegram-bot-builder) | Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers... | davila7 |
 | [telegram-mini-app](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/telegram-mini-app) | Expert in building Telegram Mini Apps (TWA) - web apps that run inside Telegram with native-like experience. Covers t... | davila7 |
-| [terraform-skill](https://github.com/daymade/claude-code-skills/tree/main/terraform-skill) | Operational traps for Terraform provisioners, multi-environment isolation, and zero-to-deployment reliability. Covers... | daymade |
+| [terraform-skill](https://github.com/daymade/claude-code-skills/tree/main/terraform-skill) | Operational traps for Terraform provisioners, multi-environment isolation, and zero-to-deployment reliability. Use wh... | daymade |
 | [the-odds-api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/the-odds-api-automation) | Automate The Odds API tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [throttling-apis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-throttling-manager/skills/throttling-apis) | Implement API throttling policies to protect backend services from overload. Use when controlling API request rates. ... | jeremylongshore |
 | [throttling-apis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-throttling-manager/skills/throttling-apis) | Implement API throttling policies to protect backend services from overload. Use when controlling API request rates. ... | jeremylongshore |
@@ -3239,7 +3239,6 @@
 | [gguf-quantization](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardwar... | davila7 |
 | [gguf-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardwar... | zechenzhangAGI |
 | [git-platform](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/git-platform) | Detects git forge (GitHub/GitLab/Bitbucket) and maps CLI commands cross-platform. Use when writing skills that must r... | athola |
-| [github-contributor](https://github.com/daymade/claude-code-skills/tree/main/github-contributor) | End-to-end playbook for shipping high-quality pull requests to open-source projects you don't maintain. Use whenever ... | daymade |
 | [gitlab-ci-patterns](https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/gitlab-ci-patterns) | Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Us... | wshobson |
 | [glean-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-debug-bundle) | Collect Glean diagnostic information for support including datasource config, indexing status, and search quality met... | jeremylongshore |
 | [glean-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/glean-pack/skills/glean-debug-bundle) | Collect Glean diagnostic information for support including datasource config, indexing status, and search quality met... | jeremylongshore |
@@ -3429,10 +3428,10 @@
 | [markdown-formatting](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/markdown-formatting) | Enforces markdown line-wrap and structure rules for clean git diffs. Use when writing or editing any committed markdo... | athola |
 | [market-research-reports](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/market-research-reports) | Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (McKinsey, BCG, Gartn... | K-Dense-AI |
 | [market-research-reports](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/market-research-reports) | Generate comprehensive market research reports (50+ pages) in the style of top consulting firms (McKinsey, BCG, Gartn... | davila7 |
-| [marketplace-dev](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/marketplace-dev) | Converts any Claude Code skills repository into an official plugin marketplace. Analyzes existing skills, generates .... | daymade |
+| [marketplace-dev](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/marketplace-dev) | Converts any Claude Code skills repository into an official plugin marketplace — generates spec-conforming .claude-pl... | daymade |
 | [mcp-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/mcp-developer) | Use when building, debugging, or extending MCP servers or clients that connect AI systems with external tools and dat... | Jeffallan |
 | [media-processing](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/media-processing) | Process multimedia files with FFmpeg (video/audio encoding, conversion, streaming, filtering, hardware acceleration) ... | mrgoonie |
-| [meeting-minutes-taker](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/meeting-minutes-taker) | Transforms raw meeting transcripts into high-fidelity, structured meeting minutes with iterative review for completen... | daymade |
+| [meeting-minutes-taker](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/meeting-minutes-taker) | Transforms raw meeting transcripts into high-fidelity, structured meeting minutes (notes / summaries). Use when (1) a... | daymade |
 | [memory](https://github.com/ejentum/ejentum-mcp/tree/main/skills/memory) | Use when sharpening a perception or observation you ALREADY formed about conversation state, user behavior, drift, em... | ejentum |
 | [memory-forensics](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/memory-forensics) | Master memory forensics techniques including memory acquisition, process analysis, and artifact extraction using Vola... | wshobson |
 | [memory-profiler-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/memory-profiler-setup) | Configure memory profiler setup operations. Auto-activating skill for Performance Testing. Triggers on: memory profil... | jeremylongshore |
@@ -3575,6 +3574,7 @@
 | [pdf](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf) | Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables... | davila7 |
 | [pdf](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/pdf) | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents... | mrgoonie |
 | [PDF Processing Pro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-processing-pro) | Production-ready PDF processing with forms, tables, OCR, validation, and batch operations. Use when working with comp... | davila7 |
+| [pdf-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-creator) | Convert markdown files to professional PDF documents with proper Chinese font support, theme system, and visual self-... | daymade |
 | [pdf-fill-studio](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-fill-studio) | Fill any PDF locally and place each value precisely in a visual editor. Use when the user wants to fill out a PDF for... | davila7 |
 | [pdf-official](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-official) | Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables... | davila7 |
 | [peer-review](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/peer-review) | Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specifi... | K-Dense-AI |
@@ -4040,7 +4040,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*269 skills*
+*270 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4151,6 +4151,7 @@
 | [git-pr-reviewer](https://github.com/OneWave-AI/claude-skills/tree/main/git-pr-reviewer) | Review pull requests for code quality, security issues, and best practices. Use when reviewing PRs, checking code cha... | OneWave-AI |
 | [git-pushing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/git-pushing) | Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes... | davila7 |
 | [github-automation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/github-automation) | Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage... | davila7 |
+| [github-contributor](https://github.com/daymade/claude-code-skills/tree/main/github-contributor) | End-to-end playbook for shipping high-quality pull requests to open-source projects you don't maintain — discovery, C... | daymade |
 | [glean-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-local-dev-loop) | Configure Glean local development with mock search responses, test datasources, and connector development workflow. T... | jeremylongshore |
 | [glean-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/glean-pack/skills/glean-local-dev-loop) | Configure Glean local development with mock search responses, test datasources, and connector development workflow. T... | jeremylongshore |
 | [gmail-to-crm-pipeline](https://github.com/OneWave-AI/claude-skills/tree/main/gmail-to-crm-pipeline) | Uses MCP Connectors to read Gmail inbound leads, score them by ICP fit, draft personalized responses, and log qualifi... | OneWave-AI |
@@ -5140,7 +5141,7 @@
 | [deepgram-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-cost-tuning) | Optimize Deepgram costs and usage for budget-conscious deployments. Use when reducing transcription costs, implementi... | jeremylongshore |
 | [deployment-pipeline-design](https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/deployment-pipeline-design) | Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use this skill... | wshobson |
 | [deployment-procedures](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/deployment-procedures) | Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verificatio... | davila7 |
-| [developing-ios-apps](https://github.com/daymade/claude-code-skills/tree/main/iOS-APP-developer) | Develops iOS/macOS applications with XcodeGen, SwiftUI, and SPM. Handles Apple Developer signing, notarization, and C... | daymade |
+| [developing-ios-apps](https://github.com/daymade/claude-code-skills/tree/main/iOS-APP-developer) | Develops iOS/macOS apps with XcodeGen, SwiftUI, and SPM, including Apple Developer signing, notarization, and CI/CD p... | daymade |
 | [development-workflow](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/docs/examples/modular-skills/complete-skills/development-workflow) | Detailed development workflow with modular patterns for git, review, testing, and deployment. | athola |
 | [documenso-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-ci-integration) | Configure CI/CD pipelines for Documenso integrations. Use when setting up automated testing, deployment pipelines, or... | jeremylongshore |
 | [documenso-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-ci-integration) | Configure CI/CD pipelines for Documenso integrations. Use when setting up automated testing, deployment pipelines, or... | jeremylongshore |
@@ -6326,7 +6327,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*767 skills in this domain*
+*768 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6543,7 +6544,7 @@
 | [deal-outreach](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-outreach) | Cold outbound sequence builder — produces multi-touch email + LinkedIn sequences (5-7 touchpoints) personalized by pe... | jeremylongshore |
 | [deal-proposal](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-proposal) | B2B proposal generator — takes deal context (ICP, pain, pricing tier, timeline) and produces a complete proposal docu... | jeremylongshore |
 | [deal-proposal](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-proposal) | B2B proposal generator — takes deal context (ICP, pain, pricing tier, timeline) and produces a complete proposal docu... | jeremylongshore |
-| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging connection resets (... | daymade |
+| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | Evidence-driven investigation for network, streaming, and protocol-layer bugs where symptoms don't match the obvious ... | daymade |
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live transcription, voice inte... | jeremylongshore |
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live transcription, voice inte... | jeremylongshore |
 | [dependency-graph](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/dependency-graph) | Generates a Mermaid dependency graph showing import relationships between modules. Use when analyzing coupling, findi... | athola |
@@ -7000,6 +7001,7 @@
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
 | [templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates) | Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 template... | davila7 |
+| [terminal-screenshot](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/terminal-screenshot) | Render a terminal CLI program's colored output to a PNG so Claude can actually SEE the real visual result — color con... | daymade |
 | [timelinesai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/timelinesai-automation) | Automate Timelinesai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [todoist-due-drafts](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/executive-assistant-skills/skills/todoist-due-drafts) | Check Todoist for tasks due today (and overdue) that involve pinging, emailing, or following up with someone. Auto-dr... | jeremylongshore |
 | [todoist-due-drafts](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/executive-assistant-skills/skills/todoist-due-drafts) | Check Todoist for tasks due today (and overdue) that involve pinging, emailing, or following up with someone. Auto-dr... | jeremylongshore |
@@ -7101,7 +7103,7 @@
 <a name="tools-and-utilities"></a>
 # Tools & Utilities
 
-*634 skills in this domain*
+*633 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7528,7 +7530,6 @@
 | [passcreator-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/passcreator-automation) | Automate Passcreator tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [payhip-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/payhip-automation) | Automate Payhip tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [pdf-co-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/pdf-co-automation) | Automate PDF co tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
-| [pdf-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-creator) |  | daymade |
 | [pdf-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/pdf-generator) | Generate pdf generator operations. Auto-activating skill for Business Automation. Triggers on: pdf generator, pdf gen... | jeremylongshore |
 | [pdf-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/pdf-generator) | Generate pdf generator operations. Auto-activating skill for Business Automation. Triggers on: pdf generator, pdf gen... | jeremylongshore |
 | [pdf4me-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/pdf4me-automation) | Automate Pdf4me tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -7743,7 +7744,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*565 skills in this domain*
+*567 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7927,7 +7928,7 @@
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as self-contained dark-t... | jeremylongshore |
 | [error-boundary-creator](https://github.com/OneWave-AI/claude-skills/tree/main/error-boundary-creator) | Create error boundaries, error handling, and fallback UIs for React applications. Use when implementing error handlin... | OneWave-AI |
 | [example-command](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/example-plugin/skills/example-command) | An example user-invoked skill that demonstrates frontmatter options and the skills/<name>/SKILL.md layout | anthropics |
-| [feishu-doc-scraper](https://github.com/daymade/claude-code-skills/tree/main/feishu-doc-scraper) | Extract Feishu (Lark) Docs, Wiki pages, Wiki collections/hubs, spreadsheets, and Minutes (妙记) transcripts into clean ... | daymade |
+| [feishu-doc-scraper](https://github.com/daymade/claude-code-skills/tree/main/feishu-doc-scraper) | Extract Feishu (Lark) Docs, Wiki pages/collections, spreadsheets, and Minutes (妙记) transcripts into faithful local Ma... | daymade |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when building a design-to-c... | jeremylongshore |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when building a design-to-c... | jeremylongshore |
 | [figma-implement-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma-implement-design) | Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP workflow (design contex... | davila7 |
@@ -8069,6 +8070,7 @@
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Ontology object changes,... | jeremylongshore |
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Ontology object changes,... | jeremylongshore |
 | [pathway-enrichment](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pathway-enrichment) | Run pathway and gene-set enrichment analysis on gene lists or ranked gene data, then interpret the results. Use whene... | K-Dense-AI |
+| [pdf-to-html](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-to-html) | Converts a PDF into one self-contained, readable HTML file that preserves images, tables, charts and reading order — ... | daymade |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. Triggers on: perform... | jeremylongshore |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. Triggers on: perform... | jeremylongshore |
 | [perplexity-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-architecture-variants) | Choose and implement Perplexity architecture blueprints for different scales: direct search widget, cached research l... | jeremylongshore |
@@ -8235,7 +8237,7 @@
 | [stackblitz-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-reference-architecture) | Production architecture for WebContainer-powered browser IDEs and playgrounds. Use when working with WebContainers or... | jeremylongshore |
 | [stackblitz-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-sdk-patterns) | Production patterns for WebContainer API: file system operations, process management, and jsh shell. Use when buildin... | jeremylongshore |
 | [stackblitz-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-sdk-patterns) | Production patterns for WebContainer API: file system operations, process management, and jsh shell. Use when buildin... | jeremylongshore |
-| [statusline-generator](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/statusline-generator) | Install, configure, customize, or troubleshoot the Claude Code statusline (the line above the prompt with cwd, model,... | daymade |
+| [statusline-generator](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/statusline-generator) | Installs, configures, customizes, or troubleshoots the Claude Code statusline (cwd, model, token counts). Use when th... | daymade |
 | [styled-components-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/styled-components-helper) | Configure with styled components helper operations. Auto-activating skill for Frontend Development. Triggers on: styl... | jeremylongshore |
 | [styled-components-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/styled-components-helper) | Configure with styled components helper operations. Auto-activating skill for Frontend Development. Triggers on: styl... | jeremylongshore |
 | [supabase-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-architecture-variants) | Implement Supabase across different app architectures: Next.js SSR with server components using service_role and clie... | jeremylongshore |
@@ -8265,6 +8267,7 @@
 | [traction-eos](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-traction-eos) | Implement the Entrepreneurial Operating System (EOS) to align vision and execution across a company. Use when the use... | jeremylongshore |
 | [traction-eos](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-traction-eos) | Implement the Entrepreneurial Operating System (EOS) to align vision and execution across a company. Use when the use... | jeremylongshore |
 | [transformers-js](https://github.com/huggingface/skills/tree/main/skills/transformers-js) | Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeScript. Supports NLP (... | huggingface |
+| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge, OrbStack/Docker) on ... | daymade |
 | [ui-design-system](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/ui-design-system) | UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsiv... | davila7 |
 | [ui-styling](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ui-styling) | Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS u... | mrgoonie |
 | [ui-ux-pro-max](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/ui-ux-pro-max) | UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte... | davila7 |
@@ -9257,14 +9260,13 @@
 
 <a name="model-training"></a>
 ## Model Training
-*209 skills*
+*208 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [apktool](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/apktool) | Android APK unpacking and resource extraction tool for reverse engineering. Use when you need to decode APK files, ex... | BrownFineSecurity |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgrading the assemblyai ... | jeremylongshore |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgrading the assemblyai ... | jeremylongshore |
-| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | Adversarial due-diligence on a benchmark you envy — a founder, KOL, company, or product whose claimed success you sus... | daymade |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, classifying, redacting,... | jeremylongshore |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, classifying, redacting,... | jeremylongshore |
 | [ceo-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ceo-advisor) | Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. ... | davila7 |
@@ -9473,12 +9475,13 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*71 skills*
+*72 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [ai-product](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ai-product) | Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in pr... | davila7 |
 | [athlete-social-media-manager](https://github.com/OneWave-AI/claude-skills/tree/main/athlete-social-media-manager) | Create brand-safe content for athletes. Personal branding strategy, engagement optimization, crisis communication, sp... | OneWave-AI |
+| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | Runs adversarial due-diligence on a benchmark the user envies — a founder, KOL, company, or product whose claimed suc... | daymade |
 | [bigml-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/bigml-automation) | Automate Bigml tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [capa-officer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/capa-officer) | Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Management Systems. Prov... | davila7 |
 | [castai-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-core-workflow-a) | Configure CAST AI autoscaler policies and node templates for cost optimization. Use when enabling Phase 2 automation,... | jeremylongshore |
@@ -10157,7 +10160,7 @@
 <a name="documentation"></a>
 # Documentation
 
-*167 skills in this domain*
+*166 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10310,7 +10313,6 @@
 | [technical-writer](https://github.com/OneWave-AI/claude-skills/tree/main/technical-writer) | Write comprehensive technical documentation including user guides, how-to articles, system architecture docs, onboard... | OneWave-AI |
 | [troubleshooting-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/troubleshooting-guide-creator) | Create troubleshooting guide creator operations. Auto-activating skill for Technical Documentation. Triggers on: trou... | jeremylongshore |
 | [troubleshooting-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/troubleshooting-guide-creator) | Create troubleshooting guide creator operations. Auto-activating skill for Technical Documentation. Triggers on: trou... | jeremylongshore |
-| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) |  | daymade |
 | [tutorial-outline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/tutorial-outline-creator) | Create tutorial outline creator operations. Auto-activating skill for Technical Documentation. Triggers on: tutorial ... | jeremylongshore |
 | [tutorial-outline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/tutorial-outline-creator) | Create tutorial outline creator operations. Auto-activating skill for Technical Documentation. Triggers on: tutorial ... | jeremylongshore |
 | [tutorial-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/tutorial-updates) | Generates or updates tutorials from VHS tapes and Playwright specs with dual-tone markdown and GIF recording. Use whe... | athola |

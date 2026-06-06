@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*634 skills in this domain*
+*633 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -434,7 +434,6 @@
 | [passcreator-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/passcreator-automation) | Automate Passcreator tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [payhip-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/payhip-automation) | Automate Payhip tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [pdf-co-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/pdf-co-automation) | Automate PDF co tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
-| [pdf-creator](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-creator) |  | daymade |
 | [pdf-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/pdf-generator) | Generate pdf generator operations. Auto-activating skill for Business Automation. Triggers on: pd... | jeremylongshore |
 | [pdf-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/pdf-generator) | Generate pdf generator operations. Auto-activating skill for Business Automation. Triggers on: pd... | jeremylongshore |
 | [pdf4me-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/pdf4me-automation) | Automate Pdf4me tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |

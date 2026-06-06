@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*565 skills in this domain*
+*567 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -191,7 +191,7 @@
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as s... | jeremylongshore |
 | [error-boundary-creator](https://github.com/OneWave-AI/claude-skills/tree/main/error-boundary-creator) | Create error boundaries, error handling, and fallback UIs for React applications. Use when implem... | OneWave-AI |
 | [example-command](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/example-plugin/skills/example-command) | An example user-invoked skill that demonstrates frontmatter options and the skills/<name>/SKILL.m... | anthropics |
-| [feishu-doc-scraper](https://github.com/daymade/claude-code-skills/tree/main/feishu-doc-scraper) | Extract Feishu (Lark) Docs, Wiki pages, Wiki collections/hubs, spreadsheets, and Minutes (妙记) tra... | daymade |
+| [feishu-doc-scraper](https://github.com/daymade/claude-code-skills/tree/main/feishu-doc-scraper) | Extract Feishu (Lark) Docs, Wiki pages/collections, spreadsheets, and Minutes (妙记) transcripts in... | daymade |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when bu... | jeremylongshore |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when bu... | jeremylongshore |
 | [figma-implement-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma-implement-design) | Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP wor... | davila7 |
@@ -333,6 +333,7 @@
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Onto... | jeremylongshore |
 | [palantir-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/palantir-pack/skills/palantir-webhooks-events) | Implement Palantir Foundry webhook handling for Ontology change events. Use when reacting to Onto... | jeremylongshore |
 | [pathway-enrichment](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pathway-enrichment) | Run pathway and gene-set enrichment analysis on gene lists or ranked gene data, then interpret th... | K-Dense-AI |
+| [pdf-to-html](https://github.com/daymade/claude-code-skills/tree/main/daymade-docs/pdf-to-html) | Converts a PDF into one self-contained, readable HTML file that preserves images, tables, charts ... | daymade |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
 | [performance-lighthouse-runner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/performance-lighthouse-runner) | Manage performance lighthouse runner operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
 | [perplexity-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-architecture-variants) | Choose and implement Perplexity architecture blueprints for different scales: direct search widge... | jeremylongshore |
@@ -499,7 +500,7 @@
 | [stackblitz-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-reference-architecture) | Production architecture for WebContainer-powered browser IDEs and playgrounds. Use when working w... | jeremylongshore |
 | [stackblitz-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-sdk-patterns) | Production patterns for WebContainer API: file system operations, process management, and jsh she... | jeremylongshore |
 | [stackblitz-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-sdk-patterns) | Production patterns for WebContainer API: file system operations, process management, and jsh she... | jeremylongshore |
-| [statusline-generator](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/statusline-generator) | Install, configure, customize, or troubleshoot the Claude Code statusline (the line above the pro... | daymade |
+| [statusline-generator](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/statusline-generator) | Installs, configures, customizes, or troubleshoots the Claude Code statusline (cwd, model, token ... | daymade |
 | [styled-components-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/styled-components-helper) | Configure with styled components helper operations. Auto-activating skill for Frontend Developmen... | jeremylongshore |
 | [styled-components-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/styled-components-helper) | Configure with styled components helper operations. Auto-activating skill for Frontend Developmen... | jeremylongshore |
 | [supabase-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-architecture-variants) | Implement Supabase across different app architectures: Next.js SSR with server components using s... | jeremylongshore |
@@ -529,6 +530,7 @@
 | [traction-eos](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-traction-eos) | Implement the Entrepreneurial Operating System (EOS) to align vision and execution across a compa... | jeremylongshore |
 | [traction-eos](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-traction-eos) | Implement the Entrepreneurial Operating System (EOS) to align vision and execution across a compa... | jeremylongshore |
 | [transformers-js](https://github.com/huggingface/skills/tree/main/skills/transformers-js) | Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeSc... | huggingface |
+| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) | Diagnoses and fixes conflicts between Tailscale and proxy/VPN tools (Shadowrocket, Clash, Surge, ... | daymade |
 | [ui-design-system](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/ui-design-system) | UI design system toolkit for Senior UI Designer including design token generation, component docu... | davila7 |
 | [ui-styling](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/ui-styling) | Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailw... | mrgoonie |
 | [ui-ux-pro-max](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/ui-ux-pro-max) | UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, ... | davila7 |

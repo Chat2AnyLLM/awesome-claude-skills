@@ -11,22 +11,21 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 209 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 71 skills
+- [Model Training](#model-training) - 208 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 20 skills
 - [Model Deployment](#model-deployment) - 10 skills
 
 <a name="model-training"></a>
 ## Model Training
-*209 skills*
+*208 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [apktool](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/apktool) | Android APK unpacking and resource extraction tool for reverse engineering. Use when you need to ... | BrownFineSecurity |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgra... | jeremylongshore |
 | [assemblyai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-upgrade-migration) | Analyze, plan, and execute AssemblyAI SDK upgrades with breaking change detection. Use when upgra... | jeremylongshore |
-| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | Adversarial due-diligence on a benchmark you envy — a founder, KOL, company, or product whose cla... | daymade |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, cla... | jeremylongshore |
 | [bug-clustering](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/bug-clustering) | Internal process for the bug-clusterer agent. Defines the step-by-step procedure for parsing, cla... | jeremylongshore |
 | [ceo-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ceo-advisor) | Executive leadership guidance for strategic decision-making, organizational development, and stak... | davila7 |
@@ -235,12 +234,13 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*71 skills*
+*72 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [ai-product](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ai-product) | Every product will be AI-powered. The question is whether you'll build it right or ship a demo th... | davila7 |
 | [athlete-social-media-manager](https://github.com/OneWave-AI/claude-skills/tree/main/athlete-social-media-manager) | Create brand-safe content for athletes. Personal branding strategy, engagement optimization, cris... | OneWave-AI |
+| [benchmark-due-diligence](https://github.com/daymade/claude-code-skills/tree/main/benchmark-due-diligence) | Runs adversarial due-diligence on a benchmark the user envies — a founder, KOL, company, or produ... | daymade |
 | [bigml-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/bigml-automation) | Automate Bigml tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [capa-officer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/capa-officer) | Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Mana... | davila7 |
 | [castai-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-core-workflow-a) | Configure CAST AI autoscaler policies and node templates for cost optimization. Use when enabling... | jeremylongshore |

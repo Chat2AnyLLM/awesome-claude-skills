@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*167 skills in this domain*
+*166 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -160,7 +160,6 @@
 | [technical-writer](https://github.com/OneWave-AI/claude-skills/tree/main/technical-writer) | Write comprehensive technical documentation including user guides, how-to articles, system archit... | OneWave-AI |
 | [troubleshooting-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/troubleshooting-guide-creator) | Create troubleshooting guide creator operations. Auto-activating skill for Technical Documentatio... | jeremylongshore |
 | [troubleshooting-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/troubleshooting-guide-creator) | Create troubleshooting guide creator operations. Auto-activating skill for Technical Documentatio... | jeremylongshore |
-| [tunnel-doctor](https://github.com/daymade/claude-code-skills/tree/main/tunnel-doctor) |  | daymade |
 | [tutorial-outline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/tutorial-outline-creator) | Create tutorial outline creator operations. Auto-activating skill for Technical Documentation. Tr... | jeremylongshore |
 | [tutorial-outline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/tutorial-outline-creator) | Create tutorial outline creator operations. Auto-activating skill for Technical Documentation. Tr... | jeremylongshore |
 | [tutorial-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/tutorial-updates) | Generates or updates tutorials from VHS tapes and Playwright specs with dual-tone markdown and GI... | athola |

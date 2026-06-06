@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*767 skills in this domain*
+*768 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -224,7 +224,7 @@
 | [deal-outreach](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-outreach) | Cold outbound sequence builder — produces multi-touch email + LinkedIn sequences (5-7 touchpoints... | jeremylongshore |
 | [deal-proposal](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-proposal) | B2B proposal generator — takes deal context (ICP, pain, pricing tier, timeline) and produces a co... | jeremylongshore |
 | [deal-proposal](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/revenue-team/skills/deal-proposal) | B2B proposal generator — takes deal context (ICP, pain, pricing tier, timeline) and produces a co... | jeremylongshore |
-| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | Evidence-driven investigation for network, streaming, and protocol-layer bugs. Use when debugging... | daymade |
+| [debugging-network-issues](https://github.com/daymade/claude-code-skills/tree/main/debugging-network-issues) | Evidence-driven investigation for network, streaming, and protocol-layer bugs where symptoms don'... | daymade |
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live trans... | jeremylongshore |
 | [deepgram-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-core-workflow-b) | Implement real-time streaming transcription with Deepgram WebSocket. Use when building live trans... | jeremylongshore |
 | [dependency-graph](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/dependency-graph) | Generates a Mermaid dependency graph showing import relationships between modules. Use when analy... | athola |
@@ -681,6 +681,7 @@
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
 | [templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates) | Project scaffolding templates for new applications. Use when creating new projects from scratch. ... | davila7 |
+| [terminal-screenshot](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/terminal-screenshot) | Render a terminal CLI program's colored output to a PNG so Claude can actually SEE the real visua... | daymade |
 | [timelinesai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/timelinesai-automation) | Automate Timelinesai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [todoist-due-drafts](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/executive-assistant-skills/skills/todoist-due-drafts) | Check Todoist for tasks due today (and overdue) that involve pinging, emailing, or following up w... | jeremylongshore |
 | [todoist-due-drafts](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/executive-assistant-skills/skills/todoist-due-drafts) | Check Todoist for tasks due today (and overdue) that involve pinging, emailing, or following up w... | jeremylongshore |
