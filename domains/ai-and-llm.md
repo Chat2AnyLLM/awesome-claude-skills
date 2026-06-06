@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*768 skills in this domain*
+*769 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -412,6 +412,7 @@
 | [lindy-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-webhooks-events) | Configure Lindy AI webhook triggers, callback patterns, and event handling. Use when setting up w... | jeremylongshore |
 | [lindy-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-webhooks-events) | Configure Lindy AI webhook triggers, callback patterns, and event handling. Use when setting up w... | jeremylongshore |
 | [Linux Privilege Escalation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/linux-privilege-escalation) | This skill should be used when the user asks to "escalate privileges on Linux", "find privesc vec... | davila7 |
+| [llm-wiki-setup](https://github.com/daymade/claude-code-skills/tree/main/llm-wiki-setup) | Co-create a personal investment-research LLM Wiki (Andrej Karpathy's pattern) where the user's OW... | daymade |
 | [m5-onboard](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/cwc-makers/skills/m5-onboard) | End-to-end onboarding for a freshly-plugged-in M5Stack ESP32 device (Cardputer, Cardputer-Adv, Co... | anthropics |
 | [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | Analyze and reclaim macOS disk space through intelligent cleanup recommendations. This skill shou... | daymade |
 | [mailbluster-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mailbluster-automation) | Automate Mailbluster tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |

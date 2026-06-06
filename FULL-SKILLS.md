@@ -27,7 +27,7 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 768 skills
+- [AI & LLM](#ai-and-llm) - 769 skills
 - [Tools & Utilities](#tools-and-utilities) - 633 skills
 - [Frontend Development](#frontend-development) - 567 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
@@ -6327,7 +6327,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*768 skills in this domain*
+*769 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6732,6 +6732,7 @@
 | [lindy-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-webhooks-events) | Configure Lindy AI webhook triggers, callback patterns, and event handling. Use when setting up webhook triggers, imp... | jeremylongshore |
 | [lindy-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-webhooks-events) | Configure Lindy AI webhook triggers, callback patterns, and event handling. Use when setting up webhook triggers, imp... | jeremylongshore |
 | [Linux Privilege Escalation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/linux-privilege-escalation) | This skill should be used when the user asks to "escalate privileges on Linux", "find privesc vectors on Linux system... | davila7 |
+| [llm-wiki-setup](https://github.com/daymade/claude-code-skills/tree/main/llm-wiki-setup) | Co-create a personal investment-research LLM Wiki (Andrej Karpathy's pattern) where the user's OWN analysis framework... | daymade |
 | [m5-onboard](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/cwc-makers/skills/m5-onboard) | End-to-end onboarding for a freshly-plugged-in M5Stack ESP32 device (Cardputer, Cardputer-Adv, Core, CoreS3, Stick) —... | anthropics |
 | [macos-cleaner](https://github.com/daymade/claude-code-skills/tree/main/macos-cleaner) | Analyze and reclaim macOS disk space through intelligent cleanup recommendations. This skill should be used when user... | daymade |
 | [mailbluster-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mailbluster-automation) | Automate Mailbluster tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
