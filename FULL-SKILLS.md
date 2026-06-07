@@ -27,7 +27,7 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 769 skills
+- [AI & LLM](#ai-and-llm) - 770 skills
 - [Tools & Utilities](#tools-and-utilities) - 633 skills
 - [Frontend Development](#frontend-development) - 567 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
@@ -6327,7 +6327,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*769 skills in this domain*
+*770 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6657,6 +6657,7 @@
 | [hyperflow-scaffold](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scaffold) | Hyperflow project setup. Use when starting hyperflow in a new project or refreshing its cache — "init hyperflow", "se... | jeremylongshore |
 | [hyperflow-scaffold](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scaffold) | Hyperflow project setup. Use when starting hyperflow in a new project or refreshing its cache — "init hyperflow", "se... | jeremylongshore |
 | [hyperframes-sales-demo-builder](https://github.com/OneWave-AI/claude-skills/tree/main/hyperframes-sales-demo-builder) | Build a personalized product-demo or sales-walkthrough video in HyperFrames for a specific prospect or account — narr... | OneWave-AI |
+| [ideate](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/ideate) | Generate diverse solution candidates with category-spanning ideation methods and rotation. Use when stuck on a design... | athola |
 | [infographic-template-updater](https://github.com/antvis/Infographic/tree/main/skills/infographic-template-updater) | Update template catalogs and UI prompts after adding new infographic templates (src/templates/*.ts), including SKILL.... | antvis |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, and content distributi... | jeremylongshore |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, and content distributi... | jeremylongshore |

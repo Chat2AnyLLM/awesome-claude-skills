@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*769 skills in this domain*
+*770 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -337,6 +337,7 @@
 | [hyperflow-scaffold](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scaffold) | Hyperflow project setup. Use when starting hyperflow in a new project or refreshing its cache — "... | jeremylongshore |
 | [hyperflow-scaffold](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/templates/antigravity/skills/hyperflow-scaffold) | Hyperflow project setup. Use when starting hyperflow in a new project or refreshing its cache — "... | jeremylongshore |
 | [hyperframes-sales-demo-builder](https://github.com/OneWave-AI/claude-skills/tree/main/hyperframes-sales-demo-builder) | Build a personalized product-demo or sales-walkthrough video in HyperFrames for a specific prospe... | OneWave-AI |
+| [ideate](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/ideate) | Generate diverse solution candidates with category-spanning ideation methods and rotation. Use wh... | athola |
 | [infographic-template-updater](https://github.com/antvis/Infographic/tree/main/skills/infographic-template-updater) | Update template catalogs and UI prompts after adding new infographic templates (src/templates/*.t... | antvis |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, an... | jeremylongshore |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, an... | jeremylongshore |
