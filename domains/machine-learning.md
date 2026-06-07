@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*332 skills in this domain*
+*334 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -14,8 +14,8 @@
 - [Model Training](#model-training) - 208 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
-- [Feature Engineering](#feature-engineering) - 20 skills
-- [Model Deployment](#model-deployment) - 10 skills
+- [Feature Engineering](#feature-engineering) - 21 skills
+- [Model Deployment](#model-deployment) - 11 skills
 
 <a name="model-training"></a>
 ## Model Training
@@ -342,7 +342,7 @@
 
 <a name="feature-engineering"></a>
 ## Feature Engineering
-*20 skills*
+*21 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -362,6 +362,7 @@
 | [klingai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-upgrade-migration) | Migrate between Kling AI model versions safely. Use when upgrading from v1.x to v2.x or adopting ... | jeremylongshore |
 | [product-analysis](https://github.com/daymade/claude-code-skills/tree/main/product-analysis) | Multi-path parallel product analysis with cross-model test-time compute scaling. Spawns parallel ... | daymade |
 | [rails-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/rails-expert) | Rails 7+ specialist that optimizes Active Record queries with includes/eager_load, implements Tur... | Jeffallan |
+| [umap-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/umap-learn) | Use UMAP-learn for nonlinear dimensionality reduction, 2D/3D embeddings, clustering preprocessing... | K-Dense-AI |
 | [warden-threat](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/warden-threat) | Produce a threat model — assets, ranked threats, mitigations, accepted risks. Use when asked to "... | jeremylongshore |
 | [warden-threat](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/warden-threat) | Produce a threat model — assets, ranked threats, mitigations, accepted risks. Use when asked to "... | jeremylongshore |
 | [windsurf-keyboard-shortcuts](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-keyboard-shortcuts) | Configure custom keyboard shortcuts for Cascade and AI features. Activate when users mention "key... | jeremylongshore |
@@ -369,7 +370,7 @@
 
 <a name="model-deployment"></a>
 ## Model Deployment
-*10 skills*
+*11 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -377,6 +378,7 @@
 | [awq-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/awq) | Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accura... | zechenzhangAGI |
 | [coreweave-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-webhooks-events) | Monitor CoreWeave cluster events and GPU workload status. Use when tracking pod lifecycle events,... | jeremylongshore |
 | [coreweave-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-webhooks-events) | Monitor CoreWeave cluster events and GPU workload status. Use when tracking pod lifecycle events,... | jeremylongshore |
+| [esm](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/esm) | Use when working directly with the `esm` Python SDK, ESM3 or ESMC model IDs, Forge/Biohub inferen... | K-Dense-AI |
 | [langchain-model-inference](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-model-inference) | Invoke Claude, GPT-4o, and Gemini through LangChain 1.0 without tripping on the content-block, to... | jeremylongshore |
 | [langchain-model-inference](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-model-inference) | Invoke Claude, GPT-4o, and Gemini through LangChain 1.0 without tripping on the content-block, to... | jeremylongshore |
 | [nowait-reasoning-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/nowait) | Implements the NOWAIT technique for efficient reasoning in R1-style LLMs. Use when optimizing inf... | davila7 |

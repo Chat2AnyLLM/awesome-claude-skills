@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*797 skills in this domain*
+*796 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Data Pipelines](#data-pipelines) - 515 skills
-- [Analytics & Queries](#analytics-queries) - 219 skills
+- [Analytics & Queries](#analytics-queries) - 218 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
@@ -542,7 +542,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*219 skills*
+*218 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -748,7 +748,6 @@
 | [torch-geometric](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/torch-geometric) | PyTorch Geometric (PyG) for graph neural networks — node/link/graph classification, message passi... | K-Dense-AI |
 | [tracking-crypto-portfolio](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/crypto-portfolio-tracker/skills/tracking-crypto-portfolio) | Track cryptocurrency portfolio with real-time valuations, allocation analysis, and P&L tracking. ... | jeremylongshore |
 | [tracking-crypto-portfolio](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-portfolio-tracker/skills/tracking-crypto-portfolio) | Track cryptocurrency portfolio with real-time valuations, allocation analysis, and P&L tracking. ... | jeremylongshore |
-| [umap-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/umap-learn) | UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clusteri... | K-Dense-AI |
 | [umap-learn](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/umap-learn) | UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clusteri... | davila7 |
 | [usage-logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) | Implements structured usage logging and audit trails for cost and session tracking. Use when addi... | athola |
 | [vastai-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-observability) | Monitor Vast.ai GPU instance health, utilization, and costs. Use when setting up monitoring dashb... | jeremylongshore |

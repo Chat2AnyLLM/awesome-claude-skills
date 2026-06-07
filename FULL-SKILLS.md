@@ -2,11 +2,11 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4487 skills
-  - [APIs & REST](#apis-and-rest) - 2656 skills
-  - [Database Design](#database-design) - 1320 skills
+- [Backend Development](#backend-development) - 4486 skills
+  - [APIs & REST](#apis-and-rest) - 2655 skills
+  - [Database Design](#database-design) - 1319 skills
   - [Request Handling](#request-handling) - 270 skills
-  - [Web Frameworks](#web-frameworks) - 175 skills
+  - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
   - [Message Queues](#message-queues) - 17 skills
   - [Microservices](#microservices) - 16 skills
@@ -20,9 +20,9 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 797 skills
+- [Data & Analytics](#data-and-analytics) - 796 skills
   - [Data Pipelines](#data-pipelines) - 515 skills
-  - [Analytics & Queries](#analytics-and-queries) - 219 skills
+  - [Analytics & Queries](#analytics-and-queries) - 218 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
@@ -32,12 +32,12 @@
 - [Frontend Development](#frontend-development) - 567 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
 - [Testing & Quality](#testing-and-quality) - 356 skills
-- [Machine Learning](#machine-learning) - 332 skills
+- [Machine Learning](#machine-learning) - 334 skills
   - [Model Training](#model-training) - 208 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
   - [Model Evaluation](#model-evaluation) - 22 skills
-  - [Feature Engineering](#feature-engineering) - 20 skills
-  - [Model Deployment](#model-deployment) - 10 skills
+  - [Feature Engineering](#feature-engineering) - 21 skills
+  - [Model Deployment](#model-deployment) - 11 skills
 - [Security](#security) - 283 skills
 - [Uncategorized](#uncategorized) - 233 skills
 - [Documentation](#documentation) - 166 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4487 skills in this domain*
+*4486 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2656 skills*
+*2655 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -839,7 +839,6 @@
 | [error-handling-patterns](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/error-handling-patterns) | Master error handling patterns across languages including exceptions, Result types, error propagation, and graceful d... | wshobson |
 | [error-mapping-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/16-api-integration/error-mapping-helper) | Configure with error mapping helper operations. Auto-activating skill for API Integration. Triggers on: error mapping... | jeremylongshore |
 | [error-mapping-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/error-mapping-helper) | Configure with error mapping helper operations. Auto-activating skill for API Integration. Triggers on: error mapping... | jeremylongshore |
-| [esm](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/esm) | Comprehensive toolkit for EvolutionaryScale protein language models including ESM3 (generative multimodal design acro... | K-Dense-AI |
 | [esm](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/esm) | Comprehensive toolkit for protein language models including ESM3 (generative multimodal protein design across sequenc... | davila7 |
 | [etag-handler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/15-api-development/etag-handler) | Manage etag handler operations. Auto-activating skill for API Development. Triggers on: etag handler, etag handler Pa... | jeremylongshore |
 | [etag-handler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/etag-handler) | Manage etag handler operations. Auto-activating skill for API Development. Triggers on: etag handler, etag handler Pa... | jeremylongshore |
@@ -2713,7 +2712,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1320 skills*
+*1319 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3235,7 +3234,6 @@
 | [get-available-resources](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/get-available-resources) | This skill should be used at the start of any computationally intensive scientific task to detect and report availabl... | K-Dense-AI |
 | [get-available-resources](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/get-available-resources) | This skill should be used at the start of any computationally intensive scientific task to detect and report availabl... | davila7 |
 | [getform-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/getform-automation) | Automate Getform tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
-| [gget](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/gget) | Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST searches, AlphaFold ... | K-Dense-AI |
 | [gguf-quantization](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardwar... | davila7 |
 | [gguf-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/gguf) | GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardwar... | zechenzhangAGI |
 | [git-platform](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/git-platform) | Detects git forge (GitHub/GitLab/Bitbucket) and maps CLI commands cross-platform. Use when writing skills that must r... | athola |
@@ -4317,7 +4315,7 @@
 
 <a name="web-frameworks"></a>
 ## Web Frameworks
-*175 skills*
+*176 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4347,7 +4345,7 @@
 | [bulk-rnaseq](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/bulk-rnaseq) | End-to-end bulk RNA-seq orchestrator — takes raw FASTQ reads through QC and trimming (FastQC, fastp/Trim Galore), ali... | K-Dense-AI |
 | [canva-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/canva-pack/skills/canva-policy-guardrails) | Implement Canva Connect API lint rules, policy enforcement, and automated guardrails. Use when setting up code qualit... | jeremylongshore |
 | [canva-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/canva-pack/skills/canva-policy-guardrails) | Implement Canva Connect API lint rules, policy enforcement, and automated guardrails. Use when setting up code qualit... | jeremylongshore |
-| [cellxgene-census](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cellxgene-census) | Query the CELLxGENE Census (61M+ cells) programmatically. Use when you need expression data across tissues, diseases,... | K-Dense-AI |
+| [cellxgene-census](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cellxgene-census) | Query the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcriptomics data. Use... | K-Dense-AI |
 | [cellxgene-census](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/cellxgene-census) | Query CZ CELLxGENE Census (61M+ cells). Filter by cell type/tissue/disease, retrieve expression data, integrate with ... | davila7 |
 | [clade-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/claude-pack/skills/clade-reference-architecture) | Build Claude Code plugins — skills, agents, MCP servers, hooks, and slash commands. Use when working with reference-a... | jeremylongshore |
 | [clade-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-reference-architecture) | Build Claude Code plugins — skills, agents, MCP servers, hooks, and slash commands. Use when working with reference-a... | jeremylongshore |
@@ -4397,6 +4395,7 @@
 | [fondo-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-core-workflow-b) | Execute Fondo R&D tax credit workflow: qualify activities, calculate credits, file Form 6765, and claim payroll tax o... | jeremylongshore |
 | [fondo-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-core-workflow-b) | Execute Fondo R&D tax credit workflow: qualify activities, calculate credits, file Form 6765, and claim payroll tax o... | jeremylongshore |
 | [geo-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/geo-database) | Access NCBI GEO for gene expression/genomics data. Search/download microarray and RNA-seq datasets (GSE, GSM, GPL), r... | davila7 |
+| [gget](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/gget) | Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST/BLAT, viral sequence... | K-Dense-AI |
 | [ginkgo-cloud-lab](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/ginkgo-cloud-lab) | Submit and manage protocols on Ginkgo Bioworks Cloud Lab (cloud.ginkgo.bio), a web-based interface for autonomous lab... | K-Dense-AI |
 | [hf-mcp](https://github.com/huggingface/skills/tree/main/hf-mcp/skills/hf-mcp) | Use Hugging Face Hub via MCP server tools. Search models, datasets, Spaces, papers. Get repo details, fetch documenta... | huggingface |
 | [hono](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/hono) | Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any Win... | davila7 |
@@ -4441,10 +4440,10 @@
 | [perplexity-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-policy-guardrails) | Implement content moderation, model selection policy, citation quality enforcement, and per-user usage quotas for Per... | jeremylongshore |
 | [PocketBase API Rules](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/pocketbase/pb-api-rules) | API rules and filter expressions for PocketBase access control. Use when setting permissions, writing filter expressi... | davila7 |
 | [PocketBase Deploy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/pocketbase/pb-deploy) | Production deployment for PocketBase. Use when deploying PocketBase to a server, setting up Docker, configuring syste... | davila7 |
-| [polars](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/polars) | Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas is too slow but data still fits in mem... | K-Dense-AI |
+| [polars](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/polars) | High-performance DataFrame library for Python ETL, analytics, and pandas migration. Use for expression-based data man... | K-Dense-AI |
 | [polars](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/polars) | Fast DataFrame library (Apache Arrow). Select, filter, group_by, joins, lazy evaluation, CSV/Parquet I/O, expression ... | davila7 |
 | [prompt-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/prompt-engineer) | Writes, refactors, and evaluates prompts for LLMs — generating optimized prompt templates, structured output schemas,... | Jeffallan |
-| [pydeseq2](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pydeseq2) | Differential gene expression analysis (Python DESeq2). Identify DE genes from bulk RNA-seq counts, Wald tests, FDR co... | K-Dense-AI |
+| [pydeseq2](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pydeseq2) | Differential gene expression analysis for bulk RNA-seq with PyDESeq2, including formulaic designs, Wald tests, FDR co... | K-Dense-AI |
 | [pydeseq2](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pydeseq2) | Differential gene expression analysis (Python DESeq2). Identify DE genes from bulk RNA-seq counts, Wald tests, FDR co... | davila7 |
 | [python-pro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/python-pro) | Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices... | davila7 |
 | [regex-visual-debugger](https://github.com/OneWave-AI/claude-skills/tree/main/regex-debugger) | Debug regex patterns with visual breakdowns, plain English explanations, test case generation, and flavor conversion.... | OneWave-AI |
@@ -5483,7 +5482,7 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*797 skills in this domain*
+*796 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
@@ -6009,7 +6008,7 @@
 
 <a name="analytics-and-queries"></a>
 ## Analytics & Queries
-*219 skills*
+*218 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6215,7 +6214,6 @@
 | [torch-geometric](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/torch-geometric) | PyTorch Geometric (PyG) for graph neural networks — node/link/graph classification, message passing (GCN, GAT, GraphS... | K-Dense-AI |
 | [tracking-crypto-portfolio](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/crypto-portfolio-tracker/skills/tracking-crypto-portfolio) | Track cryptocurrency portfolio with real-time valuations, allocation analysis, and P&L tracking. Use when checking po... | jeremylongshore |
 | [tracking-crypto-portfolio](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-portfolio-tracker/skills/tracking-crypto-portfolio) | Track cryptocurrency portfolio with real-time valuations, allocation analysis, and P&L tracking. Use when checking po... | jeremylongshore |
-| [umap-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/umap-learn) | UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clustering preprocessing (HD... | K-Dense-AI |
 | [umap-learn](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/umap-learn) | UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clustering preprocessing (HD... | davila7 |
 | [usage-logging](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/usage-logging) | Implements structured usage logging and audit trails for cost and session tracking. Use when adding audit trails, usa... | athola |
 | [vastai-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-observability) | Monitor Vast.ai GPU instance health, utilization, and costs. Use when setting up monitoring dashboards, configuring a... | jeremylongshore |
@@ -9258,7 +9256,7 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*332 skills in this domain*
+*334 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
@@ -9585,7 +9583,7 @@
 
 <a name="feature-engineering"></a>
 ## Feature Engineering
-*20 skills*
+*21 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9605,6 +9603,7 @@
 | [klingai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-upgrade-migration) | Migrate between Kling AI model versions safely. Use when upgrading from v1.x to v2.x or adopting new features. Trigge... | jeremylongshore |
 | [product-analysis](https://github.com/daymade/claude-code-skills/tree/main/product-analysis) | Multi-path parallel product analysis with cross-model test-time compute scaling. Spawns parallel agents (Claude Code ... | daymade |
 | [rails-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/rails-expert) | Rails 7+ specialist that optimizes Active Record queries with includes/eager_load, implements Turbo Frames and Turbo ... | Jeffallan |
+| [umap-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/umap-learn) | Use UMAP-learn for nonlinear dimensionality reduction, 2D/3D embeddings, clustering preprocessing, supervised or semi... | K-Dense-AI |
 | [warden-threat](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/warden-threat) | Produce a threat model — assets, ranked threats, mitigations, accepted risks. Use when asked to "threat model this", ... | jeremylongshore |
 | [warden-threat](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/warden-threat) | Produce a threat model — assets, ranked threats, mitigations, accepted risks. Use when asked to "threat model this", ... | jeremylongshore |
 | [windsurf-keyboard-shortcuts](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-keyboard-shortcuts) | Configure custom keyboard shortcuts for Cascade and AI features. Activate when users mention "keyboard shortcuts", "k... | jeremylongshore |
@@ -9612,7 +9611,7 @@
 
 <a name="model-deployment"></a>
 ## Model Deployment
-*10 skills*
+*11 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9620,6 +9619,7 @@
 | [awq-quantization](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/10-optimization/awq) | Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accuracy loss. Use when de... | zechenzhangAGI |
 | [coreweave-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-webhooks-events) | Monitor CoreWeave cluster events and GPU workload status. Use when tracking pod lifecycle events, monitoring GPU util... | jeremylongshore |
 | [coreweave-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-webhooks-events) | Monitor CoreWeave cluster events and GPU workload status. Use when tracking pod lifecycle events, monitoring GPU util... | jeremylongshore |
+| [esm](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/esm) | Use when working directly with the `esm` Python SDK, ESM3 or ESMC model IDs, Forge/Biohub inference clients, or ESMFo... | K-Dense-AI |
 | [langchain-model-inference](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-model-inference) | Invoke Claude, GPT-4o, and Gemini through LangChain 1.0 without tripping on the content-block, token-accounting, and ... | jeremylongshore |
 | [langchain-model-inference](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-model-inference) | Invoke Claude, GPT-4o, and Gemini through LangChain 1.0 without tripping on the content-block, token-accounting, and ... | jeremylongshore |
 | [nowait-reasoning-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/nowait) | Implements the NOWAIT technique for efficient reasoning in R1-style LLMs. Use when optimizing inference of reasoning ... | davila7 |
@@ -10217,7 +10217,7 @@
 | [deprecation-notice-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/deprecation-notice-generator) | Generate deprecation notice generator operations. Auto-activating skill for Technical Documentation. Triggers on: dep... | jeremylongshore |
 | [design-doc-template](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/design-doc-template) | Build Doc Template - Auto-activating skill for Technical Documentation. Triggers on: design doc template, design doc ... | jeremylongshore |
 | [design-doc-template](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/design-doc-template) | Build Doc Template - Auto-activating skill for Technical Documentation. Triggers on: design doc template, design doc ... | jeremylongshore |
-| [diffdock](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/diffdock) | Diffusion-based molecular docking. Predict protein-ligand binding poses from PDB/SMILES, confidence scores, virtual s... | K-Dense-AI |
+| [diffdock](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/diffdock) | DiffDock and DiffDock-L molecular docking. Use for protein-small-molecule pose prediction from PDB or sequence plus S... | K-Dense-AI |
 | [diffdock](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/diffdock) | Diffusion-based molecular docking. Predict protein-ligand binding poses from PDB/SMILES, confidence scores, virtual s... | davila7 |
 | [doc-updates](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/doc-updates) | Updates documentation after code changes with quality gates, slop detection, and accuracy checks. Use when code chang... | athola |
 | [dock-certs-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/dock-certs-automation) | Automate Dock Certs tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
