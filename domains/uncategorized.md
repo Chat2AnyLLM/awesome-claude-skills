@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*233 skills in this domain*
+*234 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -219,6 +219,7 @@
 | [sync-status](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claudebase/skills/sync-status) | Use when the user wants to check what config has changed, see sync status, or compare local vs re... | jeremylongshore |
 | [Systematic Debugging](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/systematic-debugging) | Four-phase debugging framework that ensures root cause investigation before attempting fixes. Nev... | mrgoonie |
 | [task-planning](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/task-planning) | Generates phased, dependency-ordered implementation tasks from specifications. Use after spec is ... | athola |
+| [taste-scorer](https://github.com/xiwan/taste-scorer/tree/main) | 给万物打品味分。基于 Rubrics+ 评分体系，从设计(Design)、原创性(Originality)、工艺(Craft)、功能性(Functionality) 四个维度为任何事物评分（1-... | xiwan |
 | [team-chemistry-evaluator](https://github.com/OneWave-AI/claude-skills/tree/main/team-chemistry-evaluator) | Analyze roster fit and personality dynamics. Leadership assessment, role clarity, locker room cul... | OneWave-AI |
 | [track-management](https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/track-management) | Use this skill when creating, managing, or working with Conductor tracks - the logical work units... | wshobson |
 | [tracking-resource-usage](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/resource-usage-tracker/skills/tracking-resource-usage) | Track and optimize resource usage across application stack including CPU, memory, disk, and netwo... | jeremylongshore |

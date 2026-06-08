@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*770 skills in this domain*
+*772 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -692,6 +692,8 @@
 | [topic-cluster-planning](https://github.com/inhouseseo/superseo-skills/tree/main/skills/topic-cluster-planning) | Use when planning a topic cluster (hub + spokes) for a new content area. The agent researches the... | inhouseseo |
 | [touch-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/touch-recon) | Mobile reconnaissance — understand the app's tech stack, architecture, dependencies, and health f... | jeremylongshore |
 | [touch-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/touch-recon) | Mobile reconnaissance — understand the app's tech stack, architecture, dependencies, and health f... | jeremylongshore |
+| [tracing-transitive-vulnerabilities](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/tracing-transitive-vulnerabilities) | Build a dependency-tree map of a project (npm or Python) and trace the path from each known-vulne... | jeremylongshore |
+| [tracing-transitive-vulnerabilities](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/tracing-transitive-vulnerabilities) | Build a dependency-tree map of a project (npm or Python) and trace the path from each known-vulne... | jeremylongshore |
 | [trends-bulletin](https://github.com/iamzhihuix/happy-claude-skills/tree/main/skills/trends-bulletin) | 多平台热词速报，采集 HuggingFace、GitHub、Hacker News、Product Hunt、Reddit、YouTube 6 个平台的热门趋势并推送到 Telegram。当用户... | iamzhihuix |
 | [triage](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/claude-workflow-skills/skills/triage) | Validates all open GitHub issues, closes invalid ones with documentation, flags complex ones for ... | jeremylongshore |
 | [triage](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claude-workflow-skills/skills/triage) | Validates all open GitHub issues, closes invalid ones with documentation, flags complex ones for ... | jeremylongshore |

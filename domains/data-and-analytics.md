@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*796 skills in this domain*
+*798 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 515 skills
+- [Data Pipelines](#data-pipelines) - 517 skills
 - [Analytics & Queries](#analytics-queries) - 218 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
@@ -20,7 +20,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*515 skills*
+*517 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -76,6 +76,8 @@
 | [cdc-pipeline-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/cdc-pipeline-creator) | Create cdc pipeline creator operations. Auto-activating skill for Data Pipelines. Triggers on: cd... | jeremylongshore |
 | [checking-hipaa-compliance](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/hipaa-compliance-checker/skills/checking-hipaa-compliance) | Check HIPAA compliance for healthcare data security requirements. Use when auditing healthcare ap... | jeremylongshore |
 | [checking-hipaa-compliance](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/hipaa-compliance-checker/skills/checking-hipaa-compliance) | Check HIPAA compliance for healthcare data security requirements. Use when auditing healthcare ap... | jeremylongshore |
+| [checking-license-compliance](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/checking-license-compliance) | Audit a project's dependency licenses against an explicit policy (allow-list / deny-list / review... | jeremylongshore |
+| [checking-license-compliance](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/checking-license-compliance) | Audit a project's dependency licenses against an explicit policy (allow-list / deny-list / review... | jeremylongshore |
 | [clade-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/claude-pack/skills/clade-architecture-variants) | Build different types of Claude-powered applications — chatbots, RAG systems, Use when working wi... | jeremylongshore |
 | [clade-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-architecture-variants) | Build different types of Claude-powered applications — chatbots, RAG systems, Use when working wi... | jeremylongshore |
 | [clade-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/claude-pack/skills/clade-data-handling) | Handle sensitive data with Claude — PII redaction, conversation management, Use when working with... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4486 skills in this domain*
+*4494 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,18 +11,18 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2655 skills
-- [Database Design](#database-design) - 1319 skills
+- [APIs & REST](#apis-rest) - 2653 skills
+- [Database Design](#database-design) - 1327 skills
 - [Request Handling](#request-handling) - 270 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
 - [Authentication](#authentication) - 22 skills
-- [Message Queues](#message-queues) - 17 skills
+- [Message Queues](#message-queues) - 19 skills
 - [Microservices](#microservices) - 16 skills
 - [Caching](#caching) - 11 skills
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2655 skills*
+*2653 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1829,8 +1829,6 @@
 | [parallel-feature-development](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-feature-development) | Coordinate parallel feature development with file ownership strategies, conflict avoidance rules,... | wshobson |
 | [pdf-api-io-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/pdf-api-io-automation) | Automate PDF API IO tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [performance-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/performance-optimizer) | Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and af... | davila7 |
-| [performing-penetration-testing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/performing-penetration-testing) | Perform security testing on web applications, APIs, and codebases. Use when the user asks to "run... | jeremylongshore |
-| [performing-penetration-testing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/performing-penetration-testing) | Perform security testing on web applications, APIs, and codebases. Use when the user asks to "run... | jeremylongshore |
 | [perplexity-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-advanced-troubleshooting) | Apply advanced debugging techniques for hard-to-diagnose Perplexity Sonar API issues. Use when st... | jeremylongshore |
 | [perplexity-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-advanced-troubleshooting) | Apply advanced debugging techniques for hard-to-diagnose Perplexity Sonar API issues. Use when st... | jeremylongshore |
 | [perplexity-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-ci-integration) | Configure CI/CD for Perplexity Sonar API integrations with GitHub Actions. Use when setting up au... | jeremylongshore |
@@ -2684,7 +2682,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1319 skills*
+*1327 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2760,6 +2758,10 @@
 | [audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/audit) | Use when the user wants a code review on recent changes — quality, spec, security, or performance... | jeremylongshore |
 | [audit-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/claude-workflow-skills/skills/audit-plugin) | Performs a deep review of the Claude Code plugin, skill, or sub-agent defined in the current proj... | jeremylongshore |
 | [audit-plugin](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claude-workflow-skills/skills/audit-plugin) | Performs a deep review of the Claude Code plugin, skill, or sub-agent defined in the current proj... | jeremylongshore |
+| [auditing-npm-dependencies](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/auditing-npm-dependencies) | Audit a Node.js project's installed npm dependency tree for known CVEs by wrapping the npm audit ... | jeremylongshore |
+| [auditing-npm-dependencies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/auditing-npm-dependencies) | Audit a Node.js project's installed npm dependency tree for known CVEs by wrapping the npm audit ... | jeremylongshore |
+| [auditing-python-dependencies](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/auditing-python-dependencies) | Audit a Python project's installed dependencies for known CVEs by wrapping pip-audit (PyPA's offi... | jeremylongshore |
+| [auditing-python-dependencies](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/auditing-python-dependencies) | Audit a Python project's installed dependencies for known CVEs by wrapping pip-audit (PyPA's offi... | jeremylongshore |
 | [autogpt-agents](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-autogpt) | Autonomous AI agent platform for building and deploying continuous agents. Use when creating visu... | davila7 |
 | [autogpt-agents](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/autogpt) | Autonomous AI agent platform for building and deploying continuous agents. Use when creating visu... | zechenzhangAGI |
 | [backendless-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/backendless-automation) | Automate Backendless tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -2983,6 +2985,8 @@
 | [deepgram-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-debug-bundle) | Collect Deepgram debug evidence for support and troubleshooting. Use when preparing support ticke... | jeremylongshore |
 | [deepgram-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-deploy-integration) | Deploy Deepgram integrations to production environments. Use when deploying to cloud platforms, c... | jeremylongshore |
 | [deepgram-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-deploy-integration) | Deploy Deepgram integrations to production environments. Use when deploying to cloud platforms, c... | jeremylongshore |
+| [defining-pentest-scope](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/defining-pentest-scope) | Parse the ROE scope definition, enumerate every in-scope target (hostnames, IPs, CIDRs, URLs, clo... | jeremylongshore |
+| [defining-pentest-scope](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/defining-pentest-scope) | Parse the ROE scope definition, enumerate every in-scope target (hostnames, IPs, CIDRs, URLs, clo... | jeremylongshore |
 | [denario](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/denario) | Multiagent AI system for scientific research assistance that automates research workflows from da... | davila7 |
 | [deploying-machine-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/model-deployment-helper/skills/deploying-machine-learning-models) | Deploy this skill enables AI assistant to deploy machine learning models to production environmen... | jeremylongshore |
 | [deploying-machine-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/model-deployment-helper/skills/deploying-machine-learning-models) | Deploy this skill enables AI assistant to deploy machine learning models to production environmen... | jeremylongshore |
@@ -3559,6 +3563,8 @@
 | [performance-profiler](https://github.com/OneWave-AI/claude-skills/tree/main/performance-profiler) | Profile and optimize application performance including load times, memory usage, and rendering. U... | OneWave-AI |
 | [performance-profiling](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/performance-profiling) | Performance profiling principles. Measurement, analysis, and optimization techniques. | davila7 |
 | [performance-review](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/performance-review) | Detects time and space complexity hotspots via AST scan. Use when code feels slow, before perform... | athola |
+| [performing-penetration-testing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/performing-penetration-testing) | Orchestrate a penetration test by routing user intent to one or more of the 25 narrow skills in t... | jeremylongshore |
+| [performing-penetration-testing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/performing-penetration-testing) | Orchestrate a penetration test by routing user intent to one or more of the 25 narrow skills in t... | jeremylongshore |
 | [performing-regression-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/regression-analysis-tool/skills/performing-regression-analysis) | Execute this skill empowers AI assistant to perform regression analysis and modeling using the re... | jeremylongshore |
 | [performing-regression-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/regression-analysis-tool/skills/performing-regression-analysis) | Execute this skill empowers AI assistant to perform regression analysis and modeling using the re... | jeremylongshore |
 | [performing-security-audits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/packages/security-pro-pack/skills/performing-security-audits) | Analyze code, infrastructure, and configurations by conducting comprehensive security audits. It ... | jeremylongshore |
@@ -4499,7 +4505,7 @@
 
 <a name="message-queues"></a>
 ## Message Queues
-*17 skills*
+*19 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4517,6 +4523,8 @@
 | [neurokit2](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/neurokit2) | Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, E... | davila7 |
 | [rabbitmq-queue-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/06-backend-dev/rabbitmq-queue-setup) | Configure rabbitmq queue setup operations. Auto-activating skill for Backend Development. Trigger... | jeremylongshore |
 | [rabbitmq-queue-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/rabbitmq-queue-setup) | Configure rabbitmq queue setup operations. Auto-activating skill for Backend Development. Trigger... | jeremylongshore |
+| [recording-pentest-engagement](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/recording-pentest-engagement) | Package an engagement's findings, scan outputs, evidence, and signed ROE into a timestamped archi... | jeremylongshore |
+| [recording-pentest-engagement](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/recording-pentest-engagement) | Package an engagement's findings, scan outputs, evidence, and signed ROE into a timestamped archi... | jeremylongshore |
 | [stackblitz-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-webhooks-events) | WebContainer lifecycle events: server-ready, port changes, error handling. Use when working with ... | jeremylongshore |
 | [stackblitz-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-webhooks-events) | WebContainer lifecycle events: server-ready, port changes, error handling. Use when working with ... | jeremylongshore |
 | [upstash-qstash](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/upstash-qstash) | Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task... | davila7 |
