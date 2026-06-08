@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4494 skills
+- [Backend Development](#backend-development) - 4495 skills
   - [APIs & REST](#apis-and-rest) - 2653 skills
-  - [Database Design](#database-design) - 1327 skills
+  - [Database Design](#database-design) - 1328 skills
   - [Request Handling](#request-handling) - 270 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
@@ -39,14 +39,14 @@
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 11 skills
 - [Security](#security) - 283 skills
-- [Uncategorized](#uncategorized) - 234 skills
+- [Uncategorized](#uncategorized) - 233 skills
 - [Documentation](#documentation) - 166 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
 
 <a name="backend-development"></a>
 # Backend Development
 
-*4494 skills in this domain*
+*4495 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2710,7 +2710,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1327 skills*
+*1328 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3971,6 +3971,7 @@
 | [treatment-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/treatment-plans) | Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties. Suppor... | davila7 |
 | [triage-display](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/triage-display) | Internal process for the triage-summarizer agent. Defines the step-by-step procedure for formatting triage results as... | jeremylongshore |
 | [triage-display](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/triage-display) | Internal process for the triage-summarizer agent. Defines the step-by-step procedure for formatting triage results as... | jeremylongshore |
+| [trl-training](https://github.com/huggingface/skills/tree/main/skills/trl-training) | Train and fine-tune transformer language models using TRL (Transformers Reinforcement Learning). Supports SFT, DPO, G... | huggingface |
 | [tuning-hyperparameters](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/hyperparameter-tuner/skills/tuning-hyperparameters) | Optimize machine learning model hyperparameters using grid search, random search, or Bayesian optimization. Finds bes... | jeremylongshore |
 | [tuning-hyperparameters](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/hyperparameter-tuner/skills/tuning-hyperparameters) | Optimize machine learning model hyperparameters using grid search, random search, or Bayesian optimization. Finds bes... | jeremylongshore |
 | [twinmind-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-debug-bundle) | Collect comprehensive diagnostic information for TwinMind issues. Use when preparing support requests, investigating ... | jeremylongshore |
@@ -9941,7 +9942,7 @@
 <a name="uncategorized"></a>
 # Uncategorized
 
-*234 skills in this domain*
+*233 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10153,7 +10154,6 @@
 | [sync-status](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claudebase/skills/sync-status) | Use when the user wants to check what config has changed, see sync status, or compare local vs remote config. | jeremylongshore |
 | [Systematic Debugging](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/debugging/systematic-debugging) | Four-phase debugging framework that ensures root cause investigation before attempting fixes. Never jump to solutions. | mrgoonie |
 | [task-planning](https://github.com/athola/claude-night-market/tree/master/plugins/spec-kit/skills/task-planning) | Generates phased, dependency-ordered implementation tasks from specifications. Use after spec is complete and before ... | athola |
-| [taste-scorer](https://github.com/xiwan/taste-scorer/tree/main) | 给万物打品味分。基于 Rubrics+ 评分体系，从设计(Design)、原创性(Originality)、工艺(Craft)、功能性(Functionality) 四个维度为任何事物评分（1-4分）。支持动态权重调整。适用于：评价网... | xiwan |
 | [team-chemistry-evaluator](https://github.com/OneWave-AI/claude-skills/tree/main/team-chemistry-evaluator) | Analyze roster fit and personality dynamics. Leadership assessment, role clarity, locker room culture, trade/signing ... | OneWave-AI |
 | [track-management](https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/track-management) | Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs,... | wshobson |
 | [tracking-resource-usage](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/resource-usage-tracker/skills/tracking-resource-usage) | Track and optimize resource usage across application stack including CPU, memory, disk, and network I/O. Use when ide... | jeremylongshore |
