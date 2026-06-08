@@ -20,8 +20,8 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 798 skills
-  - [Data Pipelines](#data-pipelines) - 517 skills
+- [Data & Analytics](#data-and-analytics) - 799 skills
+  - [Data Pipelines](#data-pipelines) - 518 skills
   - [Analytics & Queries](#analytics-and-queries) - 218 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
@@ -5491,11 +5491,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*798 skills in this domain*
+*799 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*517 skills*
+*518 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5773,6 +5773,7 @@
 | [hubspot-deal-pipeline-automation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hubspot-pack/skills/hubspot-deal-pipeline-automation) | Automate and audit HubSpot deal pipeline operations without destroying real pipeline — covering stage automation loop... | jeremylongshore |
 | [hubspot-warehouse-sync](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hubspot-pack/skills/hubspot-warehouse-sync) | Sync HubSpot CRM data to a data warehouse (BigQuery, Snowflake, or Postgres) for analytics and reporting. Covers init... | jeremylongshore |
 | [hubspot-warehouse-sync](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hubspot-pack/skills/hubspot-warehouse-sync) | Sync HubSpot CRM data to a data warehouse (BigQuery, Snowflake, or Postgres) for analytics and reporting. Covers init... | jeremylongshore |
+| [huggingface-lora-space-builder](https://github.com/huggingface/skills/tree/main/skills/huggingface-lora-space-builder) | Build and publish a Gradio demo on Hugging Face Spaces for a user-provided LoRA. Use when someone asks to create, gen... | huggingface |
 | [huggingface-paper-publisher](https://github.com/huggingface/skills/tree/main/skills/huggingface-paper-publisher) | Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datas... | huggingface |
 | [ideogram-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-core-workflow-a) | Execute Ideogram primary workflow: text-to-image generation with text rendering. Use when generating images from text... | jeremylongshore |
 | [ideogram-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-core-workflow-a) | Execute Ideogram primary workflow: text-to-image generation with text rendering. Use when generating images from text... | jeremylongshore |
