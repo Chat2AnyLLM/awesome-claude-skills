@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*230 skills in this domain*
+*233 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -228,6 +228,8 @@
 | [user-journey-mapper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/18-visual-content/user-journey-mapper) | Manage user journey mapper operations. Auto-activating skill for Visual Content. Triggers on: use... | jeremylongshore |
 | [vercel-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vercel-pack/skills/vercel-upgrade-migration) | Upgrade Vercel CLI, Node.js runtime, and Next.js framework versions with breaking change detectio... | jeremylongshore |
 | [vercel-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vercel-pack/skills/vercel-upgrade-migration) | Upgrade Vercel CLI, Node.js runtime, and Next.js framework versions with breaking change detectio... | jeremylongshore |
+| [web-search](https://github.com/bear2u/my-skills/tree/master/.claude/skills/web-search) | DuckDuckGo를 사용한 웹 검색. 텍스트, 뉴스, 이미지 검색을 지원. 빌트인 WebSearch가 제한적이거나, 뉴스/이미지 검색, 지역/기간 필터가 필요할 때 사용. ... | bear2u |
+| [web-to-markdown](https://github.com/bear2u/my-skills/tree/master/.claude/skills/web-to-markdown) | 웹페이지 URL을 입력받아 마크다운 형태로 변환하여 저장합니다. 웹 문서를 로컬 마크다운 파일로 아카이빙하거나 정리할 때 유용합니다. | bear2u |
 | [web-to-markdown](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/web-to-markdown) | Use ONLY when the user explicitly says: 'use the skill web-to-markdown ...' (or 'use a skill web-... | davila7 |
 | [wechat-article-writer](https://github.com/iamzhihuix/happy-claude-skills/tree/main/skills/wechat-article-writer) | 公众号文章自动化写作流程。支持资料搜索、文章撰写、爆款标题生成、排版优化。当用户提到写公众号、微信文章、自媒体写作、爆款文章、内容创作时使用此 skill。 | iamzhihuix |
 | [windsurf-multi-file-editing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-multi-file-editing) | Manage multi-file edits with Cascade coordination. Activate when users mention "multi-file edit",... | jeremylongshore |
@@ -241,6 +243,7 @@
 | [writing-hookify-rules](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/hookify/skills/writing-rules) | This skill should be used when the user asks to "create a hookify rule", "write a hook rule", "co... | anthropics |
 | [writing-plans](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/writing-plans) | Use when you have a spec or requirements for a multi-step task, before touching code | davila7 |
 | [writing-plans](https://github.com/obra/superpowers/tree/main/skills/writing-plans) | Use when you have a spec or requirements for a multi-step task, before touching code | obra |
+| [메타-프롬프트-생성기](https://github.com/bear2u/my-skills/tree/master/skills/meta-prompt-generator) | 간단한 설명을 받아 단계별 병렬 처리가 가능한 구조화된 커스텀 슬래시 커맨드를 자동으로 생성합니다. 프롬프트 생성, 워크플로우 설계, 테스트 스위트 작성이 필요할 때 사용하세요. | bear2u |
 
 
 [← Back to Main README](../README.md)

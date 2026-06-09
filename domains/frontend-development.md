@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*564 skills in this domain*
+*568 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -138,6 +138,7 @@
 | [clickhouse-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-reference-architecture) | Production reference architecture for ClickHouse-backed applications — project layout, data flow,... | jeremylongshore |
 | [clickhouse-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-reference-architecture) | Production reference architecture for ClickHouse-backed applications — project layout, data flow,... | jeremylongshore |
 | [cloudflare-browser-rendering-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/cloudflare-browser-rendering-automation) | Automate Cloudflare Browser Rendering tasks via Rube MCP (Composio). Always search tools first fo... | ComposioHQ |
+| [code-changelog](https://github.com/bear2u/my-skills/tree/master/skills/code-changelog) | AI가 만든 모든 코드 변경사항을 reviews 폴더에 기록하고 간단한 HTML 뷰어로 웹 브라우저에서 실시간 확인할 수 있습니다. 매 수정마다 문서가 생성되고 Python ... | bear2u |
 | [code-formatter](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/examples/formatter/skills/code-formatter) | Execute automatically formats and validates code files using Prettier and other formatting tools.... | jeremylongshore |
 | [code-formatter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/examples/formatter/skills/code-formatter) | Execute automatically formats and validates code files using Prettier and other formatting tools.... | jeremylongshore |
 | [code-splitting-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/code-splitting-helper) | Configure with code splitting helper operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
@@ -216,7 +217,8 @@
 | [framer-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/framer-pack/skills/framer-reference-architecture) | Implement Framer reference architecture with best-practice project layout. Use when designing new... | jeremylongshore |
 | [frontend-design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | anthropics |
 | [frontend-design](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/frontend-design/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | anthropics |
-| [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | anthropics |
+| [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) | Guidance for distinctive, intentional visual design when building new UI or reshaping an existing... | anthropics |
+| [frontend-design](https://github.com/bear2u/my-skills/tree/master/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | bear2u |
 | [frontend-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | davila7 |
 | [frontend-design](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/frontend-design) | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill... | mrgoonie |
 | [frontend-dev-guidelines](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/frontend-dev-guidelines) | Frontend development guidelines for React/TypeScript applications. Modern patterns including Susp... | davila7 |
@@ -264,6 +266,7 @@
 | [keyboard-navigation-tester](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/keyboard-navigation-tester) | Test keyboard navigation tester operations. Auto-activating skill for Frontend Development. Trigg... | jeremylongshore |
 | [klaviyo-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klaviyo-pack/skills/klaviyo-reference-architecture) | Implement Klaviyo reference architecture with best-practice project layout. Use when designing ne... | jeremylongshore |
 | [klaviyo-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klaviyo-pack/skills/klaviyo-reference-architecture) | Implement Klaviyo reference architecture with best-practice project layout. Use when designing ne... | jeremylongshore |
+| [landing-page-guide](https://github.com/bear2u/my-skills/tree/master/skills/landing-page-guide) | Comprehensive guide for creating effective landing pages using Next.js or React. This skill shoul... | bear2u |
 | [langchain](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-langchain) | Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple p... | davila7 |
 | [langchain](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/langchain) | Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple p... | zechenzhangAGI |
 | [langchain-langgraph-agents](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-langgraph-agents) | Build a correct LangGraph 1.0 ReAct agent with `create_react_agent` — typed tools, error propagat... | jeremylongshore |
@@ -305,6 +308,7 @@
 | [nextjs-best-practices](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nextjs-best-practices) | Next.js App Router principles. Server Components, data fetching, routing patterns. | davila7 |
 | [nextjs-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/nextjs-developer) | Use when building Next.js 14+ applications with App Router, server components, or server actions.... | Jeffallan |
 | [nextjs-supabase-auth](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nextjs-supabase-auth) | Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authent... | davila7 |
+| [nextjs15-init](https://github.com/bear2u/my-skills/tree/master/.claude/skills/nextjs15-init) | Use when user wants to create a new Next.js 15 project (Todo/Blog/Dashboard/E-commerce/Custom dom... | bear2u |
 | [notebooklm](https://github.com/PleasePrompto/notebooklm-skill/tree/master) | Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-gro... | PleasePrompto |
 | [notebooklm](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/notebooklm) | Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-gro... | davila7 |
 | [obsidian-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/obsidian-pack/skills/obsidian-core-workflow-b) | Build advanced Obsidian plugin features: custom views (ItemView), modals, editor commands with se... | jeremylongshore |
