@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*772 skills in this domain*
+*765 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -121,8 +121,6 @@
 | [calendar-to-workflow](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/skill-enhancers/calendar-to-workflow/skills/calendar-to-workflow) | Converts calendar events and schedules into Claude Code workflows, meeting prep documents, and st... | jeremylongshore |
 | [call-chain](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/call-chain) | Traces execution paths through the code graph with criticality scoring and Mermaid charts. Use wh... | athola |
 | [campaign-cleaner-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/campaign-cleaner-automation) | Automate Campaign Cleaner tasks via Rube MCP (Composio). Always search tools first for current sc... | ComposioHQ |
-| [card-news-generator](https://github.com/bear2u/my-skills/tree/master/skills/card-news-generator) | Create 600x600 Instagram-style card news series automatically with optional background images. Us... | bear2u |
-| [card-news-generator-v2](https://github.com/bear2u/my-skills/tree/master/.claude/skills/card-news-generator-v2) | Create 600x600 Instagram-style card news series automatically with optional background images. Us... | bear2u |
 | [cardputer-buddy](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/cwc-makers/skills/cardputer-buddy) | Iterate on the Cardputer-Adv MicroPython app bundle (Claude Buddy, Snake, Hello) after the device... | anthropics |
 | [castai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/castai-pack/skills/castai-webhooks-events) | Configure CAST AI webhook notifications for cluster events and audit logs. Use when setting up al... | jeremylongshore |
 | [castai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/castai-pack/skills/castai-webhooks-events) | Configure CAST AI webhook notifications for cluster events and audit logs. Use when setting up al... | jeremylongshore |
@@ -158,8 +156,6 @@
 | [coderabbit-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-migration-deep-dive) | Migrate to CodeRabbit from other code review tools or roll out across a large organization. Use w... | jeremylongshore |
 | [coderabbit-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-migration-deep-dive) | Migrate to CodeRabbit from other code review tools or roll out across a large organization. Use w... | jeremylongshore |
 | [codex](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/codex) | Use when the user asks to run Codex CLI (codex exec, codex resume) or references OpenAI Codex for... | davila7 |
-| [codex-claude-cursor-loop](https://github.com/bear2u/my-skills/tree/master/.claude/skills/codex-claude-cursor-loop) | Orchestrates a triple-AI engineering loop where Claude plans, Codex validates logic and reviews c... | bear2u |
-| [codex-claude-loop](https://github.com/bear2u/my-skills/tree/master/.claude/skills/codex-claude-loop) | Orchestrates a dual-AI engineering loop where Claude Code plans and implements, while Codex valid... | bear2u |
 | [codex-review](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/codex-review) | Professional code review with auto CHANGELOG generation, integrated with Codex AI | davila7 |
 | [cohere-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-webhooks-events) | Implement Cohere streaming event handling, SSE patterns, and connector webhooks. Use when buildin... | jeremylongshore |
 | [cohere-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-webhooks-events) | Implement Cohere streaming event handling, SSE patterns, and connector webhooks. Use when buildin... | jeremylongshore |
@@ -288,7 +284,6 @@
 | [flowiseai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/flowiseai-automation) | Automate Flowiseai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [flush](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/flush) | Use when the user wants to manually flush a deferred-commit queue from a prior or interrupted cha... | jeremylongshore |
 | [flush](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/flush) | Use when the user wants to manually flush a deferred-commit queue from a prior or interrupted cha... | jeremylongshore |
-| [flutter-init](https://github.com/bear2u/my-skills/tree/master/.claude/skills/flutter-init) | Use when user wants to create a new Flutter project (Todo/Habit/Note/Expense/Custom domain) with ... | bear2u |
 | [fondo-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-common-errors) | Diagnose and fix common Fondo issues including integration sync failures, categorization errors, ... | jeremylongshore |
 | [fondo-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-common-errors) | Diagnose and fix common Fondo issues including integration sync failures, categorization errors, ... | jeremylongshore |
 | [fondo-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-core-workflow-a) | Execute Fondo primary workflow: monthly bookkeeping close and financial reporting. Use when manag... | jeremylongshore |
@@ -308,7 +303,6 @@
 | [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/gastown/skills/gastown) | Manage multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt com... | jeremylongshore |
 | [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/gastown/skills/gastown) | Manage multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt com... | jeremylongshore |
 | [gcc](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/git/git-context-controller) | Git Context Controller (GCC) - Manages agent memory as a versioned file system under .GCC/. This ... | davila7 |
-| [gemini-logo-remover](https://github.com/bear2u/my-skills/tree/master/.claude/skills/gemini-logo-remover) | Remove Gemini logos, watermarks, or AI-generated image markers using OpenCV inpainting. Use this ... | bear2u |
 | [generating-conventional-commits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/packages/devops-automation-pack/skills/generating-conventional-commits) | Execute generates conventional commit messages using AI. It analyzes code changes and suggests a ... | jeremylongshore |
 | [generating-conventional-commits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/packages/devops-automation-pack/skills/generating-conventional-commits) | Execute generates conventional commit messages using AI. It analyzes code changes and suggests a ... | jeremylongshore |
 | [gepetto](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/gepetto) | Creates detailed, sectionized implementation plans through research, stakeholder interviews, and ... | davila7 |
@@ -372,7 +366,6 @@
 | [klingai-video-extension](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-video-extension) | Extend video duration using Kling AI continuation. Use when creating longer videos from shorter c... | jeremylongshore |
 | [kontent-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/kontent-ai-automation) | Automate Kontent AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [landing-page-copywriter](https://github.com/OneWave-AI/claude-skills/tree/main/landing-page-copywriter) | Write high-converting landing page copy using proven frameworks like PAS (Problem-Agitate-Solutio... | OneWave-AI |
-| [landing-page-guide-v2](https://github.com/bear2u/my-skills/tree/master/.claude/skills/landing-page-guide-v2) | Create distinctive, high-converting landing pages that combine proven conversion elements with ex... | bear2u |
 | [langchain-architecture](https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/langchain-architecture) | Design LLM applications using LangChain 1.x and LangGraph for agents, memory, and tool integratio... | wshobson |
 | [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-common-errors) | Paste-match catalog of 14 real LangChain 1.0 / LangGraph 1.0 exceptions with named causes and nam... | jeremylongshore |
 | [langchain-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-common-errors) | Paste-match catalog of 14 real LangChain 1.0 / LangGraph 1.0 exceptions with named causes and nam... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4495 skills in this domain*
+*4491 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,8 +12,8 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2653 skills
-- [Database Design](#database-design) - 1328 skills
-- [Request Handling](#request-handling) - 270 skills
+- [Database Design](#database-design) - 1327 skills
+- [Request Handling](#request-handling) - 267 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
 - [Authentication](#authentication) - 22 skills
 - [Message Queues](#message-queues) - 19 skills
@@ -2682,7 +2682,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1328 skills*
+*1327 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4005,7 +4005,6 @@
 | [windsurf-performance-profiling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-performance-profiling) | Profile and optimize code with AI-assisted analysis. Activate when users mention "performance pro... | jeremylongshore |
 | [Wireshark Network Traffic Analysis](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/wireshark-analysis) | This skill should be used when the user asks to "analyze network traffic with Wireshark", "captur... | davila7 |
 | [workflow-automation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/workflow-automation) | Workflow automation is the infrastructure that makes AI agents reliable. Without durable executio... | davila7 |
-| [workthrough](https://github.com/bear2u/my-skills/tree/master/.claude/skills/workthrough) | Automatically document all development work and code modifications in a structured workthrough fo... | bear2u |
 | [xlsx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | ComposioHQ |
 | [xlsx](https://github.com/Prat011/awesome-llm-skills/tree/master/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | Prat011 |
 | [xlsx](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/document-skills/xlsx) | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, ... | mrgoonie |
@@ -4017,7 +4016,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*270 skills*
+*267 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4093,7 +4092,6 @@
 | [deal-momentum-analyzer](https://github.com/OneWave-AI/claude-skills/tree/main/deal-momentum-analyzer) | Score deal velocity based on email response times, meeting frequency, and stakeholder engagement.... | OneWave-AI |
 | [deepgram-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-incident-runbook) | Execute Deepgram incident response procedures for production issues. Use when handling Deepgram o... | jeremylongshore |
 | [deepgram-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-incident-runbook) | Execute Deepgram incident response procedures for production issues. Use when handling Deepgram o... | jeremylongshore |
-| [design-prompt-generator-v2](https://github.com/bear2u/my-skills/tree/master/skills/design-prompt-generator-v2) | Advanced 7-step hierarchical design prompt generator for AI web development tools (Lovable, Curso... | bear2u |
 | [documenso-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-incident-runbook) | Manage incident response for Documenso integration issues. Use when diagnosing production inciden... | jeremylongshore |
 | [documenso-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-incident-runbook) | Manage incident response for Documenso integration issues. Use when diagnosing production inciden... | jeremylongshore |
 | [elevenlabs-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-rate-limits) | Implement ElevenLabs rate limiting, concurrency queuing, and backoff patterns. Use when handling ... | jeremylongshore |
@@ -4194,7 +4192,6 @@
 | [managing-ssltls-certificates](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/ssl-certificate-manager/skills/managing-ssltls-certificates) | Execute this skill enables AI assistant to manage and monitor ssl/tls certificates using the ssl-... | jeremylongshore |
 | [managing-ssltls-certificates](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/ssl-certificate-manager/skills/managing-ssltls-certificates) | Execute this skill enables AI assistant to manage and monitor ssl/tls certificates using the ssl-... | jeremylongshore |
 | [mcp-management](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-management) | Manage Model Context Protocol (MCP) servers - discover, analyze, and execute tools/prompts/resour... | mrgoonie |
-| [midjourney-card-news-backgrounds](https://github.com/bear2u/my-skills/tree/master/skills/midjourney-cardnews-bg) | Generate Midjourney prompts for 600x600 card news background images based on topic, mood, and sty... | bear2u |
 | [mistral-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-common-errors) | Diagnose and fix Mistral AI common errors and exceptions. Use when encountering Mistral errors, d... | jeremylongshore |
 | [mistral-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-common-errors) | Diagnose and fix Mistral AI common errors and exceptions. Use when encountering Mistral errors, d... | jeremylongshore |
 | [mistral-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-incident-runbook) | Execute Mistral AI incident response procedures with triage, mitigation, and postmortem. Use when... | jeremylongshore |
@@ -4217,7 +4214,6 @@
 | [pr-review](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/pr-review) | Reviews pull requests with scope validation, requirements compliance, and line comments. Use when... | athola |
 | [processing-computer-vision-tasks](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/computer-vision-processor/skills/processing-computer-vision-tasks) | Process images using object detection, classification, and segmentation. Use when requesting "ana... | jeremylongshore |
 | [processing-computer-vision-tasks](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/computer-vision-processor/skills/processing-computer-vision-tasks) | Process images using object detection, classification, and segmentation. Use when requesting "ana... | jeremylongshore |
-| [prompt-enhancer](https://github.com/bear2u/my-skills/tree/master/skills/prompt-enhancer) | Enhance user prompts by analyzing project context (code structure, dependencies, conventions, exi... | bear2u |
 | [python-resource-management](https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-resource-management) | Python resource management with context managers, cleanup patterns, and streaming. Use when manag... | wshobson |
 | [rate-limit-middleware](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/06-backend-dev/rate-limit-middleware) | Manage rate limit middleware operations. Auto-activating skill for Backend Development. Triggers ... | jeremylongshore |
 | [rate-limit-middleware](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/rate-limit-middleware) | Manage rate limit middleware operations. Auto-activating skill for Backend Development. Triggers ... | jeremylongshore |
