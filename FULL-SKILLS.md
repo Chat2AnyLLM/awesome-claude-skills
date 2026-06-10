@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4495 skills
-  - [APIs & REST](#apis-and-rest) - 2653 skills
+- [Backend Development](#backend-development) - 4505 skills
+  - [APIs & REST](#apis-and-rest) - 2663 skills
   - [Database Design](#database-design) - 1328 skills
   - [Request Handling](#request-handling) - 270 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 772 skills
 - [Tools & Utilities](#tools-and-utilities) - 633 skills
-- [Frontend Development](#frontend-development) - 568 skills
+- [Frontend Development](#frontend-development) - 569 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
 - [Testing & Quality](#testing-and-quality) - 364 skills
 - [Machine Learning](#machine-learning) - 334 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4495 skills in this domain*
+*4505 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2653 skills*
+*2663 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1784,10 +1784,20 @@
 | [onesignal_rest_api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/onesignal_rest_api-automation) | Automate OneSignal tasks via Rube MCP (Composio): push notifications, segments, templates, and messaging. Always sear... | ComposioHQ |
 | [OpenAI Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/openai-automation) | Automate OpenAI API operations -- generate responses with multimodal and structured output support, create embeddings... | ComposioHQ |
 | [openai-docs](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/openai-docs) | Use when the user asks how to build with OpenAI products or APIs and needs up-to-date official documentation with cit... | davila7 |
+| [openapi-auth](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-auth) | Authenticate with the Openapi marketplace (oauth.openapi.com). Use when you need to create, inspect, renew or delete ... | openapi |
+| [openapi-automotive](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-automotive) | Vehicle data through Openapi Automotive - look up cars, motorcycles, insurance and MOT status by license plate across... | openapi |
+| [openapi-company](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-company) | Look up company/business data through Openapi - Italian companies by VAT/tax code or name, European and worldwide com... | openapi |
+| [openapi-documents](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-documents) | Obtain official Italian documents through Openapi - chamber of commerce reports (visure camerali), financial statemen... | openapi |
+| [openapi-esignature](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-esignature) | Digital signatures and time stamps through Openapi - eIDAS-compliant electronic signatures (SES with OTP, qualified Q... | openapi |
+| [openapi-geo](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-geo) | Italian geographic and property data through Openapi - geocoding/reverse geocoding, zip codes (CAP), municipalities/p... | openapi |
+| [openapi-invoicing](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-invoicing) | Italian electronic invoicing and payments through Openapi - send/receive electronic invoices via SDI (Sistema di Inte... | openapi |
+| [openapi-messaging](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-messaging) | Send communications through Openapi - SMS with custom sender and OTP (SMS v2), Italian certified e-mail (PEC/Legalmai... | openapi |
+| [openapi-risk](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-risk) | Assess the reliability of companies and individuals through Openapi Risk - credit scores, CRIF reports, patrimonial r... | openapi |
 | [openapi-spec-generation](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/openapi-spec-generation) | Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when cre... | wshobson |
 | [openapi-spec-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/15-api-development/openapi-spec-generator) | Generate openapi spec generator operations. Auto-activating skill for API Development. Triggers on: openapi spec gene... | jeremylongshore |
 | [openapi-spec-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/openapi-spec-generator) | Generate openapi spec generator operations. Auto-activating skill for API Development. Triggers on: openapi spec gene... | jeremylongshore |
 | [openapi-to-typescript](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/openapi-to-typescript) | Converts OpenAPI 3.0 JSON/YAML to TypeScript interfaces and type guards. This skill should be used when the user asks... | davila7 |
+| [openapi-trust](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-trust) | Verify data validity through Openapi Trust - email deliverability, mobile number HLR checks, IP reputation, URL safet... | openapi |
 | [openevidence-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-install-auth) | Install and configure OpenEvidence SDK/API authentication. Use when setting up a new OpenEvidence integration. Trigge... | jeremylongshore |
 | [openevidence-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-install-auth) | Install and configure OpenEvidence SDK/API authentication. Use when setting up a new OpenEvidence integration. Trigge... | jeremylongshore |
 | [openrouter-caching-strategy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-caching-strategy) | Implement caching for OpenRouter API responses to reduce cost and latency. Use when optimizing repeat queries, buildi... | jeremylongshore |
@@ -7758,7 +7768,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*568 skills in this domain*
+*569 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8076,6 +8086,7 @@
 | [onenote-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/onenote-pack/skills/onenote-hello-world) | Create your first OneNote notebook, section, and page with correct XHTML content. Use when starting a new OneNote int... | jeremylongshore |
 | [open-graph-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/open-graph-creator) | Create open graph creator operations. Auto-activating skill for Frontend Development. Triggers on: open graph creator... | jeremylongshore |
 | [open-graph-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/open-graph-creator) | Create open graph creator operations. Auto-activating skill for Frontend Development. Triggers on: open graph creator... | jeremylongshore |
+| [openapi-utilities](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-utilities) | Openapi utility services - real-time currency exchange rates, HTML-to-PDF conversion (renders JavaScript), .it domain... | openapi |
 | [optimizing-performance](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/optimizing-performance) | Analyzes and optimizes application performance across frontend, backend, and database layers. Use when diagnosing slo... | CloudAI-X |
 | [oraclecloud-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-debug-bundle) | Collect OCI instance diagnostics — serial console, cloud-init logs, metadata, and VCN flow logs — into a single debug... | jeremylongshore |
 | [oraclecloud-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-debug-bundle) | Collect OCI instance diagnostics — serial console, cloud-init logs, metadata, and VCN flow logs — into a single debug... | jeremylongshore |

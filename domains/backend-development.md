@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4495 skills in this domain*
+*4505 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2653 skills
+- [APIs & REST](#apis-rest) - 2663 skills
 - [Database Design](#database-design) - 1328 skills
 - [Request Handling](#request-handling) - 270 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2653 skills*
+*2663 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1756,10 +1756,20 @@
 | [onesignal_rest_api-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/onesignal_rest_api-automation) | Automate OneSignal tasks via Rube MCP (Composio): push notifications, segments, templates, and me... | ComposioHQ |
 | [OpenAI Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/openai-automation) | Automate OpenAI API operations -- generate responses with multimodal and structured output suppor... | ComposioHQ |
 | [openai-docs](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/openai-docs) | Use when the user asks how to build with OpenAI products or APIs and needs up-to-date official do... | davila7 |
+| [openapi-auth](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-auth) | Authenticate with the Openapi marketplace (oauth.openapi.com). Use when you need to create, inspe... | openapi |
+| [openapi-automotive](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-automotive) | Vehicle data through Openapi Automotive - look up cars, motorcycles, insurance and MOT status by ... | openapi |
+| [openapi-company](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-company) | Look up company/business data through Openapi - Italian companies by VAT/tax code or name, Europe... | openapi |
+| [openapi-documents](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-documents) | Obtain official Italian documents through Openapi - chamber of commerce reports (visure camerali)... | openapi |
+| [openapi-esignature](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-esignature) | Digital signatures and time stamps through Openapi - eIDAS-compliant electronic signatures (SES w... | openapi |
+| [openapi-geo](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-geo) | Italian geographic and property data through Openapi - geocoding/reverse geocoding, zip codes (CA... | openapi |
+| [openapi-invoicing](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-invoicing) | Italian electronic invoicing and payments through Openapi - send/receive electronic invoices via ... | openapi |
+| [openapi-messaging](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-messaging) | Send communications through Openapi - SMS with custom sender and OTP (SMS v2), Italian certified ... | openapi |
+| [openapi-risk](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-risk) | Assess the reliability of companies and individuals through Openapi Risk - credit scores, CRIF re... | openapi |
 | [openapi-spec-generation](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/openapi-spec-generation) | Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation pa... | wshobson |
 | [openapi-spec-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/15-api-development/openapi-spec-generator) | Generate openapi spec generator operations. Auto-activating skill for API Development. Triggers o... | jeremylongshore |
 | [openapi-spec-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/openapi-spec-generator) | Generate openapi spec generator operations. Auto-activating skill for API Development. Triggers o... | jeremylongshore |
 | [openapi-to-typescript](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/openapi-to-typescript) | Converts OpenAPI 3.0 JSON/YAML to TypeScript interfaces and type guards. This skill should be use... | davila7 |
+| [openapi-trust](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-trust) | Verify data validity through Openapi Trust - email deliverability, mobile number HLR checks, IP r... | openapi |
 | [openevidence-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-install-auth) | Install and configure OpenEvidence SDK/API authentication. Use when setting up a new OpenEvidence... | jeremylongshore |
 | [openevidence-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-install-auth) | Install and configure OpenEvidence SDK/API authentication. Use when setting up a new OpenEvidence... | jeremylongshore |
 | [openrouter-caching-strategy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-caching-strategy) | Implement caching for OpenRouter API responses to reduce cost and latency. Use when optimizing re... | jeremylongshore |

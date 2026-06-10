@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*568 skills in this domain*
+*569 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -325,6 +325,7 @@
 | [onenote-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/onenote-pack/skills/onenote-hello-world) | Create your first OneNote notebook, section, and page with correct XHTML content. Use when starti... | jeremylongshore |
 | [open-graph-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/open-graph-creator) | Create open graph creator operations. Auto-activating skill for Frontend Development. Triggers on... | jeremylongshore |
 | [open-graph-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/open-graph-creator) | Create open graph creator operations. Auto-activating skill for Frontend Development. Triggers on... | jeremylongshore |
+| [openapi-utilities](https://github.com/openapi/openapi-skills/tree/main/skills/openapi-utilities) | Openapi utility services - real-time currency exchange rates, HTML-to-PDF conversion (renders Jav... | openapi |
 | [optimizing-performance](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/optimizing-performance) | Analyzes and optimizes application performance across frontend, backend, and database layers. Use... | CloudAI-X |
 | [oraclecloud-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-debug-bundle) | Collect OCI instance diagnostics — serial console, cloud-init logs, metadata, and VCN flow logs —... | jeremylongshore |
 | [oraclecloud-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-debug-bundle) | Collect OCI instance diagnostics — serial console, cloud-init logs, metadata, and VCN flow logs —... | jeremylongshore |
