@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4506 skills
+- [Backend Development](#backend-development) - 4507 skills
   - [APIs & REST](#apis-and-rest) - 2663 skills
-  - [Database Design](#database-design) - 1329 skills
+  - [Database Design](#database-design) - 1330 skills
   - [Request Handling](#request-handling) - 270 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 772 skills
 - [Tools & Utilities](#tools-and-utilities) - 633 skills
-- [Frontend Development](#frontend-development) - 569 skills
+- [Frontend Development](#frontend-development) - 570 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
 - [Testing & Quality](#testing-and-quality) - 365 skills
 - [Machine Learning](#machine-learning) - 334 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4506 skills in this domain*
+*4507 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2720,7 +2720,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1329 skills*
+*1330 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3907,6 +3907,7 @@
 | [stackblitz-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-performance-tuning) | Optimize WebContainer boot time, file system mounts, and process spawning. Use when working with WebContainers or Sta... | jeremylongshore |
 | [stackblitz-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-performance-tuning) | Optimize WebContainer boot time, file system mounts, and process spawning. Use when working with WebContainers or Sta... | jeremylongshore |
 | [statistical-analysis](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/statistical-analysis) | Guided statistical analysis with test selection and reporting. Use when you need help choosing appropriate tests for ... | K-Dense-AI |
+| [statistical-power](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/statistical-power) | Sample-size and statistical power calculations for planning studies. Use whenever someone asks "how many subjects/sam... | K-Dense-AI |
 | [stormglass-io-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/stormglass-io-automation) | Automate Stormglass IO tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers on: stress test conf... | jeremylongshore |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers on: stress test conf... | jeremylongshore |
@@ -7767,7 +7768,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*569 skills in this domain*
+*570 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7951,6 +7952,7 @@
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as self-contained dark-t... | jeremylongshore |
 | [error-boundary-creator](https://github.com/OneWave-AI/claude-skills/tree/main/error-boundary-creator) | Create error boundaries, error handling, and fallback UIs for React applications. Use when implementing error handlin... | OneWave-AI |
 | [example-command](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/example-plugin/skills/example-command) | An example user-invoked skill that demonstrates frontmatter options and the skills/<name>/SKILL.md layout | anthropics |
+| [experimental-design](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/experimental-design) | Design experiments and studies BEFORE data is collected — choosing a design, randomizing, blocking, and laying out tr... | K-Dense-AI |
 | [feishu-doc-scraper](https://github.com/daymade/claude-code-skills/tree/main/feishu-doc-scraper) | Extract Feishu (Lark) Docs, Wiki pages/collections, spreadsheets, and Minutes (妙记) transcripts into faithful local Ma... | daymade |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when building a design-to-c... | jeremylongshore |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when building a design-to-c... | jeremylongshore |

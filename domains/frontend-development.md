@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*569 skills in this domain*
+*570 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -191,6 +191,7 @@
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as s... | jeremylongshore |
 | [error-boundary-creator](https://github.com/OneWave-AI/claude-skills/tree/main/error-boundary-creator) | Create error boundaries, error handling, and fallback UIs for React applications. Use when implem... | OneWave-AI |
 | [example-command](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/example-plugin/skills/example-command) | An example user-invoked skill that demonstrates frontmatter options and the skills/<name>/SKILL.m... | anthropics |
+| [experimental-design](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/experimental-design) | Design experiments and studies BEFORE data is collected — choosing a design, randomizing, blockin... | K-Dense-AI |
 | [feishu-doc-scraper](https://github.com/daymade/claude-code-skills/tree/main/feishu-doc-scraper) | Extract Feishu (Lark) Docs, Wiki pages/collections, spreadsheets, and Minutes (妙记) transcripts in... | daymade |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when bu... | jeremylongshore |
 | [figma-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-core-workflow-a) | Extract design tokens, colors, typography, and spacing from Figma files via REST API. Use when bu... | jeremylongshore |

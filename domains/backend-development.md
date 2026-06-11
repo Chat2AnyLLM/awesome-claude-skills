@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4506 skills in this domain*
+*4507 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2663 skills
-- [Database Design](#database-design) - 1329 skills
+- [Database Design](#database-design) - 1330 skills
 - [Request Handling](#request-handling) - 270 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
 - [Authentication](#authentication) - 22 skills
@@ -2692,7 +2692,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1329 skills*
+*1330 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3879,6 +3879,7 @@
 | [stackblitz-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-performance-tuning) | Optimize WebContainer boot time, file system mounts, and process spawning. Use when working with ... | jeremylongshore |
 | [stackblitz-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-performance-tuning) | Optimize WebContainer boot time, file system mounts, and process spawning. Use when working with ... | jeremylongshore |
 | [statistical-analysis](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/statistical-analysis) | Guided statistical analysis with test selection and reporting. Use when you need help choosing ap... | K-Dense-AI |
+| [statistical-power](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/statistical-power) | Sample-size and statistical power calculations for planning studies. Use whenever someone asks "h... | K-Dense-AI |
 | [stormglass-io-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/stormglass-io-automation) | Automate Stormglass IO tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers ... | jeremylongshore |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers ... | jeremylongshore |
