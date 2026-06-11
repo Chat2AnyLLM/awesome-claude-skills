@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*799 skills in this domain*
+*798 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 518 skills
+- [Data Pipelines](#data-pipelines) - 517 skills
 - [Analytics & Queries](#analytics-queries) - 218 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
@@ -20,7 +20,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*518 skills*
+*517 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -403,7 +403,6 @@
 | [navan-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-migration-deep-dive) | Use when planning or executing a migration from SAP Concur or legacy TMC to Navan — data migratio... | jeremylongshore |
 | [navan-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/navan-pack/skills/navan-migration-deep-dive) | Use when planning or executing a migration from SAP Concur or legacy TMC to Navan — data migratio... | jeremylongshore |
 | [netlify-deploy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/netlify-deploy) | Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to d... | davila7 |
-| [networkx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/networkx) | Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Pyt... | K-Dense-AI |
 | [networkx](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/networkx) | Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Pyt... | davila7 |
 | [nft-standards](https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/nft-standards) | Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, an... | wshobson |
 | [notion-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/notion-pack/skills/notion-data-handling) | Implement data handling, PII protection, and GDPR/CCPA compliance for Notion integrations. Use wh... | jeremylongshore |

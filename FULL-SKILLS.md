@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4505 skills
+- [Backend Development](#backend-development) - 4506 skills
   - [APIs & REST](#apis-and-rest) - 2663 skills
-  - [Database Design](#database-design) - 1328 skills
+  - [Database Design](#database-design) - 1329 skills
   - [Request Handling](#request-handling) - 270 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
@@ -20,8 +20,8 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 799 skills
-  - [Data Pipelines](#data-pipelines) - 518 skills
+- [Data & Analytics](#data-and-analytics) - 798 skills
+  - [Data Pipelines](#data-pipelines) - 517 skills
   - [Analytics & Queries](#analytics-and-queries) - 218 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4505 skills in this domain*
+*4506 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2720,7 +2720,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1328 skills*
+*1329 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3486,6 +3486,7 @@
 | [Network 101](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/network-101) | This skill should be used when the user asks to "set up a web server", "configure HTTP or HTTPS", "perform SNMP enume... | davila7 |
 | [network-latency-tester](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/network-latency-tester) | Test network latency tester operations. Auto-activating skill for Performance Testing. Triggers on: network latency t... | jeremylongshore |
 | [network-latency-tester](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/network-latency-tester) | Test network latency tester operations. Auto-activating skill for Performance Testing. Triggers on: network latency t... | jeremylongshore |
+| [networkx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/networkx) | Create, analyze, and visualize complex networks and graphs in Python with NetworkX. Use when working with network/gra... | K-Dense-AI |
 | [nextflow](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/nextflow) | Build, run, and debug Nextflow data pipelines and nf-core workflows end to end. Use whenever the user mentions Nextfl... | K-Dense-AI |
 | [nmap](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/nmap) | Professional network reconnaissance and port scanning using nmap. Supports various scan types (quick, full, UDP, stea... | BrownFineSecurity |
 | [nosql-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nosql-expert) | Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling... | davila7 |
@@ -5501,11 +5502,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*799 skills in this domain*
+*798 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*518 skills*
+*517 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5888,7 +5889,6 @@
 | [navan-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-migration-deep-dive) | Use when planning or executing a migration from SAP Concur or legacy TMC to Navan — data migration, user provisioning... | jeremylongshore |
 | [navan-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/navan-pack/skills/navan-migration-deep-dive) | Use when planning or executing a migration from SAP Concur or legacy TMC to Navan — data migration, user provisioning... | jeremylongshore |
 | [netlify-deploy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/netlify-deploy) | Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish... | davila7 |
-| [networkx](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/networkx) | Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Python. Use when workin... | K-Dense-AI |
 | [networkx](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/networkx) | Comprehensive toolkit for creating, analyzing, and visualizing complex networks and graphs in Python. Use when workin... | davila7 |
 | [nft-standards](https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/nft-standards) | Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integr... | wshobson |
 | [notion-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/notion-pack/skills/notion-data-handling) | Implement data handling, PII protection, and GDPR/CCPA compliance for Notion integrations. Use when handling sensitiv... | jeremylongshore |
