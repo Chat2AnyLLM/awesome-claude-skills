@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*364 skills in this domain*
+*365 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -291,6 +291,7 @@
 | [sentry-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-hello-world) | Capture your first test error with Sentry and verify it appears in the dashboard. Use when testin... | jeremylongshore |
 | [sentry-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-local-dev-loop) | Configure Sentry for local development with environment-aware settings. Use when setting up dev v... | jeremylongshore |
 | [sentry-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-local-dev-loop) | Configure Sentry for local development with environment-aware settings. Use when setting up dev v... | jeremylongshore |
+| [sequenzy](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy) | Generic compatibility guide for Sequenzy operations. Use for broad Sequenzy references, but prefe... | Sequenzy |
 | [shared-patterns](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/shared-patterns) | Provide reusable patterns for validation, error handling, scaffolding. Use for skill consistency. | athola |
 | [shopify-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-local-dev-loop) | Configure Shopify local development with Shopify CLI, hot reload, and ngrok tunneling. Use when s... | jeremylongshore |
 | [shopify-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-local-dev-loop) | Configure Shopify local development with Shopify CLI, hot reload, and ngrok tunneling. Use when s... | jeremylongshore |
