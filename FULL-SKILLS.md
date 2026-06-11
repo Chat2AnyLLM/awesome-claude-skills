@@ -27,7 +27,7 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 772 skills
+- [AI & LLM](#ai-and-llm) - 771 skills
 - [Tools & Utilities](#tools-and-utilities) - 633 skills
 - [Frontend Development](#frontend-development) - 569 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
@@ -6347,7 +6347,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*772 skills in this domain*
+*771 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6413,7 +6413,6 @@
 | [architecture-decision-records](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/architecture-decision-records) | Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation... | wshobson |
 | [architecture-paradigm-cqrs-es](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-cqrs-es) | Applies CQRS and Event Sourcing for read/write separation and audit trails. Use when designing systems with complex d... | athola |
 | [architecture-paradigm-layered](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-layered) | Applies layered n-tier architecture with enforced boundaries. Use when designing moderate systems needing clear prese... | athola |
-| [ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop/tree/main/skills/ariadne-loop) | Write verifiable Loop Engineering specs for Codex, Claude Code, OpenClaw, and AI coding agents. | zhangzeyu99-web |
 | [assemblyai-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-common-errors) | Diagnose and fix AssemblyAI common errors and exceptions. Use when encountering AssemblyAI errors, debugging failed t... | jeremylongshore |
 | [assemblyai-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-common-errors) | Diagnose and fix AssemblyAI common errors and exceptions. Use when encountering AssemblyAI errors, debugging failed t... | jeremylongshore |
 | [assemblyai-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-core-workflow-a) | Execute AssemblyAI primary workflow: async transcription with audio intelligence. Use when transcribing audio/video f... | jeremylongshore |

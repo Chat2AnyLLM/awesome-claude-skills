@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*772 skills in this domain*
+*771 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -73,7 +73,6 @@
 | [architecture-decision-records](https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/architecture-decision-records) | Write and maintain Architecture Decision Records (ADRs) following best practices for technical de... | wshobson |
 | [architecture-paradigm-cqrs-es](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-cqrs-es) | Applies CQRS and Event Sourcing for read/write separation and audit trails. Use when designing sy... | athola |
 | [architecture-paradigm-layered](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-layered) | Applies layered n-tier architecture with enforced boundaries. Use when designing moderate systems... | athola |
-| [ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop/tree/main/skills/ariadne-loop) | Write verifiable Loop Engineering specs for Codex, Claude Code, OpenClaw, and AI coding agents. | zhangzeyu99-web |
 | [assemblyai-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-common-errors) | Diagnose and fix AssemblyAI common errors and exceptions. Use when encountering AssemblyAI errors... | jeremylongshore |
 | [assemblyai-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-common-errors) | Diagnose and fix AssemblyAI common errors and exceptions. Use when encountering AssemblyAI errors... | jeremylongshore |
 | [assemblyai-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/assemblyai-pack/skills/assemblyai-core-workflow-a) | Execute AssemblyAI primary workflow: async transcription with audio intelligence. Use when transc... | jeremylongshore |
