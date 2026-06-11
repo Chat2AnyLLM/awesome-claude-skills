@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*798 skills in this domain*
+*797 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Data Pipelines](#data-pipelines) - 517 skills
-- [Analytics & Queries](#analytics-queries) - 218 skills
+- [Analytics & Queries](#analytics-queries) - 217 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
@@ -544,7 +544,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*218 skills*
+*217 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -607,7 +607,6 @@
 | [diff-analysis](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/diff-analysis) | Analyzes changesets with risk scoring, categorization by type and impact, and release note prepar... | athola |
 | [echo-segment](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo-segment) | User segmentation and persona creation from mixed data sources — analytics, CRM, support tickets,... | jeremylongshore |
 | [echo-segment](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-segment) | User segmentation and persona creation from mixed data sources — analytics, CRM, support tickets,... | jeremylongshore |
-| [ecom](https://github.com/takechanman1228/claude-ecom/tree/main/skills/ecom) | Claude-powered ecommerce business review toolkit for D2C stores. Single command: review. Analyzes... | takechanman1228 |
 | [evernote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-core-workflow-b) | Execute Evernote secondary workflow: Search and Retrieval. Use when implementing search features,... | jeremylongshore |
 | [evernote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-core-workflow-b) | Execute Evernote secondary workflow: Search and Retrieval. Use when implementing search features,... | jeremylongshore |
 | [exa-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/exa-pack/skills/exa-core-workflow-a) | Execute Exa neural search with contents, date filters, and domain scoping. Use when building sear... | jeremylongshore |

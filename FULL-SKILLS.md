@@ -20,14 +20,14 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 798 skills
+- [Data & Analytics](#data-and-analytics) - 797 skills
   - [Data Pipelines](#data-pipelines) - 517 skills
-  - [Analytics & Queries](#analytics-and-queries) - 218 skills
+  - [Analytics & Queries](#analytics-and-queries) - 217 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 771 skills
+- [AI & LLM](#ai-and-llm) - 772 skills
 - [Tools & Utilities](#tools-and-utilities) - 633 skills
 - [Frontend Development](#frontend-development) - 569 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
@@ -5502,7 +5502,7 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*798 skills in this domain*
+*797 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
@@ -6030,7 +6030,7 @@
 
 <a name="analytics-and-queries"></a>
 ## Analytics & Queries
-*218 skills*
+*217 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6093,7 +6093,6 @@
 | [diff-analysis](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/diff-analysis) | Analyzes changesets with risk scoring, categorization by type and impact, and release note preparation. Use when extr... | athola |
 | [echo-segment](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo-segment) | User segmentation and persona creation from mixed data sources — analytics, CRM, support tickets, reviews, or any com... | jeremylongshore |
 | [echo-segment](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-segment) | User segmentation and persona creation from mixed data sources — analytics, CRM, support tickets, reviews, or any com... | jeremylongshore |
-| [ecom](https://github.com/takechanman1228/claude-ecom/tree/main/skills/ecom) | Claude-powered ecommerce business review toolkit for D2C stores. Single command: review. Analyzes order transaction d... | takechanman1228 |
 | [evernote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-core-workflow-b) | Execute Evernote secondary workflow: Search and Retrieval. Use when implementing search features, finding notes, filt... | jeremylongshore |
 | [evernote-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/evernote-pack/skills/evernote-core-workflow-b) | Execute Evernote secondary workflow: Search and Retrieval. Use when implementing search features, finding notes, filt... | jeremylongshore |
 | [exa-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/exa-pack/skills/exa-core-workflow-a) | Execute Exa neural search with contents, date filters, and domain scoping. Use when building search features, impleme... | jeremylongshore |
@@ -6347,7 +6346,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*771 skills in this domain*
+*772 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6589,6 +6588,7 @@
 | [echo-feedback](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-feedback) | Feedback synthesis — cluster support tickets, NPS verbatims, app store reviews, and churn surveys by theme, separate ... | jeremylongshore |
 | [echo-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo-recon) | User research reconnaissance — survey existing personas, research docs, interview notes, and feedback artifacts to es... | jeremylongshore |
 | [echo-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-recon) | User research reconnaissance — survey existing personas, research docs, interview notes, and feedback artifacts to es... | jeremylongshore |
+| [ecom](https://github.com/takechanman1228/claude-ecom/tree/main/skills/ecom) | Ecommerce business review for D2C stores from order transaction CSVs. Runs the bundled Python engine (KPI trees, ~30 ... | takechanman1228 |
 | [elevenlabs-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-sdk-patterns) | Apply production-ready ElevenLabs SDK patterns for TypeScript and Python. Use when implementing ElevenLabs integratio... | jeremylongshore |
 | [elevenlabs-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-sdk-patterns) | Apply production-ready ElevenLabs SDK patterns for TypeScript and Python. Use when implementing ElevenLabs integratio... | jeremylongshore |
 | [elevenlabs-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-webhooks-events) | Implement ElevenLabs webhook HMAC signature verification and event handling. Use when setting up webhook endpoints fo... | jeremylongshore |

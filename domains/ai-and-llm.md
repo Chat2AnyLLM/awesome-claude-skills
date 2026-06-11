@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*771 skills in this domain*
+*772 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -249,6 +249,7 @@
 | [echo-feedback](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-feedback) | Feedback synthesis — cluster support tickets, NPS verbatims, app store reviews, and churn surveys... | jeremylongshore |
 | [echo-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo-recon) | User research reconnaissance — survey existing personas, research docs, interview notes, and feed... | jeremylongshore |
 | [echo-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/echo-recon) | User research reconnaissance — survey existing personas, research docs, interview notes, and feed... | jeremylongshore |
+| [ecom](https://github.com/takechanman1228/claude-ecom/tree/main/skills/ecom) | Ecommerce business review for D2C stores from order transaction CSVs. Runs the bundled Python eng... | takechanman1228 |
 | [elevenlabs-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-sdk-patterns) | Apply production-ready ElevenLabs SDK patterns for TypeScript and Python. Use when implementing E... | jeremylongshore |
 | [elevenlabs-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-sdk-patterns) | Apply production-ready ElevenLabs SDK patterns for TypeScript and Python. Use when implementing E... | jeremylongshore |
 | [elevenlabs-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-webhooks-events) | Implement ElevenLabs webhook HMAC signature verification and event handling. Use when setting up ... | jeremylongshore |
