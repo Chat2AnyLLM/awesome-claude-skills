@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*633 skills in this domain*
+*634 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -391,6 +391,7 @@
 | [mural-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mural-automation) | Automate Mural tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [mx-technologies-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mx-technologies-automation) | Automate MX Technologies tasks via Rube MCP (Composio). Always search tools first for current sch... | ComposioHQ |
 | [mx-toolbox-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mx-toolbox-automation) | Automate Mx Toolbox tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [n8n-code-tool](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-tool) |  | czlonkowski |
 | [n8n-workflow-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/n8n-workflow-generator) | Generate n8n workflow generator operations. Auto-activating skill for Business Automation. Trigge... | jeremylongshore |
 | [n8n-workflow-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/n8n-workflow-generator) | Generate n8n workflow generator operations. Auto-activating skill for Business Automation. Trigge... | jeremylongshore |
 | [naming-analyzer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/naming-analyzer) | Suggest better variable, function, and class names based on context and conventions. | davila7 |

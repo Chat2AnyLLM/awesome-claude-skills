@@ -28,7 +28,7 @@
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 772 skills
-- [Tools & Utilities](#tools-and-utilities) - 633 skills
+- [Tools & Utilities](#tools-and-utilities) - 634 skills
 - [Frontend Development](#frontend-development) - 570 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
 - [Testing & Quality](#testing-and-quality) - 365 skills
@@ -7127,7 +7127,7 @@
 <a name="tools-and-utilities"></a>
 # Tools & Utilities
 
-*633 skills in this domain*
+*634 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7511,6 +7511,7 @@
 | [mural-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mural-automation) | Automate Mural tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [mx-technologies-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mx-technologies-automation) | Automate MX Technologies tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [mx-toolbox-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mx-toolbox-automation) | Automate Mx Toolbox tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [n8n-code-tool](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-tool) |  | czlonkowski |
 | [n8n-workflow-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/n8n-workflow-generator) | Generate n8n workflow generator operations. Auto-activating skill for Business Automation. Triggers on: n8n workflow ... | jeremylongshore |
 | [n8n-workflow-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/n8n-workflow-generator) | Generate n8n workflow generator operations. Auto-activating skill for Business Automation. Triggers on: n8n workflow ... | jeremylongshore |
 | [naming-analyzer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/naming-analyzer) | Suggest better variable, function, and class names based on context and conventions. | davila7 |
