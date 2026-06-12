@@ -20,8 +20,8 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 797 skills
-  - [Data Pipelines](#data-pipelines) - 517 skills
+- [Data & Analytics](#data-and-analytics) - 798 skills
+  - [Data Pipelines](#data-pipelines) - 518 skills
   - [Analytics & Queries](#analytics-and-queries) - 217 skills
   - [Data Warehousing](#data-warehousing) - 43 skills
   - [Data Science](#data-science) - 12 skills
@@ -5503,11 +5503,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*797 skills in this domain*
+*798 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*517 skills*
+*518 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5541,6 +5541,7 @@
 | [apollo-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-migration-deep-dive) | Comprehensive Apollo.io migration strategies. Use when migrating from other CRMs to Apollo, consolidating data source... | jeremylongshore |
 | [apollo-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-observability) | Set up Apollo.io monitoring and observability. Use when implementing logging, metrics, tracing, and alerting for Apol... | jeremylongshore |
 | [apollo-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-observability) | Set up Apollo.io monitoring and observability. Use when implementing logging, metrics, tracing, and alerting for Apol... | jeremylongshore |
+| [arbor](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/arbor) | Autonomously improve a real artifact (code, training recipe, agent harness, data pipeline, prompt) against an objecti... | K-Dense-AI |
 | [autoskill](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/autoskill) | Observe the user's screen via screenpipe, detect repeated research workflows, match them against existing scientific-... | K-Dense-AI |
 | [bamboohr-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-core-workflow-a) | Execute BambooHR primary workflows: employee CRUD, directory sync, and custom reports. Use when managing employees, s... | jeremylongshore |
 | [bamboohr-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-core-workflow-a) | Execute BambooHR primary workflows: employee CRUD, directory sync, and custom reports. Use when managing employees, s... | jeremylongshore |
