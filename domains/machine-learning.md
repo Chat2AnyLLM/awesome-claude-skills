@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*334 skills in this domain*
+*335 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -15,7 +15,7 @@
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 21 skills
-- [Model Deployment](#model-deployment) - 11 skills
+- [Model Deployment](#model-deployment) - 12 skills
 
 <a name="model-training"></a>
 ## Model Training
@@ -370,7 +370,7 @@
 
 <a name="model-deployment"></a>
 ## Model Deployment
-*11 skills*
+*12 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -379,6 +379,7 @@
 | [coreweave-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-webhooks-events) | Monitor CoreWeave cluster events and GPU workload status. Use when tracking pod lifecycle events,... | jeremylongshore |
 | [coreweave-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-webhooks-events) | Monitor CoreWeave cluster events and GPU workload status. Use when tracking pod lifecycle events,... | jeremylongshore |
 | [esm](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/esm) | Use when working directly with the `esm` Python SDK, ESM3 or ESMC model IDs, Forge/Biohub inferen... | K-Dense-AI |
+| [hf-mem](https://github.com/huggingface/skills/tree/main/skills/hf-mem) | Hugging Face CLI to estimate the required memory to load Safetensors or GGUF model weights for in... | huggingface |
 | [langchain-model-inference](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-model-inference) | Invoke Claude, GPT-4o, and Gemini through LangChain 1.0 without tripping on the content-block, to... | jeremylongshore |
 | [langchain-model-inference](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-model-inference) | Invoke Claude, GPT-4o, and Gemini through LangChain 1.0 without tripping on the content-block, to... | jeremylongshore |
 | [nowait-reasoning-optimizer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/nowait) | Implements the NOWAIT technique for efficient reasoning in R1-style LLMs. Use when optimizing inf... | davila7 |
