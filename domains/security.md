@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*283 skills in this domain*
+*284 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -230,6 +230,7 @@
 | [security-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/cli-power-skills/skills/security-scanning) | Use when checking code for vulnerabilities, linting shell scripts, scanning containers or IaC for... | jeremylongshore |
 | [security-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/cli-power-skills/skills/security-scanning) | Use when checking code for vulnerabilities, linting shell scripts, scanning containers or IaC for... | jeremylongshore |
 | [securitytrails-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/securitytrails-automation) | Automate Securitytrails tasks via Rube MCP (Composio). Always search tools first for current sche... | ComposioHQ |
+| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/skills/seedance-prompts-skill) | 专业的 Seedance 2.0 AI 视频脚本与分镜提示词生成器，并覆盖「创意→完整短剧剧本→AI 视频提示词」全链路。适用于：(1) 从一句创意/一篇小说从头创作完整短剧剧本（集数可自定义，... | mantoufan |
 | [senior-secops](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops) | Comprehensive SecOps skill for application security, vulnerability management, compliance, and se... | davila7 |
 | [sentry-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-install-auth) | Install and configure Sentry SDK authentication with DSN setup. Use when setting up Sentry error ... | jeremylongshore |
 | [sentry-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-install-auth) | Install and configure Sentry SDK authentication with DSN setup. Use when setting up Sentry error ... | jeremylongshore |
