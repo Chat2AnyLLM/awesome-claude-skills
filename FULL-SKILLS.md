@@ -2,10 +2,10 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4508 skills
+- [Backend Development](#backend-development) - 4509 skills
   - [APIs & REST](#apis-and-rest) - 2663 skills
   - [Database Design](#database-design) - 1331 skills
-  - [Request Handling](#request-handling) - 270 skills
+  - [Request Handling](#request-handling) - 271 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
   - [Message Queues](#message-queues) - 19 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4508 skills in this domain*
+*4509 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -4058,7 +4058,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*270 skills*
+*271 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4234,6 +4234,7 @@
 | [managing-git](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/managing-git) | Manages Git workflows including branching, commits, and pull requests. Use when working with Git, creating commits, o... | CloudAI-X |
 | [managing-ssltls-certificates](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/ssl-certificate-manager/skills/managing-ssltls-certificates) | Execute this skill enables AI assistant to manage and monitor ssl/tls certificates using the ssl-certificate-manager ... | jeremylongshore |
 | [managing-ssltls-certificates](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/ssl-certificate-manager/skills/managing-ssltls-certificates) | Execute this skill enables AI assistant to manage and monitor ssl/tls certificates using the ssl-certificate-manager ... | jeremylongshore |
+| [marketplace-health-check](https://github.com/daymade/claude-code-skills/tree/main/marketplace-health-check) | Run a full 6-dimension health check of this Claude Code skills marketplace repo — code/script safety, documentation/S... | daymade |
 | [mcp-management](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mcp-management) | Manage Model Context Protocol (MCP) servers - discover, analyze, and execute tools/prompts/resources from configured ... | mrgoonie |
 | [midjourney-card-news-backgrounds](https://github.com/bear2u/my-skills/tree/master/skills/midjourney-cardnews-bg) | Generate Midjourney prompts for 600x600 card news background images based on topic, mood, and style preferences. Use ... | bear2u |
 | [mistral-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-common-errors) | Diagnose and fix Mistral AI common errors and exceptions. Use when encountering Mistral errors, debugging failed requ... | jeremylongshore |
