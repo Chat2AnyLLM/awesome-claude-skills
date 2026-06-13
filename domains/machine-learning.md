@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*335 skills in this domain*
+*336 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 208 skills
+- [Model Training](#model-training) - 209 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 22 skills
 - [Feature Engineering](#feature-engineering) - 21 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*208 skills*
+*209 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -34,6 +34,7 @@
 | [clade-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-multi-env-setup) | Configure Claude across dev, staging, and production with different Use when working with multi-e... | jeremylongshore |
 | [clade-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/claude-pack/skills/clade-upgrade-migration) | Upgrade Anthropic SDK versions and migrate between Claude model generations. Use when working wit... | jeremylongshore |
 | [clade-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-upgrade-migration) | Upgrade Anthropic SDK versions and migrate between Claude model generations. Use when working wit... | jeremylongshore |
+| [claude-usage-analyst](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-usage-analyst) | Analyze Claude Code and Claude Desktop Code token usage, cost, quota burn, model mix, cache read/... | daymade |
 | [clip](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-clip) | OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text... | davila7 |
 | [clip](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/clip) | OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text... | zechenzhangAGI |
 | [cobrapy](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cobrapy) | Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models... | K-Dense-AI |

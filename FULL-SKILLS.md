@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4507 skills
+- [Backend Development](#backend-development) - 4508 skills
   - [APIs & REST](#apis-and-rest) - 2663 skills
-  - [Database Design](#database-design) - 1330 skills
+  - [Database Design](#database-design) - 1331 skills
   - [Request Handling](#request-handling) - 270 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
@@ -32,8 +32,8 @@
 - [Frontend Development](#frontend-development) - 570 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 565 skills
 - [Testing & Quality](#testing-and-quality) - 365 skills
-- [Machine Learning](#machine-learning) - 335 skills
-  - [Model Training](#model-training) - 208 skills
+- [Machine Learning](#machine-learning) - 336 skills
+  - [Model Training](#model-training) - 209 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
   - [Model Evaluation](#model-evaluation) - 22 skills
   - [Feature Engineering](#feature-engineering) - 21 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4507 skills in this domain*
+*4508 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2720,7 +2720,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1330 skills*
+*1331 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2812,6 +2812,7 @@
 | [benchmark-suite-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/benchmark-suite-creator) | Create benchmark suite creator operations. Auto-activating skill for Performance Testing. Triggers on: benchmark suit... | jeremylongshore |
 | [benchmark-suite-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/benchmark-suite-creator) | Create benchmark suite creator operations. Auto-activating skill for Performance Testing. Triggers on: benchmark suit... | jeremylongshore |
 | [better-auth](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/better-auth) | Implement authentication and authorization with Better Auth - a framework-agnostic TypeScript authentication framewor... | mrgoonie |
+| [bilibili-source](https://github.com/daymade/claude-code-skills/tree/main/bilibili-source) | Fetch comprehensive, login-free data for any Bilibili (B站) video — title, UP name and follower count, publish date, p... | daymade |
 | [binary-analysis-patterns](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/binary-analysis-patterns) | Master binary analysis patterns including disassembly, decompilation, control flow analysis, and code pattern recogni... | wshobson |
 | [biomni](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/biomni) | Autonomous biomedical AI agent framework for executing complex research tasks across genomics, drug discovery, molecu... | davila7 |
 | [biopython](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/biopython) | Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogeneti... | K-Dense-AI |
@@ -9294,11 +9295,11 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*335 skills in this domain*
+*336 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
-*208 skills*
+*209 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9313,6 +9314,7 @@
 | [clade-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-multi-env-setup) | Configure Claude across dev, staging, and production with different Use when working with multi-env-setup patterns. m... | jeremylongshore |
 | [clade-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/claude-pack/skills/clade-upgrade-migration) | Upgrade Anthropic SDK versions and migrate between Claude model generations. Use when working with upgrade-migration ... | jeremylongshore |
 | [clade-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-upgrade-migration) | Upgrade Anthropic SDK versions and migrate between Claude model generations. Use when working with upgrade-migration ... | jeremylongshore |
+| [claude-usage-analyst](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-usage-analyst) | Analyze Claude Code and Claude Desktop Code token usage, cost, quota burn, model mix, cache read/write, and 5-hour bl... | daymade |
 | [clip](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-clip) | OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text matching, and cross... | davila7 |
 | [clip](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/18-multimodal/clip) | OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text matching, and cross... | zechenzhangAGI |
 | [cobrapy](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cobrapy) | Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models, for systems biolog... | K-Dense-AI |

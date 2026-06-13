@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4507 skills in this domain*
+*4508 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2663 skills
-- [Database Design](#database-design) - 1330 skills
+- [Database Design](#database-design) - 1331 skills
 - [Request Handling](#request-handling) - 270 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
 - [Authentication](#authentication) - 22 skills
@@ -2692,7 +2692,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1330 skills*
+*1331 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2784,6 +2784,7 @@
 | [benchmark-suite-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/benchmark-suite-creator) | Create benchmark suite creator operations. Auto-activating skill for Performance Testing. Trigger... | jeremylongshore |
 | [benchmark-suite-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/benchmark-suite-creator) | Create benchmark suite creator operations. Auto-activating skill for Performance Testing. Trigger... | jeremylongshore |
 | [better-auth](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/better-auth) | Implement authentication and authorization with Better Auth - a framework-agnostic TypeScript aut... | mrgoonie |
+| [bilibili-source](https://github.com/daymade/claude-code-skills/tree/main/bilibili-source) | Fetch comprehensive, login-free data for any Bilibili (B站) video — title, UP name and follower co... | daymade |
 | [binary-analysis-patterns](https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/binary-analysis-patterns) | Master binary analysis patterns including disassembly, decompilation, control flow analysis, and ... | wshobson |
 | [biomni](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/biomni) | Autonomous biomedical AI agent framework for executing complex research tasks across genomics, dr... | davila7 |
 | [biopython](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/biopython) | Comprehensive molecular biology toolkit. Use for sequence manipulation, file parsing (FASTA/GenBa... | K-Dense-AI |
