@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2663 skills
-- [Database Design](#database-design) - 1331 skills
+- [APIs & REST](#apis-rest) - 2664 skills
+- [Database Design](#database-design) - 1330 skills
 - [Request Handling](#request-handling) - 271 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
 - [Authentication](#authentication) - 22 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2663 skills*
+*2664 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -562,6 +562,7 @@
 | [class-diagram](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/class-diagram) | Generates a Mermaid class diagram showing types, inheritance, and composition. Use when visualizi... | athola |
 | [claude-api](https://github.com/anthropics/skills/tree/main/skills/claude-api) | Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, M... | anthropics |
 | [claude-api](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/claude-api) | Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should inc... | davila7 |
+| [claude-md-progressive-disclosurer](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-md-progressive-disclosurer) | Optimize / slim down / restructure a CLAUDE.md (or AGENTS.md) using progressive disclosure — move... | daymade |
 | [claude-opus-4-5-migration](https://github.com/anthropics/claude-code/tree/main/plugins/claude-opus-4-5-migration/skills/claude-opus-4-5-migration) | Migrate prompts and code from Claude Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. Use when th... | anthropics |
 | [claude-opus-4-5-migration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/claude-opus-4-5-migration) | Migrate prompts and code from Claude Sonnet 4.0, Sonnet 4.5, or Opus 4.1 to Opus 4.5. Use when th... | davila7 |
 | [clay-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clay-pack/skills/clay-install-auth) | Set up Clay account access, API keys, webhook URLs, and provider connections. Use when onboarding... | jeremylongshore |
@@ -2678,7 +2679,7 @@
 | [workhuman-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/workhuman-pack/skills/workhuman-webhooks-events) | Workhuman webhooks events for employee recognition and rewards API. Use when integrating Workhuma... | jeremylongshore |
 | [workhuman-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/workhuman-pack/skills/workhuman-webhooks-events) | Workhuman webhooks events for employee recognition and rewards API. Use when integrating Workhuma... | jeremylongshore |
 | [workout-program-designer](https://github.com/OneWave-AI/claude-skills/tree/main/workout-program-designer) | Custom training plans by goal (strength, cardio, flexibility). Progressive overload programming, ... | OneWave-AI |
-| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) | Use when the user needs X (Twitter) data or confirmation-gated X actions through Xquik: tweet sea... | Xquik-dev |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) | Use when the user needs X (Twitter) data through Xquik: tweet search, user lookup, follower expor... | Xquik-dev |
 | [x-twitter-scraper](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/x-twitter-scraper) | Use when the user wants to integrate with the X (Twitter) API via Xquik to search tweets, look up... | davila7 |
 | [youtube-api](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-api) | Use when YouTube data is needed without Google API quotas or OAuth setup: transcripts, video meta... | ZeroPointRepo |
 | [youtube-data](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-data) | Use when structured YouTube data is needed: pasted video/channel/playlist links, transcripts for ... | ZeroPointRepo |
@@ -2692,7 +2693,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1331 skills*
+*1330 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2840,7 +2841,6 @@
 | [clari-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clari-pack/skills/clari-deploy-integration) | Deploy Clari export pipelines to production with Airflow, Cloud Functions, or Lambda. Use when sc... | jeremylongshore |
 | [clari-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clari-pack/skills/clari-reference-architecture) | Reference architecture for Clari revenue intelligence integrations. Use when designing a forecast... | jeremylongshore |
 | [clari-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clari-pack/skills/clari-reference-architecture) | Reference architecture for Clari revenue intelligence integrations. Use when designing a forecast... | jeremylongshore |
-| [claude-md-progressive-disclosurer](https://github.com/daymade/claude-code-skills/tree/main/daymade-claude-code/claude-md-progressive-disclosurer) | Optimize CLAUDE.md files using progressive disclosure. Goal: Maximize information efficiency, rea... | daymade |
 | [clay-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clay-pack/skills/clay-debug-bundle) | Collect Clay debug evidence for support tickets and troubleshooting. Use when encountering persis... | jeremylongshore |
 | [clay-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clay-pack/skills/clay-debug-bundle) | Collect Clay debug evidence for support tickets and troubleshooting. Use when encountering persis... | jeremylongshore |
 | [clay-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clay-pack/skills/clay-performance-tuning) | Optimize Clay table enrichment throughput, reduce processing time, and improve hit rates. Use whe... | jeremylongshore |
