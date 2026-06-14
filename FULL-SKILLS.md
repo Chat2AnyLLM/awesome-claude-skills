@@ -2,10 +2,10 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4509 skills
+- [Backend Development](#backend-development) - 4510 skills
   - [APIs & REST](#apis-and-rest) - 2664 skills
   - [Database Design](#database-design) - 1330 skills
-  - [Request Handling](#request-handling) - 271 skills
+  - [Request Handling](#request-handling) - 272 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
   - [Authentication](#authentication) - 22 skills
   - [Message Queues](#message-queues) - 19 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4509 skills in this domain*
+*4510 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -4058,7 +4058,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*271 skills*
+*272 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4193,6 +4193,7 @@
 | [ideogram-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-incident-runbook) | Execute Ideogram incident response with triage, mitigation, and postmortem. Use when responding to Ideogram-related o... | jeremylongshore |
 | [ideogram-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-local-dev-loop) | Configure Ideogram local development with mock responses and testing. Use when setting up a development environment, ... | jeremylongshore |
 | [ideogram-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/ideogram-pack/skills/ideogram-local-dev-loop) | Configure Ideogram local development with mock responses and testing. Use when setting up a development environment, ... | jeremylongshore |
+| [ill-communication](https://github.com/alexconner-79/ill-communication/tree/main) | Write and review human-sounding copy, with deep UX writing craft. Use this skill for EVERY task that produces prose o... | alexconner-79 |
 | [incident-response-planner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/04-security-advanced/incident-response-planner) | Configure incident response planner operations. Auto-activating skill for Security Advanced. Triggers on: incident re... | jeremylongshore |
 | [incident-response-planner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/04-security-advanced/incident-response-planner) | Configure incident response planner operations. Auto-activating skill for Security Advanced. Triggers on: incident re... | jeremylongshore |
 | [instantly-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-rate-limits) | Implement Instantly.ai rate limiting, backoff, and request throttling patterns. Use when handling 429 errors, impleme... | jeremylongshore |
