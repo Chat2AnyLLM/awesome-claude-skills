@@ -783,6 +783,7 @@
 | [zoho-mail-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/zoho-mail-automation) | Automate Zoho Mail tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [zoho_desk-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/zoho_desk-automation) | Automate Zoho Desk tasks via Rube MCP (Composio): tickets, contacts, agents, departments, and hel... | ComposioHQ |
 | [zoho_mail-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/zoho_mail-automation) | Automate Zoho Mail tasks via Rube MCP (Composio): email sending, folders, labels, and mailbox man... | ComposioHQ |
+| [AccInt Solve](https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/solve) | Routes coding agents through AccInt MCP memory: retrieve outcomes, solve commitments, frames, and feedback. | maxbaluev |
 
 
 [← Back to Main README](../README.md)
