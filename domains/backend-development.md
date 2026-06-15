@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4510 skills in this domain*
+*4512 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2664 skills
-- [Database Design](#database-design) - 1330 skills
+- [Database Design](#database-design) - 1332 skills
 - [Request Handling](#request-handling) - 272 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
 - [Authentication](#authentication) - 22 skills
@@ -2693,7 +2693,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1330 skills*
+*1332 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3885,6 +3885,7 @@
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers ... | jeremylongshore |
 | [stress-test-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/10-performance-testing/stress-test-config) | Configure stress test config operations. Auto-activating skill for Performance Testing. Triggers ... | jeremylongshore |
 | [structured-output](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/structured-output) | Formats review deliverables with consistent structure for comparable findings. Use when finalizin... | athola |
+| [submission-auditor](https://github.com/YujxZJCN/teaching-skills/tree/main/submission-auditor) | Specification-driven submission auditing for university professors. 4-agent team that compiles a ... | YujxZJCN |
 | [supabase-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-advanced-troubleshooting) | Deep Supabase diagnostics: pg_stat_statements for slow queries, lock debugging with pg_locks, con... | jeremylongshore |
 | [supabase-advanced-troubleshooting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-advanced-troubleshooting) | Deep Supabase diagnostics: pg_stat_statements for slow queries, lock debugging with pg_locks, con... | jeremylongshore |
 | [supabase-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-ci-integration) | Configure Supabase CI/CD pipelines with GitHub Actions: link projects, push migrations, deploy Ed... | jeremylongshore |
@@ -3910,6 +3911,7 @@
 | [supabase-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-webhooks-events) | Implement Supabase database webhooks, pg_net async HTTP, LISTEN/NOTIFY, and Edge Function event h... | jeremylongshore |
 | [survey_monkey-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/survey_monkey-automation) | Automate SurveyMonkey tasks via Rube MCP (Composio): surveys, responses, collectors, and survey a... | ComposioHQ |
 | [synthesize](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/synthesize) | Merges, dedupes, ranks, and formats research findings into a report. Use after research agents re... | athola |
+| [ta-coordinator](https://github.com/YujxZJCN/teaching-skills/tree/main/ta-coordinator) | Teaching-team management for university professors. 4-agent team covering TA onboarding (course-s... | YujxZJCN |
 | [tapform-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/tapform-automation) | Automate Tapform tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [team-communication-protocols](https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-communication-protocols) | Structured messaging protocols for agent team communication including message type selection, pla... | wshobson |
 | [tech-due-diligence](https://github.com/OneWave-AI/claude-skills/tree/main/tech-due-diligence) | Technical due diligence for M&A, investment, or acquisition. Reads a target company's codebase an... | OneWave-AI |

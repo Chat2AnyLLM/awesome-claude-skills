@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*565 skills in this domain*
+*566 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -100,6 +100,7 @@
 | [coderabbit-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-multi-env-setup) | Configure CodeRabbit review behavior per branch and environment using path instructions and base ... | jeremylongshore |
 | [Collision-Zone Thinking](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/collision-zone-thinking) | Force unrelated concepts together to discover emergent properties - "What if we treated X like Y?" | mrgoonie |
 | [commit-work](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/commit-work) | Create high-quality git commits: review/stage intended changes, split into logical commits, and w... | davila7 |
+| [commitments](https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/commitments) | Triage acc's open promises and close them with honest real-world verdicts via acc_act(runtime="ou... | maxbaluev |
 | [competitor-analyst](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/pm-ai-partner/skills/competitor-analyst) | Competitive analysis and market positioning partner for Product Managers. Use when the user needs... | jeremylongshore |
 | [competitor-analyst](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/pm-ai-partner/skills/competitor-analyst) | Competitive analysis and market positioning partner for Product Managers. Use when the user needs... | jeremylongshore |
 | [competitor-price-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/competitor-price-tracker) | Monitor competitor pricing pages and send alerts when prices change. Track discount patterns, pro... | OneWave-AI |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*365 skills in this domain*
+*366 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -45,6 +45,7 @@
 | [bamboohr-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-webhooks-events) | Implement BambooHR webhook endpoints with HMAC signature validation and employee change event han... | jeremylongshore |
 | [bamboohr-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-webhooks-events) | Implement BambooHR webhook endpoints with HMAC signature validation and employee change event han... | jeremylongshore |
 | [benchmark-email-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/benchmark-email-automation) | Automate Benchmark Email tasks via Rube MCP (Composio). Always search tools first for current sch... | ComposioHQ |
+| [bilingual-courseware](https://github.com/YujxZJCN/teaching-skills/tree/main/bilingual-courseware) | Bilingual course-material maintenance for university professors — default EN ⇄ 简体中文, language-pai... | YujxZJCN |
 | [blast-radius](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/blast-radius) | Analyzes code change impact with risk scoring and affected-node mapping. Use before merging to un... | athola |
 | [blue-ocean-strategy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-blue-ocean-strategy) | Create uncontested market space using value innovation instead of competing head-to-head. Use whe... | jeremylongshore |
 | [blue-ocean-strategy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-blue-ocean-strategy) | Create uncontested market space using value innovation instead of competing head-to-head. Use whe... | jeremylongshore |

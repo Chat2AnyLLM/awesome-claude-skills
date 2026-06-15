@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*284 skills in this domain*
+*285 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -85,6 +85,7 @@
 | [cookie-security-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/cookie-security-analyzer) | Analyze cookie security analyzer operations. Auto-activating skill for Security Fundamentals. Tri... | jeremylongshore |
 | [cors-policy-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/03-security-fundamentals/cors-policy-validator) | Validate cors policy validator operations. Auto-activating skill for Security Fundamentals. Trigg... | jeremylongshore |
 | [cors-policy-validator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/cors-policy-validator) | Validate cors policy validator operations. Auto-activating skill for Security Fundamentals. Trigg... | jeremylongshore |
+| [course-publisher](https://github.com/YujxZJCN/teaching-skills/tree/main/course-publisher) | Student-facing communication and packaging for university professors, derived entirely from the C... | YujxZJCN |
 | [csrf-protection-validator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/03-security-fundamentals/csrf-protection-validator) | Validate csrf protection validator operations. Auto-activating skill for Security Fundamentals. T... | jeremylongshore |
 | [csrf-protection-validator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/csrf-protection-validator) | Validate csrf protection validator operations. Auto-activating skill for Security Fundamentals. T... | jeremylongshore |
 | [curate](https://github.com/athola/claude-night-market/tree/master/plugins/gauntlet/skills/curate) | Adds developer-authored annotations to the gauntlet knowledge base. Use when capturing tribal kno... | athola |

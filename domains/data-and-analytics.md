@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*798 skills in this domain*
+*802 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 518 skills
-- [Analytics & Queries](#analytics-queries) - 217 skills
+- [Data Pipelines](#data-pipelines) - 521 skills
+- [Analytics & Queries](#analytics-queries) - 218 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
@@ -20,7 +20,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*518 skills*
+*521 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -55,6 +55,7 @@
 | [apollo-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-observability) | Set up Apollo.io monitoring and observability. Use when implementing logging, metrics, tracing, a... | jeremylongshore |
 | [apollo-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-observability) | Set up Apollo.io monitoring and observability. Use when implementing logging, metrics, tracing, a... | jeremylongshore |
 | [arbor](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/arbor) | Autonomously improve a real artifact (code, training recipe, agent harness, data pipeline, prompt... | K-Dense-AI |
+| [assessment-architect](https://github.com/YujxZJCN/teaching-skills/tree/main/assessment-architect) | Builds assessment instruments for university professors — pipeline Stage 3. 7-agent team covering... | YujxZJCN |
 | [autoskill](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/autoskill) | Observe the user's screen via screenpipe, detect repeated research workflows, match them against ... | K-Dense-AI |
 | [bamboohr-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-core-workflow-a) | Execute BambooHR primary workflows: employee CRUD, directory sync, and custom reports. Use when m... | jeremylongshore |
 | [bamboohr-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-core-workflow-a) | Execute BambooHR primary workflows: employee CRUD, directory sync, and custom reports. Use when m... | jeremylongshore |
@@ -338,6 +339,7 @@
 | [klingai-webhook-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-webhook-config) | Configure webhook callbacks for Kling AI task completion. Use when building event-driven pipeline... | jeremylongshore |
 | [klingai-webhook-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/klingai-pack/skills/klingai-webhook-config) | Configure webhook callbacks for Kling AI task completion. Use when building event-driven pipeline... | jeremylongshore |
 | [Kommo Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/kommo-automation) | Automate Kommo CRM operations -- manage leads, pipelines, pipeline stages, tasks, and custom fiel... | ComposioHQ |
+| [lab-forge](https://github.com/YujxZJCN/teaching-skills/tree/main/lab-forge) | Executable teaching-artifact builder for STEM professors — pipeline Stage 2 extension. 5-agent te... | YujxZJCN |
 | [labs64-netlicensing-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/labs64-netlicensing-automation) | Automate Labs64 Netlicensing tasks via Rube MCP (Composio). Always search tools first for current... | ComposioHQ |
 | [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-ci-integration) | Wire LangChain 1.0 / LangGraph 1.0 tests into a GitHub Actions pipeline — unit tests with FakeLis... | jeremylongshore |
 | [langchain-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langchain-py-pack/skills/langchain-ci-integration) | Wire LangChain 1.0 / LangGraph 1.0 tests into a GitHub Actions pipeline — unit tests with FakeLis... | jeremylongshore |
@@ -498,6 +500,7 @@
 | [stackblitz-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/stackblitz-pack/skills/stackblitz-deploy-integration) | Deploy WebContainer apps to Vercel, Netlify with proper COOP/COEP headers. Use when working with ... | jeremylongshore |
 | [supabase-reliability-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-reliability-patterns) | Build resilient Supabase integrations: circuit breakers wrapping createClient calls, offline queu... | jeremylongshore |
 | [supabase-reliability-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-reliability-patterns) | Build resilient Supabase integrations: circuit breakers wrapping createClient calls, offline queu... | jeremylongshore |
+| [teaching-pipeline](https://github.com/YujxZJCN/teaching-skills/tree/main/teaching-pipeline) | Full teaching-lifecycle orchestrator for university professors. 4-agent team driving the six sibl... | YujxZJCN |
 | [test-data-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/09-test-automation/test-data-builder) | Test Data Builder - Auto-activating skill for Test Automation. Triggers on: test data builder, te... | jeremylongshore |
 | [test-data-builder](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-data-builder) | Test Data Builder - Auto-activating skill for Test Automation. Triggers on: test data builder, te... | jeremylongshore |
 | [testing-quality-standards](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/testing-quality-standards) | Defines testing quality metrics, coverage thresholds, and anti-patterns. Use when establishing te... | athola |
@@ -545,7 +548,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*217 skills*
+*218 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -580,6 +583,7 @@
 | [coderabbit-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coderabbit-pack/skills/coderabbit-observability) | Monitor CodeRabbit review effectiveness with metrics, dashboards, and alerts. Use when tracking r... | jeremylongshore |
 | [cohort-analysis-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/cohort-analysis-creator) | Create cohort analysis creator operations. Auto-activating skill for Data Analytics. Triggers on:... | jeremylongshore |
 | [cohort-analysis-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/cohort-analysis-creator) | Create cohort analysis creator operations. Auto-activating skill for Data Analytics. Triggers on:... | jeremylongshore |
+| [cohort-analyst](https://github.com/YujxZJCN/teaching-skills/tree/main/cohort-analyst) | Learner and cohort analysis (学情分析) for university professors — cross-cutting support for design, ... | YujxZJCN |
 | [complex-join-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/complex-join-helper) | Configure with complex join helper operations. Auto-activating skill for Data Analytics. Triggers... | jeremylongshore |
 | [complex-join-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/complex-join-helper) | Configure with complex join helper operations. Auto-activating skill for Data Analytics. Triggers... | jeremylongshore |
 | [compliance-checker](https://github.com/OneWave-AI/claude-skills/tree/main/compliance-checker) | Audits a codebase or business process for regulatory compliance across GDPR, HIPAA, SOC2, CCPA, a... | OneWave-AI |
