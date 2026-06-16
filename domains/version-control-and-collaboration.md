@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*569 skills in this domain*
+*570 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -418,6 +418,7 @@
 | [planning-with-files-zh](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-zh) | 基于 Manus 风格的文件规划系统，用于组织和跟踪复杂任务的进度。创建 task_plan.md、findings.md 和 progress.md 三个文件。当用户要求规划、拆解或组织多步骤... | OthmanAdi |
 | [planning-with-files-zht](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-zht) | 基於 Manus 風格的檔案規劃系統，用於組織和追蹤複雜任務的進度。建立 task_plan.md、findings.md 和 progress.md 三個檔案。當使用者要求規劃、拆解或組織多步... | OthmanAdi |
 | [plugin-review](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/plugin-review) | Review plugin quality with tiered checks and dependency scoping. Use for PR and pre-release audits. | athola |
+| [polis-protocol](https://github.com/yehudalevy-collab/polis-protocol/tree/main) |  | yehudalevy-collab |
 | [posthog-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-cost-tuning) | Optimize PostHog costs: autocapture tuning, event sampling with before_send, bot filtering, sessi... | jeremylongshore |
 | [posthog-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-cost-tuning) | Optimize PostHog costs: autocapture tuning, event sampling with before_send, bot filtering, sessi... | jeremylongshore |
 | [posthog-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-multi-env-setup) | Configure PostHog across development, staging, and production environments. Separate PostHog proj... | jeremylongshore |

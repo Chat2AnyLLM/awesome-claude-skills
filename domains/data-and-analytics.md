@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*818 skills in this domain*
+*819 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 529 skills
+- [Data Pipelines](#data-pipelines) - 530 skills
 - [Analytics & Queries](#analytics-queries) - 222 skills
 - [Data Warehousing](#data-warehousing) - 47 skills
 - [Data Science](#data-science) - 12 skills
@@ -20,10 +20,11 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*529 skills*
+*530 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [_data](https://github.com/yehudalevy-collab/polis-protocol/tree/main/editors/antigravity/media/polis/_data) |  | yehudalevy-collab |
 | [abridge-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-core-workflow-a) | Implement Abridge ambient clinical documentation capture-to-note pipeline. Use when building the ... | jeremylongshore |
 | [abridge-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-core-workflow-a) | Implement Abridge ambient clinical documentation capture-to-note pipeline. Use when building the ... | jeremylongshore |
 | [abridge-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-debug-bundle) | Collect Abridge debug evidence for support tickets and troubleshooting. Use when filing Abridge s... | jeremylongshore |

@@ -20,8 +20,8 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 818 skills
-  - [Data Pipelines](#data-pipelines) - 529 skills
+- [Data & Analytics](#data-and-analytics) - 819 skills
+  - [Data Pipelines](#data-pipelines) - 530 skills
   - [Analytics & Queries](#analytics-and-queries) - 222 skills
   - [Data Warehousing](#data-warehousing) - 47 skills
   - [Data Science](#data-science) - 12 skills
@@ -30,16 +30,16 @@
 - [AI & LLM](#ai-and-llm) - 802 skills
 - [Tools & Utilities](#tools-and-utilities) - 636 skills
 - [Frontend Development](#frontend-development) - 573 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 569 skills
-- [Machine Learning](#machine-learning) - 375 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 570 skills
+- [Machine Learning](#machine-learning) - 374 skills
   - [Model Training](#model-training) - 246 skills
-  - [Hyperparameter Tuning](#hyperparameter-tuning) - 73 skills
+  - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
   - [Model Evaluation](#model-evaluation) - 23 skills
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 12 skills
 - [Testing & Quality](#testing-and-quality) - 371 skills
 - [Security](#security) - 285 skills
-- [Uncategorized](#uncategorized) - 264 skills
+- [Uncategorized](#uncategorized) - 265 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
 
@@ -4340,7 +4340,7 @@
 | [twinmind-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-incident-runbook) | Incident response for TwinMind failures: transcription not starting, audio not captured, sync failures, and calendar ... | jeremylongshore |
 | [twinmind-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/twinmind-pack/skills/twinmind-incident-runbook) | Incident response for TwinMind failures: transcription not starting, audio not captured, sync failures, and calendar ... | jeremylongshore |
 | [using-superpowers](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/using-superpowers) | Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before A... | davila7 |
-| [using-superpowers](https://github.com/obra/superpowers/tree/main/skills/using-superpowers) | Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before A... | obra |
+| [using-superpowers](https://github.com/obra/superpowers/tree/main/skills/using-superpowers) | Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY re... | obra |
 | [vastai-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-incident-runbook) | Execute Vast.ai incident response for GPU instance failures and outages. Use when responding to instance failures, in... | jeremylongshore |
 | [vastai-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-incident-runbook) | Execute Vast.ai incident response for GPU instance failures and outages. Use when responding to instance failures, in... | jeremylongshore |
 | [vercel-deploy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/vercel-deploy) | Deploy applications and websites to Vercel. Use when the user requests deployment actions like "deploy my app", "depl... | davila7 |
@@ -5540,14 +5540,15 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*818 skills in this domain*
+*819 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*529 skills*
+*530 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [_data](https://github.com/yehudalevy-collab/polis-protocol/tree/main/editors/antigravity/media/polis/_data) |  | yehudalevy-collab |
 | [abridge-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-core-workflow-a) | Implement Abridge ambient clinical documentation capture-to-note pipeline. Use when building the primary encounter wo... | jeremylongshore |
 | [abridge-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-core-workflow-a) | Implement Abridge ambient clinical documentation capture-to-note pipeline. Use when building the primary encounter wo... | jeremylongshore |
 | [abridge-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/abridge-pack/skills/abridge-debug-bundle) | Collect Abridge debug evidence for support tickets and troubleshooting. Use when filing Abridge support tickets, coll... | jeremylongshore |
@@ -8440,7 +8441,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*569 skills in this domain*
+*570 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8851,6 +8852,7 @@
 | [planning-with-files-zh](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-zh) | 基于 Manus 风格的文件规划系统，用于组织和跟踪复杂任务的进度。创建 task_plan.md、findings.md 和 progress.md 三个文件。当用户要求规划、拆解或组织多步骤项目、研究任务或需要超过5次工具调用的工... | OthmanAdi |
 | [planning-with-files-zht](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-zht) | 基於 Manus 風格的檔案規劃系統，用於組織和追蹤複雜任務的進度。建立 task_plan.md、findings.md 和 progress.md 三個檔案。當使用者要求規劃、拆解或組織多步驟專案、研究任務或需要超過5次工具呼叫的... | OthmanAdi |
 | [plugin-review](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/plugin-review) | Review plugin quality with tiered checks and dependency scoping. Use for PR and pre-release audits. | athola |
+| [polis-protocol](https://github.com/yehudalevy-collab/polis-protocol/tree/main) |  | yehudalevy-collab |
 | [posthog-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-cost-tuning) | Optimize PostHog costs: autocapture tuning, event sampling with before_send, bot filtering, session recording samplin... | jeremylongshore |
 | [posthog-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-cost-tuning) | Optimize PostHog costs: autocapture tuning, event sampling with before_send, bot filtering, session recording samplin... | jeremylongshore |
 | [posthog-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-multi-env-setup) | Configure PostHog across development, staging, and production environments. Separate PostHog projects per environment... | jeremylongshore |
@@ -9017,7 +9019,7 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*375 skills in this domain*
+*374 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
@@ -9274,7 +9276,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*73 skills*
+*72 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9326,7 +9328,6 @@
 | [one-page-marketing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-one-page-marketing) | Build a complete marketing plan covering the full customer journey from stranger to raving fan. Use when the user men... | jeremylongshore |
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage for OpenRouter models to reduce cost and improve quality. Use when hitting context limi... | jeremylongshore |
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage for OpenRouter models to reduce cost and improve quality. Use when hitting context limi... | jeremylongshore |
-| [polis-protocol](https://github.com/yehudalevy-collab/polis-protocol/tree/main) | Set up a self-optimizing multi-vendor AI agent team using the Polis Protocol — a markdown-based "small city" where ea... | yehudalevy-collab |
 | [pricing-strategy](https://github.com/OneWave-AI/claude-skills/tree/main/pricing-strategy) | Designs pricing strategies for products and services. Takes product/service, costs, target market, competitors. Analy... | OneWave-AI |
 | [prompt-engineering](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering) | Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to impr... | davila7 |
 | [qiskit](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/qiskit) | IBM quantum computing framework. Use when targeting IBM Quantum hardware, working with Qiskit Runtime for production ... | K-Dense-AI |
@@ -10104,7 +10105,7 @@
 <a name="uncategorized"></a>
 # Uncategorized
 
-*264 skills in this domain*
+*265 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10254,6 +10255,7 @@
 | [luo-yonghao-jiaopengyou-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/short-video-ads-master/output/sub-skills/luo-yonghao-jiaopengyou) | 罗永浩 / 交个朋友视角. 店播头部 + 头部主播 IP 化方法论. 调用此 skill 时, 用交个朋友的认知框架做店播 / 主播 IP 决策. | swaylq |
 | [mark-glazebrook-achilles-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/foot-ankle-surgery-master/output/sub-skills/mark-glazebrook-achilles) | Mark Glazebrook (Dalhousie University, Canada) 视角. 跟腱病 PhD + 关节镜专家 + COA 前主席. 调用此 skill 时, 用 Glazebrook 框架做跟腱病变 / 关节镜... | swaylq |
 | [matplotlib](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/matplotlib) | Foundational plotting library. Create line plots, scatter, bar, histograms, heatmaps, 3D, subplots, export PNG/PDF/SV... | davila7 |
+| [media](https://github.com/yehudalevy-collab/polis-protocol/tree/main/editors/antigravity/media) |  | yehudalevy-collab |
 | [microservices-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/microservices-patterns) | Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use ... | wshobson |
 | [mindtickle-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-ci-integration) | Ci Integration for MindTickle. Trigger: "mindtickle ci integration". | jeremylongshore |
 | [mindtickle-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-ci-integration) | Ci Integration for MindTickle. Trigger: "mindtickle ci integration". | jeremylongshore |

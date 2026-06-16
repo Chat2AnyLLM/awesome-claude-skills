@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*264 skills in this domain*
+*265 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -157,6 +157,7 @@
 | [luo-yonghao-jiaopengyou-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/short-video-ads-master/output/sub-skills/luo-yonghao-jiaopengyou) | 罗永浩 / 交个朋友视角. 店播头部 + 头部主播 IP 化方法论. 调用此 skill 时, 用交个朋友的认知框架做店播 / 主播 IP 决策. | swaylq |
 | [mark-glazebrook-achilles-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/foot-ankle-surgery-master/output/sub-skills/mark-glazebrook-achilles) | Mark Glazebrook (Dalhousie University, Canada) 视角. 跟腱病 PhD + 关节镜专家 + COA 前主席. 调用此 skill 时, 用 Glaz... | swaylq |
 | [matplotlib](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/matplotlib) | Foundational plotting library. Create line plots, scatter, bar, histograms, heatmaps, 3D, subplot... | davila7 |
+| [media](https://github.com/yehudalevy-collab/polis-protocol/tree/main/editors/antigravity/media) |  | yehudalevy-collab |
 | [microservices-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/microservices-patterns) | Design microservices architectures with service boundaries, event-driven communication, and resil... | wshobson |
 | [mindtickle-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-ci-integration) | Ci Integration for MindTickle. Trigger: "mindtickle ci integration". | jeremylongshore |
 | [mindtickle-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mindtickle-pack/skills/mindtickle-ci-integration) | Ci Integration for MindTickle. Trigger: "mindtickle ci integration". | jeremylongshore |

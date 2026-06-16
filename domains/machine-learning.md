@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*375 skills in this domain*
+*374 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Model Training](#model-training) - 246 skills
-- [Hyperparameter Tuning](#hyperparameter-tuning) - 73 skills
+- [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 23 skills
 - [Feature Engineering](#feature-engineering) - 21 skills
 - [Model Deployment](#model-deployment) - 12 skills
@@ -272,7 +272,7 @@
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning
-*73 skills*
+*72 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -324,7 +324,6 @@
 | [one-page-marketing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-one-page-marketing) | Build a complete marketing plan covering the full customer journey from stranger to raving fan. U... | jeremylongshore |
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage for OpenRouter models to reduce cost and improve quality. Use when ... | jeremylongshore |
 | [openrouter-context-optimization](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-context-optimization) | Optimize context window usage for OpenRouter models to reduce cost and improve quality. Use when ... | jeremylongshore |
-| [polis-protocol](https://github.com/yehudalevy-collab/polis-protocol/tree/main) | Set up a self-optimizing multi-vendor AI agent team using the Polis Protocol — a markdown-based "... | yehudalevy-collab |
 | [pricing-strategy](https://github.com/OneWave-AI/claude-skills/tree/main/pricing-strategy) | Designs pricing strategies for products and services. Takes product/service, costs, target market... | OneWave-AI |
 | [prompt-engineering](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering) | Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use whe... | davila7 |
 | [qiskit](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/qiskit) | IBM quantum computing framework. Use when targeting IBM Quantum hardware, working with Qiskit Run... | K-Dense-AI |
