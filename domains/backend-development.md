@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4512 skills in this domain*
+*4513 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2664 skills
+- [APIs & REST](#apis-rest) - 2665 skills
 - [Database Design](#database-design) - 1332 skills
 - [Request Handling](#request-handling) - 272 skills
 - [Web Frameworks](#web-frameworks) - 176 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2664 skills*
+*2665 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -727,6 +727,7 @@
 | [customerio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-upgrade-migration) | Plan and execute Customer.io SDK upgrades and migrations. Use when upgrading customerio-node vers... | jeremylongshore |
 | [customerio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-upgrade-migration) | Plan and execute Customer.io SDK upgrades and migrations. Use when upgrading customerio-node vers... | jeremylongshore |
 | [data-feeds](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-data/data-feeds) | Extract structured data from 40+ websites including Amazon, LinkedIn, Instagram, TikTok, Facebook... | davila7 |
+| [database-lookup](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/database-lookup) | Deterministically query 78 public scientific, biomedical, materials science, regulatory, finance,... | K-Dense-AI |
 | [databases](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/databases) | Work with MongoDB (document database, BSON documents, aggregation pipelines, Atlas cloud) and Pos... | mrgoonie |
 | [databricks-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-rate-limits) | Implement Databricks API rate limiting, backoff, and idempotency patterns. Use when handling rate... | jeremylongshore |
 | [databricks-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-rate-limits) | Implement Databricks API rate limiting, backoff, and idempotency patterns. Use when handling rate... | jeremylongshore |

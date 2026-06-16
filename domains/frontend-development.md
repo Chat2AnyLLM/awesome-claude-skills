@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*570 skills in this domain*
+*569 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -162,7 +162,6 @@
 | [dashboard-layout-planner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/dashboard-layout-planner) | Configure dashboard layout planner operations. Auto-activating skill for Data Analytics. Triggers... | jeremylongshore |
 | [dashboard-layout-planner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/dashboard-layout-planner) | Configure dashboard layout planner operations. Auto-activating skill for Data Analytics. Triggers... | jeremylongshore |
 | [data-flow](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/data-flow) | Generates a Mermaid sequence diagram showing how data moves between components. Use when tracing ... | athola |
-| [database-lookup](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/database-lookup) | Search 78 public scientific, biomedical, materials science, and economic databases via REST APIs.... | K-Dense-AI |
 | [databricks-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-reference-architecture) | Implement Databricks reference architecture with best-practice project layout. Use when designing... | jeremylongshore |
 | [databricks-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-reference-architecture) | Implement Databricks reference architecture with best-practice project layout. Use when designing... | jeremylongshore |
 | [design-mirror](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-data/design-mirror) | Replicate the visual style of any website and apply it to your existing codebase. Use this skill ... | davila7 |

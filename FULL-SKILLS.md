@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4512 skills
-  - [APIs & REST](#apis-and-rest) - 2664 skills
+- [Backend Development](#backend-development) - 4513 skills
+  - [APIs & REST](#apis-and-rest) - 2665 skills
   - [Database Design](#database-design) - 1332 skills
   - [Request Handling](#request-handling) - 272 skills
   - [Web Frameworks](#web-frameworks) - 176 skills
@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 781 skills
 - [Tools & Utilities](#tools-and-utilities) - 634 skills
-- [Frontend Development](#frontend-development) - 570 skills
+- [Frontend Development](#frontend-development) - 569 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 566 skills
 - [Testing & Quality](#testing-and-quality) - 366 skills
 - [Machine Learning](#machine-learning) - 336 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4512 skills in this domain*
+*4513 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2664 skills*
+*2665 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -755,6 +755,7 @@
 | [customerio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-upgrade-migration) | Plan and execute Customer.io SDK upgrades and migrations. Use when upgrading customerio-node versions, migrating from... | jeremylongshore |
 | [customerio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-upgrade-migration) | Plan and execute Customer.io SDK upgrades and migrations. Use when upgrading customerio-node versions, migrating from... | jeremylongshore |
 | [data-feeds](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-data/data-feeds) | Extract structured data from 40+ websites including Amazon, LinkedIn, Instagram, TikTok, Facebook, YouTube, and more.... | davila7 |
+| [database-lookup](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/database-lookup) | Deterministically query 78 public scientific, biomedical, materials science, regulatory, finance, and demographics da... | K-Dense-AI |
 | [databases](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/databases) | Work with MongoDB (document database, BSON documents, aggregation pipelines, Atlas cloud) and PostgreSQL (relational ... | mrgoonie |
 | [databricks-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-rate-limits) | Implement Databricks API rate limiting, backoff, and idempotency patterns. Use when handling rate limit errors, imple... | jeremylongshore |
 | [databricks-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-rate-limits) | Implement Databricks API rate limiting, backoff, and idempotency patterns. Use when handling rate limit errors, imple... | jeremylongshore |
@@ -7788,7 +7789,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*570 skills in this domain*
+*569 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7943,7 +7944,6 @@
 | [dashboard-layout-planner](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/dashboard-layout-planner) | Configure dashboard layout planner operations. Auto-activating skill for Data Analytics. Triggers on: dashboard layou... | jeremylongshore |
 | [dashboard-layout-planner](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/dashboard-layout-planner) | Configure dashboard layout planner operations. Auto-activating skill for Data Analytics. Triggers on: dashboard layou... | jeremylongshore |
 | [data-flow](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/data-flow) | Generates a Mermaid sequence diagram showing how data moves between components. Use when tracing request flows or doc... | athola |
-| [database-lookup](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/database-lookup) | Search 78 public scientific, biomedical, materials science, and economic databases via REST APIs. Covers physics/astr... | K-Dense-AI |
 | [databricks-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-reference-architecture) | Implement Databricks reference architecture with best-practice project layout. Use when designing new Databricks proj... | jeremylongshore |
 | [databricks-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/databricks-pack/skills/databricks-reference-architecture) | Implement Databricks reference architecture with best-practice project layout. Use when designing new Databricks proj... | jeremylongshore |
 | [design-mirror](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-data/design-mirror) | Replicate the visual style of any website and apply it to your existing codebase. Use this skill whenever the user wa... | davila7 |
