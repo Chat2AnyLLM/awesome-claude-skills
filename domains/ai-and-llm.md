@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*801 skills in this domain*
+*802 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -531,6 +531,7 @@
 | [pitch-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/pitch-recon) | Marketing and messaging reconnaissance — read existing landing pages, copy, positioning docs, and... | jeremylongshore |
 | [pitch-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/pitch-recon) | Marketing and messaging reconnaissance — read existing landing pages, copy, positioning docs, and... | jeremylongshore |
 | [plain-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/plain-automation) | Automate Plain tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) | Manus-style persistent file-based planning for AI coding agents: keeps task_plan.md, findings.md,... | OthmanAdi |
 | [posthog-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-common-errors) | Diagnose and fix common PostHog errors: events not appearing, flags returning undefined, 401/429 ... | jeremylongshore |
 | [posthog-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-common-errors) | Diagnose and fix common PostHog errors: events not appearing, flags returning undefined, 401/429 ... | jeremylongshore |
 | [product-strategist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/product-strategist) | Strategic product leadership toolkit for Head of Product including OKR cascade generation, market... | davila7 |

@@ -27,7 +27,7 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 801 skills
+- [AI & LLM](#ai-and-llm) - 802 skills
 - [Tools & Utilities](#tools-and-utilities) - 636 skills
 - [Frontend Development](#frontend-development) - 573 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 569 skills
@@ -39,7 +39,7 @@
   - [Model Deployment](#model-deployment) - 12 skills
 - [Testing & Quality](#testing-and-quality) - 371 skills
 - [Security](#security) - 285 skills
-- [Uncategorized](#uncategorized) - 265 skills
+- [Uncategorized](#uncategorized) - 264 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
 
@@ -6405,7 +6405,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*801 skills in this domain*
+*802 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6929,6 +6929,7 @@
 | [pitch-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/pitch-recon) | Marketing and messaging reconnaissance — read existing landing pages, copy, positioning docs, and marketing materials... | jeremylongshore |
 | [pitch-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/bundle/marketing-team/skills/pitch-recon) | Marketing and messaging reconnaissance — read existing landing pages, copy, positioning docs, and marketing materials... | jeremylongshore |
 | [plain-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/plain-automation) | Automate Plain tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) | Manus-style persistent file-based planning for AI coding agents: keeps task_plan.md, findings.md, and progress.md on ... | OthmanAdi |
 | [posthog-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-common-errors) | Diagnose and fix common PostHog errors: events not appearing, flags returning undefined, 401/429 errors, SDK initiali... | jeremylongshore |
 | [posthog-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/posthog-pack/skills/posthog-common-errors) | Diagnose and fix common PostHog errors: events not appearing, flags returning undefined, 401/429 errors, SDK initiali... | jeremylongshore |
 | [product-strategist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/product-strategist) | Strategic product leadership toolkit for Head of Product including OKR cascade generation, market analysis, vision se... | davila7 |
@@ -10103,7 +10104,7 @@
 <a name="uncategorized"></a>
 # Uncategorized
 
-*265 skills in this domain*
+*264 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10315,7 +10316,6 @@
 | [persona-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/persona-pack/skills/persona-cost-tuning) | Optimize Persona verification costs with template selection and caching. Use when working with Persona identity verif... | jeremylongshore |
 | [persona-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/persona-pack/skills/persona-cost-tuning) | Optimize Persona verification costs with template selection and caching. Use when working with Persona identity verif... | jeremylongshore |
 | [plan-writing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/plan-writing) | Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing featur... | davila7 |
-| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) |  | OthmanAdi |
 | [podcast-studio](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-studio) | Generate podcast scripts from text content. Use Tone.js and Howler.js for audio mixing. Create intro/outro music, tra... | OneWave-AI |
 | [powershell-windows](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/powershell-windows) | PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling. | davila7 |
 | [quiz-maker](https://github.com/OneWave-AI/claude-skills/tree/main/quiz-maker) | Create multiple choice, true/false, fill-in-blank, matching quizzes. Auto-generate plausible distractors. Instant gra... | OneWave-AI |

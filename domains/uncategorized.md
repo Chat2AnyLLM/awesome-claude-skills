@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*265 skills in this domain*
+*264 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -219,7 +219,6 @@
 | [persona-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/persona-pack/skills/persona-cost-tuning) | Optimize Persona verification costs with template selection and caching. Use when working with Pe... | jeremylongshore |
 | [persona-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/persona-pack/skills/persona-cost-tuning) | Optimize Persona verification costs with template selection and caching. Use when working with Pe... | jeremylongshore |
 | [plan-writing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/plan-writing) | Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when... | davila7 |
-| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) |  | OthmanAdi |
 | [podcast-studio](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-studio) | Generate podcast scripts from text content. Use Tone.js and Howler.js for audio mixing. Create in... | OneWave-AI |
 | [powershell-windows](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/powershell-windows) | PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling. | davila7 |
 | [quiz-maker](https://github.com/OneWave-AI/claude-skills/tree/main/quiz-maker) | Create multiple choice, true/false, fill-in-blank, matching quizzes. Auto-generate plausible dist... | OneWave-AI |
