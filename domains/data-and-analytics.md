@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*806 skills in this domain*
+*818 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,16 +11,16 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 524 skills
-- [Analytics & Queries](#analytics-queries) - 219 skills
-- [Data Warehousing](#data-warehousing) - 43 skills
+- [Data Pipelines](#data-pipelines) - 529 skills
+- [Analytics & Queries](#analytics-queries) - 222 skills
+- [Data Warehousing](#data-warehousing) - 47 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
 - [Time Series](#time-series) - 2 skills
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*524 skills*
+*529 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -142,6 +142,7 @@
 | [cortex-model](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/cortex-model) | Build an ML pipeline — from data to trained model to serving endpoint. Use when asked to "build M... | jeremylongshore |
 | [cortex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/cortex-recon) | ML reconnaissance — inventory all models, pipelines, data sources, and monitoring. Use when asked... | jeremylongshore |
 | [cortex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/cortex-recon) | ML reconnaissance — inventory all models, pipelines, data sources, and monitoring. Use when asked... | jeremylongshore |
+| [crm-sales-momentum](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/crm-sales-momentum) | Analyze HubSpot pipeline momentum — deal velocity, stage conversions, win/loss patterns, and stal... | cognyai |
 | [cto-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/cto-advisor) | Technical leadership guidance for engineering teams, architecture decisions, and technology strat... | davila7 |
 | [cursor-compliance-audit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-compliance-audit) | Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence co... | jeremylongshore |
 | [cursor-compliance-audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-compliance-audit) | Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence co... | jeremylongshore |
@@ -294,6 +295,8 @@
 | [groq-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-reference-architecture) | Implement Groq reference architecture with model routing, streaming pipelines, and fallbacks. Use... | jeremylongshore |
 | [groq-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-webhooks-events) | Build event-driven architectures with Groq streaming, batch processing, and async patterns. Use w... | jeremylongshore |
 | [groq-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-webhooks-events) | Build event-driven architectures with Groq streaming, batch processing, and async patterns. Use w... | jeremylongshore |
+| [gtm-setup](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/gtm-setup) | GTM Event Tracking & Setup Reference — dataLayer fundamentals, trigger types, variable types, GA4... | cognyai |
+| [gtm-tracking-plan](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/gtm-tracking-plan) | Turn a measurement plan into a Google Tag Manager spec — tags, triggers, variables, and copy-past... | cognyai |
 | [guidewire-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/guidewire-pack/skills/guidewire-core-workflow-b) | Automate the ClaimCenter FNOL→investigation→reserve→payment→settlement→close pipeline including t... | jeremylongshore |
 | [guidewire-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/guidewire-pack/skills/guidewire-core-workflow-b) | Automate the ClaimCenter FNOL→investigation→reserve→payment→settlement→close pipeline including t... | jeremylongshore |
 | [hubspot-deal-pipeline-automation](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hubspot-pack/skills/hubspot-deal-pipeline-automation) | Automate and audit HubSpot deal pipeline operations without destroying real pipeline — covering s... | jeremylongshore |
@@ -366,6 +369,7 @@
 | [linear-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linear-pack/skills/linear-data-handling) | Data synchronization, backup, and consistency patterns for Linear. Use when implementing data syn... | jeremylongshore |
 | [linear-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/linear-pack/skills/linear-migration-deep-dive) | Migrate from Jira, Asana, GitHub Issues, or other tools to Linear. Use when planning a migration,... | jeremylongshore |
 | [linear-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/linear-pack/skills/linear-migration-deep-dive) | Migrate from Jira, Asana, GitHub Issues, or other tools to Linear. Use when planning a migration,... | jeremylongshore |
+| [linkedin-micro-campaigns](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/linkedin-micro-campaigns) | Create precision-targeted LinkedIn ad campaigns for specific ICP segments — translates CRM data t... | cognyai |
 | [linkedin-sales-navigator-alt](https://github.com/OneWave-AI/claude-skills/tree/main/linkedin-sales-navigator-alt) | Build targeted prospect lists by analyzing LinkedIn profiles, extracting job titles, companies, l... | OneWave-AI |
 | [llamaindex](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-llamaindex) | Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ co... | davila7 |
 | [llamaindex](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/14-agents/llamaindex) | Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ co... | zechenzhangAGI |
@@ -507,6 +511,7 @@
 | [test-data-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/09-test-automation/test-data-builder) | Test Data Builder - Auto-activating skill for Test Automation. Triggers on: test data builder, te... | jeremylongshore |
 | [test-data-builder](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/09-test-automation/test-data-builder) | Test Data Builder - Auto-activating skill for Test Automation. Triggers on: test data builder, te... | jeremylongshore |
 | [testing-quality-standards](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/testing-quality-standards) | Defines testing quality metrics, coverage thresholds, and anti-patterns. Use when establishing te... | athola |
+| [tiktok-launch-video](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/tiktok-launch-video) | Produce a 9:16 TikTok-native launch video for a product, feature, or campaign using HyperFrames. ... | cognyai |
 | [tiledbvcf](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/tiledbvcf) | Efficient storage and retrieval of genomic variant data using TileDB. Scalable VCF/BCF ingestion,... | K-Dense-AI |
 | [torchdrug](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/torchdrug) | PyTorch-native graph neural networks for molecules and proteins. Use when building custom GNN arc... | K-Dense-AI |
 | [torchdrug](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/torchdrug) | Graph-based drug discovery toolkit. Molecular property prediction (ADMET), protein modeling, know... | davila7 |
@@ -551,7 +556,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*219 skills*
+*222 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -594,6 +599,7 @@
 | [coreweave-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-observability) | Set up GPU monitoring and observability for CoreWeave workloads. Use when implementing GPU metric... | jeremylongshore |
 | [correlation-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/correlation-analyzer) | Analyze correlation analyzer operations. Auto-activating skill for Data Analytics. Triggers on: c... | jeremylongshore |
 | [correlation-analyzer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/correlation-analyzer) | Analyze correlation analyzer operations. Auto-activating skill for Data Analytics. Triggers on: c... | jeremylongshore |
+| [crm-icp-analysis](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/crm-icp-analysis) | Analyze HubSpot CRM data to build a data-driven Ideal Customer Profile from closed-won deals, con... | cognyai |
 | [cte-query-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/cte-query-builder) | Build cte query builder operations. Auto-activating skill for Data Analytics. Triggers on: cte qu... | jeremylongshore |
 | [cte-query-builder](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/cte-query-builder) | Build cte query builder operations. Auto-activating skill for Data Analytics. Triggers on: cte qu... | jeremylongshore |
 | [Customer.io Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/customerio-automation) | Automate customer engagement workflows including broadcast triggers, message analytics, segment m... | ComposioHQ |
@@ -639,6 +645,7 @@
 | [forecast-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/forecast-generator) | Generate forecast generator operations. Auto-activating skill for Data Analytics. Triggers on: fo... | jeremylongshore |
 | [funnel-analysis-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/funnel-analysis-builder) | Build funnel analysis builder operations. Auto-activating skill for Data Analytics. Triggers on: ... | jeremylongshore |
 | [funnel-analysis-builder](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/12-data-analytics/funnel-analysis-builder) | Build funnel analysis builder operations. Auto-activating skill for Data Analytics. Triggers on: ... | jeremylongshore |
+| [gaql-reference](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/gaql-reference) | Google Ads Query Language (GAQL) Reference — complete syntax, resource types, fields, operators, ... | cognyai |
 | [geniml](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/geniml) | This skill should be used when working with genomic interval data (BED files) for machine learnin... | K-Dense-AI |
 | [geniml](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/geniml) | This skill should be used when working with genomic interval data (BED files) for machine learnin... | davila7 |
 | [Gong Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/gong-automation) | Automate Gong conversation intelligence -- retrieve call recordings, transcripts, detailed analyt... | ComposioHQ |
@@ -733,6 +740,7 @@
 | [seaborn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/seaborn) | Statistical visualization with pandas integration. Use for quick exploration of distributions, re... | K-Dense-AI |
 | [sentry-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-multi-env-setup) | Configure Sentry across development, staging, and production environments with separate DSNs, env... | jeremylongshore |
 | [sentry-multi-env-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-multi-env-setup) | Configure Sentry across development, staging, and production environments with separate DSNs, env... | jeremylongshore |
+| [seo-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/seo-audit) | Full technical + content SEO analysis — uses live Search Console + Bing data when connected | cognyai |
 | [service-mesh-observability](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/service-mesh-observability) | Implement comprehensive observability for service meshes including distributed tracing, metrics, ... | wshobson |
 | [setting-up-log-aggregation](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/log-aggregation-setup/skills/setting-up-log-aggregation) | Execute use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with ph... | jeremylongshore |
 | [setting-up-log-aggregation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/log-aggregation-setup/skills/setting-up-log-aggregation) | Execute use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with ph... | jeremylongshore |
@@ -777,7 +785,7 @@
 
 <a name="data-warehousing"></a>
 ## Data Warehousing
-*43 skills*
+*47 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -792,9 +800,11 @@
 | [crustdata-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/crustdata-automation) | Automate Crustdata tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [customerio-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-webhooks-events) | Implement Customer.io webhook and reporting event handling. Use when processing email delivery ev... | jeremylongshore |
 | [customerio-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-webhooks-events) | Implement Customer.io webhook and reporting event handling. Use when processing email delivery ev... | jeremylongshore |
+| [cwv-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/cwv-audit) | Core Web Vitals Reference — LCP, INP, CLS thresholds, root causes, optimization fixes, CrUX BigQu... | cognyai |
 | [dadata-ru-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/dadata-ru-automation) | Automate Dadata Ru tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [datagma-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/datagma-automation) | Automate Datagma tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [datarobot-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/datarobot-automation) | Automate Datarobot tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [ga4-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/ga4-audit) | Google Analytics 4 configuration and data-quality audit — key events, data streams, custom dimens... | cognyai |
 | [googleads-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/googleads-automation) | Automate Google Ads analytics tasks via Rube MCP (Composio): list Google Ads links, run GA4 repor... | ComposioHQ |
 | [googlebigquery-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/googlebigquery-automation) | Automate Google BigQuery tasks via Rube MCP (Composio): run SQL queries, explore datasets and met... | ComposioHQ |
 | [graphql-architect](https://github.com/Jeffallan/claude-skills/tree/main/skills/graphql-architect) | Use when designing GraphQL schemas, implementing Apollo Federation, or building real-time subscri... | Jeffallan |
@@ -821,9 +831,11 @@
 | [snowflake-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-policy-guardrails) | Implement Snowflake governance guardrails with network rules, session policies, authentication po... | jeremylongshore |
 | [snowflake-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-rate-limits) | Handle Snowflake concurrency limits, warehouse queuing, and query throttling. Use when queries ar... | jeremylongshore |
 | [snowflake-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-rate-limits) | Handle Snowflake concurrency limits, warehouse queuing, and query throttling. Use when queries ar... | jeremylongshore |
+| [structured-data](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/structured-data) | Schema.org Structured Data Reference — JSON-LD examples for every major schema type, rich results... | cognyai |
 | [supadata-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/supadata-automation) | Automate Supadata tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [token-metrics-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/token-metrics-automation) | Automate Token Metrics tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [twelve-data-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/twelve-data-automation) | Automate Twelve Data tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [utm-builder](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/utm-builder) | UTM Parameter Strategy & Builder — naming conventions, GA4 channel grouping rules, auto-tagging, ... | cognyai |
 
 <a name="data-science"></a>
 ## Data Science

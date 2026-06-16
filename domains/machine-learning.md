@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*373 skills in this domain*
+*375 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 244 skills
+- [Model Training](#model-training) - 246 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 73 skills
 - [Model Evaluation](#model-evaluation) - 23 skills
 - [Feature Engineering](#feature-engineering) - 21 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*244 skills*
+*246 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -100,6 +100,7 @@
 | [gemini-delegation](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/gemini-delegation) | Delegates tasks to Gemini CLI implementing delegation-core for Google's models. Use when delegati... | athola |
 | [generate-image](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/generate-image) | Generate or edit images using AI models (FLUX, Nano Banana 2). Use for general-purpose image gene... | K-Dense-AI |
 | [generate-image](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/generate-image) | Generate or edit images using AI models (FLUX, Gemini). Use for general-purpose image generation ... | davila7 |
+| [google-ads-scripts](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/google-ads-scripts) | Google Ads Scripts Reference — JavaScript automation, AdsApp object model, selectors, GAQL querie... | cognyai |
 | [gradient-clipping-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/gradient-clipping-helper) | Configure with gradient clipping helper operations. Auto-activating skill for ML Training. Trigge... | jeremylongshore |
 | [gradient-clipping-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/gradient-clipping-helper) | Configure with gradient clipping helper operations. Auto-activating skill for ML Training. Trigge... | jeremylongshore |
 | [groq-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-upgrade-migration) | Upgrade groq-sdk versions and handle Groq model deprecations. Use when upgrading SDK versions, de... | jeremylongshore |
@@ -267,6 +268,7 @@
 | [xiaohongshu-ops-master](https://github.com/swaylq/master-skill/tree/main/prototypes/xiaohongshu-ops-master/output) | 小红书运营 (xiaohongshu operations) Master OS — automated mastery of xiaohongshu operations: top build... | swaylq |
 | [youth-coding-education-master](https://github.com/swaylq/master-skill/tree/main/prototypes/youth-coding-education-master/output) | 青少年编程教育 (Youth Coding Education) Master OS — automated mastery of Youth Coding Education: top bui... | swaylq |
 | [youth-mental-health-edu-master](https://github.com/swaylq/master-skill/tree/main/prototypes/youth-mental-health-edu-master/output) | 青少年心理健康教育 (Youth Mental Health Education) Master OS — automated mastery of Youth Mental Health Ed... | swaylq |
+| [zhihu-ai-creator-master](https://github.com/swaylq/master-skill/tree/main/prototypes/zhihu-ai-creator-master/output) | 知乎 AI 自媒体博主 (知乎 AI 自媒体博主 (从业者视角) — 在知乎做『AI 赛道』内容的自媒体博主，重点是**怎么写文案、怎么制作内容**。覆盖: (a) AI 赛道选题 — AI 工... | swaylq |
 
 <a name="hyperparameter-tuning"></a>
 ## Hyperparameter Tuning

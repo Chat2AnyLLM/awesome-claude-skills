@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*566 skills in this domain*
+*569 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -58,6 +58,7 @@
 | [better-proposals-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/better-proposals-automation) | Automate Better Proposals tasks via Rube MCP (Composio). Always search tools first for current sc... | ComposioHQ |
 | [botpress-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/botpress-automation) | Automate Botpress tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [bracket-predictor](https://github.com/OneWave-AI/claude-skills/tree/main/bracket-predictor) | March Madness, playoff brackets, tournament picks. Upset potential, chalk vs contrarian strategie... | OneWave-AI |
+| [brand-kit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/brand-kit) | Build a portable brand-kit.json for the user's product — colors, typography, voice — that other s... | cognyai |
 | [brand-strategy](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/brand-strategy-framework/skills/brand-strategy) | A 7-part brand strategy framework for building comprehensive brand foundations. Trigger with phra... | jeremylongshore |
 | [brand-strategy](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/brand-strategy-framework/skills/brand-strategy) | A 7-part brand strategy framework for building comprehensive brand foundations. Trigger with phra... | jeremylongshore |
 | [budget-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/budget-optimizer) | Analyze spending patterns and find savings. 50/30/20 rule, subscription audit, debt payoff strate... | OneWave-AI |
@@ -101,6 +102,7 @@
 | [Collision-Zone Thinking](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/problem-solving/collision-zone-thinking) | Force unrelated concepts together to discover emergent properties - "What if we treated X like Y?" | mrgoonie |
 | [commit-work](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/commit-work) | Create high-quality git commits: review/stage intended changes, split into logical commits, and w... | davila7 |
 | [commitments](https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/commitments) | Triage acc's open promises and close them with honest real-world verdicts via acc_act(runtime="ou... | maxbaluev |
+| [competitor-analysis](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/competitor-analysis) | Research competitor positioning, ads, pricing, and market gaps | cognyai |
 | [competitor-analyst](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/pm-ai-partner/skills/competitor-analyst) | Competitive analysis and market positioning partner for Product Managers. Use when the user needs... | jeremylongshore |
 | [competitor-analyst](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/pm-ai-partner/skills/competitor-analyst) | Competitive analysis and market positioning partner for Product Managers. Use when the user needs... | jeremylongshore |
 | [competitor-price-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/competitor-price-tracker) | Monitor competitor pricing pages and send alerts when prices change. Track discount patterns, pro... | OneWave-AI |
@@ -221,6 +223,7 @@
 | [gitlab-epic-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/gitlab-epic-creator) | Create gitlab epic creator operations. Auto-activating skill for Enterprise Workflows. Triggers o... | jeremylongshore |
 | [gitlab-epic-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/gitlab-epic-creator) | Create gitlab epic creator operations. Auto-activating skill for Enterprise Workflows. Triggers o... | jeremylongshore |
 | [go-concurrency-patterns](https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/go-concurrency-patterns) | Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building ... | wshobson |
+| [google-ads-monitor](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/google-ads-monitor) | Weekly Google Ads health check — budget pacing, spend spikes, disapproved ads, conversion-trackin... | cognyai |
 | [governance-checklist-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/governance-checklist-generator) | Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflow... | jeremylongshore |
 | [governance-checklist-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/governance-checklist-generator) | Generate governance checklist generator operations. Auto-activating skill for Enterprise Workflow... | jeremylongshore |
 | [graduated-implementation](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/graduated-implementation) | Ramps implementation ambition a notch only after the prior increment is understood. Use when buil... | athola |
@@ -408,7 +411,6 @@
 | [planning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/planning) | Create and manage persistent markdown planning files for structured task execution. Use when the ... | davila7 |
 | [planning-disaster-recovery](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/disaster-recovery-planner/skills/planning-disaster-recovery) | Execute use when you need to work with backup and recovery. This skill provides backup automation... | jeremylongshore |
 | [planning-disaster-recovery](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/disaster-recovery-planner/skills/planning-disaster-recovery) | Execute use when you need to work with backup and recovery. This skill provides backup automation... | jeremylongshore |
-| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) | Implements Manus-style file-based planning to organize and track progress on complex tasks. Creat... | OthmanAdi |
 | [planning-with-files](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/planning-with-files) | Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, ... | davila7 |
 | [planning-with-files-ar](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-ar) | نظام تخطيط الملفات بنمط Manus لتنظيم وتتبع تقدم المهام المعقدة. ينشئ ملفات task_plan.md و finding... | OthmanAdi |
 | [planning-with-files-de](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files-de) | Manus-artiges Dateiplanungssystem zur Organisation und Verfolgung des Fortschritts komplexer Aufg... | OthmanAdi |
@@ -450,6 +452,7 @@
 | [python-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/python-patterns) | Python development principles and decision-making. Framework selection, async patterns, type hint... | davila7 |
 | [ramping-rep-tracker](https://github.com/OneWave-AI/claude-skills/tree/main/ramping-rep-tracker) | 30/60/90/120 day ramp milestones. Activity expectations by week, certification progress, early wa... | OneWave-AI |
 | [red-team-tactics](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/red-team-tactics) | Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting. | davila7 |
+| [reddit-launch-video](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/reddit-launch-video) | Produce a Reddit-native 1:1 or 4:5 launch video using HyperFrames. Idiomatic Reddit feel — text-f... | cognyai |
 | [replit-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/replit-pack/skills/replit-architecture-variants) | Choose and implement Replit architecture blueprints: single-file script, modular app, and multi-s... | jeremylongshore |
 | [replit-architecture-variants](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/replit-pack/skills/replit-architecture-variants) | Choose and implement Replit architecture blueprints: single-file script, modular app, and multi-s... | jeremylongshore |
 | [research](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/research) | Runs multi-source research across GitHub, HN, Reddit, arXiv, and Semantic Scholar. Use when surve... | athola |

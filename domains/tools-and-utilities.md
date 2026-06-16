@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*634 skills in this domain*
+*636 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -134,6 +134,7 @@
 | [coassemble-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/coassemble-automation) | Automate Coassemble tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [codacy-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/codacy-automation) | Automate Codacy tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [codereadr-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/codereadr-automation) | Automate Codereadr tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [cogny](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/cogny) | Run Cogny marketing analysis tasks — fetch scheduled tasks, analyze ad accounts via MCP, report f... | cognyai |
 | [coinmarketcal-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/coinmarketcal-automation) | Automate Coinmarketcal tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [coinmarketcap-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/coinmarketcap-automation) | Automate Coinmarketcap tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [coinranking-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/coinranking-automation) | Automate Coinranking tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -512,6 +513,7 @@
 | [sendloop-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/sendloop-automation) | Automate Sendloop tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [sensibo-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/sensibo-automation) | Automate Sensibo tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [seo-keyword-cluster-builder](https://github.com/OneWave-AI/claude-skills/tree/main/seo-keyword-cluster-builder) | Group related keywords into topic clusters. Create content hub architecture recommendations and i... | OneWave-AI |
+| [seo-monitor](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/seo-monitor) | Monitor SEO rankings, queries, and indexing via Search Console MCP | cognyai |
 | [seqera-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/seqera-automation) | Automate Seqera tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [serpdog-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/serpdog-automation) | Automate Serpdog tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [serply-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/serply-automation) | Automate Serply tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |

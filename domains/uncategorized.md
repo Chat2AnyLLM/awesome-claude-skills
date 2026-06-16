@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*258 skills in this domain*
+*265 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,6 +11,7 @@
 
 | Skill | Description | Author |
 | --- | --- | --- |
+| [ad-copy-writer](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/ad-copy-writer) | Generate ad copy variations for Google, Meta, and LinkedIn Ads | cognyai |
 | [analyzing-market-sentiment](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/market-sentiment-analyzer/skills/analyzing-market-sentiment) | Analyze cryptocurrency market sentiment using Fear & Greed Index, news analysis, and market momen... | jeremylongshore |
 | [analyzing-market-sentiment](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/market-sentiment-analyzer/skills/analyzing-market-sentiment) | Analyze cryptocurrency market sentiment using Fear & Greed Index, news analysis, and market momen... | jeremylongshore |
 | [analyzing-options-flow](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/options-flow-analyzer/skills/analyzing-options-flow) | Track crypto options flow to identify institutional positioning and market sentiment. Use when tr... | jeremylongshore |
@@ -26,6 +27,7 @@
 | [career-changer-translator](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/career-changer-translator) | Translate skills from one industry to another and identify transferable skills for career pivots.... | davila7 |
 | [chrome-extension-developer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/chrome-extension-developer) | Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service worker... | davila7 |
 | [code-communities](https://github.com/athola/claude-night-market/tree/master/plugins/cartograph/skills/code-communities) | Detects architectural clusters and coupling boundaries via community detection on the code graph.... | athola |
+| [community-pulse](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/community-pulse) | Weekly read on Discord community health — joins, active channels, top contributors, themes, and u... | cognyai |
 | [concise-planning](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/concise-planning) | Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic ch... | davila7 |
 | [content-repurposer](https://github.com/OneWave-AI/claude-skills/tree/main/content-repurposer) |  | OneWave-AI |
 | [coreweave-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-common-errors) | Diagnose and fix CoreWeave GPU scheduling, pod, and networking errors. Use when pods are stuck Pe... | jeremylongshore |
@@ -66,6 +68,8 @@
 | [flexport-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-migration-deep-dive) | Execute major migration strategies for Flexport including migrating from legacy freight forwarder... | jeremylongshore |
 | [flexport-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flexport-pack/skills/flexport-migration-deep-dive) | Execute major migration strategies for Flexport including migrating from legacy freight forwarder... | jeremylongshore |
 | [friction-detector](https://github.com/athola/claude-night-market/tree/master/plugins/abstract/skills/friction-detector) | Detect friction signals; graduate patterns into rules. Use for session retrospectives. | athola |
+| [ga4-measurement-plan](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/ga4-measurement-plan) | Build a GA4 measurement plan from a site URL — event taxonomy, parameters, custom dimensions, and... | cognyai |
+| [ga4-monitor](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/ga4-monitor) | Weekly GA4 check — sessions, users, key-event conversions, revenue, channel mix — with week-over-... | cognyai |
 | [generating-trading-signals](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/crypto-signal-generator/skills/generating-trading-signals) | Generate trading signals using technical indicators (RSI, MACD, Bollinger Bands, etc.). Combines ... | jeremylongshore |
 | [generating-trading-signals](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/crypto-signal-generator/skills/generating-trading-signals) | Generate trading signals using technical indicators (RSI, MACD, Bollinger Bands, etc.). Combines ... | jeremylongshore |
 | [glean-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-incident-runbook) | Triage: Is search returning results? Check Glean status page. Trigger: "glean incident runbook", ... | jeremylongshore |
@@ -101,6 +105,7 @@
 | [juliang-qianchuan-official-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/short-video-ads-master/output/sub-skills/juliang-qianchuan-official) | 巨量千川官方方法论视角. 抖音电商核心广告平台官方思路 (并入抖音电商后, 重 ROI / GMV). 调用此 skill 时, 用千川官方框架做投流决策. | swaylq |
 | [keep-expand](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/keep-expand) | Design expansion revenue playbooks — upsell triggers, seat expansion sequences, tier upgrade path... | jeremylongshore |
 | [keep-expand](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/keep-expand) | Design expansion revenue playbooks — upsell triggers, seat expansion sequences, tier upgrade path... | jeremylongshore |
+| [landing-page-review](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/landing-page-review) | CRO review of a landing page with specific conversion recommendations | cognyai |
 | [langfuse-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-common-errors) | Diagnose and fix common Langfuse errors and exceptions. Use when encountering Langfuse errors, de... | jeremylongshore |
 | [langfuse-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/langfuse-pack/skills/langfuse-common-errors) | Diagnose and fix common Langfuse errors and exceptions. Use when encountering Langfuse errors, de... | jeremylongshore |
 | [lawrence-lessig-code-is-law](https://github.com/swaylq/master-skill/tree/main/prototypes/github-unban-master/output/sub-skills/lawrence-lessig-code-is-law) |  | swaylq |
@@ -180,6 +185,7 @@
 | [motion-canvas](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/video/motion-canvas) |  | davila7 |
 | [n8n-code-python](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/n8n/n8n-code-python) | Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syn... | davila7 |
 | [netflows](https://github.com/BrownFineSecurity/iothackbot/tree/master/skills/netflows) | Network flow extractor that analyzes pcap/pcapng files to identify outbound connections with auto... | BrownFineSecurity |
+| [non-commodity-content](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/non-commodity-content) | Interview the user for specific client stories, anecdotes, refusals, and real numbers — then turn... | cognyai |
 | [openevidence-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-ci-integration) | Ci Integration for OpenEvidence. Trigger: "openevidence ci integration". | jeremylongshore |
 | [openevidence-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-ci-integration) | Ci Integration for OpenEvidence. Trigger: "openevidence ci integration". | jeremylongshore |
 | [openevidence-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openevidence-pack/skills/openevidence-common-errors) | Diagnose and fix OpenEvidence common errors. Trigger: "openevidence error", "fix openevidence", "... | jeremylongshore |
@@ -213,6 +219,7 @@
 | [persona-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/persona-pack/skills/persona-cost-tuning) | Optimize Persona verification costs with template selection and caching. Use when working with Pe... | jeremylongshore |
 | [persona-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/persona-pack/skills/persona-cost-tuning) | Optimize Persona verification costs with template selection and caching. Use when working with Pe... | jeremylongshore |
 | [plan-writing](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/plan-writing) | Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when... | davila7 |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/.codebuddy/skills/planning-with-files) |  | OthmanAdi |
 | [podcast-studio](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-studio) | Generate podcast scripts from text content. Use Tone.js and Howler.js for audio mixing. Create in... | OneWave-AI |
 | [powershell-windows](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/powershell-windows) | PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling. | davila7 |
 | [quiz-maker](https://github.com/OneWave-AI/claude-skills/tree/main/quiz-maker) | Create multiple choice, true/false, fill-in-blank, matching quizzes. Auto-generate plausible dist... | OneWave-AI |

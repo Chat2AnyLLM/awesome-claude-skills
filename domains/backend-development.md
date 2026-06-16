@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4533 skills in this domain*
+*4544 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2675 skills
-- [Database Design](#database-design) - 1338 skills
+- [APIs & REST](#apis-rest) - 2678 skills
+- [Database Design](#database-design) - 1346 skills
 - [Request Handling](#request-handling) - 272 skills
 - [Web Frameworks](#web-frameworks) - 180 skills
 - [Authentication](#authentication) - 22 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2675 skills*
+*2678 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -688,6 +688,7 @@
 | [connection-pooling-config](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/16-api-integration/connection-pooling-config) | Configure connection pooling config operations. Auto-activating skill for API Integration. Trigge... | jeremylongshore |
 | [connection-pooling-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/16-api-integration/connection-pooling-config) | Configure connection pooling config operations. Auto-activating skill for API Integration. Trigge... | jeremylongshore |
 | [context7-auto-research](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/context7-auto-research) | Automatically fetch latest library/framework documentation for Claude Code via Context7 API | davila7 |
+| [conversion-debug](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/conversion-debug) | Conversion Tracking Debugger — diagnose discrepancies across GTM, GA4, Google Ads & Meta Pixel wi... | cognyai |
 | [convertapi-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/convertapi-automation) | Automate Convertapi tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [coreweave-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-install-auth) | Configure CoreWeave Kubernetes Service (CKS) access with kubeconfig and API tokens. Use when sett... | jeremylongshore |
 | [coreweave-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/coreweave-pack/skills/coreweave-install-auth) | Configure CoreWeave Kubernetes Service (CKS) access with kubeconfig and API tokens. Use when sett... | jeremylongshore |
@@ -1558,6 +1559,7 @@
 | [memory-kit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/claude-memory-kit/skills/memory-kit) | Persistent context management for Claude Code sessions. Save, load, update, share, and audit sess... | jeremylongshore |
 | [memory-kit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/claude-memory-kit/skills/memory-kit) | Persistent context management for Claude Code sessions. Save, load, update, share, and audit sess... | jeremylongshore |
 | [mermaidjs-v11](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/mermaidjs-v11) | Create diagrams and visualizations using Mermaid.js v11 syntax. Use when generating flowcharts, s... | mrgoonie |
+| [meta-capi](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/meta-capi) | Meta Conversions API (CAPI) Setup Reference — architecture, event types, customer information has... | cognyai |
 | [metabolomics-workbench-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/metabolomics-workbench-database) | Access NIH Metabolomics Workbench via REST API (4,200+ studies). Query metabolites, RefMet nomenc... | davila7 |
 | [microsoft-code-reference](https://github.com/MicrosoftDocs/mcp/tree/main/skills/microsoft-code-reference) | Find working code samples, verify API signatures, and fix Microsoft SDK errors using official doc... | MicrosoftDocs |
 | [migrating-apis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-migration-tool/skills/migrating-apis) | Implement API migrations between versions, platforms, or frameworks with minimal downtime. Use wh... | jeremylongshore |
@@ -2361,6 +2363,7 @@
 | [stepfun-asr](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/stepfun-asr) | Transcribe audio with StepFun's stepaudio-2.5-asr — an SSE endpoint (NOT /v1/audio/transcriptions... | daymade |
 | [string-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/string-database) | Query STRING API for protein-protein interactions (59M proteins, 20B interactions). Network analy... | davila7 |
 | [stripe-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/stripe-integration) | Get paid from day one. Payments, subscriptions, billing portal, webhooks, metered billing, Stripe... | davila7 |
+| [submit-to-agentlaunch](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/submit-to-agentlaunch) | Submit an AI agent to the agentlaunch directory and upvote agents via a public no-auth REST API | cognyai |
 | [supabase-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-common-errors) | Diagnose and fix Supabase errors across PostgREST, PostgreSQL, Auth, Storage, and Realtime. Use w... | jeremylongshore |
 | [supabase-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-common-errors) | Diagnose and fix Supabase errors across PostgREST, PostgreSQL, Auth, Storage, and Realtime. Use w... | jeremylongshore |
 | [supabase-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/supabase-pack/skills/supabase-data-handling) | Implement GDPR/CCPA compliance with Supabase: RLS for data isolation, user deletion via auth.admi... | jeremylongshore |
@@ -2704,7 +2707,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1338 skills*
+*1346 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3009,6 +3012,7 @@
 | [deepgram-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-deploy-integration) | Deploy Deepgram integrations to production environments. Use when deploying to cloud platforms, c... | jeremylongshore |
 | [defining-pentest-scope](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/defining-pentest-scope) | Parse the ROE scope definition, enumerate every in-scope target (hostnames, IPs, CIDRs, URLs, clo... | jeremylongshore |
 | [defining-pentest-scope](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/defining-pentest-scope) | Parse the ROE scope definition, enumerate every in-scope target (hostnames, IPs, CIDRs, URLs, clo... | jeremylongshore |
+| [demand-gen-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/demand-gen-audit) | Google Ads Demand Gen audit — audience strategy, creative format diversity, creative freshness, p... | cognyai |
 | [denario](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/denario) | Multiagent AI system for scientific research assistance that automates research workflows from da... | davila7 |
 | [deploying-machine-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/model-deployment-helper/skills/deploying-machine-learning-models) | Deploy this skill enables AI assistant to deploy machine learning models to production environmen... | jeremylongshore |
 | [deploying-machine-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/model-deployment-helper/skills/deploying-machine-learning-models) | Deploy this skill enables AI assistant to deploy machine learning models to production environmen... | jeremylongshore |
@@ -3074,6 +3078,7 @@
 | [elevenlabs-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-debug-bundle) | Collect ElevenLabs debug evidence for support tickets and troubleshooting. Use when encountering ... | jeremylongshore |
 | [elevenlabs-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-performance-tuning) | Optimize ElevenLabs TTS latency with model selection, streaming, caching, and audio format tuning... | jeremylongshore |
 | [elevenlabs-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-performance-tuning) | Optimize ElevenLabs TTS latency with model selection, streaming, caching, and audio format tuning... | jeremylongshore |
+| [email-report](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/email-report) | Auto-generate the weekly or monthly email performance report in three formats — Slack update, CEO... | cognyai |
 | [email-subject-line-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/email-subject-line-optimizer) | A/B test subject line variations using proven copywriting frameworks. Predict open rates based on... | OneWave-AI |
 | [email-template-generator](https://github.com/OneWave-AI/claude-skills/tree/main/email-template-generator) | Generate professional email templates for various business scenarios including sales outreach, cu... | OneWave-AI |
 | [engineering-features-for-machine-learning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/feature-engineering-toolkit/skills/engineering-features-for-machine-learning) | Execute create, select, and transform features to improve machine learning model performance. Han... | jeremylongshore |
@@ -3201,6 +3206,7 @@
 | [framer-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/framer-pack/skills/framer-deploy-integration) | Deploy Framer integrations to Vercel, Fly.io, and Cloud Run platforms. Use when deploying Framer-... | jeremylongshore |
 | [freshie-inventory](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/database/freshie-inventory-manager/skills/freshie-inventory) | Manage the freshie ecosystem inventory database — a CMDB tracking all plugins, skills, packs, and... | jeremylongshore |
 | [freshie-inventory](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/database/freshie-inventory-manager/skills/freshie-inventory) | Manage the freshie ecosystem inventory database — a CMDB tracking all plugins, skills, packs, and... | jeremylongshore |
+| [ga4-bigquery-schema](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/ga4-bigquery-schema) | GA4 BigQuery Export Schema Reference — complete field reference, nested structures, query pattern... | cognyai |
 | [game-developer](https://github.com/Jeffallan/claude-skills/tree/main/skills/game-developer) | Use when building game systems, implementing Unity/Unreal Engine features, or optimizing game per... | Jeffallan |
 | [game-development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development) | Game development orchestrator. Routes to platform-specific skills based on project needs. | davila7 |
 | [gamma-deploy-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/gamma-pack/skills/gamma-deploy-integration) | Deploy Gamma-integrated applications to production environments. Use when deploying to Vercel, AW... | jeremylongshore |
@@ -3385,6 +3391,7 @@
 | [lindy-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-performance-tuning) | Optimize Lindy AI agent execution speed, reliability, and cost efficiency. Use when agents are sl... | jeremylongshore |
 | [lindy-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-upgrade-migration) | Manage Lindy agent configuration changes, platform updates, and migrations. Use when reconfigurin... | jeremylongshore |
 | [lindy-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/lindy-pack/skills/lindy-upgrade-migration) | Manage Lindy agent configuration changes, platform updates, and migrations. Use when reconfigurin... | jeremylongshore |
+| [linkedin-ads-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/linkedin-ads-audit) | Full LinkedIn Ads account audit — campaign structure, targeting, creative performance, spend effi... | cognyai |
 | [lint-and-validate](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/lint-and-validate) | Automatic quality control, linting, and static analysis procedures. Use after every code modifica... | davila7 |
 | [literature-review](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/literature-review) | Conduct comprehensive, systematic literature reviews using multiple academic databases (PubMed, a... | K-Dense-AI |
 | [literature-review](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/literature-review) | Conduct comprehensive, systematic literature reviews using multiple academic databases (PubMed, a... | davila7 |
@@ -3611,6 +3618,8 @@
 | [php-pro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/php-pro) | Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features... | davila7 |
 | [pinecone](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-pinecone) | Managed vector database for production AI applications. Fully managed, auto-scaling, with hybrid ... | davila7 |
 | [pinecone](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/15-rag/pinecone) | Managed vector database for production AI applications. Fully managed, auto-scaling, with hybrid ... | zechenzhangAGI |
+| [pmax-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/pmax-audit) | Performance Max campaign audit — asset group strength, asset coverage, search themes, audience si... | cognyai |
+| [pmax-launch-kit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/pmax-launch-kit) | Build a complete Performance Max campaign from a brand URL — asset group copy, search themes, aud... | cognyai |
 | [PocketBase Migrations](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/pocketbase/pb-migrations) | Schema migrations and versioning for PocketBase. Use when creating migrations, managing schema ve... | davila7 |
 | [podcast-to-content-suite](https://github.com/OneWave-AI/claude-skills/tree/main/podcast-content-suite) | Transform podcast transcripts into comprehensive content marketing suites including blog posts, s... | OneWave-AI |
 | [podium-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/podium-pack/skills/podium-auth) | Authenticate production Podium integrations and survive the auth-side failures — OAuth2 access-to... | jeremylongshore |
@@ -3718,6 +3727,7 @@
 | [resume-bullet-writer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/resume-bullet-writer) | Transform weak resume bullets into achievement-focused statements with metrics and impact. Use wh... | davila7 |
 | [retellai-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-performance-tuning) | Retell AI performance tuning — AI voice agent and phone call automation. Use when working with Re... | jeremylongshore |
 | [retellai-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-performance-tuning) | Retell AI performance tuning — AI voice agent and phone call automation. Use when working with Re... | jeremylongshore |
+| [revenue-audit](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/revenue-audit) | Audit an email marketing program for revenue leaks — missing flows, dormant high-value subscriber... | cognyai |
 | [risk-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/general-legal-assistant/skills/risk-analysis) | Performs deep clause-by-clause risk scoring across 10 categories with poison pill detection and f... | jeremylongshore |
 | [risk-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/general-legal-assistant/skills/risk-analysis) | Performs deep clause-by-clause risk scoring across 10 categories with poison pill detection and f... | jeremylongshore |
 | [risk-management-specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/risk-management-specialist) | Senior Risk Management specialist for medical device companies implementing ISO 14971 risk manage... | davila7 |
@@ -4026,6 +4036,7 @@
 | [webinar-content-repurposer](https://github.com/OneWave-AI/claude-skills/tree/main/webinar-content-repurposer) | Transform webinar recordings into multiple content assets including blog post series, social medi... | OneWave-AI |
 | [weights-and-biases](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mlops-weights-and-biases) | Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparam... | davila7 |
 | [weights-and-biases](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/13-mlops/weights-and-biases) | Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparam... | zechenzhangAGI |
+| [winback-engine](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/winback-engine) | Find dormant subscribers, segment by historical value, draft personalized winback emails per tier... | cognyai |
 | [Windows Privilege Escalation](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/windows-privilege-escalation) | This skill should be used when the user asks to "escalate privileges on Windows," "find Windows p... | davila7 |
 | [windsurf-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-core-workflow-a) | Execute Windsurf's primary workflow: Cascade Write mode for multi-file agentic coding. Use when b... | jeremylongshore |
 | [windsurf-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/windsurf-pack/skills/windsurf-core-workflow-a) | Execute Windsurf's primary workflow: Cascade Write mode for multi-file agentic coding. Use when b... | jeremylongshore |
