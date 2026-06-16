@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*166 skills in this domain*
+*167 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -49,6 +49,7 @@
 | [content-sanitization](https://github.com/athola/claude-night-market/tree/master/plugins/leyline/skills/content-sanitization) | Provides sanitization guidelines for external content in skills and hooks. Use when loading GitHu... | athola |
 | [contributing-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/17-technical-docs/contributing-guide-creator) | Create contributing guide creator operations. Auto-activating skill for Technical Documentation. ... | jeremylongshore |
 | [contributing-guide-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/17-technical-docs/contributing-guide-creator) | Create contributing guide creator operations. Auto-activating skill for Technical Documentation. ... | jeremylongshore |
+| [cory-doctorow-eff](https://github.com/swaylq/master-skill/tree/main/prototypes/github-unban-master/output/sub-skills/cory-doctorow-eff) |  | swaylq |
 | [crafting-effective-readmes](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/crafting-effective-readmes) | Use when writing or improving README files. Not all READMEs are the same — provides templates and... | davila7 |
 | [cursor-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-upgrade-migration) | Upgrade Cursor versions, migrate from VS Code, and transfer settings between machines. Triggers o... | jeremylongshore |
 | [cursor-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-upgrade-migration) | Upgrade Cursor versions, migrate from VS Code, and transfer settings between machines. Triggers o... | jeremylongshore |

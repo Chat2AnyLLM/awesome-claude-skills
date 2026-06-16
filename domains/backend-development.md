@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4513 skills in this domain*
+*4533 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,10 +11,10 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2665 skills
-- [Database Design](#database-design) - 1332 skills
+- [APIs & REST](#apis-rest) - 2675 skills
+- [Database Design](#database-design) - 1338 skills
 - [Request Handling](#request-handling) - 272 skills
-- [Web Frameworks](#web-frameworks) - 176 skills
+- [Web Frameworks](#web-frameworks) - 180 skills
 - [Authentication](#authentication) - 22 skills
 - [Message Queues](#message-queues) - 19 skills
 - [Microservices](#microservices) - 16 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2665 skills*
+*2675 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -726,6 +726,8 @@
 | [customerio-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-rate-limits) | Implement Customer.io rate limiting and backoff. Use when handling high-volume API calls, impleme... | jeremylongshore |
 | [customerio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-upgrade-migration) | Plan and execute Customer.io SDK upgrades and migrations. Use when upgrading customerio-node vers... | jeremylongshore |
 | [customerio-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-upgrade-migration) | Plan and execute Customer.io SDK upgrades and migrations. Use when upgrading customerio-node vers... | jeremylongshore |
+| [cybersecurity-red-team-master](https://github.com/swaylq/master-skill/tree/main/prototypes/cybersecurity-red-team-master/output) | 红队渗透 / 攻防 — 受授权的红队作业者 + 渗透测试工程师 + 攻击型安全顾问的认知操作系统 (侦察 OSINT / 外网渗透 / 内网 AD 渗透 BloodHound + Kerbero... | swaylq |
+| [data-engineering-master](https://github.com/swaylq/master-skill/tree/main/prototypes/data-engineering-master/output) | 数据工程 — 数据平台从业者的认知操作系统, 覆盖把数据从源系统搬运成可靠 / 可查询 / 可信赖形态供分析 / ML / 数据产品消费的全生命周期 (生成 → 摄取 → 存储 → 转换 → 服... | swaylq |
 | [data-feeds](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-data/data-feeds) | Extract structured data from 40+ websites including Amazon, LinkedIn, Instagram, TikTok, Facebook... | davila7 |
 | [database-lookup](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/database-lookup) | Deterministically query 78 public scientific, biomedical, materials science, regulatory, finance,... | K-Dense-AI |
 | [databases](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/databases) | Work with MongoDB (document database, BSON documents, aggregation pipelines, Atlas cloud) and Pos... | mrgoonie |
@@ -755,6 +757,7 @@
 | [deepgram-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-security-basics) | Apply Deepgram security best practices for API key management and data protection. Use when secur... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 ... | jeremylongshore |
 | [deepgram-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/deepgram-pack/skills/deepgram-upgrade-migration) | Plan and execute Deepgram SDK upgrades and model migrations. Use when upgrading SDK versions (v3 ... | jeremylongshore |
+| [dentistry-implant-master](https://github.com/swaylq/master-skill/tree/main/prototypes/dentistry-implant-master/output) | 口腔种植 (含 单牙/多牙缺失种植 / 全口 All-on-X / 即刻种植 即刻负重 / 上颌窦提升 / 牙槽嵴骨增量 GBR / 软组织移植 / 数字化种植 (CBCT 设计 + 口扫 + ... | swaylq |
 | [designing-apis](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/designing-apis) | Designs REST and GraphQL APIs including endpoints, error handling, versioning, and documentation.... | CloudAI-X |
 | [detecting-command-injection-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/detecting-command-injection-patterns) | Scan a source tree for command-injection vulnerable patterns: shell=True calls in Python subproce... | jeremylongshore |
 | [detecting-command-injection-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/security/penetration-tester/skills/detecting-command-injection-patterns) | Scan a source tree for command-injection vulnerable patterns: shell=True calls in Python subproce... | jeremylongshore |
@@ -1132,6 +1135,7 @@
 | [geoapify-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/geoapify-automation) | Automate Geoapify tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [gget](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/gget) | CLI/Python toolkit for rapid bioinformatics queries. Preferred for quick BLAST searches. Access t... | davila7 |
 | [github-ops](https://github.com/daymade/claude-code-skills/tree/main/github-ops) | Provides comprehensive GitHub operations using gh CLI and GitHub API. Activates when working with... | daymade |
+| [github-unban-master](https://github.com/swaylq/master-skill/tree/main/prototypes/github-unban-master/output) | GitHub 解封 — 账号封禁/限制/恢复的领域操作系统。覆盖：(a) GitHub 官方政策体系 (TOS / 可接受使用政策 / Trust & Safety 执行模式 / 公开申诉路径 ... | swaylq |
 | [glean-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-common-errors) | Diagnose and fix common Glean API errors including indexing failures, search issues, and permissi... | jeremylongshore |
 | [glean-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/glean-pack/skills/glean-common-errors) | Diagnose and fix common Glean API errors including indexing failures, search issues, and permissi... | jeremylongshore |
 | [glean-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-core-workflow-a) | Execute Glean primary workflow: search, chat, and AI-powered answers across enterprise data. Use ... | jeremylongshore |
@@ -1632,6 +1636,7 @@
 | [modal-serverless-gpu](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/09-infrastructure/modal) | Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access wi... | zechenzhangAGI |
 | [model-merging](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-model-merging) | Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use w... | davila7 |
 | [model-merging](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/19-emerging-techniques/model-merging) | Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use w... | zechenzhangAGI |
+| [monetize-agents-master](https://github.com/swaylq/master-skill/tree/main/prototypes/monetize-agents-master/output) | 用 AI agent 赚钱 / agent 商业化 (创业 + 副业 + 咨询 + indie hacker) (Monetizing AI agents — building business... | swaylq |
 | [monitoring-apis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-monitoring-dashboard/skills/monitoring-apis) | Build real-time API monitoring dashboards with metrics, alerts, and health checks. Use when track... | jeremylongshore |
 | [monitoring-apis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-monitoring-dashboard/skills/monitoring-apis) | Build real-time API monitoring dashboards with metrics, alerts, and health checks. Use when track... | jeremylongshore |
 | [moodle-external-api-development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/moodle-external-api-development) | Create custom external web service APIs for Moodle LMS. Use when implementing web services for co... | davila7 |
@@ -1905,6 +1910,7 @@
 | [persona-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/persona-pack/skills/persona-upgrade-migration) | Upgrade Persona API versions and handle breaking changes. Use when working with Persona identity ... | jeremylongshore |
 | [persona-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/persona-pack/skills/persona-upgrade-migration) | Upgrade Persona API versions and handle breaking changes. Use when working with Persona identity ... | jeremylongshore |
 | [personal-tool-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/personal-tool-builder) | Expert in building custom tools that solve your own problems first. The best products often start... | davila7 |
+| [personal-trainer-master](https://github.com/swaylq/master-skill/tree/main/prototypes/personal-trainer-master/output) | 健身私教 — 为客户设计、指导和推进个性化训练方案的专业工艺, 有别于团课教练、物理治疗师或运动队教练: (a) 训练方案设计与周期化 (线性 / 波动 / 板块周期化 Bompa & Haff... | swaylq |
 | [PhantomBuster Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/phantombuster-automation) | Automate lead generation, web scraping, and social media data extraction workflows through Phanto... | ComposioHQ |
 | [plaid-fintech](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plaid-fintech) | Expert patterns for Plaid API integration including Link token flows, transactions sync, identity... | davila7 |
 | [plane](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/plane/skills/plane) | Plane is a team behavior observatory — synthesize Plane API data into observations about how team... | jeremylongshore |
@@ -1991,6 +1997,7 @@
 | [proof-api](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/proof-api) | Build API test suites — endpoint testing, contract testing, load testing for REST/GraphQL/gRPC AP... | jeremylongshore |
 | [protocolsio-integration](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/protocolsio-integration) | Integration with protocols.io API for managing scientific protocols. This skill should be used wh... | K-Dense-AI |
 | [protocolsio-integration](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/protocolsio-integration) | Integration with protocols.io API for managing scientific protocols. This skill should be used wh... | davila7 |
+| [psychotherapy-counseling-master](https://github.com/swaylq/master-skill/tree/main/prototypes/psychotherapy-counseling-master/output) | 心理咨询 / 心理治疗(临床实践者视角 — 接案与评估 / 个案概念化 / 主流流派技术(CBT 与第三浪潮 / 精神动力 / 人本存在 / 家庭系统 / 创伤治疗) / 伦理边界与危机干预 /... | swaylq |
 | [pubchem-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pubchem-database) | Query PubChem via PUG-REST API/PubChemPy (110M+ compounds). Search by name/CID/SMILES, retrieve p... | davila7 |
 | [pubmed-database](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pubmed-database) | Direct REST API access to PubMed. Advanced Boolean/MeSH queries, E-utilities API, batch processin... | davila7 |
 | [pylabrobot](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pylabrobot) | Vendor-agnostic lab automation framework. Use when controlling multiple equipment types (Hamilton... | K-Dense-AI |
@@ -2294,6 +2301,7 @@
 | [snowflake-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/snowflake-pack/skills/snowflake-webhooks-events) | Implement Snowflake event-driven patterns with alerts, notifications, and external functions. Use... | jeremylongshore |
 | [social-publishing](https://github.com/wshobson/agents/tree/main/plugins/social-publishing/skills/social-publishing) | Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pag... | wshobson |
 | [socialclaw](https://github.com/ndesv21/socialclaw/tree/main/.agents/skills/socialclaw) | Use when a user wants social media scheduling and publishing for AI agents on X, LinkedIn, Instag... | ndesv21 |
+| [software-architecture-master](https://github.com/swaylq/master-skill/tree/main/prototypes/software-architecture-master/output) | 软件架构 (含 应用架构 / 系统架构 / 分布式 后端架构 / 前后端 数据流 与 数据模型 设计 / API 边界 / 可扩展性 / 演进式架构 — 不含 硬件架构 / 纯企业架构 / 纯 ... | swaylq |
 | [sora](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/video/sora) | Use when the user asks to generate, remix, poll, list, download, or delete Sora videos via OpenAI... | davila7 |
 | [sorting-parameter-handler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/15-api-development/sorting-parameter-handler) | Manage sorting parameter handler operations. Auto-activating skill for API Development. Triggers ... | jeremylongshore |
 | [sorting-parameter-handler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/15-api-development/sorting-parameter-handler) | Manage sorting parameter handler operations. Auto-activating skill for API Development. Triggers ... | jeremylongshore |
@@ -2331,6 +2339,7 @@
 | [speak-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/speak-pack/skills/speak-upgrade-migration) | Upgrade Speak SDK versions, migrate between language learning platforms, and handle API version c... | jeremylongshore |
 | [spec-miner](https://github.com/Jeffallan/claude-skills/tree/main/skills/spec-miner) | Reverse-engineering specialist that extracts specifications from existing codebases. Use when wor... | Jeffallan |
 | [speech](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/speech) | Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prom... | davila7 |
+| [speech-to-text-master](https://github.com/swaylq/master-skill/tree/main/prototypes/speech-to-text-master/output) | 语音转文字 (ASR) (语音转文字 (ASR / 语音识别 / Speech-to-Text) 应用工程 (从业者视角) — 选型、集成、优化语音转文字能力，尤其面向移动端、低成本、快速识别的... | swaylq |
 | [spine](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/spine) | Backend engineer — APIs, system design, performance, distributed systems, and service scaffolding. | jeremylongshore |
 | [spine](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/spine) | Backend engineer — APIs, system design, performance, distributed systems, and service scaffolding. | jeremylongshore |
 | [spine-api](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/spine-api) | Design and spec an API — endpoints, request/response shapes, error codes, auth pattern, paginatio... | jeremylongshore |
@@ -2500,6 +2509,7 @@
 | [vastai-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-security-basics) | Apply Vast.ai security best practices for API keys and instance access. Use when securing API key... | jeremylongshore |
 | [vastai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-upgrade-migration) | Upgrade Vast.ai CLI, migrate API versions, and handle breaking changes. Use when upgrading vastai... | jeremylongshore |
 | [vastai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/vastai-pack/skills/vastai-upgrade-migration) | Upgrade Vast.ai CLI, migrate API versions, and handle breaking changes. Use when upgrading vastai... | jeremylongshore |
+| [vc-investor-master](https://github.com/swaylq/master-skill/tree/main/prototypes/vc-investor-master/output) | 风险投资人 / 早期投资判断(GP + Principal — Deal sourcing / 尽调 / 估值与 term sheet / 投后服务 / 退出 + LP 关系与 fundrais... | swaylq |
 | [veeva-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-ci-integration) | Veeva Vault ci integration for REST API and clinical operations. Use when working with Veeva Vaul... | jeremylongshore |
 | [veeva-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-ci-integration) | Veeva Vault ci integration for REST API and clinical operations. Use when working with Veeva Vaul... | jeremylongshore |
 | [veeva-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-common-errors) | Veeva Vault common errors for REST API and clinical operations. Use when working with Veeva Vault... | jeremylongshore |
@@ -2694,7 +2704,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1332 skills*
+*1338 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3025,6 +3035,7 @@
 | [devops-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/devops-engineer) | Creates Dockerfiles, configures CI/CD pipelines, writes Kubernetes manifests, and generates Terra... | Jeffallan |
 | [devops-iac-engineer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/devops-iac-engineer) | Implements infrastructure as code using Terraform, Kubernetes, and cloud platforms. Designs scala... | davila7 |
 | [devops-infrastructure](https://github.com/CloudAI-X/claude-workflow-v2/tree/main/skills/devops-infrastructure) | Guides Docker, CI/CD pipelines, deployment strategies, infrastructure as code, and observability ... | CloudAI-X |
+| [devops-sre-master](https://github.com/swaylq/master-skill/tree/main/prototypes/devops-sre-master/output) | DevOps 与站点可靠性工程 (SRE) — 平台 / 基础设施 / 可靠性工程师的认知操作系统, 覆盖软件交付 + 运维全生命周期 (CI/CD 与发布工程 trunk-based + 渐进... | swaylq |
 | [diagrammer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/diagrammer) | Render clean blueprint-style SVG diagrams from JSON specs. Use when users ask to draw, sketch, or... | davila7 |
 | [difficult-workplace-conversations](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/difficult-workplace-conversations) | Structured approach to workplace conflicts, performance discussions, and challenging feedback usi... | davila7 |
 | [distributed-tracing](https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/distributed-tracing) | Implement distributed tracing with Jaeger and Tempo to track requests across microservices and id... | wshobson |
@@ -3067,6 +3078,7 @@
 | [email-template-generator](https://github.com/OneWave-AI/claude-skills/tree/main/email-template-generator) | Generate professional email templates for various business scenarios including sales outreach, cu... | OneWave-AI |
 | [engineering-features-for-machine-learning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/feature-engineering-toolkit/skills/engineering-features-for-machine-learning) | Execute create, select, and transform features to improve machine learning model performance. Han... | jeremylongshore |
 | [engineering-features-for-machine-learning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/feature-engineering-toolkit/skills/engineering-features-for-machine-learning) | Execute create, select, and transform features to improve machine learning model performance. Han... | jeremylongshore |
+| [enterprise-b2b-sales-master](https://github.com/swaylq/master-skill/tree/main/prototypes/enterprise-b2b-sales-master/output) | B2B 大客户销售 (B2B 大客户销售 / 企业级复杂销售 (Enterprise B2B Sales / Complex Selling) — 面向企业客户的高价值、长周期、多干系人复杂销售... | swaylq |
 | [error-tracking](https://github.com/diet103/claude-code-infrastructure-showcase/tree/main/.claude/skills/error-tracking) | Add Sentry v8 error tracking and performance monitoring to your project services. Use this skill ... | diet103 |
 | [Ethical Hacking Methodology](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/security/ethical-hacking-methodology) | This skill should be used when the user asks to "learn ethical hacking", "understand penetration ... | davila7 |
 | [evaluating-machine-learning-models](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/model-evaluation-suite/skills/evaluating-machine-learning-models) | Build this skill allows AI assistant to evaluate machine learning models using a comprehensive su... | jeremylongshore |
@@ -3290,6 +3302,7 @@
 | [huggingface-tokenizers](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/tokenization-huggingface-tokenizers) | Fast tokenizers optimized for research and production. Rust-based implementation tokenizes 1GB in... | davila7 |
 | [huggingface-tokenizers](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/02-tokenization/huggingface-tokenizers) | Fast tokenizers optimized for research and production. Rust-based implementation tokenizes 1GB in... | zechenzhangAGI |
 | [huggingface-vision-trainer](https://github.com/huggingface/skills/tree/main/skills/huggingface-vision-trainer) | Trains and fine-tunes vision models for object detection (D-FINE, RT-DETR v2, DETR, YOLOS), image... | huggingface |
+| [humanize-chinese](https://github.com/swaylq/humanize-chinese/tree/main) | Detect and humanize AI-generated Chinese text. 20+ rule detection categories plus statistical fea... | swaylq |
 | [hundred-million-offers](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-hundred-million-offers) | Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, a... | jeremylongshore |
 | [hundred-million-offers](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-hundred-million-offers) | Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, a... | jeremylongshore |
 | [hybrid-cloud-networking](https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/hybrid-cloud-networking) | Configure secure, high-performance connectivity between on-premises infrastructure and cloud plat... | wshobson |
@@ -3586,6 +3599,7 @@
 | [performing-security-code-review](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/examples/security-agent/skills/performing-security-code-review) | Execute this skill enables AI assistant to conduct a security-focused code review using the secur... | jeremylongshore |
 | [performing-security-testing](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/security-test-scanner/skills/performing-security-testing) | Test automate security vulnerability testing covering OWASP Top 10, SQL injection, XSS, CSRF, and... | jeremylongshore |
 | [performing-security-testing](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/security-test-scanner/skills/performing-security-testing) | Test automate security vulnerability testing covering OWASP Top 10, SQL injection, XSS, CSRF, and... | jeremylongshore |
+| [perfumery-master](https://github.com/swaylq/master-skill/tree/main/prototypes/perfumery-master/output) | 调香师与香水 (调香师 / 香水 (Perfumery & Fragrance) — 香水创作与香气调配的职业认知操作系统，从业者/调香师/评香师/学习者视角。覆盖: (a) 第一性张力 — c... | swaylq |
 | [perplexity-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-debug-bundle) | Collect Perplexity debug evidence for support tickets and troubleshooting. Use when encountering ... | jeremylongshore |
 | [perplexity-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/perplexity-pack/skills/perplexity-debug-bundle) | Collect Perplexity debug evidence for support tickets and troubleshooting. Use when encountering ... | jeremylongshore |
 | [persona-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/persona-pack/skills/persona-core-workflow-b) | Work with Persona verification types: government ID, selfie, database checks. Use when implementi... | jeremylongshore |
@@ -3813,6 +3827,7 @@
 | [shopify-migration-deep-dive](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-migration-deep-dive) | Migrate e-commerce data to Shopify using bulk operations, product imports, and the strangler fig ... | jeremylongshore |
 | [shopify-theme-performance](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-theme-performance) | Optimize Shopify theme performance for Core Web Vitals (LCP, CLS, INP). Use when diagnosing slow ... | jeremylongshore |
 | [shopify-theme-performance](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-theme-performance) | Optimize Shopify theme performance for Core Web Vitals (LCP, CLS, INP). Use when diagnosing slow ... | jeremylongshore |
+| [short-video-ads-master](https://github.com/swaylq/master-skill/tree/main/prototypes/short-video-ads-master/output) | 短视频投流 (short-video paid advertising (China platforms)) Master OS — automated mastery of short-vid... | swaylq |
 | [signup-flow-cro](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/signup-flow-cro) | When the user wants to optimize signup, registration, account creation, or trial activation flows... | davila7 |
 | [simpo-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-simpo) | Simple Preference Optimization for LLM alignment. Reference-free alternative to DPO with better p... | davila7 |
 | [simpo-training](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/06-post-training/simpo) | Simple Preference Optimization for LLM alignment. Reference-free alternative to DPO with better p... | zechenzhangAGI |
@@ -3949,6 +3964,7 @@
 | [tracking-model-versions](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/model-versioning-tracker/skills/tracking-model-versions) | Build this skill enables AI assistant to track and manage ai/ml model versions using the model-ve... | jeremylongshore |
 | [tracking-regression-tests](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/regression-test-tracker/skills/tracking-regression-tests) | Track and manage regression test suites across releases. Use when performing specialized testing.... | jeremylongshore |
 | [tracking-regression-tests](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/regression-test-tracker/skills/tracking-regression-tests) | Track and manage regression test suites across releases. Use when performing specialized testing.... | jeremylongshore |
+| [traditional-chinese-medicine-master](https://github.com/swaylq/master-skill/tree/main/prototypes/traditional-chinese-medicine-master/output) | 中医诊疗 — 中医临床医师的认知操作系统 (经典理论 阴阳五行脏腑气血经络六经卫气营血三焦 + 四诊八纲 + 治法 + 方剂学 经方时方 + 中药学 四气五味归经炮制 + 针灸学 经络穴位手法灸... | swaylq |
 | [train-sentence-transformers](https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers) | Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi-encoder; dense o... | huggingface |
 | [transcript-fixer](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/transcript-fixer) | Corrects speech-to-text transcription errors using dictionary rules and AI-powered analysis. Buil... | daymade |
 | [transformer-lens-interpretability](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-transformer-lens) | Provides guidance for mechanistic interpretability research using TransformerLens to inspect and ... | davila7 |
@@ -4312,7 +4328,7 @@
 
 <a name="web-frameworks"></a>
 ## Web Frameworks
-*176 skills*
+*180 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4344,6 +4360,7 @@
 | [canva-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/canva-pack/skills/canva-policy-guardrails) | Implement Canva Connect API lint rules, policy enforcement, and automated guardrails. Use when se... | jeremylongshore |
 | [cellxgene-census](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/cellxgene-census) | Query the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial trans... | K-Dense-AI |
 | [cellxgene-census](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/cellxgene-census) | Query CZ CELLxGENE Census (61M+ cells). Filter by cell type/tissue/disease, retrieve expression d... | davila7 |
+| [ceo-master](https://github.com/swaylq/master-skill/tree/main/prototypes/ceo-master/output) | CEO (Chief Executive Officer) — 一家公司「最高操作员」的工艺, 与泛泛「领导力 / 管理学」不同: (a) 设定战略与凝结愿景 (Drucker 的「企业的经营理... | swaylq |
 | [clade-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/claude-pack/skills/clade-reference-architecture) | Build Claude Code plugins — skills, agents, MCP servers, hooks, and slash commands. Use when work... | jeremylongshore |
 | [clade-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/claude-pack/skills/clade-reference-architecture) | Build Claude Code plugins — skills, agents, MCP servers, hooks, and slash commands. Use when work... | jeremylongshore |
 | [claude-automation-recommender](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup/skills/claude-automation-recommender) | Analyze a codebase and recommend Claude Code automations (hooks, subagents, skills, plugins, MCP ... | anthropics |
@@ -4355,6 +4372,7 @@
 | [clickhouse-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-prod-checklist) | Production readiness checklist for ClickHouse — server tuning, backup, monitoring, and deployment... | jeremylongshore |
 | [clickhouse-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-rate-limits) | Configure ClickHouse query concurrency, memory quotas, and connection limits. Use when hitting "t... | jeremylongshore |
 | [clickhouse-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clickhouse-pack/skills/clickhouse-rate-limits) | Configure ClickHouse query concurrency, memory quotas, and connection limits. Use when hitting "t... | jeremylongshore |
+| [clinical-diagnostic-reasoning-master](https://github.com/swaylq/master-skill/tree/main/prototypes/clinical-diagnostic-reasoning-master/output) | 临床诊断思维 (临床诊断思维 / 临床推理 (Clinical Diagnostic Reasoning) — 医生『怎么想病』的元学科:从症状/体征/检查到诊断结论的认知操作系统,从业者(临床... | swaylq |
 | [cron-job-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/06-backend-dev/cron-job-scheduler) | Manage cron job scheduler operations. Auto-activating skill for Backend Development. Triggers on:... | jeremylongshore |
 | [cron-job-scheduler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/06-backend-dev/cron-job-scheduler) | Manage cron job scheduler operations. Auto-activating skill for Backend Development. Triggers on:... | jeremylongshore |
 | [design-sprint](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/wondelai-design-sprint) | Run a structured 5-day process to prototype, test, and validate product ideas with real users. Us... | jeremylongshore |
@@ -4439,6 +4457,7 @@
 | [PocketBase Deploy](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/pocketbase/pb-deploy) | Production deployment for PocketBase. Use when deploying PocketBase to a server, setting up Docke... | davila7 |
 | [polars](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/polars) | High-performance DataFrame library for Python ETL, analytics, and pandas migration. Use for expre... | K-Dense-AI |
 | [polars](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/polars) | Fast DataFrame library (Apache Arrow). Select, filter, group_by, joins, lazy evaluation, CSV/Parq... | davila7 |
+| [product-marketing-master](https://github.com/swaylq/master-skill/tree/main/prototypes/product-marketing-master/output) | 产品营销 (PMM, Product Marketing) — 拥有「产品如何被定位 / 表达 / 发布 / 卖进市场」的从业者认知操作系统: 是产品 / 销售 / 市场 / 客户之间的连接组织... | swaylq |
 | [prompt-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/prompt-engineer) | Writes, refactors, and evaluates prompts for LLMs — generating optimized prompt templates, struct... | Jeffallan |
 | [pydeseq2](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pydeseq2) | Differential gene expression analysis for bulk RNA-seq with PyDESeq2, including formulaic designs... | K-Dense-AI |
 | [pydeseq2](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pydeseq2) | Differential gene expression analysis (Python DESeq2). Identify DE genes from bulk RNA-seq counts... | davila7 |
@@ -4456,6 +4475,7 @@
 | [salesforce-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/salesforce-pack/skills/salesforce-policy-guardrails) | Implement Salesforce lint rules, SOQL injection prevention, and API usage guardrails. Use when en... | jeremylongshore |
 | [salesforce-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/salesforce-pack/skills/salesforce-policy-guardrails) | Implement Salesforce lint rules, SOQL injection prevention, and API usage guardrails. Use when en... | jeremylongshore |
 | [scanpy](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scanpy) | Standard single-cell RNA-seq analysis pipeline. Use for QC, normalization, dimensionality reducti... | K-Dense-AI |
+| [scriptwriting-master](https://github.com/swaylq/master-skill/tree/main/prototypes/scriptwriting-master/output) | 影视编剧 (Scriptwriting / Screenwriting) — 为电影 / 电视 / 流媒体剧集写戏剧蓝本的从业者认知操作系统: 决定「讲什么故事、人物是谁为何转变、场景如何被戏剧... | swaylq |
 | [scvi-tools](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scvi-tools) | Deep generative models for single-cell omics. Use when you need probabilistic batch correction (s... | K-Dense-AI |
 | [scvi-tools](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/scvi-tools) | This skill should be used when working with single-cell omics data analysis using scvi-tools, inc... | davila7 |
 | [senior-backend](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-backend) | Comprehensive backend development skill for building scalable backend systems using NodeJS, Expre... | davila7 |

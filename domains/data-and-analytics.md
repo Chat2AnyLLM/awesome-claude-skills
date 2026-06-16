@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*802 skills in this domain*
+*806 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 521 skills
-- [Analytics & Queries](#analytics-queries) - 218 skills
+- [Data Pipelines](#data-pipelines) - 524 skills
+- [Analytics & Queries](#analytics-queries) - 219 skills
 - [Data Warehousing](#data-warehousing) - 43 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
@@ -20,7 +20,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*521 skills*
+*524 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -324,6 +324,7 @@
 | [juicebox-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-data-handling) | Juicebox data privacy and GDPR. Trigger: "juicebox data privacy", "juicebox gdpr". | jeremylongshore |
 | [juicebox-observability](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-observability) | Set up Juicebox monitoring. Trigger: "juicebox monitoring", "juicebox metrics". | jeremylongshore |
 | [juicebox-observability](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/juicebox-pack/skills/juicebox-observability) | Set up Juicebox monitoring. Trigger: "juicebox monitoring", "juicebox metrics". | jeremylongshore |
+| [k12-sports-training-master](https://github.com/swaylq/master-skill/tree/main/prototypes/k12-sports-training-master/output) | K12 体育培训 (K12 / 青少年体育培训 (从业者视角) — 面向 3-18 岁青少年的校外体育培训生意，政策改革驱动的高增长赛道。覆盖: (a) 业态分层 — 少儿体适能 (3-12 岁... | swaylq |
 | [kafka-stream-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/11-data-pipelines/kafka-stream-processor) | Process kafka stream processor operations. Auto-activating skill for Data Pipelines. Triggers on:... | jeremylongshore |
 | [kafka-stream-processor](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/kafka-stream-processor) | Process kafka stream processor operations. Auto-activating skill for Data Pipelines. Triggers on:... | jeremylongshore |
 | [klaviyo-core-workflow-a](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/klaviyo-pack/skills/klaviyo-core-workflow-a) | Execute Klaviyo primary workflow: profiles, lists, and subscriptions. Use when creating/updating ... | jeremylongshore |
@@ -451,7 +452,9 @@
 | [pytorch-fsdp](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-fsdp) | Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, ... | davila7 |
 | [pytorch-lightning](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pytorch-lightning) | Deep learning framework (PyTorch Lightning / lightning package). Organize PyTorch code into Light... | K-Dense-AI |
 | [qa-expert](https://github.com/daymade/claude-code-skills/tree/main/qa-expert) | This skill should be used when establishing comprehensive QA testing processes for any software p... | daymade |
+| [qiangua-data-driven-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/xiaohongshu-ops-master/output/sub-skills/qiangua-data-driven) | 千瓜数据创始团队视角. 数据驱动派代表方法论 + 工具派. 调用此 skill 时, 用千瓜的认知框架做小红书数据 / 选题 / 投放决策. | swaylq |
 | [quality-gate](https://github.com/athola/claude-night-market/tree/master/plugins/egregore/skills/quality-gate) | Orchestrates the QUALITY pipeline stage for egregore work items, running code review, unbloat, an... | athola |
+| [rand-fishkin-moz-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/seo-master/output/sub-skills/rand-fishkin-moz) | Rand Fishkin (Moz 创始人 + SparkToro) 视角. SEO 长期主义 + 跨平台视野 + 受众洞察派. 调用此 skill 时, 用 Rand 框架做战略级 SEO 决策. | swaylq |
 | [ray-data](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/05-data-processing/ray-data) | Scalable data processing for ML workloads. Streaming execution across CPU/GPU, supports Parquet/C... | zechenzhangAGI |
 | [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect/tree/main) | Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrato... | mturac |
 | [recsys-pipeline-architect](https://github.com/wshobson/agents/tree/main/plugins/machine-learning-ops/skills/recsys-pipeline-architect) | Design composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator... | wshobson |
@@ -548,7 +551,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*218 skills*
+*219 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -677,6 +680,7 @@
 | [lumen-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/lumen-recon) | Analytics reconnaissance — scan existing event tracking, metric definitions, dashboards, and anal... | jeremylongshore |
 | [lumen-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/lumen-recon) | Analytics reconnaissance — scan existing event tracking, metric definitions, dashboards, and anal... | jeremylongshore |
 | [MailerLite Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mailerlite-automation) | Automate email marketing workflows including subscriber management, campaign analytics, group seg... | ComposioHQ |
+| [management-consulting-master](https://github.com/swaylq/master-skill/tree/main/prototypes/management-consulting-master/output) | 管理咨询 (管理咨询 (Management Consulting) — 战略与管理咨询的职业认知操作系统，从业者/咨询顾问/想入行者/采购咨询服务的客户视角。覆盖: (a) 第一性张力 — 假... | swaylq |
 | [market-sizing](https://github.com/OneWave-AI/claude-skills/tree/main/market-sizing) | TAM/SAM/SOM calculator with deep market research. Produces comprehensive market-sizing.md with to... | OneWave-AI |
 | [matchms](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/matchms) | Mass spectrometry analysis. Process mzML/MGF/MSP, spectral similarity (cosine, modified cosine), ... | davila7 |
 | [matlab](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/matlab) | MATLAB and GNU Octave numerical computing for matrix operations, data analysis, visualization, an... | K-Dense-AI |

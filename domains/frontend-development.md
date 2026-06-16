@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*569 skills in this domain*
+*573 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -197,6 +197,7 @@
 | [figma-implement-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma-implement-design) | Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP wor... | davila7 |
 | [figma-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/figma-pack/skills/figma-reference-architecture) | Reference architecture for production Figma API integrations. Use when designing a new Figma inte... | jeremylongshore |
 | [figma-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/figma-pack/skills/figma-reference-architecture) | Reference architecture for production Figma API integrations. Use when designing a new Figma inte... | jeremylongshore |
+| [figma-to-psd-master](https://github.com/swaylq/master-skill/tree/main/prototypes/figma-to-psd-master/output) | Figma 转 Photoshop (PSD) (Figma → Photoshop (PSD) 设计稿转换 (从业者视角) — 把 Figma 设计文件高保真转换为 Photoshop 分层 ... | swaylq |
 | [finding-arbitrage-opportunities](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/arbitrage-opportunity-finder/skills/finding-arbitrage-opportunities) | Detect profitable arbitrage opportunities across CEX, DEX, and cross-chain markets in real-time. ... | jeremylongshore |
 | [finding-arbitrage-opportunities](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/arbitrage-opportunity-finder/skills/finding-arbitrage-opportunities) | Detect profitable arbitrage opportunities across CEX, DEX, and cross-chain markets in real-time. ... | jeremylongshore |
 | [fingerprinting-server-software](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/security/penetration-tester/skills/fingerprinting-server-software) | Identify the server software, framework, and component versions a target is running from its HTTP... | jeremylongshore |
@@ -228,6 +229,7 @@
 | [frontend-to-backend-requirements](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/frontend-to-backend-requirements) | Document frontend data needs for backend developers. Use when frontend needs to communicate API r... | davila7 |
 | [full-codebase-migrator](https://github.com/OneWave-AI/claude-skills/tree/main/full-codebase-migrator) | Uses 1M context window to ingest an entire codebase and output a file-by-file migration plan. Sup... | OneWave-AI |
 | [fullstack-guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/fullstack-guardian) | Builds security-focused full-stack web applications by implementing integrated frontend and backe... | Jeffallan |
+| [game-design-master](https://github.com/swaylq/master-skill/tree/main/prototypes/game-design-master/output) | 游戏设计 (Game Design) — 设计游戏的规则 / 系统 / 机制 / 体验 的从业者认知操作系统 (以电子游戏为主, 含桌游 / 卡牌 / 棋盘游戏): 决定「玩家做什么、为什么有意... | swaylq |
 | [glean-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/glean-pack/skills/glean-security-basics) | Token security: Indexing tokens have write access -- never expose in frontend. Trigger: "glean se... | jeremylongshore |
 | [glean-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/glean-pack/skills/glean-security-basics) | Token security: Indexing tokens have write access -- never expose in frontend. Trigger: "glean se... | jeremylongshore |
 | [grammarly-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/grammarly-pack/skills/grammarly-reference-architecture) | Implement Grammarly reference architecture with best-practice project layout. Use when designing ... | jeremylongshore |
@@ -249,6 +251,7 @@
 | [image-optimization-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/image-optimization-helper) | Configure with image optimization helper operations. Auto-activating skill for Frontend Developme... | jeremylongshore |
 | [image-optimization-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/image-optimization-helper) | Configure with image optimization helper operations. Auto-activating skill for Frontend Developme... | jeremylongshore |
 | [imaging-data-commons](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/imaging-data-commons) | Query and download public cancer imaging data from NCI Imaging Data Commons using idc-index. Use ... | K-Dense-AI |
+| [independent-developer-micro-saas-master](https://github.com/swaylq/master-skill/tree/main/prototypes/independent-developer-micro-saas-master/output) | 独立开发者与微型 SaaS — 单人或极小团队 (≤3 人) 构建可持续订阅收入的软件产品商业, 有别于自由职业/咨询、企业级 SaaS 和开源维护: (a) 产品发现与验证 (自己的痒 vs ... | swaylq |
 | [infographic-item-creator](https://github.com/antvis/Infographic/tree/main/skills/infographic-item-creator) | Generate or update infographic Item components for this repo (TypeScript/TSX in src/designs/items... | antvis |
 | [infographic-structure-creator](https://github.com/antvis/Infographic/tree/main/skills/infographic-structure-creator) | Generate or update infographic Structure components for this repo (TypeScript/TSX in src/designs/... | antvis |
 | [infographic-syntax-creator](https://github.com/antvis/Infographic/tree/main/skills/infographic-syntax-creator) | Generate AntV Infographic syntax only. Use when asked to turn notes, outlines, reports, or other ... | antvis |
@@ -560,6 +563,7 @@
 | [web-crawling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/cli-power-skills/skills/web-crawling) | Use when scraping web pages, automating browser interactions, crawling sites for content, or extr... | jeremylongshore |
 | [web-frameworks](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-frameworks) | Build modern full-stack web applications with Next.js (App Router, Server Components, RSC, PPR, S... | mrgoonie |
 | [web-games](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/web-games) | Web browser game development principles. Framework selection, WebGPU, optimization, PWA. | davila7 |
+| [web-online-exhibition-master](https://github.com/swaylq/master-skill/tree/main/prototypes/web-online-exhibition-master/output) | Web 线上展览开发 (虚拟展厅) (Web 线上展览 / 虚拟展厅开发 (从业者/工程视角) — 用 web 技术开发线上展览、虚拟展厅、云展会、数字展馆，覆盖 3D 空间、全景漫游、WebX... | swaylq |
 | [web-testing](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/web-testing) | Web testing with Playwright, Vitest, k6. E2E/unit/integration/load/security/visual/a11y testing. ... | mrgoonie |
 | [web-typography](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/design/wondelai-web-typography) | Select, pair, and implement typefaces for web projects. Use when the user mentions "font pairing"... | jeremylongshore |
 | [web-typography](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/design/wondelai-web-typography) | Select, pair, and implement typefaces for web projects. Use when the user mentions "font pairing"... | jeremylongshore |
