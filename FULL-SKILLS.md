@@ -27,10 +27,10 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 802 skills
+- [AI & LLM](#ai-and-llm) - 803 skills
 - [Tools & Utilities](#tools-and-utilities) - 636 skills
 - [Frontend Development](#frontend-development) - 573 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 570 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 571 skills
 - [Machine Learning](#machine-learning) - 374 skills
   - [Model Training](#model-training) - 246 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
@@ -6406,7 +6406,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*802 skills in this domain*
+*803 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6595,6 +6595,7 @@
 | [cross-conversation-project-manager](https://github.com/OneWave-AI/claude-skills/tree/main/cross-conversation-project-manager) | Maintain project state across MULTIPLE conversations over days/weeks. Track tasks, decisions, blockers, resources. Au... | OneWave-AI |
 | [crossing-the-chasm](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-crossing-the-chasm) | Navigate the technology adoption lifecycle from early adopters to mainstream market. Use when the user mentions "cros... | jeremylongshore |
 | [crossing-the-chasm](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-crossing-the-chasm) | Navigate the technology adoption lifecycle from early adopters to mainstream market. Use when the user mentions "cros... | jeremylongshore |
+| [ctop](https://github.com/aakashadesara/ctop/tree/main/skills/ctop) | Inspect, monitor, and control running AI coding agent sessions across terminals via the `ctop` CLI. Use when the user... | aakashadesara |
 | [cursor-advanced-composer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-advanced-composer) | Advanced Cursor Composer techniques: agent mode, parallel agents, complex refactoring, and multi-step orchestration. ... | jeremylongshore |
 | [cursor-advanced-composer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-advanced-composer) | Advanced Cursor Composer techniques: agent mode, parallel agents, complex refactoring, and multi-step orchestration. ... | jeremylongshore |
 | [cursor-ai-chat](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-ai-chat) | Master Cursor AI Chat with @-mentions, inline edit, and conversation patterns. Triggers on "cursor chat", "cursor ai ... | jeremylongshore |
@@ -8441,7 +8442,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*570 skills in this domain*
+*571 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8560,6 +8561,7 @@
 | [cursor-rules-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-rules-config) | Configure Cursor project rules using .cursor/rules/*.mdc files and legacy .cursorrules. Triggers on "cursorrules", ".... | jeremylongshore |
 | [cursor-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-team-setup) | Set up Cursor for teams: plan selection, member management, shared rules, admin dashboard, and onboarding. Triggers o... | jeremylongshore |
 | [cursor-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-team-setup) | Set up Cursor for teams: plan selection, member management, shared rules, admin dashboard, and onboarding. Triggers o... | jeremylongshore |
+| [custom-review](https://github.com/baiyanmo/claude-code-multi-model-review/tree/master) | 多模型代码审查。调用用户配置的多个外部模型（DeepSeek、豆包、千问等）同时审查当前 git diff，合成综合报告。触发词：审查代码、review、审代码、多模型审查、custom-review、帮我看看代码、检查改动。 | baiyanmo |
 | [customer-panel-of-experts](https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts) | Build a panel of your real buyer personas (from a deep scan of any tools you allow it to connect to) and have them de... | OneWave-AI |
 | [customerio-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-cost-tuning) | Optimize Customer.io costs and usage efficiency. Use when reducing profile count, cleaning inactive users, deduplicat... | jeremylongshore |
 | [customerio-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-cost-tuning) | Optimize Customer.io costs and usage efficiency. Use when reducing profile count, cleaning inactive users, deduplicat... | jeremylongshore |

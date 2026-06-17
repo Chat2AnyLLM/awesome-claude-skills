@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*802 skills in this domain*
+*803 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -196,6 +196,7 @@
 | [cross-conversation-project-manager](https://github.com/OneWave-AI/claude-skills/tree/main/cross-conversation-project-manager) | Maintain project state across MULTIPLE conversations over days/weeks. Track tasks, decisions, blo... | OneWave-AI |
 | [crossing-the-chasm](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-crossing-the-chasm) | Navigate the technology adoption lifecycle from early adopters to mainstream market. Use when the... | jeremylongshore |
 | [crossing-the-chasm](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-crossing-the-chasm) | Navigate the technology adoption lifecycle from early adopters to mainstream market. Use when the... | jeremylongshore |
+| [ctop](https://github.com/aakashadesara/ctop/tree/main/skills/ctop) | Inspect, monitor, and control running AI coding agent sessions across terminals via the `ctop` CL... | aakashadesara |
 | [cursor-advanced-composer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-advanced-composer) | Advanced Cursor Composer techniques: agent mode, parallel agents, complex refactoring, and multi-... | jeremylongshore |
 | [cursor-advanced-composer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-advanced-composer) | Advanced Cursor Composer techniques: agent mode, parallel agents, complex refactoring, and multi-... | jeremylongshore |
 | [cursor-ai-chat](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-ai-chat) | Master Cursor AI Chat with @-mentions, inline edit, and conversation patterns. Triggers on "curso... | jeremylongshore |

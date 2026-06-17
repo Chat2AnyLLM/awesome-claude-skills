@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*570 skills in this domain*
+*571 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -126,6 +126,7 @@
 | [cursor-rules-config](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-rules-config) | Configure Cursor project rules using .cursor/rules/*.mdc files and legacy .cursorrules. Triggers ... | jeremylongshore |
 | [cursor-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-team-setup) | Set up Cursor for teams: plan selection, member management, shared rules, admin dashboard, and on... | jeremylongshore |
 | [cursor-team-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-team-setup) | Set up Cursor for teams: plan selection, member management, shared rules, admin dashboard, and on... | jeremylongshore |
+| [custom-review](https://github.com/baiyanmo/claude-code-multi-model-review/tree/master) | 多模型代码审查。调用用户配置的多个外部模型（DeepSeek、豆包、千问等）同时审查当前 git diff，合成综合报告。触发词：审查代码、review、审代码、多模型审查、custom-rev... | baiyanmo |
 | [customer-panel-of-experts](https://github.com/OneWave-AI/claude-skills/tree/main/customer-panel-of-experts) | Build a panel of your real buyer personas (from a deep scan of any tools you allow it to connect ... | OneWave-AI |
 | [customerio-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-cost-tuning) | Optimize Customer.io costs and usage efficiency. Use when reducing profile count, cleaning inacti... | jeremylongshore |
 | [customerio-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/customerio-pack/skills/customerio-cost-tuning) | Optimize Customer.io costs and usage efficiency. Use when reducing profile count, cleaning inacti... | jeremylongshore |
