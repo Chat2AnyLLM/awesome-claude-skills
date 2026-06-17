@@ -2,9 +2,9 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4555 skills
-  - [APIs & REST](#apis-and-rest) - 2678 skills
-  - [Database Design](#database-design) - 1347 skills
+- [Backend Development](#backend-development) - 4558 skills
+  - [APIs & REST](#apis-and-rest) - 2679 skills
+  - [Database Design](#database-design) - 1349 skills
   - [Request Handling](#request-handling) - 278 skills
   - [Web Frameworks](#web-frameworks) - 181 skills
   - [Authentication](#authentication) - 23 skills
@@ -27,8 +27,8 @@
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 803 skills
-- [Tools & Utilities](#tools-and-utilities) - 636 skills
+- [AI & LLM](#ai-and-llm) - 804 skills
+- [Tools & Utilities](#tools-and-utilities) - 637 skills
 - [Frontend Development](#frontend-development) - 575 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 571 skills
 - [Machine Learning](#machine-learning) - 374 skills
@@ -37,7 +37,7 @@
   - [Model Evaluation](#model-evaluation) - 23 skills
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 12 skills
-- [Testing & Quality](#testing-and-quality) - 371 skills
+- [Testing & Quality](#testing-and-quality) - 372 skills
 - [Security](#security) - 285 skills
 - [Uncategorized](#uncategorized) - 265 skills
 - [Documentation](#documentation) - 167 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4555 skills in this domain*
+*4558 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2678 skills*
+*2679 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1671,6 +1671,7 @@
 | [monitoring-apis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-monitoring-dashboard/skills/monitoring-apis) | Build real-time API monitoring dashboards with metrics, alerts, and health checks. Use when tracking API health and p... | jeremylongshore |
 | [moodle-external-api-development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/moodle-external-api-development) | Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, use... | davila7 |
 | [n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making ... | czlonkowski |
+| [n8n-error-handling](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-error-handling) | Wire n8n error handling so failures are loud, structured, and recoverable. Use when building any webhook/API workflow... | czlonkowski |
 | [n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) | Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow s... | czlonkowski |
 | [navan-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-ci-integration) | Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health checks, or generate... | jeremylongshore |
 | [navan-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/navan-pack/skills/navan-ci-integration) | Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health checks, or generate... | jeremylongshore |
@@ -2735,7 +2736,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1347 skills*
+*1349 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3493,6 +3494,8 @@
 | [monitoring-error-rates](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/error-rate-monitor/skills/monitoring-error-rates) | Monitor and analyze application error rates to improve reliability. Use when tracking errors in applications includin... | jeremylongshore |
 | [monitoring-error-rates](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/error-rate-monitor/skills/monitoring-error-rates) | Monitor and analyze application error rates to improve reliability. Use when tracking errors in applications includin... | jeremylongshore |
 | [monitoring-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/monitoring-expert) | Configures monitoring systems, implements structured logging pipelines, creates Prometheus/Grafana dashboards, define... | Jeffallan |
+| [n8n-agents](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-agents) | Design n8n AI agents the right way. Use when building or editing any @n8n/n8n-nodes-langchain.* AI node — an AI Agent... | czlonkowski |
+| [n8n-binary-and-data](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-binary-and-data) | Handle files and binary data in n8n correctly. Use when working with files, images, PDFs, attachments, uploads or dow... | czlonkowski |
 | [n8n-mcp-tools-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert) | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, access... | czlonkowski |
 | [n8n-mcp-tools-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert) | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, access... | davila7 |
 | [nanogpt](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-nanogpt) | Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWebText. Clean, hackable code for learni... | davila7 |
@@ -6418,7 +6421,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*803 skills in this domain*
+*804 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6905,6 +6908,7 @@
 | [monitoring-cross-chain-bridges](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges) | Monitor cross-chain bridge TVL, volume, fees, and transaction status across networks. Use when researching bridges, c... | jeremylongshore |
 | [multi-agent-client-onboarding](https://github.com/OneWave-AI/claude-skills/tree/main/multi-agent-client-onboarding) | Uses Agent SDK to deploy 3 parallel agents for client onboarding -- workflow auditor, tech stack mapper, and strategy... | OneWave-AI |
 | [n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration) | Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determi... | czlonkowski |
+| [n8n-subworkflows](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-subworkflows) | Build reusable, composable n8n sub-workflows. Use when extracting shared logic, building anything multi-step or reuse... | czlonkowski |
 | [nda-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/general-legal-assistant/skills/nda-generator) | Generates custom non-disclosure agreements with plain English annotations. Use when creating an NDA for business disc... | jeremylongshore |
 | [nda-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/general-legal-assistant/skills/nda-generator) | Generates custom non-disclosure agreements with plain English annotations. Use when creating an NDA for business disc... | jeremylongshore |
 | [neurodivergent-visual-org](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org) | Creates ADHD-friendly visual organizational tools using Mermaid diagrams optimized for neurodivergent thinking patter... | jeremylongshore |
@@ -7229,7 +7233,7 @@
 <a name="tools-and-utilities"></a>
 # Tools & Utilities
 
-*636 skills in this domain*
+*637 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7825,6 +7829,7 @@
 | [updown-io-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/updown-io-automation) | Automate Updown IO tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [uptimerobot-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/uptimerobot-automation) | Automate Uptimerobot tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [userlist-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/userlist-automation) | Automate Userlist tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [using-n8n-mcp-skills](https://github.com/czlonkowski/n8n-skills/tree/main/skills/using-n8n-mcp-skills) |  | czlonkowski |
 | [v0-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/v0-automation) | Automate V0 tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [venly-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/venly-automation) | Automate Venly tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [veo-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/veo-automation) | Automate Veo tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -9449,7 +9454,7 @@
 <a name="testing-and-quality"></a>
 # Testing & Quality
 
-*371 skills in this domain*
+*372 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9486,6 +9491,7 @@
 | [atlas-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-recon) | Documentation reconnaissance for takeover — find all docs, assess accuracy, freshness, coverage, and discoverability,... | jeremylongshore |
 | [bamboohr-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-webhooks-events) | Implement BambooHR webhook endpoints with HMAC signature validation and employee change event handling. Covers global... | jeremylongshore |
 | [bamboohr-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-webhooks-events) | Implement BambooHR webhook endpoints with HMAC signature validation and employee change event handling. Covers global... | jeremylongshore |
+| [before-you-build](https://github.com/OneWave-AI/claude-skills/tree/main/before-you-build) | Use before starting a product, feature, MVP, agent, automation, or integration build to identify the main pre-build r... | OneWave-AI |
 | [benchmark-email-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/benchmark-email-automation) | Automate Benchmark Email tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [bilingual-courseware](https://github.com/YujxZJCN/teaching-skills/tree/main/bilingual-courseware) | Bilingual course-material maintenance for university professors — default EN ⇄ 简体中文, language-pair agnostic. 4-agent ... | YujxZJCN |
 | [blast-radius](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/blast-radius) | Analyzes code change impact with risk scoring and affected-node mapping. Use before merging to understand what a chan... | athola |

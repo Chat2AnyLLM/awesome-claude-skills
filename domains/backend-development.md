@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4555 skills in this domain*
+*4558 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2678 skills
-- [Database Design](#database-design) - 1347 skills
+- [APIs & REST](#apis-rest) - 2679 skills
+- [Database Design](#database-design) - 1349 skills
 - [Request Handling](#request-handling) - 278 skills
 - [Web Frameworks](#web-frameworks) - 181 skills
 - [Authentication](#authentication) - 23 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2678 skills*
+*2679 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1643,6 +1643,7 @@
 | [monitoring-apis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-monitoring-dashboard/skills/monitoring-apis) | Build real-time API monitoring dashboards with metrics, alerts, and health checks. Use when track... | jeremylongshore |
 | [moodle-external-api-development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/moodle-external-api-development) | Create custom external web service APIs for Moodle LMS. Use when implementing web services for co... | davila7 |
 | [n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$... | czlonkowski |
+| [n8n-error-handling](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-error-handling) | Wire n8n error handling so failures are loud, structured, and recoverable. Use when building any ... | czlonkowski |
 | [n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) | Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, ... | czlonkowski |
 | [navan-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-ci-integration) | Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health... | jeremylongshore |
 | [navan-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/navan-pack/skills/navan-ci-integration) | Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health... | jeremylongshore |
@@ -2707,7 +2708,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1347 skills*
+*1349 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3465,6 +3466,8 @@
 | [monitoring-error-rates](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/error-rate-monitor/skills/monitoring-error-rates) | Monitor and analyze application error rates to improve reliability. Use when tracking errors in a... | jeremylongshore |
 | [monitoring-error-rates](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/error-rate-monitor/skills/monitoring-error-rates) | Monitor and analyze application error rates to improve reliability. Use when tracking errors in a... | jeremylongshore |
 | [monitoring-expert](https://github.com/Jeffallan/claude-skills/tree/main/skills/monitoring-expert) | Configures monitoring systems, implements structured logging pipelines, creates Prometheus/Grafan... | Jeffallan |
+| [n8n-agents](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-agents) | Design n8n AI agents the right way. Use when building or editing any @n8n/n8n-nodes-langchain.* A... | czlonkowski |
+| [n8n-binary-and-data](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-binary-and-data) | Handle files and binary data in n8n correctly. Use when working with files, images, PDFs, attachm... | czlonkowski |
 | [n8n-mcp-tools-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-mcp-tools-expert) | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating co... | czlonkowski |
 | [n8n-mcp-tools-expert](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert) | Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating co... | davila7 |
 | [nanogpt](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-nanogpt) | Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWebText. Clean, hack... | davila7 |

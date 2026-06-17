@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*371 skills in this domain*
+*372 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -44,6 +44,7 @@
 | [atlas-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-recon) | Documentation reconnaissance for takeover — find all docs, assess accuracy, freshness, coverage, ... | jeremylongshore |
 | [bamboohr-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-webhooks-events) | Implement BambooHR webhook endpoints with HMAC signature validation and employee change event han... | jeremylongshore |
 | [bamboohr-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/bamboohr-pack/skills/bamboohr-webhooks-events) | Implement BambooHR webhook endpoints with HMAC signature validation and employee change event han... | jeremylongshore |
+| [before-you-build](https://github.com/OneWave-AI/claude-skills/tree/main/before-you-build) | Use before starting a product, feature, MVP, agent, automation, or integration build to identify ... | OneWave-AI |
 | [benchmark-email-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/benchmark-email-automation) | Automate Benchmark Email tasks via Rube MCP (Composio). Always search tools first for current sch... | ComposioHQ |
 | [bilingual-courseware](https://github.com/YujxZJCN/teaching-skills/tree/main/bilingual-courseware) | Bilingual course-material maintenance for university professors — default EN ⇄ 简体中文, language-pai... | YujxZJCN |
 | [blast-radius](https://github.com/athola/claude-night-market/tree/master/plugins/pensive/skills/blast-radius) | Analyzes code change impact with risk scoring and affected-node mapping. Use before merging to un... | athola |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*803 skills in this domain*
+*804 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -494,6 +494,7 @@
 | [monitoring-cross-chain-bridges](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges) | Monitor cross-chain bridge TVL, volume, fees, and transaction status across networks. Use when re... | jeremylongshore |
 | [multi-agent-client-onboarding](https://github.com/OneWave-AI/claude-skills/tree/main/multi-agent-client-onboarding) | Uses Agent SDK to deploy 3 parallel agents for client onboarding -- workflow auditor, tech stack ... | OneWave-AI |
 | [n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration) | Operation-aware node configuration guidance. Use when configuring nodes, understanding property d... | czlonkowski |
+| [n8n-subworkflows](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-subworkflows) | Build reusable, composable n8n sub-workflows. Use when extracting shared logic, building anything... | czlonkowski |
 | [nda-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/general-legal-assistant/skills/nda-generator) | Generates custom non-disclosure agreements with plain English annotations. Use when creating an N... | jeremylongshore |
 | [nda-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/general-legal-assistant/skills/nda-generator) | Generates custom non-disclosure agreements with plain English annotations. Use when creating an N... | jeremylongshore |
 | [neurodivergent-visual-org](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/neurodivergent-visual-org/skills/neurodivergent-visual-org) | Creates ADHD-friendly visual organizational tools using Mermaid diagrams optimized for neurodiver... | jeremylongshore |

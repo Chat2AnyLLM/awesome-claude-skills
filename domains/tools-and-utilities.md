@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*636 skills in this domain*
+*637 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -603,6 +603,7 @@
 | [updown-io-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/updown-io-automation) | Automate Updown IO tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [uptimerobot-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/uptimerobot-automation) | Automate Uptimerobot tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [userlist-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/userlist-automation) | Automate Userlist tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [using-n8n-mcp-skills](https://github.com/czlonkowski/n8n-skills/tree/main/skills/using-n8n-mcp-skills) |  | czlonkowski |
 | [v0-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/v0-automation) | Automate V0 tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [venly-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/venly-automation) | Automate Venly tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [veo-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/veo-automation) | Automate Veo tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
