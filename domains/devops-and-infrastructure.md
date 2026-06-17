@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*828 skills in this domain*
+*829 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Cloud Platforms](#cloud-platforms) - 472 skills
+- [Cloud Platforms](#cloud-platforms) - 473 skills
 - [CI/CD](#cicd) - 223 skills
 - [Containers](#containers) - 81 skills
 - [Monitoring](#monitoring) - 22 skills
@@ -22,7 +22,7 @@
 
 <a name="cloud-platforms"></a>
 ## Cloud Platforms
-*472 skills*
+*473 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -246,6 +246,7 @@
 | [groq-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-prod-checklist) | Execute Groq production deployment checklist and go-live procedures. Use when deploying Groq inte... | jeremylongshore |
 | [guidewire-ci-cd-pipeline](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/guidewire-pack/skills/guidewire-ci-cd-pipeline) | Ship Gosu code and configuration changes through Guidewire Cloud Console deployment slots without... | jeremylongshore |
 | [guidewire-ci-cd-pipeline](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/guidewire-pack/skills/guidewire-ci-cd-pipeline) | Ship Gosu code and configuration changes through Guidewire Cloud Console deployment slots without... | jeremylongshore |
+| [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet/tree/master/skills/hermes-tweet) | Use Xquik from Hermes Agent for X search, posting, replies, likes, retweets, follows, DMs, monito... | Xquik-dev |
 | [hex-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hex-pack/skills/hex-prod-checklist) | Execute Hex production deployment checklist and rollback procedures. Use when deploying Hex integ... | jeremylongshore |
 | [hex-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hex-pack/skills/hex-prod-checklist) | Execute Hex production deployment checklist and rollback procedures. Use when deploying Hex integ... | jeremylongshore |
 | [hootsuite-prod-checklist](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hootsuite-pack/skills/hootsuite-prod-checklist) | Execute Hootsuite production deployment checklist and rollback procedures. Use when deploying Hoo... | jeremylongshore |
