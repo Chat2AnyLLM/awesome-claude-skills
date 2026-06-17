@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*573 skills in this domain*
+*575 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -143,6 +143,7 @@
 | [code-formatter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/examples/formatter/skills/code-formatter) | Execute automatically formats and validates code files using Prettier and other formatting tools.... | jeremylongshore |
 | [code-splitting-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/code-splitting-helper) | Configure with code splitting helper operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
 | [code-splitting-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/code-splitting-helper) | Configure with code splitting helper operations. Auto-activating skill for Frontend Development. ... | jeremylongshore |
+| [codexemailskill](https://github.com/Sequenzy/skills/tree/main/skills/codexemailskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review,... | Sequenzy |
 | [coding-standards](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-coding-standards) | Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and N... | davila7 |
 | [cohere-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-reference-architecture) | Implement Cohere reference architecture with layered project layout for RAG and agents. Use when ... | jeremylongshore |
 | [cohere-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-reference-architecture) | Implement Cohere reference architecture with layered project layout for RAG and agents. Use when ... | jeremylongshore |
@@ -186,6 +187,7 @@
 | [draft-wireframe](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/draft-wireframe) | Wireframe a screen — text/ASCII by default, or hand-drawn HTML when the user says "sketch", "hand... | jeremylongshore |
 | [draft-wireframe](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/draft-wireframe) | Wireframe a screen — text/ASCII by default, or hand-drawn HTML when the user says "sketch", "hand... | jeremylongshore |
 | [draw-io](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/draw-io) | draw.io diagram creation, editing, and review. Use for .drawio XML editing, PNG conversion, layou... | davila7 |
+| [emaildesignskill](https://github.com/Sequenzy/skills/tree/main/skills/emaildesignskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review,... | Sequenzy |
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as s... | jeremylongshore |
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as s... | jeremylongshore |
 | [error-boundary-creator](https://github.com/OneWave-AI/claude-skills/tree/main/error-boundary-creator) | Create error boundaries, error handling, and fallback UIs for React applications. Use when implem... | OneWave-AI |

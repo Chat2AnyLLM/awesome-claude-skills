@@ -2,14 +2,14 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4544 skills
+- [Backend Development](#backend-development) - 4555 skills
   - [APIs & REST](#apis-and-rest) - 2678 skills
-  - [Database Design](#database-design) - 1346 skills
-  - [Request Handling](#request-handling) - 272 skills
-  - [Web Frameworks](#web-frameworks) - 180 skills
-  - [Authentication](#authentication) - 22 skills
-  - [Message Queues](#message-queues) - 19 skills
-  - [Microservices](#microservices) - 16 skills
+  - [Database Design](#database-design) - 1347 skills
+  - [Request Handling](#request-handling) - 278 skills
+  - [Web Frameworks](#web-frameworks) - 181 skills
+  - [Authentication](#authentication) - 23 skills
+  - [Message Queues](#message-queues) - 20 skills
+  - [Microservices](#microservices) - 17 skills
   - [Caching](#caching) - 11 skills
 - [DevOps & Infrastructure](#devops-and-infrastructure) - 828 skills
   - [Cloud Platforms](#cloud-platforms) - 472 skills
@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 803 skills
 - [Tools & Utilities](#tools-and-utilities) - 636 skills
-- [Frontend Development](#frontend-development) - 573 skills
+- [Frontend Development](#frontend-development) - 575 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 571 skills
 - [Machine Learning](#machine-learning) - 374 skills
   - [Model Training](#model-training) - 246 skills
@@ -46,7 +46,7 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4544 skills in this domain*
+*4555 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -2735,7 +2735,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1346 skills*
+*1347 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3109,6 +3109,7 @@
 | [email-report](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/email-report) | Auto-generate the weekly or monthly email performance report in three formats — Slack update, CEO email, board-deck s... | cognyai |
 | [email-subject-line-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/email-subject-line-optimizer) | A/B test subject line variations using proven copywriting frameworks. Predict open rates based on historical performa... | OneWave-AI |
 | [email-template-generator](https://github.com/OneWave-AI/claude-skills/tree/main/email-template-generator) | Generate professional email templates for various business scenarios including sales outreach, customer support, inte... | OneWave-AI |
+| [emailcampaignskill](https://github.com/Sequenzy/skills/tree/main/skills/emailcampaignskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [engineering-features-for-machine-learning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/feature-engineering-toolkit/skills/engineering-features-for-machine-learning) | Execute create, select, and transform features to improve machine learning model performance. Handles feature scaling... | jeremylongshore |
 | [engineering-features-for-machine-learning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-ml/feature-engineering-toolkit/skills/engineering-features-for-machine-learning) | Execute create, select, and transform features to improve machine learning model performance. Handles feature scaling... | jeremylongshore |
 | [enterprise-b2b-sales-master](https://github.com/swaylq/master-skill/tree/main/prototypes/enterprise-b2b-sales-master/output) | B2B 大客户销售 (B2B 大客户销售 / 企业级复杂销售 (Enterprise B2B Sales / Complex Selling) — 面向企业客户的高价值、长周期、多干系人复杂销售的职业认知操作系统，从业者(AE/客户经... | swaylq |
@@ -4088,7 +4089,7 @@
 
 <a name="request-handling"></a>
 ## Request Handling
-*272 skills*
+*278 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4127,6 +4128,7 @@
 | [castai-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/castai-pack/skills/castai-core-workflow-b) | Configure CAST AI Workload Autoscaler for pod-level right-sizing and VPA. Use when enabling workload autoscaling, con... | jeremylongshore |
 | [change-request-generator](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/change-request-generator) | Generate change request generator operations. Auto-activating skill for Enterprise Workflows. Triggers on: change req... | jeremylongshore |
 | [change-request-generator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/change-request-generator) | Generate change request generator operations. Auto-activating skill for Enterprise Workflows. Triggers on: change req... | jeremylongshore |
+| [claudeemailskill](https://github.com/Sequenzy/skills/tree/main/skills/claudeemailskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [clay-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clay-pack/skills/clay-ci-integration) | Configure CI/CD pipelines for Clay integrations with automated testing and validation. Use when setting up automated ... | jeremylongshore |
 | [clay-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clay-pack/skills/clay-ci-integration) | Configure CI/CD pipelines for Clay integrations with automated testing and validation. Use when setting up automated ... | jeremylongshore |
 | [clay-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clay-pack/skills/clay-incident-runbook) | Execute Clay incident response procedures for enrichment failures, credit exhaustion, and data flow outages. Use when... | jeremylongshore |
@@ -4167,8 +4169,11 @@
 | [design-prompt-generator-v2](https://github.com/bear2u/my-skills/tree/master/skills/design-prompt-generator-v2) | Advanced 7-step hierarchical design prompt generator for AI web development tools (Lovable, Cursor, Bolt). Generates ... | bear2u |
 | [documenso-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-incident-runbook) | Manage incident response for Documenso integration issues. Use when diagnosing production incidents, handling outages... | jeremylongshore |
 | [documenso-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-incident-runbook) | Manage incident response for Documenso integration issues. Use when diagnosing production incidents, handling outages... | jeremylongshore |
+| [dripcampaignskill](https://github.com/Sequenzy/skills/tree/main/skills/dripcampaignskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [elevenlabs-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-rate-limits) | Implement ElevenLabs rate limiting, concurrency queuing, and backoff patterns. Use when handling 429 errors, implemen... | jeremylongshore |
 | [elevenlabs-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-rate-limits) | Implement ElevenLabs rate limiting, concurrency queuing, and backoff patterns. Use when handling 429 errors, implemen... | jeremylongshore |
+| [emailagentskill](https://github.com/Sequenzy/skills/tree/main/skills/emailagentskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
+| [emailworkflowskill](https://github.com/Sequenzy/skills/tree/main/skills/emailworkflowskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [embedded-systems](https://github.com/Jeffallan/claude-skills/tree/main/skills/embedded-systems) | Use when developing firmware for microcontrollers, implementing RTOS applications, or optimizing power consumption. I... | Jeffallan |
 | [environment-variables-handler](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/01-devops-basics/environment-variables-handler) | Manage environment variables handler operations. Auto-activating skill for DevOps Basics. Triggers on: environment va... | jeremylongshore |
 | [environment-variables-handler](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/01-devops-basics/environment-variables-handler) | Manage environment variables handler operations. Auto-activating skill for DevOps Basics. Triggers on: environment va... | jeremylongshore |
@@ -4215,6 +4220,7 @@
 | [granola-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/granola-pack/skills/granola-incident-runbook) | Incident response procedures for Granola meeting capture failures and outages. Use when meetings aren't recording, tr... | jeremylongshore |
 | [groq-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/groq-pack/skills/groq-incident-runbook) | Execute Groq incident response: triage, mitigation, fallback, and postmortem. Use when responding to Groq-related out... | jeremylongshore |
 | [groq-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/groq-pack/skills/groq-incident-runbook) | Execute Groq incident response: triage, mitigation, fallback, and postmortem. Use when responding to Groq-related out... | jeremylongshore |
+| [hermesemailskill](https://github.com/Sequenzy/skills/tree/main/skills/hermesemailskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [hex-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hex-pack/skills/hex-common-errors) | Diagnose and fix Hex common errors and exceptions. Use when encountering Hex errors, debugging failed requests, or tr... | jeremylongshore |
 | [hex-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/hex-pack/skills/hex-common-errors) | Diagnose and fix Hex common errors and exceptions. Use when encountering Hex errors, debugging failed requests, or tr... | jeremylongshore |
 | [hootsuite-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/hootsuite-pack/skills/hootsuite-common-errors) | Diagnose and fix Hootsuite common errors and exceptions. Use when encountering Hootsuite errors, debugging failed req... | jeremylongshore |
@@ -4274,6 +4280,7 @@
 | [mistral-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/mistral-pack/skills/mistral-incident-runbook) | Execute Mistral AI incident response procedures with triage, mitigation, and postmortem. Use when responding to Mistr... | jeremylongshore |
 | [n8n-code-javascript](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/n8n/n8n-code-javascript) | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making ... | davila7 |
 | [n8n-code-python](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-python) | Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with st... | czlonkowski |
+| [newsletterskill](https://github.com/Sequenzy/skills/tree/main/skills/newsletterskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [objection-pattern-detector](https://github.com/OneWave-AI/claude-skills/tree/main/objection-pattern-detector) | Mine lost deal notes to identify recurring objection patterns. Create objection response playbooks from won deals. | OneWave-AI |
 | [observability-engineer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/observability-engineer) | Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, S... | davila7 |
 | [obsidian-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/obsidian-pack/skills/obsidian-incident-runbook) | Troubleshoot Obsidian plugin failures with systematic incident response. Use when plugins crash, data is corrupted, o... | jeremylongshore |
@@ -4367,7 +4374,7 @@
 
 <a name="web-frameworks"></a>
 ## Web Frameworks
-*180 skills*
+*181 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4486,6 +4493,7 @@
 | [notion-policy-guardrails](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/notion-pack/skills/notion-policy-guardrails) | Governance for Notion integrations: integration naming standards, page sharing policies, property naming conventions,... | jeremylongshore |
 | [obsidian-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/obsidian-pack/skills/obsidian-performance-tuning) | Optimize Obsidian plugin performance for smooth operation in large vaults. Use when experiencing lag, memory issues, ... | jeremylongshore |
 | [obsidian-performance-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/obsidian-pack/skills/obsidian-performance-tuning) | Optimize Obsidian plugin performance for smooth operation in large vaults. Use when experiencing lag, memory issues, ... | jeremylongshore |
+| [openclawemailskill](https://github.com/Sequenzy/skills/tree/main/skills/openclawemailskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [openrouter-audit-logging](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-audit-logging) | Implement audit logging for OpenRouter API calls. Use when building compliance trails, debugging production issues, o... | jeremylongshore |
 | [openrouter-audit-logging](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/openrouter-pack/skills/openrouter-audit-logging) | Implement audit logging for OpenRouter API calls. Use when building compliance trails, debugging production issues, o... | jeremylongshore |
 | [pacsomatic](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pacsomatic) | Operator toolkit for nf-core/pacsomatic matched tumor-normal workflows from BAM inputs. Use this skill when the user ... | K-Dense-AI |
@@ -4554,7 +4562,7 @@
 
 <a name="authentication"></a>
 ## Authentication
-*22 skills*
+*23 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4567,6 +4575,7 @@
 | [clerk-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-core-workflow-b) | Implement session management and middleware with Clerk. Use when managing user sessions, configuring route protection... | jeremylongshore |
 | [clerk-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-incident-runbook) | Manage incident response for Clerk authentication issues. Use when handling auth outages, security incidents, or prod... | jeremylongshore |
 | [clerk-incident-runbook](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-incident-runbook) | Manage incident response for Clerk authentication issues. Use when handling auth outages, security incidents, or prod... | jeremylongshore |
+| [emaildeliverabilityskill](https://github.com/Sequenzy/skills/tree/main/skills/emaildeliverabilityskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [excalidraw](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/excalidraw) | Use when working with *.excalidraw or *.excalidraw.json files, user mentions diagrams/flowcharts, or requests archite... | davila7 |
 | [fastmcp-server](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/fastmcp-server) | Complete guide for building MCP servers with FastMCP 3.0 - tools, resources, authentication, providers, middleware, a... | davila7 |
 | [figma-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/figma-pack/skills/figma-ci-integration) | Automate Figma design token sync and asset export in CI/CD pipelines. Use when setting up GitHub Actions for Figma, a... | jeremylongshore |
@@ -4583,12 +4592,13 @@
 
 <a name="message-queues"></a>
 ## Message Queues
-*19 skills*
+*20 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [algolia-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/algolia-pack/skills/algolia-rate-limits) | Handle Algolia rate limits and throttling: per-key limits, indexing queue limits, 429 responses, and backoff strategi... | jeremylongshore |
 | [algolia-rate-limits](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/algolia-pack/skills/algolia-rate-limits) | Handle Algolia rate limits and throttling: per-key limits, indexing queue limits, 429 responses, and backoff strategi... | jeremylongshore |
+| [claudeemailmarketing](https://github.com/Sequenzy/skills/tree/main/skills/claudeemailmarketing) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [cloud-run-basics](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cloud-run-basics) | Manages Cloud Run services, jobs, and worker pools. Use when you need to deploy applications responding to HTTP reque... | davila7 |
 | [fathom-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fathom-pack/skills/fathom-webhooks-events) | Configure Fathom webhooks for real-time meeting notifications. Use when setting up automated meeting processing, rece... | jeremylongshore |
 | [fathom-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/fathom-pack/skills/fathom-webhooks-events) | Configure Fathom webhooks for real-time meeting notifications. Use when setting up automated meeting processing, rece... | jeremylongshore |
@@ -4609,7 +4619,7 @@
 
 <a name="microservices"></a>
 ## Microservices
-*16 skills*
+*17 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4620,6 +4630,7 @@
 | [architecture-paradigm-serverless](https://github.com/athola/claude-night-market/tree/master/plugins/archetypes/skills/architecture-paradigm-serverless) | Applies serverless FaaS patterns for event-driven workloads. Use when designing bursty workloads with minimal infrast... | athola |
 | [architecture-patterns](https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/architecture-patterns) | Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Drive... | wshobson |
 | [azure-functions](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/azure-functions) | Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, col... | davila7 |
+| [emailautomationskill](https://github.com/Sequenzy/skills/tree/main/skills/emailautomationskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [gcp-cloud-run](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/gcp-cloud-run) | Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run services (containeri... | davila7 |
 | [inngest](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/inngest) | Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing q... | davila7 |
 | [oraclecloud-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/oraclecloud-pack/skills/oraclecloud-webhooks-events) | Wire up event-driven workflows with OCI Events, Notifications, and Functions. Use when building serverless event proc... | jeremylongshore |
@@ -7861,7 +7872,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*573 skills in this domain*
+*575 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -7997,6 +8008,7 @@
 | [code-formatter](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/examples/formatter/skills/code-formatter) | Execute automatically formats and validates code files using Prettier and other formatting tools. Use when users ment... | jeremylongshore |
 | [code-splitting-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/05-frontend-dev/code-splitting-helper) | Configure with code splitting helper operations. Auto-activating skill for Frontend Development. Triggers on: code sp... | jeremylongshore |
 | [code-splitting-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/05-frontend-dev/code-splitting-helper) | Configure with code splitting helper operations. Auto-activating skill for Frontend Development. Triggers on: code sp... | jeremylongshore |
+| [codexemailskill](https://github.com/Sequenzy/skills/tree/main/skills/codexemailskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [coding-standards](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-coding-standards) | Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development. | davila7 |
 | [cohere-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-reference-architecture) | Implement Cohere reference architecture with layered project layout for RAG and agents. Use when designing new Cohere... | jeremylongshore |
 | [cohere-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cohere-pack/skills/cohere-reference-architecture) | Implement Cohere reference architecture with layered project layout for RAG and agents. Use when designing new Cohere... | jeremylongshore |
@@ -8040,6 +8052,7 @@
 | [draft-wireframe](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/draft-wireframe) | Wireframe a screen — text/ASCII by default, or hand-drawn HTML when the user says "sketch", "hand-drawn", "lo-fi HTML... | jeremylongshore |
 | [draft-wireframe](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/draft-wireframe) | Wireframe a screen — text/ASCII by default, or hand-drawn HTML when the user says "sketch", "hand-drawn", "lo-fi HTML... | jeremylongshore |
 | [draw-io](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/draw-io) | draw.io diagram creation, editing, and review. Use for .drawio XML editing, PNG conversion, layout adjustment, and AW... | davila7 |
+| [emaildesignskill](https://github.com/Sequenzy/skills/tree/main/skills/emaildesignskill) | Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, o... | Sequenzy |
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as self-contained dark-t... | jeremylongshore |
 | [engineer-design-diagram](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/engineer-design-diagram/skills/engineer-design-diagram) | Generate production-grade engineering design diagrams (architecture, sequence, delta, drift) as self-contained dark-t... | jeremylongshore |
 | [error-boundary-creator](https://github.com/OneWave-AI/claude-skills/tree/main/error-boundary-creator) | Create error boundaries, error handling, and fallback UIs for React applications. Use when implementing error handlin... | OneWave-AI |
