@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4562 skills
-  - [APIs & REST](#apis-and-rest) - 2681 skills
+- [Backend Development](#backend-development) - 4563 skills
+  - [APIs & REST](#apis-and-rest) - 2682 skills
   - [Database Design](#database-design) - 1351 skills
   - [Request Handling](#request-handling) - 278 skills
   - [Web Frameworks](#web-frameworks) - 181 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4562 skills in this domain*
+*4563 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2681 skills*
+*2682 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1674,6 +1674,7 @@
 | [music-production-master](https://github.com/swaylq/master-skill/tree/main/prototypes/music-production-master/output) | 音乐制作 / 混音 (音乐制作 / 混音 (Music Production & Mixing) — 录音棚与卧室工作室里把一首歌从编曲/录音/编程做到混音/母带成品的工程+艺术认知操作系统，面向制作人(producer)、混音师(m... | swaylq |
 | [n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making ... | czlonkowski |
 | [n8n-error-handling](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-error-handling) | Wire n8n error handling so failures are loud, structured, and recoverable. Use when building any webhook/API workflow... | czlonkowski |
+| [n8n-self-hosting](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-self-hosting) | Deploy a production self-hosted n8n end-to-end to a fresh Linux VM over SSH, using Docker Compose behind a Caddy reve... | czlonkowski |
 | [n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) | Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow s... | czlonkowski |
 | [navan-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-ci-integration) | Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health checks, or generate... | jeremylongshore |
 | [navan-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/navan-pack/skills/navan-ci-integration) | Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health checks, or generate... | jeremylongshore |
