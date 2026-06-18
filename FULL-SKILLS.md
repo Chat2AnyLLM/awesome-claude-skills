@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4560 skills
-  - [APIs & REST](#apis-and-rest) - 2679 skills
+- [Backend Development](#backend-development) - 4562 skills
+  - [APIs & REST](#apis-and-rest) - 2681 skills
   - [Database Design](#database-design) - 1351 skills
   - [Request Handling](#request-handling) - 278 skills
   - [Web Frameworks](#web-frameworks) - 181 skills
@@ -46,11 +46,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*4560 skills in this domain*
+*4562 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
-*2679 skills*
+*2681 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1416,6 +1416,7 @@
 | [intercom-sdk-patterns](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-sdk-patterns) | Apply production-ready intercom-client SDK patterns for TypeScript. Use when implementing Intercom integrations, refa... | jeremylongshore |
 | [intercom-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-upgrade-migration) | Upgrade intercom-client SDK versions and handle API version changes. Use when upgrading the SDK, migrating between AP... | jeremylongshore |
 | [intercom-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/intercom-pack/skills/intercom-upgrade-migration) | Upgrade intercom-client SDK versions and handle API version changes. Use when upgrading the SDK, migrating between AP... | jeremylongshore |
+| [investment-banking-mna-master](https://github.com/swaylq/master-skill/tree/main/prototypes/investment-banking-mna-master/output) | 投行并购 (投行并购 / 交易撮合 (Investment Banking M&A / Dealmaking) — 面向并购顾问、企业融资、卖方/买方交易执行的职业认知操作系统，从业者(分析师 Analyst / 经理 Associa... | swaylq |
 | [itinerary-optimizer](https://github.com/OneWave-AI/claude-skills/tree/main/itinerary-optimizer) | Efficiently route multi-stop trips with time management. Include transportation, restaurant/activity reservations tim... | OneWave-AI |
 | [jobs-to-be-done](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/wondelai-jobs-to-be-done) | Discover what customers truly need by analyzing the "job" they hire your product to do. Use when the user mentions "c... | jeremylongshore |
 | [jobs-to-be-done](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/wondelai-jobs-to-be-done) | Discover what customers truly need by analyzing the "job" they hire your product to do. Use when the user mentions "c... | jeremylongshore |
@@ -1670,6 +1671,7 @@
 | [monitoring-apis](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/api-development/api-monitoring-dashboard/skills/monitoring-apis) | Build real-time API monitoring dashboards with metrics, alerts, and health checks. Use when tracking API health and p... | jeremylongshore |
 | [monitoring-apis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/api-development/api-monitoring-dashboard/skills/monitoring-apis) | Build real-time API monitoring dashboards with metrics, alerts, and health checks. Use when tracking API health and p... | jeremylongshore |
 | [moodle-external-api-development](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/moodle-external-api-development) | Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, use... | davila7 |
+| [music-production-master](https://github.com/swaylq/master-skill/tree/main/prototypes/music-production-master/output) | 音乐制作 / 混音 (音乐制作 / 混音 (Music Production & Mixing) — 录音棚与卧室工作室里把一首歌从编曲/录音/编程做到混音/母带成品的工程+艺术认知操作系统，面向制作人(producer)、混音师(m... | swaylq |
 | [n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript) | Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making ... | czlonkowski |
 | [n8n-error-handling](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-error-handling) | Wire n8n error handling so failures are loud, structured, and recoverable. Use when building any webhook/API workflow... | czlonkowski |
 | [n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns) | Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow s... | czlonkowski |
