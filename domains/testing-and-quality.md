@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*372 skills in this domain*
+*373 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -106,6 +106,7 @@
 | [documenso-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-hello-world) | Create a minimal working Documenso example. Use when starting a new Documenso integration, testin... | jeremylongshore |
 | [documenso-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-hello-world) | Create a minimal working Documenso example. Use when starting a new Documenso integration, testin... | jeremylongshore |
 | [dorodango](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/dorodango) | Polishes working code through successive quality passes in fresh subagents. Use after tests pass ... | athola |
+| [elegant-code](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/elegant-code) | Guide minimal code via a decision ladder with full safety, edge, and negative-case coverage. Use ... | athola |
 | [elevenlabs-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-local-dev-loop) | Configure local ElevenLabs development with mocking, hot reload, and audio testing. Use when sett... | jeremylongshore |
 | [elevenlabs-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-local-dev-loop) | Configure local ElevenLabs development with mocking, hot reload, and audio testing. Use when sett... | jeremylongshore |
 | [employment-contract-templates](https://github.com/wshobson/agents/tree/main/plugins/hr-legal-compliance/skills/employment-contract-templates) | Create employment contracts, offer letters, and HR policy documents following legal best practice... | wshobson |

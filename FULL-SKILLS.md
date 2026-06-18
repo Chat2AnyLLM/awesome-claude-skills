@@ -37,7 +37,7 @@
   - [Model Evaluation](#model-evaluation) - 23 skills
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 12 skills
-- [Testing & Quality](#testing-and-quality) - 372 skills
+- [Testing & Quality](#testing-and-quality) - 373 skills
 - [Security](#security) - 285 skills
 - [Uncategorized](#uncategorized) - 265 skills
 - [Documentation](#documentation) - 167 skills
@@ -9466,7 +9466,7 @@
 <a name="testing-and-quality"></a>
 # Testing & Quality
 
-*372 skills in this domain*
+*373 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9565,6 +9565,7 @@
 | [documenso-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-hello-world) | Create a minimal working Documenso example. Use when starting a new Documenso integration, testing your setup, or lea... | jeremylongshore |
 | [documenso-hello-world](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/documenso-pack/skills/documenso-hello-world) | Create a minimal working Documenso example. Use when starting a new Documenso integration, testing your setup, or lea... | jeremylongshore |
 | [dorodango](https://github.com/athola/claude-night-market/tree/master/plugins/attune/skills/dorodango) | Polishes working code through successive quality passes in fresh subagents. Use after tests pass when code needs mult... | athola |
+| [elegant-code](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/elegant-code) | Guide minimal code via a decision ladder with full safety, edge, and negative-case coverage. Use when adding code, ch... | athola |
 | [elevenlabs-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-local-dev-loop) | Configure local ElevenLabs development with mocking, hot reload, and audio testing. Use when setting up a dev environ... | jeremylongshore |
 | [elevenlabs-local-dev-loop](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/elevenlabs-pack/skills/elevenlabs-local-dev-loop) | Configure local ElevenLabs development with mocking, hot reload, and audio testing. Use when setting up a dev environ... | jeremylongshore |
 | [employment-contract-templates](https://github.com/wshobson/agents/tree/main/plugins/hr-legal-compliance/skills/employment-contract-templates) | Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting... | wshobson |
