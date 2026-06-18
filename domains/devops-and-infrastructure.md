@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*829 skills in this domain*
+*831 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [Cloud Platforms](#cloud-platforms) - 473 skills
-- [CI/CD](#cicd) - 223 skills
+- [CI/CD](#cicd) - 225 skills
 - [Containers](#containers) - 81 skills
 - [Monitoring](#monitoring) - 22 skills
 - [Security](#security) - 12 skills
@@ -502,7 +502,7 @@
 
 <a name="cicd"></a>
 ## CI/CD
-*223 skills*
+*225 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -530,6 +530,8 @@
 | [batch-inference-pipeline](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/08-ml-deployment/batch-inference-pipeline) | Execute batch inference pipeline operations. Auto-activating skill for ML Deployment. Triggers on... | jeremylongshore |
 | [batch-inference-pipeline](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/08-ml-deployment/batch-inference-pipeline) | Execute batch inference pipeline operations. Auto-activating skill for ML Deployment. Triggers on... | jeremylongshore |
 | [bats-testing-patterns](https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/bats-testing-patterns) | Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writ... | wshobson |
+| [brain](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/governed-second-brain/skills/brain) | Answers questions about your own systems, notes, decisions, runbooks, and conventions from your g... | jeremylongshore |
+| [brain](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/governed-second-brain/skills/brain) | Answers questions about your own systems, notes, decisions, runbooks, and conventions from your g... | jeremylongshore |
 | [brightdata-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-ci-integration) | Configure Bright Data CI/CD integration with GitHub Actions and testing. Use when setting up auto... | jeremylongshore |
 | [brightdata-ci-integration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/brightdata-pack/skills/brightdata-ci-integration) | Configure Bright Data CI/CD integration with GitHub Actions and testing. Use when setting up auto... | jeremylongshore |
 | [building-automl-pipelines](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-ml/automl-pipeline-builder/skills/building-automl-pipelines) | Build automated machine learning pipelines with feature engineering, model selection, and hyperpa... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4558 skills in this domain*
+*4560 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -12,7 +12,7 @@
 ## Table of Contents
 
 - [APIs & REST](#apis-rest) - 2679 skills
-- [Database Design](#database-design) - 1349 skills
+- [Database Design](#database-design) - 1351 skills
 - [Request Handling](#request-handling) - 278 skills
 - [Web Frameworks](#web-frameworks) - 181 skills
 - [Authentication](#authentication) - 23 skills
@@ -2698,8 +2698,8 @@
 | [x-twitter-scraper](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/x-twitter-scraper) | Use when the user wants to integrate with the X (Twitter) API via Xquik to search tweets, look up... | davila7 |
 | [youtube-api](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-api) | Use when YouTube data is needed without Google API quotas or OAuth setup: transcripts, video meta... | ZeroPointRepo |
 | [youtube-data](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-data) | Use when structured YouTube data is needed: pasted video/channel/playlist links, transcripts for ... | ZeroPointRepo |
-| [zai-cli](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/zai-cli/skills/zai-cli) | Execute z.AI CLI providing vision, search, reader, and GitHub exploration via CLI and MCP. Use wh... | jeremylongshore |
-| [zai-cli](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/zai-cli/skills/zai-cli) | Execute z.AI CLI providing vision, search, reader, and GitHub exploration via CLI and MCP. Use wh... | jeremylongshore |
+| [zai-cli](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/zai-cli/skills/zai-cli) | Z.AI CLI providing: - Vision: image/video analysis, OCR, UI-to-code, error diagnosis (GLM-4.6V) -... | jeremylongshore |
+| [zai-cli](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/zai-cli/skills/zai-cli) | Z.AI CLI providing: - Vision: image/video analysis, OCR, UI-to-code, error diagnosis (GLM-4.6V) -... | jeremylongshore |
 | [zapier-integration-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/zapier-integration-helper) | Assist with zapier integration helper operations. Auto-activating skill for Business Automation. ... | jeremylongshore |
 | [zapier-integration-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/19-business-automation/zapier-integration-helper) | Assist with zapier integration helper operations. Auto-activating skill for Business Automation. ... | jeremylongshore |
 | [zapier-make-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/workflow-automation/zapier-make-patterns) | No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-... | davila7 |
@@ -2708,7 +2708,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*1349 skills*
+*1351 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -3736,6 +3736,8 @@
 | [risk-analysis](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/general-legal-assistant/skills/risk-analysis) | Performs deep clause-by-clause risk scoring across 10 categories with poison pill detection and f... | jeremylongshore |
 | [risk-management-specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/risk-management-specialist) | Senior Risk Management specialist for medical device companies implementing ISO 14971 risk manage... | davila7 |
 | [roier-seo](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/web-development/roier-seo) | Technical SEO auditor and fixer. Runs Lighthouse/PageSpeed audits on websites or local dev server... | davila7 |
+| [run-interactive-cli-session](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/kobiton-automate/.codex/skills/run-interactive-cli-session) | Perform interactive testing on Kobiton devices using natural language. Translates user intents in... | jeremylongshore |
+| [run-interactive-cli-session](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/kobiton-automate/.codex/skills/run-interactive-cli-session) | Perform interactive testing on Kobiton devices using natural language. Translates user intents in... | jeremylongshore |
 | [runbook-generator](https://github.com/OneWave-AI/claude-skills/tree/main/runbook-generator) | Generates comprehensive operational runbooks for any system or process. Reads codebase, infrastru... | OneWave-AI |
 | [running-chaos-tests](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/chaos-engineering-toolkit/skills/running-chaos-tests) | Execute chaos engineering experiments to test system resilience. Use when performing specialized ... | jeremylongshore |
 | [running-chaos-tests](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/chaos-engineering-toolkit/skills/running-chaos-tests) | Execute chaos engineering experiments to test system resilience. Use when performing specialized ... | jeremylongshore |

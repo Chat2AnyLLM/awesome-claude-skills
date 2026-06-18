@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*374 skills in this domain*
+*376 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 246 skills
+- [Model Training](#model-training) - 248 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 23 skills
 - [Feature Engineering](#feature-engineering) - 21 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*246 skills*
+*248 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -71,6 +71,8 @@
 | [distributed-training-setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/distributed-training-setup) | Configure distributed training setup operations. Auto-activating skill for ML Training. Triggers ... | jeremylongshore |
 | [domain-driven-design](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/domain-driven-design) | Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and e... | davila7 |
 | [douyin-live-commerce-master](https://github.com/swaylq/master-skill/tree/main/prototypes/douyin-live-commerce-master/output) | 抖音直播带货 (商家 / 主播 / 直播间运营 + 千川 / 巨量引擎广告投放 + 选品 + 流量场承接 + 合规) (Douyin livestream commerce — 抖音直播带货运营... | swaylq |
+| [drive-automation-session](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/testing/kobiton-automate/.codex/skills/drive-automation-session) | Drive an already-reserved Kobiton device from a natural-language intent. Opens an automation Appi... | jeremylongshore |
+| [drive-automation-session](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/testing/kobiton-automate/.codex/skills/drive-automation-session) | Drive an already-reserved Kobiton device from a natural-language intent. Opens an automation Appi... | jeremylongshore |
 | [early-stopping-callback](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/early-stopping-callback) | Manage early stopping callback operations. Auto-activating skill for ML Training. Triggers on: ea... | jeremylongshore |
 | [early-stopping-callback](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/early-stopping-callback) | Manage early stopping callback operations. Auto-activating skill for ML Training. Triggers on: ea... | jeremylongshore |
 | [education-saas-master](https://github.com/swaylq/master-skill/tree/main/prototypes/education-saas-master/output) | 教育SaaS (Education SaaS) Master OS — automated mastery of Education SaaS: top builders' mental mod... | swaylq |

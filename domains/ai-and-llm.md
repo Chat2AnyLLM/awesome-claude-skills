@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*804 skills in this domain*
+*808 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -64,8 +64,8 @@
 | [anima-common-errors](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-common-errors) | Diagnose and fix common Anima SDK design-to-code errors. Use when encountering Figma token errors... | jeremylongshore |
 | [anth-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-enterprise-rbac) | Configure Anthropic enterprise organization management, Workspaces, and role-based access control... | jeremylongshore |
 | [anth-enterprise-rbac](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anthropic-pack/skills/anth-enterprise-rbac) | Configure Anthropic enterprise organization management, Workspaces, and role-based access control... | jeremylongshore |
-| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude C... | jeremylongshore |
-| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, trading bots, blockchain MCPs, or Claude C... | jeremylongshore |
+| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, and trading bots that read and write EVM c... | jeremylongshore |
+| [aomi-transact](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/aomi/skills/transact) | Build natural-language crypto agents, web3 assistants, and trading bots that read and write EVM c... | jeremylongshore |
 | [apex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/apex-recon) | Engineering lead reconnaissance — inventory the project before planning. Use when asked to "under... | jeremylongshore |
 | [apex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/apex-recon) | Engineering lead reconnaissance — inventory the project before planning. Use when asked to "under... | jeremylongshore |
 | [apollo-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/apollo-pack/skills/apollo-core-workflow-b) | Implement Apollo.io email sequences and outreach workflow. Use when building automated email camp... | jeremylongshore |
@@ -106,6 +106,8 @@
 | [brain-init](https://github.com/toroleapinc/claude-brain/tree/main/skills/brain-init) | Initialize brain sync network. Creates a Git remote for your brain and exports your current Claud... | toroleapinc |
 | [brain-join](https://github.com/toroleapinc/claude-brain/tree/main/skills/brain-join) | Join an existing brain sync network from another machine. Pulls the consolidated brain and merges... | toroleapinc |
 | [brain-log](https://github.com/toroleapinc/claude-brain/tree/main/skills/brain-log) | Show brain sync and evolution history. | toroleapinc |
+| [brain-save](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/governed-second-brain/skills/brain-save) | Saves a single fact, decision, pattern, or convention into your governed knowledge brain so it ca... | jeremylongshore |
+| [brain-save](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/governed-second-brain/skills/brain-save) | Saves a single fact, decision, pattern, or convention into your governed knowledge brain so it ca... | jeremylongshore |
 | [brain-share](https://github.com/toroleapinc/claude-brain/tree/main/skills/brain-share) | Share a skill, agent, or rule with the team by copying it to the shared namespace | toroleapinc |
 | [brain-shared-list](https://github.com/toroleapinc/claude-brain/tree/main/skills/brain-shared-list) | List all shared skills, agents, and rules in the brain network. | toroleapinc |
 | [brain-status](https://github.com/toroleapinc/claude-brain/tree/main/skills/brain-status) | Show brain inventory, sync status, and network info across all machines. | toroleapinc |
@@ -318,8 +320,8 @@
 | [frames](https://github.com/maxbaluev/accreted-intelligence/tree/main/plugins/claude/skills/frames) | Drain acc's deliberation queue — open/waiting brain_frames checkpointed by headless runs — via ac... | maxbaluev |
 | [game-changing-features](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/game-changing-features) | Find 10x product opportunities and high-leverage improvements. Use when user wants strategic prod... | davila7 |
 | [gan-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/gan-ai-automation) | Automate Gan AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
-| [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/gastown/skills/gastown) | Manage multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt com... | jeremylongshore |
-| [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/gastown/skills/gastown) | Manage multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt com... | jeremylongshore |
+| [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/community/gastown/skills/gastown) | Multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt commands, ... | jeremylongshore |
+| [gastown](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/community/gastown/skills/gastown) | Multi-agent orchestrator for Claude Code. Use when user mentions gastown, gas town, gt commands, ... | jeremylongshore |
 | [gcc](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/git/git-context-controller) | Git Context Controller (GCC) - Manages agent memory as a versioned file system under .GCC/. This ... | davila7 |
 | [gemini-logo-remover](https://github.com/bear2u/my-skills/tree/master/.claude/skills/gemini-logo-remover) | Remove Gemini logos, watermarks, or AI-generated image markers using OpenCV inpainting. Use this ... | bear2u |
 | [generating-conventional-commits](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/packages/devops-automation-pack/skills/generating-conventional-commits) | Execute generates conventional commit messages using AI. It analyzes code changes and suggests a ... | jeremylongshore |
@@ -358,6 +360,8 @@
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, an... | jeremylongshore |
 | [ink-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/ink-recon) | Content marketing reconnaissance — audit current content, SEO health, competitor content gaps, an... | jeremylongshore |
 | [insighto-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/insighto-ai-automation) | Automate Insighto AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [install](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/slack-channel/skills/install) | CCSC lifecycle command center — fresh install walkthrough, health doctor, verify round-trip, auto... | jeremylongshore |
+| [install](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/slack-channel/skills/install) | CCSC lifecycle command center — fresh install walkthrough, health doctor, verify round-trip, auto... | jeremylongshore |
 | [instantly-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-cost-tuning) | Optimize Instantly.ai costs through plan selection, account management, and usage monitoring. Use... | jeremylongshore |
 | [instantly-cost-tuning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-cost-tuning) | Optimize Instantly.ai costs through plan selection, account management, and usage monitoring. Use... | jeremylongshore |
 | [instantly-debug-bundle](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/instantly-pack/skills/instantly-debug-bundle) | Collect Instantly.ai debug evidence for support tickets and troubleshooting. Use when encounterin... | jeremylongshore |
