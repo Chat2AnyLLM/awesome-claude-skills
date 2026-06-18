@@ -20,8 +20,8 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 819 skills
-  - [Data Pipelines](#data-pipelines) - 530 skills
+- [Data & Analytics](#data-and-analytics) - 820 skills
+  - [Data Pipelines](#data-pipelines) - 531 skills
   - [Analytics & Queries](#analytics-and-queries) - 222 skills
   - [Data Warehousing](#data-warehousing) - 47 skills
   - [Data Science](#data-science) - 12 skills
@@ -5561,11 +5561,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*819 skills in this domain*
+*820 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*530 skills*
+*531 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5950,6 +5950,7 @@
 | [monitoring-cpu-usage](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/performance/cpu-usage-monitor/skills/monitoring-cpu-usage) | Monitor this skill enables AI assistant to monitor and analyze cpu usage patterns within applications. it helps ident... | jeremylongshore |
 | [monitoring-cpu-usage](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/performance/cpu-usage-monitor/skills/monitoring-cpu-usage) | Monitor this skill enables AI assistant to monitor and analyze cpu usage patterns within applications. it helps ident... | jeremylongshore |
 | [mvp-case-builder](https://github.com/OneWave-AI/claude-skills/tree/main/mvp-case-builder) | Construct statistical arguments for MVP/awards. Narrative framing, comparison to past winners, advanced metrics, coun... | OneWave-AI |
+| [n8n-multi-instance](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-multi-instance) | Use when an n8n-mcp account targets more than one n8n instance — i.e. the `n8n_instances` tool is available, the user... | czlonkowski |
 | [navan-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-core-workflow-b) | Manage Navan expense reporting, transaction data, and ERP synchronization. Use when building expense pipelines, autom... | jeremylongshore |
 | [navan-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/navan-pack/skills/navan-core-workflow-b) | Manage Navan expense reporting, transaction data, and ERP synchronization. Use when building expense pipelines, autom... | jeremylongshore |
 | [navan-data-sync](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/navan-pack/skills/navan-data-sync) | Implement incremental sync strategies for Navan BOOKING and TRANSACTION data with ETL pipeline patterns. Use when set... | jeremylongshore |
