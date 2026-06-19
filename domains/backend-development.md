@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4563 skills in this domain*
+*4564 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [APIs & REST](#apis-rest) - 2682 skills
+- [APIs & REST](#apis-rest) - 2683 skills
 - [Database Design](#database-design) - 1351 skills
 - [Request Handling](#request-handling) - 278 skills
 - [Web Frameworks](#web-frameworks) - 181 skills
@@ -22,7 +22,7 @@
 
 <a name="apis-rest"></a>
 ## APIs & REST
-*2682 skills*
+*2683 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1918,6 +1918,7 @@
 | [personal-tool-builder](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/personal-tool-builder) | Expert in building custom tools that solve your own problems first. The best products often start... | davila7 |
 | [personal-trainer-master](https://github.com/swaylq/master-skill/tree/main/prototypes/personal-trainer-master/output) | 健身私教 — 为客户设计、指导和推进个性化训练方案的专业工艺, 有别于团课教练、物理治疗师或运动队教练: (a) 训练方案设计与周期化 (线性 / 波动 / 板块周期化 Bompa & Haff... | swaylq |
 | [PhantomBuster Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/phantombuster-automation) | Automate lead generation, web scraping, and social media data extraction workflows through Phanto... | ComposioHQ |
+| [photography-master](https://github.com/swaylq/master-skill/tree/main/prototypes/photography-master/output) | 摄影 (摄影 (Photography) — 以静态影像为产出的视觉创作 + 服务行业：从看见 → 用光 → 构图 → 拍摄 → 后期 → 交付的认知操作系统，覆盖商业摄影 (commercia... | swaylq |
 | [plaid-fintech](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plaid-fintech) | Expert patterns for Plaid API integration including Link token flows, transactions sync, identity... | davila7 |
 | [plane](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/plane/skills/plane) | Plane is a team behavior observatory — synthesize Plane API data into observations about how team... | jeremylongshore |
 | [plane](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/plane/skills/plane) | Plane is a team behavior observatory — synthesize Plane API data into observations about how team... | jeremylongshore |
