@@ -29,7 +29,7 @@
   - [Time Series](#time-series) - 2 skills
 - [AI & LLM](#ai-and-llm) - 808 skills
 - [Tools & Utilities](#tools-and-utilities) - 637 skills
-- [Frontend Development](#frontend-development) - 575 skills
+- [Frontend Development](#frontend-development) - 576 skills
 - [Version Control & Collaboration](#version-control-and-collaboration) - 571 skills
 - [Machine Learning](#machine-learning) - 376 skills
   - [Model Training](#model-training) - 248 skills
@@ -7891,7 +7891,7 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*575 skills in this domain*
+*576 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8277,6 +8277,7 @@
 | [prism-stack](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/prism-stack) | Use when asked for framework-specific best practices, implementation guidelines for React/Vue/Svelte/Next.js, or stac... | jeremylongshore |
 | [prism-ui](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/prism-ui) | Implement a complete UI screen or feature from a Form visual spec. Use when asked to "build a page", "implement this ... | jeremylongshore |
 | [prism-ui](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/prism-ui) | Implement a complete UI screen or feature from a Form visual spec. Use when asked to "build a page", "implement this ... | jeremylongshore |
+| [product-ux-design-master](https://github.com/swaylq/master-skill/tree/main/prototypes/product-ux-design-master/output) | 产品设计 / UX 设计 (产品设计 / UX 设计 (Product Design / UX Design) — 数字产品的用户体验设计：从用户研究 → 信息架构 → 交互设计 → 视觉/UI → 可用性测试 → 设计系统的认知操作... | swaylq |
 | [Productboard Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/productboard-automation) | Automate product management workflows in Productboard -- manage features, notes, objectives, components, and releases... | ComposioHQ |
 | [project-planner](https://github.com/adrianpuiu/claude-skills-marketplace/tree/master/project-planner-skill) | Comprehensive project planning and documentation generator for software projects. Creates structured requirements doc... | adrianpuiu |
 | [proof-e2e](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/proof-e2e) | Build E2E test specs for critical user journeys — Playwright or Cypress, page objects, setup/teardown, CI config. Use... | jeremylongshore |
