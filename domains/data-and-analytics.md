@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*820 skills in this domain*
+*821 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 531 skills
+- [Data Pipelines](#data-pipelines) - 532 skills
 - [Analytics & Queries](#analytics-queries) - 222 skills
 - [Data Warehousing](#data-warehousing) - 47 skills
 - [Data Science](#data-science) - 12 skills
@@ -20,7 +20,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*531 skills*
+*532 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -449,6 +449,7 @@
 | [prefect-flow-builder](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/11-data-pipelines/prefect-flow-builder) | Build prefect flow builder operations. Auto-activating skill for Data Pipelines. Triggers on: pre... | jeremylongshore |
 | [prefect-flow-builder](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/11-data-pipelines/prefect-flow-builder) | Build prefect flow builder operations. Auto-activating skill for Data Pipelines. Triggers on: pre... | jeremylongshore |
 | [programmatic-seo](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/programmatic-seo) | When the user wants to create SEO-driven pages at scale using templates and data. Also use when t... | davila7 |
+| [project-artifact](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/project-artifact/skills/project-artifact) | Generate and publish a project status artifact — an opinionated, tabbed status page for a project... | anthropics |
 | [pysam](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pysam) | Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences... | K-Dense-AI |
 | [pysam](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/pysam) | Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences... | davila7 |
 | [pytdc](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/pytdc) | Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI), benchmarks, sc... | K-Dense-AI |
