@@ -2,12 +2,12 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 4564 skills
+- [Backend Development](#backend-development) - 4565 skills
   - [APIs & REST](#apis-and-rest) - 2683 skills
   - [Database Design](#database-design) - 1351 skills
   - [Request Handling](#request-handling) - 278 skills
   - [Web Frameworks](#web-frameworks) - 181 skills
-  - [Authentication](#authentication) - 23 skills
+  - [Authentication](#authentication) - 24 skills
   - [Message Queues](#message-queues) - 20 skills
   - [Microservices](#microservices) - 17 skills
   - [Caching](#caching) - 11 skills
@@ -20,33 +20,33 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 821 skills
-  - [Data Pipelines](#data-pipelines) - 532 skills
-  - [Analytics & Queries](#analytics-and-queries) - 222 skills
+- [Data & Analytics](#data-and-analytics) - 823 skills
+  - [Data Pipelines](#data-pipelines) - 533 skills
+  - [Analytics & Queries](#analytics-and-queries) - 223 skills
   - [Data Warehousing](#data-warehousing) - 47 skills
   - [Data Science](#data-science) - 12 skills
   - [Business Intelligence](#business-intelligence) - 6 skills
   - [Time Series](#time-series) - 2 skills
-- [AI & LLM](#ai-and-llm) - 808 skills
+- [AI & LLM](#ai-and-llm) - 813 skills
 - [Tools & Utilities](#tools-and-utilities) - 637 skills
 - [Frontend Development](#frontend-development) - 576 skills
-- [Version Control & Collaboration](#version-control-and-collaboration) - 571 skills
-- [Machine Learning](#machine-learning) - 376 skills
-  - [Model Training](#model-training) - 248 skills
+- [Version Control & Collaboration](#version-control-and-collaboration) - 572 skills
+- [Machine Learning](#machine-learning) - 377 skills
+  - [Model Training](#model-training) - 249 skills
   - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
   - [Model Evaluation](#model-evaluation) - 23 skills
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 12 skills
 - [Testing & Quality](#testing-and-quality) - 373 skills
 - [Security](#security) - 285 skills
-- [Uncategorized](#uncategorized) - 265 skills
+- [Uncategorized](#uncategorized) - 266 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
 
 <a name="backend-development"></a>
 # Backend Development
 
-*4564 skills in this domain*
+*4565 skills in this domain*
 
 <a name="apis-and-rest"></a>
 ## APIs & REST
@@ -4571,7 +4571,7 @@
 
 <a name="authentication"></a>
 ## Authentication
-*23 skills*
+*24 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4579,6 +4579,7 @@
 | [anima-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-install-auth) | Install the Anima SDK and configure authentication for Figma-to-code generation. Use when setting up design-to-code a... | jeremylongshore |
 | [apex-plan](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/apex-plan) | Plan and scope a project — discovery, challenge assumptions, present S/M/L options with token and cost estimates. Use... | jeremylongshore |
 | [apex-plan](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/apex-plan) | Plan and scope a project — discovery, challenge assumptions, present S/M/L options with token and cost estimates. Use... | jeremylongshore |
+| [ax-repo](https://github.com/Necmttn/ax/tree/main/skills/ax-repo) | Star the ax repo, file an issue / bug report, or fork-and-open-a-PR against github.com/Necmttn/ax on the user's behal... | Necmttn |
 | [clerk-auth](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/clerk-auth) | Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding au... | davila7 |
 | [clerk-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-core-workflow-b) | Implement session management and middleware with Clerk. Use when managing user sessions, configuring route protection... | jeremylongshore |
 | [clerk-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-core-workflow-b) | Implement session management and middleware with Clerk. Use when managing user sessions, configuring route protection... | jeremylongshore |
@@ -5563,11 +5564,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*821 skills in this domain*
+*823 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*532 skills*
+*533 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -5691,6 +5692,7 @@
 | [cortex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/cortex-recon) | ML reconnaissance — inventory all models, pipelines, data sources, and monitoring. Use when asked "what ML do we have... | jeremylongshore |
 | [cortex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/cortex-recon) | ML reconnaissance — inventory all models, pipelines, data sources, and monitoring. Use when asked "what ML do we have... | jeremylongshore |
 | [crm-sales-momentum](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/crm-sales-momentum) | Analyze HubSpot pipeline momentum — deal velocity, stage conversions, win/loss patterns, and stall detection | cognyai |
+| [crypto-onchain-trading-master](https://github.com/swaylq/master-skill/tree/main/prototypes/crypto-onchain-trading-master/output) | 加密链上交易 (加密 / 链上交易 (Crypto & On-chain Trading) — 以加密资产为标的、强调链上活动的主动交易认知操作系统：从「看叙事/选赛道 → 找标的 → 链上尽调与风控 → 选场所(DEX/CEX/链上... | swaylq |
 | [cto-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/cto-advisor) | Technical leadership guidance for engineering teams, architecture decisions, and technology strategy. Includes tech d... | davila7 |
 | [cursor-compliance-audit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-compliance-audit) | Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence collection, and remedi... | jeremylongshore |
 | [cursor-compliance-audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-compliance-audit) | Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence collection, and remedi... | jeremylongshore |
@@ -6106,7 +6108,7 @@
 
 <a name="analytics-and-queries"></a>
 ## Analytics & Queries
-*222 skills*
+*223 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6296,6 +6298,7 @@
 | [setting-up-log-aggregation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/log-aggregation-setup/skills/setting-up-log-aggregation) | Execute use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with phrases like "setup lo... | jeremylongshore |
 | [setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/promptbook/skills/setup) | Set up Promptbook — connect your account to start tracking builds. Use when the user wants to enable session analytic... | jeremylongshore |
 | [setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/promptbook/skills/setup) | Set up Promptbook — connect your account to start tracking builds. Use when the user wants to enable session analytic... | jeremylongshore |
+| [ship-checklist](https://github.com/Necmttn/ax/tree/main/skills/ship-checklist) | Definition-of-done checklist for shipping a new write, signal, table, edge, or query to the ax graph. Use when adding... | Necmttn |
 | [shopify-graphql-cost-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-graphql-cost-optimizer) | Master Shopify's calculated query cost system to avoid throttling. Use when hitting THROTTLED errors, optimizing Grap... | jeremylongshore |
 | [shopify-graphql-cost-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-graphql-cost-optimizer) | Master Shopify's calculated query cost system to avoid throttling. Use when hitting THROTTLED errors, optimizing Grap... | jeremylongshore |
 | [sql-query-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/sql-query-optimizer) | Optimize sql query optimizer operations. Auto-activating skill for Data Analytics. Triggers on: sql query optimizer, ... | jeremylongshore |
@@ -6431,7 +6434,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*808 skills in this domain*
+*813 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6518,6 +6521,7 @@
 | [atlas-changelog](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-changelog) | Maintain per-repo and cross-repo changelogs — append structured entries after agent work. Use when asked to "log this... | jeremylongshore |
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail helper, audit trail hel... | jeremylongshore |
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail helper, audit trail hel... | jeremylongshore |
+| [ax-narrate](https://github.com/Necmttn/ax/tree/main/skills/narrate) | Write the agent-generated narration of the current session - the reviewable story of what changed, including what nev... | Necmttn |
 | [background](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/background) | Use when the user wants to see, inspect, cancel, or prune background agents fired during prior chain runs. Read/manag... | jeremylongshore |
 | [background](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/background) | Use when the user wants to see, inspect, cancel, or prune background agents fired during prior chain runs. Read/manag... | jeremylongshore |
 | [beaconchain-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/beaconchain-automation) | Automate Beaconchain tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -6985,6 +6989,7 @@
 | [raise-negotiation-prep](https://github.com/OneWave-AI/claude-skills/tree/main/raise-negotiation-prep) | Market salary research, accomplishment quantification, negotiation scripts, total compensation analysis, timing strat... | OneWave-AI |
 | [raisely-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/raisely-automation) | Automate Raisely tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [recallai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/recallai-automation) | Automate Recallai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [release-announcement](https://github.com/Necmttn/ax/tree/main/skills/release-announcement) | Draft or revise ax release announcements and website changelog pages. Triggers when the user says "write release note... | Necmttn |
 | [repairshopr-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/repairshopr-automation) | Automate Repairshopr tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitHub repos for evidenc... | jeremylongshore |
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitHub repos for evidenc... | jeremylongshore |
@@ -7043,6 +7048,8 @@
 | [retellai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-upgrade-migration) | Retell AI upgrade migration — AI voice agent and phone call automation. Use when working with Retell AI for voice age... | jeremylongshore |
 | [retellai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-webhooks-events) | Retell AI webhooks events — AI voice agent and phone call automation. Use when working with Retell AI for voice agent... | jeremylongshore |
 | [retellai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-webhooks-events) | Retell AI webhooks events — AI voice agent and phone call automation. Use when working with Retell AI for voice agent... | jeremylongshore |
+| [retro](https://github.com/Necmttn/ax/tree/main/skills/retro) | Guided experiment-loop retrospective over the ax agent-experience graph. Walks the user through their open proposals ... | Necmttn |
+| [retro-meta](https://github.com/Necmttn/ax/tree/main/skills/retro-meta) | Deep retro of retros - investigation pass that surfaces improvements across older retros and the current ax setup. Ex... | Necmttn |
 | [rev-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/rev-ai-automation) | Automate Rev AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [review-agent-setup](https://github.com/wshobson/agents/tree/main/plugins/review-agent-governance/skills/review-agent-setup) | Configure human-in-the-loop gating for AI agent review actions in Claude Code. Use when setting up a project where an... | wshobson |
 | [review-core](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/review-core) | Provides review-workflow scaffolding for context, evidence, and output. Use at the start of any detailed review to en... | athola |
@@ -7086,6 +7093,7 @@
 | [session-management](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/session-management) | Manages Claude Code sessions with naming, checkpointing, and resume strategies. Use when organizing long-running work... | athola |
 | [session-replay](https://github.com/athola/claude-night-market/tree/master/plugins/scribe/skills/session-replay) | Converts a Claude Code session JSONL file into an animated GIF terminal replay. Use when creating demos or visual evi... | athola |
 | [session-to-post](https://github.com/athola/claude-night-market/tree/master/plugins/scribe/skills/session-to-post) | Converts a Claude Code session into a blog post, case study, or Reddit post. Use when publishing dev blog content or ... | athola |
+| [setup](https://github.com/Necmttn/ax/tree/main/skills/setup) | Install + verify ax (the agent experience layer). Triggers when the user says "install ax", "set up ax", "ax not foun... | Necmttn |
 | [simulating-flash-loans](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/flash-loan-simulator/skills/simulating-flash-loans) | Simulate flash loan strategies with profitability calculations and risk assessment across Aave, dYdX, and Balancer. U... | jeremylongshore |
 | [simulating-flash-loans](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/flash-loan-simulator/skills/simulating-flash-loans) | Simulate flash loan strategies with profitability calculations and risk assessment across Aave, dYdX, and Balancer. U... | jeremylongshore |
 | [sitespeakai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/sitespeakai-automation) | Automate Sitespeakai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -8476,7 +8484,7 @@
 <a name="version-control-and-collaboration"></a>
 # Version Control & Collaboration
 
-*571 skills in this domain*
+*572 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -8520,6 +8528,7 @@
 | [asana-task-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/asana-task-creator) | Create asana task creator operations. Auto-activating skill for Enterprise Workflows. Triggers on: asana task creator... | jeremylongshore |
 | [attio-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/attio-pack/skills/attio-reference-architecture) | Production reference architecture for Attio CRM integrations -- layered project structure, sync patterns, webhook pro... | jeremylongshore |
 | [attio-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/attio-pack/skills/attio-reference-architecture) | Production reference architecture for Attio CRM integrations -- layered project structure, sync patterns, webhook pro... | jeremylongshore |
+| [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) | Reconstruct the workflow behind a past artifact - "what made X work" / "extract workflow from <date|sha>" / "how did ... | Necmttn |
 | [backlog-grooming-assistant](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/backlog-grooming-assistant) | Execute backlog grooming assistant operations. Auto-activating skill for Enterprise Workflows. Triggers on: backlog g... | jeremylongshore |
 | [backlog-grooming-assistant](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/backlog-grooming-assistant) | Execute backlog grooming assistant operations. Auto-activating skill for Enterprise Workflows. Triggers on: backlog g... | jeremylongshore |
 | [batch-file-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/batch-file-processor) | Process batch file processor operations. Auto-activating skill for Business Automation. Triggers on: batch file proce... | jeremylongshore |
@@ -9055,11 +9064,11 @@
 <a name="machine-learning"></a>
 # Machine Learning
 
-*376 skills in this domain*
+*377 skills in this domain*
 
 <a name="model-training"></a>
 ## Model Training
-*248 skills*
+*249 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9116,6 +9125,7 @@
 | [early-stopping-callback](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/early-stopping-callback) | Manage early stopping callback operations. Auto-activating skill for ML Training. Triggers on: early stopping callbac... | jeremylongshore |
 | [early-stopping-callback](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/early-stopping-callback) | Manage early stopping callback operations. Auto-activating skill for ML Training. Triggers on: early stopping callbac... | jeremylongshore |
 | [education-saas-master](https://github.com/swaylq/master-skill/tree/main/prototypes/education-saas-master/output) | 教育SaaS (Education SaaS) Master OS — automated mastery of Education SaaS: top builders' mental models, tool stack, cur... | swaylq |
+| [efficient-dispatch](https://github.com/Necmttn/ax/tree/main/skills/efficient-dispatch) | Model-routing orchestration for any expensive frontier model (Fable, Opus, GPT-5.x) - the main model keeps judgment a... | Necmttn |
 | [ElevenLabs Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/elevenlabs-automation) | Automate ElevenLabs text-to-speech workflows -- generate speech from text, browse and inspect voices, check subscript... | ComposioHQ |
 | [email-drafting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/executive-assistant-skills/skills/email-drafting) | Draft email replies for Gonto's Gmail accounts (m@gon.to, gonto@hypergrowthpartners.com). Handles intro acceptances, ... | jeremylongshore |
 | [email-drafting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/executive-assistant-skills/skills/email-drafting) | Draft email replies for Gonto's Gmail accounts (m@gon.to, gonto@hypergrowthpartners.com). Handles intro acceptances, ... | jeremylongshore |
@@ -10145,7 +10155,7 @@
 <a name="uncategorized"></a>
 # Uncategorized
 
-*265 skills in this domain*
+*266 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10180,6 +10190,7 @@
 | [deal-review-framework](https://github.com/OneWave-AI/claude-skills/tree/main/deal-review-framework) | Structured deal assessment using MEDDIC, BANT. Risk scoring, required evidence by stage, red flag detection, coaching... | OneWave-AI |
 | [debate-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/debate-simulator) |  | OneWave-AI |
 | [dig](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/dig) | Refines an active research session by drilling deeper into a subtopic. Use after tome:research to narrow results to a... | athola |
+| [dojo](https://github.com/Necmttn/ax/tree/main/skills/dojo) |  | Necmttn |
 | [dong-yuhui-dongfangzhenxuan-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/short-video-ads-master/output/sub-skills/dong-yuhui-dongfangzhenxuan) | 董宇辉 / 东方甄选视角. 内容驱动直播代表. 调用此 skill 时, 用东方甄选「文化带货」框架做内容驱动直播决策. | swaylq |
 | [duan-jianye](https://github.com/swaylq/master-skill/tree/main/prototypes/bazi-metaphysics-master/output/sub-skills/duan-jianye) | 段建业视角. 大陆当代盲派代表 / 北方盲派核心 / 师承郝金阳口诀派 / 字卜文 / 体系化《段氏理象学》编撰者. 把"看八字"从"取格定用神"的子平静态结构, 换成"取象 + 主宾体用 + 虚实 + 应期"的盲派动态象法. 用途:... | swaylq |
 | [echo](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo) | User researcher — interviews, personas, Jobs-to-Be-Done, and customer feedback synthesis. | jeremylongshore |

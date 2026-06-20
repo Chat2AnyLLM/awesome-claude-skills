@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*571 skills in this domain*
+*572 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -51,6 +51,7 @@
 | [asana-task-creator](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/asana-task-creator) | Create asana task creator operations. Auto-activating skill for Enterprise Workflows. Triggers on... | jeremylongshore |
 | [attio-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/attio-pack/skills/attio-reference-architecture) | Production reference architecture for Attio CRM integrations -- layered project structure, sync p... | jeremylongshore |
 | [attio-reference-architecture](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/attio-pack/skills/attio-reference-architecture) | Production reference architecture for Attio CRM integrations -- layered project structure, sync p... | jeremylongshore |
+| [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) | Reconstruct the workflow behind a past artifact - "what made X work" / "extract workflow from <da... | Necmttn |
 | [backlog-grooming-assistant](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/backlog-grooming-assistant) | Execute backlog grooming assistant operations. Auto-activating skill for Enterprise Workflows. Tr... | jeremylongshore |
 | [backlog-grooming-assistant](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/backlog-grooming-assistant) | Execute backlog grooming assistant operations. Auto-activating skill for Enterprise Workflows. Tr... | jeremylongshore |
 | [batch-file-processor](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/19-business-automation/batch-file-processor) | Process batch file processor operations. Auto-activating skill for Business Automation. Triggers ... | jeremylongshore |

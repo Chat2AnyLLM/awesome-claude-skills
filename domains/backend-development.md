@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*4564 skills in this domain*
+*4565 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -15,7 +15,7 @@
 - [Database Design](#database-design) - 1351 skills
 - [Request Handling](#request-handling) - 278 skills
 - [Web Frameworks](#web-frameworks) - 181 skills
-- [Authentication](#authentication) - 23 skills
+- [Authentication](#authentication) - 24 skills
 - [Message Queues](#message-queues) - 20 skills
 - [Microservices](#microservices) - 17 skills
 - [Caching](#caching) - 11 skills
@@ -4543,7 +4543,7 @@
 
 <a name="authentication"></a>
 ## Authentication
-*23 skills*
+*24 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4551,6 +4551,7 @@
 | [anima-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/anima-pack/skills/anima-install-auth) | Install the Anima SDK and configure authentication for Figma-to-code generation. Use when setting... | jeremylongshore |
 | [apex-plan](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/apex-plan) | Plan and scope a project — discovery, challenge assumptions, present S/M/L options with token and... | jeremylongshore |
 | [apex-plan](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/apex-plan) | Plan and scope a project — discovery, challenge assumptions, present S/M/L options with token and... | jeremylongshore |
+| [ax-repo](https://github.com/Necmttn/ax/tree/main/skills/ax-repo) | Star the ax repo, file an issue / bug report, or fork-and-open-a-PR against github.com/Necmttn/ax... | Necmttn |
 | [clerk-auth](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/clerk-auth) | Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync... | davila7 |
 | [clerk-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-core-workflow-b) | Implement session management and middleware with Clerk. Use when managing user sessions, configur... | jeremylongshore |
 | [clerk-core-workflow-b](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/clerk-pack/skills/clerk-core-workflow-b) | Implement session management and middleware with Clerk. Use when managing user sessions, configur... | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*376 skills in this domain*
+*377 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Model Training](#model-training) - 248 skills
+- [Model Training](#model-training) - 249 skills
 - [Hyperparameter Tuning](#hyperparameter-tuning) - 72 skills
 - [Model Evaluation](#model-evaluation) - 23 skills
 - [Feature Engineering](#feature-engineering) - 21 skills
@@ -19,7 +19,7 @@
 
 <a name="model-training"></a>
 ## Model Training
-*248 skills*
+*249 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -76,6 +76,7 @@
 | [early-stopping-callback](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/07-ml-training/early-stopping-callback) | Manage early stopping callback operations. Auto-activating skill for ML Training. Triggers on: ea... | jeremylongshore |
 | [early-stopping-callback](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/07-ml-training/early-stopping-callback) | Manage early stopping callback operations. Auto-activating skill for ML Training. Triggers on: ea... | jeremylongshore |
 | [education-saas-master](https://github.com/swaylq/master-skill/tree/main/prototypes/education-saas-master/output) | 教育SaaS (Education SaaS) Master OS — automated mastery of Education SaaS: top builders' mental mod... | swaylq |
+| [efficient-dispatch](https://github.com/Necmttn/ax/tree/main/skills/efficient-dispatch) | Model-routing orchestration for any expensive frontier model (Fable, Opus, GPT-5.x) - the main mo... | Necmttn |
 | [ElevenLabs Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/elevenlabs-automation) | Automate ElevenLabs text-to-speech workflows -- generate speech from text, browse and inspect voi... | ComposioHQ |
 | [email-drafting](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/executive-assistant-skills/skills/email-drafting) | Draft email replies for Gonto's Gmail accounts (m@gon.to, gonto@hypergrowthpartners.com). Handles... | jeremylongshore |
 | [email-drafting](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/executive-assistant-skills/skills/email-drafting) | Draft email replies for Gonto's Gmail accounts (m@gon.to, gonto@hypergrowthpartners.com). Handles... | jeremylongshore |

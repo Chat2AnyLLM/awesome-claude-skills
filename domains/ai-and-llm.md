@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*808 skills in this domain*
+*813 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -94,6 +94,7 @@
 | [atlas-changelog](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/atlas-changelog) | Maintain per-repo and cross-repo changelogs — append structured entries after agent work. Use whe... | jeremylongshore |
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail hel... | jeremylongshore |
 | [audit-trail-helper](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/20-enterprise-workflows/audit-trail-helper) | Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail hel... | jeremylongshore |
+| [ax-narrate](https://github.com/Necmttn/ax/tree/main/skills/narrate) | Write the agent-generated narration of the current session - the reviewable story of what changed... | Necmttn |
 | [background](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/hyperflow/skills/background) | Use when the user wants to see, inspect, cancel, or prune background agents fired during prior ch... | jeremylongshore |
 | [background](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/hyperflow/skills/background) | Use when the user wants to see, inspect, cancel, or prune background agents fired during prior ch... | jeremylongshore |
 | [beaconchain-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/beaconchain-automation) | Automate Beaconchain tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -561,6 +562,7 @@
 | [raise-negotiation-prep](https://github.com/OneWave-AI/claude-skills/tree/main/raise-negotiation-prep) | Market salary research, accomplishment quantification, negotiation scripts, total compensation an... | OneWave-AI |
 | [raisely-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/raisely-automation) | Automate Raisely tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [recallai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/recallai-automation) | Automate Recallai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
+| [release-announcement](https://github.com/Necmttn/ax/tree/main/skills/release-announcement) | Draft or revise ax release announcements and website changelog pages. Triggers when the user says... | Necmttn |
 | [repairshopr-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/repairshopr-automation) | Automate Repairshopr tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitH... | jeremylongshore |
 | [repo-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/mcp/x-bug-triage/skills/repo-scanning) | Internal process for the repo-scanner agent. Defines the step-by-step procedure for scanning GitH... | jeremylongshore |
@@ -619,6 +621,8 @@
 | [retellai-upgrade-migration](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-upgrade-migration) | Retell AI upgrade migration — AI voice agent and phone call automation. Use when working with Ret... | jeremylongshore |
 | [retellai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-webhooks-events) | Retell AI webhooks events — AI voice agent and phone call automation. Use when working with Retel... | jeremylongshore |
 | [retellai-webhooks-events](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/retellai-pack/skills/retellai-webhooks-events) | Retell AI webhooks events — AI voice agent and phone call automation. Use when working with Retel... | jeremylongshore |
+| [retro](https://github.com/Necmttn/ax/tree/main/skills/retro) | Guided experiment-loop retrospective over the ax agent-experience graph. Walks the user through t... | Necmttn |
+| [retro-meta](https://github.com/Necmttn/ax/tree/main/skills/retro-meta) | Deep retro of retros - investigation pass that surfaces improvements across older retros and the ... | Necmttn |
 | [rev-ai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/rev-ai-automation) | Automate Rev AI tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [review-agent-setup](https://github.com/wshobson/agents/tree/main/plugins/review-agent-governance/skills/review-agent-setup) | Configure human-in-the-loop gating for AI agent review actions in Claude Code. Use when setting u... | wshobson |
 | [review-core](https://github.com/athola/claude-night-market/tree/master/plugins/imbue/skills/review-core) | Provides review-workflow scaffolding for context, evidence, and output. Use at the start of any d... | athola |
@@ -662,6 +666,7 @@
 | [session-management](https://github.com/athola/claude-night-market/tree/master/plugins/sanctum/skills/session-management) | Manages Claude Code sessions with naming, checkpointing, and resume strategies. Use when organizi... | athola |
 | [session-replay](https://github.com/athola/claude-night-market/tree/master/plugins/scribe/skills/session-replay) | Converts a Claude Code session JSONL file into an animated GIF terminal replay. Use when creating... | athola |
 | [session-to-post](https://github.com/athola/claude-night-market/tree/master/plugins/scribe/skills/session-to-post) | Converts a Claude Code session into a blog post, case study, or Reddit post. Use when publishing ... | athola |
+| [setup](https://github.com/Necmttn/ax/tree/main/skills/setup) | Install + verify ax (the agent experience layer). Triggers when the user says "install ax", "set ... | Necmttn |
 | [simulating-flash-loans](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/crypto/flash-loan-simulator/skills/simulating-flash-loans) | Simulate flash loan strategies with profitability calculations and risk assessment across Aave, d... | jeremylongshore |
 | [simulating-flash-loans](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/crypto/flash-loan-simulator/skills/simulating-flash-loans) | Simulate flash loan strategies with profitability calculations and risk assessment across Aave, d... | jeremylongshore |
 | [sitespeakai-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/sitespeakai-automation) | Automate Sitespeakai tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |

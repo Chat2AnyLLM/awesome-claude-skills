@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*265 skills in this domain*
+*266 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -42,6 +42,7 @@
 | [deal-review-framework](https://github.com/OneWave-AI/claude-skills/tree/main/deal-review-framework) | Structured deal assessment using MEDDIC, BANT. Risk scoring, required evidence by stage, red flag... | OneWave-AI |
 | [debate-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/debate-simulator) |  | OneWave-AI |
 | [dig](https://github.com/athola/claude-night-market/tree/master/plugins/tome/skills/dig) | Refines an active research session by drilling deeper into a subtopic. Use after tome:research to... | athola |
+| [dojo](https://github.com/Necmttn/ax/tree/main/skills/dojo) |  | Necmttn |
 | [dong-yuhui-dongfangzhenxuan-perspective](https://github.com/swaylq/master-skill/tree/main/prototypes/short-video-ads-master/output/sub-skills/dong-yuhui-dongfangzhenxuan) | 董宇辉 / 东方甄选视角. 内容驱动直播代表. 调用此 skill 时, 用东方甄选「文化带货」框架做内容驱动直播决策. | swaylq |
 | [duan-jianye](https://github.com/swaylq/master-skill/tree/main/prototypes/bazi-metaphysics-master/output/sub-skills/duan-jianye) | 段建业视角. 大陆当代盲派代表 / 北方盲派核心 / 师承郝金阳口诀派 / 字卜文 / 体系化《段氏理象学》编撰者. 把"看八字"从"取格定用神"的子平静态结构, 换成"取象 + 主宾体用 + ... | swaylq |
 | [echo](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/echo) | User researcher — interviews, personas, Jobs-to-Be-Done, and customer feedback synthesis. | jeremylongshore |

@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*821 skills in this domain*
+*823 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,8 +11,8 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 532 skills
-- [Analytics & Queries](#analytics-queries) - 222 skills
+- [Data Pipelines](#data-pipelines) - 533 skills
+- [Analytics & Queries](#analytics-queries) - 223 skills
 - [Data Warehousing](#data-warehousing) - 47 skills
 - [Data Science](#data-science) - 12 skills
 - [Business Intelligence](#business-intelligence) - 6 skills
@@ -20,7 +20,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*532 skills*
+*533 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -144,6 +144,7 @@
 | [cortex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/cortex-recon) | ML reconnaissance — inventory all models, pipelines, data sources, and monitoring. Use when asked... | jeremylongshore |
 | [cortex-recon](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/cortex-recon) | ML reconnaissance — inventory all models, pipelines, data sources, and monitoring. Use when asked... | jeremylongshore |
 | [crm-sales-momentum](https://github.com/cognyai/claude-code-marketing-skills/tree/main/skills/crm-sales-momentum) | Analyze HubSpot pipeline momentum — deal velocity, stage conversions, win/loss patterns, and stal... | cognyai |
+| [crypto-onchain-trading-master](https://github.com/swaylq/master-skill/tree/main/prototypes/crypto-onchain-trading-master/output) | 加密链上交易 (加密 / 链上交易 (Crypto & On-chain Trading) — 以加密资产为标的、强调链上活动的主动交易认知操作系统：从「看叙事/选赛道 → 找标的 → 链上尽调... | swaylq |
 | [cto-advisor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/cto-advisor) | Technical leadership guidance for engineering teams, architecture decisions, and technology strat... | davila7 |
 | [cursor-compliance-audit](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-compliance-audit) | Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence co... | jeremylongshore |
 | [cursor-compliance-audit](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/cursor-pack/skills/cursor-compliance-audit) | Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence co... | jeremylongshore |
@@ -559,7 +560,7 @@
 
 <a name="analytics-queries"></a>
 ## Analytics & Queries
-*222 skills*
+*223 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -749,6 +750,7 @@
 | [setting-up-log-aggregation](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/devops/log-aggregation-setup/skills/setting-up-log-aggregation) | Execute use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with ph... | jeremylongshore |
 | [setup](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/business-tools/promptbook/skills/setup) | Set up Promptbook — connect your account to start tracking builds. Use when the user wants to ena... | jeremylongshore |
 | [setup](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/business-tools/promptbook/skills/setup) | Set up Promptbook — connect your account to start tracking builds. Use when the user wants to ena... | jeremylongshore |
+| [ship-checklist](https://github.com/Necmttn/ax/tree/main/skills/ship-checklist) | Definition-of-done checklist for shipping a new write, signal, table, edge, or query to the ax gr... | Necmttn |
 | [shopify-graphql-cost-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-graphql-cost-optimizer) | Master Shopify's calculated query cost system to avoid throttling. Use when hitting THROTTLED err... | jeremylongshore |
 | [shopify-graphql-cost-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/shopify-pack/skills/shopify-graphql-cost-optimizer) | Master Shopify's calculated query cost system to avoid throttling. Use when hitting THROTTLED err... | jeremylongshore |
 | [sql-query-optimizer](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/skills/12-data-analytics/sql-query-optimizer) | Optimize sql query optimizer operations. Auto-activating skill for Data Analytics. Triggers on: s... | jeremylongshore |
