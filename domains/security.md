@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*285 skills in this domain*
+*286 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -109,6 +109,7 @@
 | [env-secret-detector](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/env-secret-detector) | Detect env secret detector operations. Auto-activating skill for Security Fundamentals. Triggers ... | jeremylongshore |
 | [fda-consultant-specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/fda-consultant-specialist) | Senior FDA consultant and specialist for medical device companies including HIPAA compliance and ... | davila7 |
 | [find-bugs](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/find-bugs) | Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when as... | davila7 |
+| [find-skill](https://github.com/oleksbard/claude-find-skill/tree/main/find-skill) | Use when the user wants to find or discover a Claude Code skill that is NOT already installed — e... | oleksbard |
 | [flyio-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flyio-pack/skills/flyio-security-basics) | Apply Fly.io security best practices for secrets management, private networking, TLS certificates... | jeremylongshore |
 | [flyio-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flyio-pack/skills/flyio-security-basics) | Apply Fly.io security best practices for secrets management, private networking, TLS certificates... | jeremylongshore |
 | [fondo-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-install-auth) | Set up Fondo account and configure integrations with Gusto, QuickBooks, and bank accounts for aut... | jeremylongshore |

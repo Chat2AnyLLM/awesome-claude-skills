@@ -38,7 +38,7 @@
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 12 skills
 - [Testing & Quality](#testing-and-quality) - 373 skills
-- [Security](#security) - 285 skills
+- [Security](#security) - 286 skills
 - [Uncategorized](#uncategorized) - 266 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
@@ -9862,7 +9862,7 @@
 <a name="security"></a>
 # Security
 
-*285 skills in this domain*
+*286 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -9964,6 +9964,7 @@
 | [env-secret-detector](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/skills/03-security-fundamentals/env-secret-detector) | Detect env secret detector operations. Auto-activating skill for Security Fundamentals. Triggers on: env secret detec... | jeremylongshore |
 | [fda-consultant-specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/fda-consultant-specialist) | Senior FDA consultant and specialist for medical device companies including HIPAA compliance and requirement manageme... | davila7 |
 | [find-bugs](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/sentry/find-bugs) | Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review change... | davila7 |
+| [find-skill](https://github.com/oleksbard/claude-find-skill/tree/main/find-skill) | Use when the user wants to find or discover a Claude Code skill that is NOT already installed — e.g. "is there a skil... | oleksbard |
 | [flyio-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/flyio-pack/skills/flyio-security-basics) | Apply Fly.io security best practices for secrets management, private networking, TLS certificates, and deploy token s... | jeremylongshore |
 | [flyio-security-basics](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/flyio-pack/skills/flyio-security-basics) | Apply Fly.io security best practices for secrets management, private networking, TLS certificates, and deploy token s... | jeremylongshore |
 | [fondo-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/fondo-pack/skills/fondo-install-auth) | Set up Fondo account and configure integrations with Gusto, QuickBooks, and bank accounts for automated startup bookk... | jeremylongshore |
