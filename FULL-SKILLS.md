@@ -20,8 +20,8 @@
   - [Networking](#networking) - 8 skills
   - [Infrastructure as Code](#infrastructure-as-code) - 6 skills
   - [Service Mesh](#service-mesh) - 4 skills
-- [Data & Analytics](#data-and-analytics) - 823 skills
-  - [Data Pipelines](#data-pipelines) - 533 skills
+- [Data & Analytics](#data-and-analytics) - 824 skills
+  - [Data Pipelines](#data-pipelines) - 534 skills
   - [Analytics & Queries](#analytics-and-queries) - 223 skills
   - [Data Warehousing](#data-warehousing) - 47 skills
   - [Data Science](#data-science) - 12 skills
@@ -5564,11 +5564,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*823 skills in this domain*
+*824 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*533 skills*
+*534 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -6094,6 +6094,7 @@
 | [veeva-data-handling](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/veeva-pack/skills/veeva-data-handling) | Veeva Vault data handling for enterprise operations. Use when implementing advanced Veeva Vault patterns. Trigger: "v... | jeremylongshore |
 | [vigil-instrument](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/ai-agency/tonone/skills/vigil-instrument) | Instrument a service with OpenTelemetry — RED metrics, structured logs, distributed tracing, and health checks. Outpu... | jeremylongshore |
 | [vigil-instrument](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/ai-agency/tonone/skills/vigil-instrument) | Instrument a service with OpenTelemetry — RED metrics, structured logs, distributed tracing, and health checks. Outpu... | jeremylongshore |
+| [web-novel-writing-master](https://github.com/swaylq/master-skill/tree/main/prototypes/web-novel-writing-master/output) | 网文写作 (网文写作 (Chinese Web Novel Writing) — 中国网络文学的「连载长篇商业小说创作工艺」认知操作系统：从「定方向（频道/流派/题材）→ 立意与金手指设计 → 大纲与人物设定 → 开局黄金三章 → 日... | swaylq |
 | [web-research](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/cli-power-skills/skills/web-research) | Use when extracting article text from news URLs or downloading video or audio with metadata | jeremylongshore |
 | [web-research](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/cli-power-skills/skills/web-research) | Use when extracting article text from news URLs or downloading video or audio with metadata | jeremylongshore |
 | [webinar-to-content-multiplier](https://github.com/OneWave-AI/claude-skills/tree/main/webinar-to-content-multiplier) | Convert webinar recordings into blog posts, social snippets, email series. Extract key quotes, statistics, and soundb... | OneWave-AI |
