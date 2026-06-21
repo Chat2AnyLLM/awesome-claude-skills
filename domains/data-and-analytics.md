@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*184 skills in this domain*
+*185 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 98 skills
+- [Data Pipelines](#data-pipelines) - 99 skills
 - [Analytics & Queries](#analytics-queries) - 50 skills
 - [Data Warehousing](#data-warehousing) - 27 skills
 - [Data Science](#data-science) - 7 skills
@@ -19,7 +19,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*98 skills*
+*99 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -70,6 +70,7 @@
 | [marketing-demand-acquisition](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/marketing-demand-acquisition) | Multi-channel demand generation, paid media optimization, SEO strategy, and partnership programs ... | davila7 |
 | [matchms](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/matchms) | Spectral similarity and compound identification for metabolomics. Use for comparing mass spectra,... | K-Dense-AI |
 | [medchem](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/medchem) | Medicinal chemistry filters. Apply drug-likeness rules (Lipinski, Veber), PAINS filters, structur... | davila7 |
+| [medical-aesthetics-master](https://github.com/swaylq/master-skill/tree/main/prototypes/medical-aesthetics-master/output) | 医疗美容 (医疗美容 / 注射美容 (Medical Aesthetics & Injectables) — 以「医疗本质 + 消费属性双高」为特征的中国医美认知操作系统：从「求美者咨询与面诊（... | swaylq |
 | [microservices-patterns](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/microservices-patterns) | Master microservices architecture patterns including service boundaries, inter-service communicat... | davila7 |
 | [Mistral AI Automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/mistral-ai-automation) | Automate Mistral AI operations -- manage files and libraries, upload documents for fine-tuning, b... | ComposioHQ |
 | [mvp-case-builder](https://github.com/OneWave-AI/claude-skills/tree/main/mvp-case-builder) | Construct statistical arguments for MVP/awards. Narrative framing, comparison to past winners, ad... | OneWave-AI |
