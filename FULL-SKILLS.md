@@ -2,8 +2,8 @@
 
 ## Complete Contents
 
-- [Backend Development](#backend-development) - 903 skills
-  - [Database Design](#database-design) - 471 skills
+- [Backend Development](#backend-development) - 904 skills
+  - [Database Design](#database-design) - 472 skills
   - [APIs & REST](#apis-and-rest) - 280 skills
   - [Request Handling](#request-handling) - 66 skills
   - [Web Frameworks](#web-frameworks) - 66 skills
@@ -12,10 +12,10 @@
   - [Microservices](#microservices) - 5 skills
   - [Caching](#caching) - 1 skills
 - [Tools & Utilities](#tools-and-utilities) - 577 skills
-- [AI & LLM](#ai-and-llm) - 322 skills
+- [AI & LLM](#ai-and-llm) - 323 skills
 - [Frontend Development](#frontend-development) - 239 skills
-- [Data & Analytics](#data-and-analytics) - 185 skills
-  - [Data Pipelines](#data-pipelines) - 99 skills
+- [Data & Analytics](#data-and-analytics) - 186 skills
+  - [Data Pipelines](#data-pipelines) - 100 skills
   - [Analytics & Queries](#analytics-and-queries) - 50 skills
   - [Data Warehousing](#data-warehousing) - 27 skills
   - [Data Science](#data-science) - 7 skills
@@ -41,11 +41,11 @@
 <a name="backend-development"></a>
 # Backend Development
 
-*903 skills in this domain*
+*904 skills in this domain*
 
 <a name="database-design"></a>
 ## Database Design
-*471 skills*
+*472 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -482,6 +482,7 @@
 | [terraform-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/terraform-engineer) | Use when implementing infrastructure as code with Terraform across AWS, Azure, or GCP. Invoke for module development ... | Jeffallan |
 | [terraform-specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/terraform-specialist) | Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructu... | davila7 |
 | [test-master](https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master) | Generates test files, creates mocking strategies, analyzes code coverage, designs test architectures, and produces te... | Jeffallan |
+| [todo.txt-skill](https://github.com/aguilera-ee/todo.txt-skill/tree/master) | Manage tasks, todos and reminders using the todo.txt CLI (todo.sh). Use for adding, listing, completing, prioritizing... | aguilera-ee |
 | [traditional-chinese-medicine-master](https://github.com/swaylq/master-skill/tree/main/prototypes/traditional-chinese-medicine-master/output) | 中医诊疗 — 中医临床医师的认知操作系统 (经典理论 阴阳五行脏腑气血经络六经卫气营血三焦 + 四诊八纲 + 治法 + 方剂学 经方时方 + 中药学 四气五味归经炮制 + 针灸学 经络穴位手法灸法 + 推拿按摩 + 中医各科 内外妇儿... | swaylq |
 | [train-sentence-transformers](https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers) | Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi-encoder; dense or static embedding m... | huggingface |
 | [transcript-fixer](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/transcript-fixer) | Corrects speech-to-text transcription errors using dictionary rules and AI-powered analysis. Builds personalized corr... | daymade |
@@ -1590,7 +1591,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*322 skills in this domain*
+*323 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -1608,6 +1609,7 @@
 | [agent-memory-mcp](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-memory-mcp) | A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Pattern... | davila7 |
 | [agent-memory-systems](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-memory-systems) | Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. This skill covers th... | davila7 |
 | [agent-messaging](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/agent-messaging) | Send and receive cryptographically signed messages between AI agents using the Agent Messaging Protocol (AMP). Use wh... | davila7 |
+| [agent-skill-groups](https://github.com/go165/agent-skill-groups/tree/main/skills/agent-skill-groups) | Manage large local Agent Skills libraries with runtime-aware scenario groups for Codex, Claude Code, OpenCode, GitHub... | go165 |
 | [agent-team-builder](https://github.com/OneWave-AI/claude-skills/tree/main/agent-team-builder) | Designs and deploys custom agent teams for specific business workflows. Interactive discovery of business processes, ... | OneWave-AI |
 | [agent-teams](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/agent-teams) | Coordinates Claude agent teams via filesystem protocol. Use when orchestrating parallel agents with task dependencies... | athola |
 | [agent-to-agent](https://github.com/OneWave-AI/claude-skills/tree/main/agent-to-agent) | Agent-to-Agent (A2A) communication protocol. Connect two or more Claude agents that pass messages, share context, del... | OneWave-AI |
@@ -2167,11 +2169,11 @@
 <a name="data-and-analytics"></a>
 # Data & Analytics
 
-*185 skills in this domain*
+*186 skills in this domain*
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*99 skills*
+*100 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -2256,6 +2258,7 @@
 | [scikit-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scikit-learn) | Machine learning in Python with scikit-learn. Use when working with supervised learning (classification, regression),... | K-Dense-AI |
 | [scikit-learn](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/scikit-learn) | Machine learning in Python with scikit-learn. Use when working with supervised learning (classification, regression),... | davila7 |
 | [secure-code-guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Use when implementing authentication/authorization, securing user input, or preventing OWASP Top 10 vulnerabilities —... | Jeffallan |
+| [semiconductor-process-master](https://github.com/swaylq/master-skill/tree/main/prototypes/semiconductor-process-master/output) | 半导体芯片制造工艺 (Semiconductor Process Engineering / 半导体芯片制造工艺 — 以「物理化学极限 + 良率经济双重约束」为特征的集成电路前道/后道制造工艺认知操作系统：从「器件架构与微缩路线（pl... | swaylq |
 | [sendspark-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/sendspark-automation) | Automate Sendspark tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [seo](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/seo) | Optimize for search engine visibility and ranking. Use when asked to "improve SEO", "optimize for search", "fix meta ... | davila7 |
 | [slime-rl-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-slime) | Provides guidance for LLM post-training with RL using slime, a Megatron+SGLang framework. Use when training GLM model... | davila7 |

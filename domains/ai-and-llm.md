@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*322 skills in this domain*
+*323 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -25,6 +25,7 @@
 | [agent-memory-mcp](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-memory-mcp) | A hybrid memory system that provides persistent, searchable knowledge management for AI agents (A... | davila7 |
 | [agent-memory-systems](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-memory-systems) | Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. ... | davila7 |
 | [agent-messaging](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-maestro/agent-messaging) | Send and receive cryptographically signed messages between AI agents using the Agent Messaging Pr... | davila7 |
+| [agent-skill-groups](https://github.com/go165/agent-skill-groups/tree/main/skills/agent-skill-groups) | Manage large local Agent Skills libraries with runtime-aware scenario groups for Codex, Claude Co... | go165 |
 | [agent-team-builder](https://github.com/OneWave-AI/claude-skills/tree/main/agent-team-builder) | Designs and deploys custom agent teams for specific business workflows. Interactive discovery of ... | OneWave-AI |
 | [agent-teams](https://github.com/athola/claude-night-market/tree/master/plugins/conjure/skills/agent-teams) | Coordinates Claude agent teams via filesystem protocol. Use when orchestrating parallel agents wi... | athola |
 | [agent-to-agent](https://github.com/OneWave-AI/claude-skills/tree/main/agent-to-agent) | Agent-to-Agent (A2A) communication protocol. Connect two or more Claude agents that pass messages... | OneWave-AI |

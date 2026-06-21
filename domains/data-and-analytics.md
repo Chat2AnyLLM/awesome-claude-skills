@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*185 skills in this domain*
+*186 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Data Pipelines](#data-pipelines) - 99 skills
+- [Data Pipelines](#data-pipelines) - 100 skills
 - [Analytics & Queries](#analytics-queries) - 50 skills
 - [Data Warehousing](#data-warehousing) - 27 skills
 - [Data Science](#data-science) - 7 skills
@@ -19,7 +19,7 @@
 
 <a name="data-pipelines"></a>
 ## Data Pipelines
-*99 skills*
+*100 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -104,6 +104,7 @@
 | [scikit-learn](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main/skills/scikit-learn) | Machine learning in Python with scikit-learn. Use when working with supervised learning (classifi... | K-Dense-AI |
 | [scikit-learn](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/scikit-learn) | Machine learning in Python with scikit-learn. Use when working with supervised learning (classifi... | davila7 |
 | [secure-code-guardian](https://github.com/Jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Use when implementing authentication/authorization, securing user input, or preventing OWASP Top ... | Jeffallan |
+| [semiconductor-process-master](https://github.com/swaylq/master-skill/tree/main/prototypes/semiconductor-process-master/output) | 半导体芯片制造工艺 (Semiconductor Process Engineering / 半导体芯片制造工艺 — 以「物理化学极限 + 良率经济双重约束」为特征的集成电路前道/后道制造工艺认... | swaylq |
 | [sendspark-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/sendspark-automation) | Automate Sendspark tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
 | [seo](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/seo) | Optimize for search engine visibility and ranking. Use when asked to "improve SEO", "optimize for... | davila7 |
 | [slime-rl-training](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-slime) | Provides guidance for LLM post-training with RL using slime, a Megatron+SGLang framework. Use whe... | davila7 |

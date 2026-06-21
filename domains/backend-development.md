@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*903 skills in this domain*
+*904 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Database Design](#database-design) - 471 skills
+- [Database Design](#database-design) - 472 skills
 - [APIs & REST](#apis-rest) - 280 skills
 - [Request Handling](#request-handling) - 66 skills
 - [Web Frameworks](#web-frameworks) - 66 skills
@@ -22,7 +22,7 @@
 
 <a name="database-design"></a>
 ## Database Design
-*471 skills*
+*472 skills*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -459,6 +459,7 @@
 | [terraform-engineer](https://github.com/Jeffallan/claude-skills/tree/main/skills/terraform-engineer) | Use when implementing infrastructure as code with Terraform across AWS, Azure, or GCP. Invoke for... | Jeffallan |
 | [terraform-specialist](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/terraform-specialist) | Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and ent... | davila7 |
 | [test-master](https://github.com/Jeffallan/claude-skills/tree/main/skills/test-master) | Generates test files, creates mocking strategies, analyzes code coverage, designs test architectu... | Jeffallan |
+| [todo.txt-skill](https://github.com/aguilera-ee/todo.txt-skill/tree/master) | Manage tasks, todos and reminders using the todo.txt CLI (todo.sh). Use for adding, listing, comp... | aguilera-ee |
 | [traditional-chinese-medicine-master](https://github.com/swaylq/master-skill/tree/main/prototypes/traditional-chinese-medicine-master/output) | 中医诊疗 — 中医临床医师的认知操作系统 (经典理论 阴阳五行脏腑气血经络六经卫气营血三焦 + 四诊八纲 + 治法 + 方剂学 经方时方 + 中药学 四气五味归经炮制 + 针灸学 经络穴位手法灸... | swaylq |
 | [train-sentence-transformers](https://github.com/huggingface/skills/tree/main/skills/train-sentence-transformers) | Train or fine-tune sentence-transformers models across `SentenceTransformer` (bi-encoder; dense o... | huggingface |
 | [transcript-fixer](https://github.com/daymade/claude-code-skills/tree/main/daymade-audio/transcript-fixer) | Corrects speech-to-text transcription errors using dictionary rules and AI-powered analysis. Buil... | daymade |
