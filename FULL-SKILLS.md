@@ -38,7 +38,7 @@
   - [Feature Engineering](#feature-engineering) - 21 skills
   - [Model Deployment](#model-deployment) - 12 skills
 - [Testing & Quality](#testing-and-quality) - 373 skills
-- [Security](#security) - 286 skills
+- [Security](#security) - 285 skills
 - [Uncategorized](#uncategorized) - 266 skills
 - [Documentation](#documentation) - 167 skills
 - [Business & Productivity](#business-and-productivity) - 98 skills
@@ -9863,7 +9863,7 @@
 <a name="security"></a>
 # Security
 
-*286 skills in this domain*
+*285 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -10088,7 +10088,6 @@
 | [security-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/productivity/cli-power-skills/skills/security-scanning) | Use when checking code for vulnerabilities, linting shell scripts, scanning containers or IaC for security issues, or... | jeremylongshore |
 | [security-scanning](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/cli-power-skills/skills/security-scanning) | Use when checking code for vulnerabilities, linting shell scripts, scanning containers or IaC for security issues, or... | jeremylongshore |
 | [securitytrails-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/securitytrails-automation) | Automate Securitytrails tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
-| [seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill/tree/main/skills/seedance-prompts-skill) | 专业的 Seedance 2.0 AI 视频脚本与分镜提示词生成器，并覆盖「创意→完整短剧剧本→AI 视频提示词」全链路。适用于：(1) 从一句创意/一篇小说从头创作完整短剧剧本（集数可自定义，常见 50-100 集，单集 1-3 分... | mantoufan |
 | [senior-secops](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops) | Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development pra... | davila7 |
 | [sentry-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-install-auth) | Install and configure Sentry SDK authentication with DSN setup. Use when setting up Sentry error tracking, configurin... | jeremylongshore |
 | [sentry-install-auth](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/saas-packs/sentry-pack/skills/sentry-install-auth) | Install and configure Sentry SDK authentication with DSN setup. Use when setting up Sentry error tracking, configurin... | jeremylongshore |
