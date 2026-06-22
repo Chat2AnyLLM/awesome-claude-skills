@@ -4,16 +4,56 @@ version: "1.0"
 sources:
   - id: "awesome-repo-configs"
     url: "https://raw.githubusercontent.com/Chat2AnyLLM/awesome-repo-configs/main/skill_repos.json"
+    excludeRepos:
+      - "moltbot/skills"
+      - "xiwan/taste-scorer"
+      - "zhangzeyu99-web/ariadne-loop"
+      - "mantoufan/seedance-prompts-skill"
     enabled: true
     priority: 1
     timeout: 30
 
-  - id: "claude-skill-repos"  # Using your fork that has the missing jeremylongshore/claude-code-plugins-plus-skills repo
-    url: "https://raw.githubusercontent.com/zhujian0805/code-assistant-manager/main/code_assistant_manager/skill_repos.json"
+  - id: "claude-skill-repos"
+    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-agent-manager/main/code_assistant_manager/skill_repos.json"
     format: "json"
     enabled: true
     priority: 2
     timeout: 30
+
+  - id: "restored-skill-repos"
+    enabled: true
+    priority: 3
+    repos:
+      jeremylongshore/claude-code-plugins-plus:
+        owner: "jeremylongshore"
+        name: "claude-code-plugins-plus"
+        branch: "main"
+        enabled: true
+      jeremylongshore/claude-code-plugins-plus-skills:
+        owner: "jeremylongshore"
+        name: "claude-code-plugins-plus-skills"
+        branch: "main"
+        enabled: true
+      wshobson/agents:
+        owner: "wshobson"
+        name: "agents"
+        branch: "main"
+        enabled: true
+      anthropics/skills:
+        owner: "anthropics"
+        name: "skills"
+        branch: "main"
+        enabled: true
+      diet103/claude-code-infrastructure-showcase:
+        owner: "diet103"
+        name: "claude-code-infrastructure-showcase"
+        branch: "main"
+        enabled: true
+      obra/superpowers:
+        owner: "obra"
+        name: "superpowers"
+        branch: "main"
+        enabled: true
 
 # Generation settings
 generation:

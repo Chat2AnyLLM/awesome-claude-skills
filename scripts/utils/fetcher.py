@@ -104,6 +104,18 @@ class Fetcher:
 
     def fetch_skill_repos_from_source(self, source_config: Dict[str, Any]) -> List[Dict[str, Any]]:
         """Fetch skill repository data from a configured source."""
+        inline_repos = source_config.get("repos")
+        if inline_repos:
+            repos = []
+            for repo_id, repo_data in inline_repos.items():
+                if isinstance(repo_data, dict):
+                    repo_data["id"] = repo_id
+                    repo_data["source_url"] = source_config.get("id", "inline")
+                    repos.append(repo_data)
+
+            logger.info("Loaded %d inline skill repositories from %s", len(repos), source_config.get("id"))
+            return repos
+
         url = source_config.get("url")
         if not url:
             logger.error("No URL specified in source config")
@@ -114,9 +126,14 @@ class Fetcher:
             return []
 
         # The expected format is a dict with repo IDs as keys
+        excluded_repos = set(source_config.get("excludeRepos") or source_config.get("exclude_repos") or [])
         repos = []
         for repo_id, repo_data in data.items():
             if isinstance(repo_data, dict):
+                owner = repo_data.get("owner") or repo_data.get("repoOwner")
+                name = repo_data.get("name") or repo_data.get("repoName")
+                if repo_id in excluded_repos or f"{owner}/{name}" in excluded_repos:
+                    continue
                 repo_data["id"] = repo_id
                 repo_data["source_url"] = url
                 repos.append(repo_data)
