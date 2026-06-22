@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*239 skills in this domain*
+*241 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -14,6 +14,7 @@
 | [3d-web-experience](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/3d-web-experience) | Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and i... | davila7 |
 | [academic-plotting](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/20-ml-paper-writing/academic-plotting) | Generates publication-quality figures for ML papers from research context. Given a paper section ... | zechenzhangAGI |
 | [Accessibility Auditor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/accessibility-auditor) | Web accessibility specialist for WCAG compliance, ARIA implementation, and inclusive design. Use ... | davila7 |
+| [aigc-creative-workflow-master](https://github.com/swaylq/master-skill/tree/main/prototypes/aigc-creative-workflow-master/output) | AIGC 创作工作流 (AIGC 创作工作流 / AIGC Creative Workflow — 以「生成式 AI 视觉创作（图像 + 视频）的工程化创作流水线」为对象的认知操作系统：从「需求... | swaylq |
 | [algolia-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/algolia-search) | Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and ... | davila7 |
 | [alpha-insights](https://github.com/Ericyoung-183/alpha-insights/tree/main) | Business Analyst Skill. Triggered when users ask about business analysis, industry research, comp... | Ericyoung-183 |
 | [anchor-browser-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/anchor-browser-automation) | Automate Anchor Browser tasks via Rube MCP (Composio). Always search tools first for current sche... | ComposioHQ |
@@ -53,6 +54,7 @@
 | [build-mcp-app](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev/skills/build-mcp-app) | This skill should be used when the user wants to build an "MCP app", add "interactive UI" or "wid... | anthropics |
 | [c4-architecture](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/c4-architecture) | Generate architecture documentation using C4 model Mermaid diagrams. Use when asked to create arc... | davila7 |
 | [cf-crawl](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/cf-crawl) | Crawl entire websites using Cloudflare Browser Rendering /crawl API. Initiates async crawl jobs, ... | davila7 |
+| [chatgpt-web-research](https://github.com/bear2u/my-skills/tree/master/skills/chatgpt-web-research) | Use the user's already signed-in official ChatGPT website account, especially GPT-5.5 Pro / ChatG... | bear2u |
 | [chrome-devtools](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/chrome-devtools) | Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Use for auto... | mrgoonie |
 | [ckm:banner-design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/banner-design) | Design banners for social media, ads, website heroes, creative assets, and print. Multiple art di... | nextlevelbuilder |
 | [ckm:design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design) | Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles... | nextlevelbuilder |

@@ -13,7 +13,7 @@
   - [Caching](#caching) - 1 skills
 - [Tools & Utilities](#tools-and-utilities) - 577 skills
 - [AI & LLM](#ai-and-llm) - 323 skills
-- [Frontend Development](#frontend-development) - 239 skills
+- [Frontend Development](#frontend-development) - 241 skills
 - [Data & Analytics](#data-and-analytics) - 186 skills
   - [Data Pipelines](#data-pipelines) - 100 skills
   - [Analytics & Queries](#analytics-and-queries) - 50 skills
@@ -1922,13 +1922,14 @@
 <a name="frontend-development"></a>
 # Frontend Development
 
-*239 skills in this domain*
+*241 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
 | [3d-web-experience](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/3d-web-experience) | Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes... | davila7 |
 | [academic-plotting](https://github.com/zechenzhangAGI/AI-research-SKILLs/tree/main/20-ml-paper-writing/academic-plotting) | Generates publication-quality figures for ML papers from research context. Given a paper section or description, extr... | zechenzhangAGI |
 | [Accessibility Auditor](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/accessibility-auditor) | Web accessibility specialist for WCAG compliance, ARIA implementation, and inclusive design. Use when auditing websit... | davila7 |
+| [aigc-creative-workflow-master](https://github.com/swaylq/master-skill/tree/main/prototypes/aigc-creative-workflow-master/output) | AIGC 创作工作流 (AIGC 创作工作流 / AIGC Creative Workflow — 以「生成式 AI 视觉创作（图像 + 视频）的工程化创作流水线」为对象的认知操作系统：从「需求/概念（要做什么画面/镜头/风格）→ 模... | swaylq |
 | [algolia-search](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/algolia-search) | Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use... | davila7 |
 | [alpha-insights](https://github.com/Ericyoung-183/alpha-insights/tree/main) | Business Analyst Skill. Triggered when users ask about business analysis, industry research, competitive analysis, pr... | Ericyoung-183 |
 | [anchor-browser-automation](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-skills/anchor-browser-automation) | Automate Anchor Browser tasks via Rube MCP (Composio). Always search tools first for current schemas. | ComposioHQ |
@@ -1968,6 +1969,7 @@
 | [build-mcp-app](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev/skills/build-mcp-app) | This skill should be used when the user wants to build an "MCP app", add "interactive UI" or "widgets" to an MCP serv... | anthropics |
 | [c4-architecture](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/c4-architecture) | Generate architecture documentation using C4 model Mermaid diagrams. Use when asked to create architecture diagrams, ... | davila7 |
 | [cf-crawl](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/cf-crawl) | Crawl entire websites using Cloudflare Browser Rendering /crawl API. Initiates async crawl jobs, polls for completion... | davila7 |
+| [chatgpt-web-research](https://github.com/bear2u/my-skills/tree/master/skills/chatgpt-web-research) | Use the user's already signed-in official ChatGPT website account, especially GPT-5.5 Pro / ChatGPT Pro, to perform p... | bear2u |
 | [chrome-devtools](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/chrome-devtools) | Browser automation, debugging, and performance analysis using Puppeteer CLI scripts. Use for automating browsers, tak... | mrgoonie |
 | [ckm:banner-design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/banner-design) | Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with... | nextlevelbuilder |
 | [ckm:design](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design) | Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini AI), corpor... | nextlevelbuilder |
