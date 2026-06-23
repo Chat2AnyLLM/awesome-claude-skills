@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-plugins)](https://github.com/Chat2AnyLLM/awesome-claude-plugins)
-[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-assistant-manager)](https://github.com/Chat2AnyLLM/code-assistant-manager)
+[![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/code-agent-manager)](https://github.com/Chat2AnyLLM/code-agent-manager)
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
@@ -60,7 +60,7 @@ Want to contribute your own skills? Here's how to get started:
 
 ### Resources
 
-- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tooling for skill management
+- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-agent-manager) - Tooling for skill management
 - [Awesome Repo Configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) - Source configuration for this catalog
 - [Full Skills Listing](FULL-SKILLS.md#complete-skills-listing) - Browse all indexed skills
 
@@ -71,7 +71,7 @@ We welcome contributions! To add a new skill config, please visit the **[awesome
 ## Resources
 
 ### Official Documentation
-- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Installation and usage documentation
+- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-agent-manager) - Installation and usage documentation
 - [Awesome Repo Configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) - Add and maintain skill source configs
 
 ### Community Resources
@@ -80,7 +80,7 @@ We welcome contributions! To add a new skill config, please visit the **[awesome
 - [Awesome Claude Plugins](https://github.com/Chat2AnyLLM/awesome-claude-plugins) - Curated Claude plugin resources
 
 ### Development Tools
-- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager) - Tool for managing Claude skills
+- [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-agent-manager) - Tool for managing Claude skills
 - [Awesome Claude Skills](https://github.com/Chat2AnyLLM/awesome-claude-skills) - This curated skill catalog
 
 ## Join the Community
@@ -90,7 +90,7 @@ Connect with other Claude developers and skill creators:
 ### Social Media
 - **GitHub Organization**: [Chat2AnyLLM](https://github.com/Chat2AnyLLM)
 - **Project Updates**: [awesome-claude-skills repository](https://github.com/Chat2AnyLLM/awesome-claude-skills)
-- **Related Projects**: [code-assistant-manager](https://github.com/Chat2AnyLLM/code-assistant-manager)
+- **Related Projects**: [code-agent-manager](https://github.com/Chat2AnyLLM/code-agent-manager)
 
 ### Contribution
 - **Add a Skill**: [Submit new skill configs to awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs)
@@ -98,7 +98,7 @@ Connect with other Claude developers and skill creators:
 - **Discussions**: [Share ideas and get help](https://github.com/Chat2AnyLLM/awesome-claude-skills/discussions)
 
 ### Support
-- **Documentation**: [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-assistant-manager)
+- **Documentation**: [Code Assistant Manager](https://github.com/Chat2AnyLLM/code-agent-manager)
 - **Community Forum**: [GitHub Discussions](https://github.com/Chat2AnyLLM/awesome-claude-skills/discussions)
 - **Stack Overflow**: [claude-code tag](https://stackoverflow.com/questions/tagged/claude-code)
 
