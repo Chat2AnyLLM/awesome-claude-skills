@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*578 skills in this domain*
+*579 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -518,6 +518,7 @@
 | [teams-channel-post-writer](https://github.com/daymade/claude-code-skills/tree/main/teams-channel-post-writer) | Creates educational Teams channel posts for internal knowledge sharing about Claude Code features... | daymade |
 | [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | ComposioHQ |
 | [template-skill](https://github.com/Prat011/awesome-llm-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | Prat011 |
+| [template-skill](https://github.com/anthropics/skills/tree/main/template) | Replace with description of the skill and when Claude should use it. | anthropics |
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
 | [templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates) | Project scaffolding templates for new applications. Use when creating new projects from scratch. ... | davila7 |

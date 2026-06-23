@@ -12,7 +12,7 @@
   - [Microservices](#microservices) - 12 skills
   - [Caching](#caching) - 6 skills
 - [Tools & Utilities](#tools-and-utilities) - 607 skills
-- [AI & LLM](#ai-and-llm) - 578 skills
+- [AI & LLM](#ai-and-llm) - 579 skills
 - [Data & Analytics](#data-and-analytics) - 511 skills
   - [Data Pipelines](#data-pipelines) - 321 skills
   - [Analytics & Queries](#analytics-and-queries) - 138 skills
@@ -3489,7 +3489,7 @@
 <a name="ai-and-llm"></a>
 # AI & LLM
 
-*578 skills in this domain*
+*579 skills in this domain*
 
 | Skill | Description | Author |
 | --- | --- | --- |
@@ -4000,6 +4000,7 @@
 | [teams-channel-post-writer](https://github.com/daymade/claude-code-skills/tree/main/teams-channel-post-writer) | Creates educational Teams channel posts for internal knowledge sharing about Claude Code features, tools, and best pr... | daymade |
 | [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | ComposioHQ |
 | [template-skill](https://github.com/Prat011/awesome-llm-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | Prat011 |
+| [template-skill](https://github.com/anthropics/skills/tree/main/template) | Replace with description of the skill and when Claude should use it. | anthropics |
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
 | [templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates) | Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 template... | davila7 |
