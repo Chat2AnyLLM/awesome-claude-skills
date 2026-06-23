@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **171**
-- Discoverable skills: **37,044**
+- Discoverable skills: **36,865**
 - Healthy repos: **162** · Truncated: **1** · Unavailable: **8**
-- Last updated: **2026-06-23 10:25 UTC**
+- Last updated: **2026-06-23 13:32 UTC**
 
 ## Source Catalog
 
@@ -85,7 +85,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 147 | `main` | `skills` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
 | [keysersoose/claude-agent-builder](https://github.com/keysersoose/claude-agent-builder) | 1 | `main` | `.` | ✅ ok |  |
-| [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,477 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
+| [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,298 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
 | [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 37 | `main` | `.` | ✅ ok |  |
 | [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [LazyIsEfficient/agentic-os](https://github.com/LazyIsEfficient/agentic-os) | 35 | `main` | `.claude/skills` | ✅ ok |  |
