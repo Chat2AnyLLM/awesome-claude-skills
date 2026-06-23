@@ -2,7 +2,7 @@
 
 [← Back to Main README](../README.md)
 
-*5918 skills in this domain*
+*5916 skills in this domain*
 
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-skills)](https://github.com/Chat2AnyLLM/awesome-claude-skills)
 [![GitHub stars](https://img.shields.io/github/stars/Chat2AnyLLM/awesome-claude-agents)](https://github.com/Chat2AnyLLM/awesome-claude-agents)
@@ -233,7 +233,6 @@
 | [agent-context-isolation](https://github.com/parcadei/Continuous-Claude-v3/tree/main/.claude/skills/agent-context-isolation) | Agent Context Isolation | parcadei |
 | [agent-context-loader](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/tree/main/plugins/productivity/agent-context-manager/skills/agent-context-loader) | Execute proactive auto-loading: automatically detects and loads agents.md files. Use when appropr... | jeremylongshore |
 | [agent-coordination](https://github.com/a5c-ai/babysitter/tree/main/library/methodologies/gastown/skills/agent-coordination) | Coordinate Crew (persistent) and Polecat (transient) agents using Gas Town's hook-based work dist... | a5c-ai |
-| [agent-creator](https://github.com/sickn33/antigravity-awesome-skills/tree/main/plugins/antigravity-awesome-skills-claude/skills/agent-creator) | Create custom AI subagents with proper plugin structure, persona generation, and companion routin... | sickn33 |
 | [agent-development](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/agent-development) | This skill should be used when the user asks to "create an agent", "add an agent", "write a subag... | anthropics |
 | [agent-dispatch](https://github.com/a5c-ai/babysitter/tree/main/library/methodologies/automaker/skills/agent-dispatch) |  | a5c-ai |
 | [agent-expenditure](https://github.com/athola/claude-night-market/tree/master/plugins/conserve/skills/agent-expenditure) | Tracks per-agent token usage and flags waste in parallel dispatch. Use when evaluating parallel a... | athola |
@@ -5260,7 +5259,6 @@
 | [template-library](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-management/skills/template-library) | Steuert Musterbibliothek mit Owner, Aktualisierung und Verfallsdatum. Für Managing Partner, Manag... | Klotzkette |
 | [template-skill](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | ComposioHQ |
 | [template-skill](https://github.com/Prat011/awesome-llm-skills/tree/master/template-skill) | Replace with description of the skill and when Claude should use it. | Prat011 |
-| [template-skill](https://github.com/anthropics/skills/tree/main/template) | Replace with description of the skill and when Claude should use it. | anthropics |
 | [template-skill](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/utilities/template-skill) | Replace with description of the skill and when Claude should use it. | davila7 |
 | [template-skill](https://github.com/mrgoonie/claudekit-skills/tree/main/.claude/skills/template-skill) | Replace with description of the skill and when Claude should use it. | mrgoonie |
 | [templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates) | Project scaffolding templates for new applications. Use when creating new projects from scratch. ... | davila7 |
