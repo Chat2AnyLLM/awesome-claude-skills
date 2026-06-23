@@ -8,9 +8,9 @@ sources:
     priority: 1
     timeout: 30
 
-  - id: "claude-skill-repos"  # Using your fork that has the missing jeremylongshore/claude-code-plugins-plus-skills repo
+  - id: "claude-skill-repos"
     # Repo renamed: code-assistant-manager -> code-agent-manager (inner dir name kept the old "code_assistant_manager")
-    url: "https://raw.githubusercontent.com/zhujian0805/code-agent-manager/main/code_assistant_manager/skill_repos.json"
+    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-agent-manager/main/code_assistant_manager/skill_repos.json"
     format: "json"
     enabled: true
     priority: 2
