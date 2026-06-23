@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""
-Skill Scraper - Generate curated README from Claude marketplace skill data
+"""Generate metadata-only README for awesome-claude-skills.
+
+No cloning. No mirroring. Counts discoverable SKILL.md files via GitHub API
+from repo links defined in awesome-repo-configs.
 """
 
 import sys
@@ -10,15 +12,10 @@ from pathlib import Path
 
 try:
     from .config import Config
-    from .utils.fetcher import Fetcher
-    from .models import SkillSource, Skill
-    from .generators.readme_generator import SkillReadmeGenerator
+    from .metadata_catalog import fetch_repos_from_sources, count_skills, render_readme
 except ImportError:
-    # Fallback for direct execution - all files are in same directory
     from config import Config
-    from utils.fetcher import Fetcher
-    from models import SkillSource, Skill
-    from generators.readme_generator import SkillReadmeGenerator
+    from metadata_catalog import fetch_repos_from_sources, count_skills, render_readme
 
 def setup_logging(level: str = "INFO") -> None:
     """Setup logging configuration."""
@@ -28,87 +25,28 @@ def setup_logging(level: str = "INFO") -> None:
         format='%(asctime)s - %(levelname)s - %(message)s'
     )
 
-def generate_readme(marketplaces: list, skills: list, output_file: str, args: list = None) -> bool:
-    """Generate README from marketplace and skill data."""
-    generator = SkillReadmeGenerator()
-    # Handle both dict and object formats
-    if marketplaces and isinstance(marketplaces[0], dict):
-        generator.add_marketplaces(marketplaces)
-    else:
-        generator.add_marketplaces([vars(m) for m in marketplaces])
-    generator.add_skills(skills)
+def generate_readme(repositories: list, counts: dict, output_file: str, args: list = None) -> bool:
+    """Generate README from source-repository metadata + GitHub API counts."""
+    content = render_readme(repositories, counts)
 
-    content = generator.generate_readme()
-
-    # Generate full document with all skills (always regenerate)
-    full_document_path = Path(output_file).parent / "FULL-SKILLS.md"
-    try:
-        full_content = generator.generate_full_document()
-        with open(full_document_path, 'w', encoding='utf-8') as f:
-            f.write(full_content)
-        logger = logging.getLogger(__name__)
-        logger.info("Full skills document generated successfully: %s", full_document_path)
-    except Exception as e:
-        logger = logging.getLogger(__name__)
-        logger.error(f"Failed to generate full skills document: {e}")
-
-    # Generate domain files (always regenerate)
-    try:
-        domain_files = generator.generate_domain_files_mapping()
-        domains_dir = Path(output_file).parent / "domains"
-        domains_dir.mkdir(exist_ok=True)
-        for filename, domain_content in domain_files.items():
-            domain_path = domains_dir / filename
-            with open(domain_path, 'w', encoding='utf-8') as f:
-                f.write(domain_content)
-        logger = logging.getLogger(__name__)
-        logger.info(f"Generated {len(domain_files)} domain files in {domains_dir}")
-    except Exception as e:
-        logger = logging.getLogger(__name__)
-        logger.error(f"Failed to generate domain files: {e}")
-
-    # Check if README content has actually changed (excluding timestamp)
     output_path = Path(output_file)
-    if output_path.exists() and not args.force:
+    if output_path.exists() and not getattr(args, 'force', False):
         try:
-            with open(output_file, 'r', encoding='utf-8') as f:
-                existing_content = f.read()
-
-            # Extract content without timestamp for comparison
-            existing_lines = existing_content.split('\n')
-            new_lines = content.split('\n')
-
-            # Find and remove timestamp lines for comparison
-            existing_content_no_timestamp = '\n'.join([
-                line for line in existing_lines
-                if not line.strip().startswith('Last updated:')
-            ])
-
-            new_content_no_timestamp = '\n'.join([
-                line for line in new_lines
-                if not line.strip().startswith('Last updated:')
-            ])
-
-            # If content is the same (excluding timestamp), don't update
-            if existing_content_no_timestamp == new_content_no_timestamp:
-                logger = logging.getLogger(__name__)
-                logger.info("README content unchanged, skipping update to preserve timestamp")
+            existing_content = output_path.read_text(encoding='utf-8')
+            existing_no_ts = '\n'.join([line for line in existing_content.split('\n') if not line.strip().startswith('- Last updated:')])
+            new_no_ts = '\n'.join([line for line in content.split('\n') if not line.strip().startswith('- Last updated:')])
+            if existing_no_ts == new_no_ts:
+                logging.getLogger(__name__).info("README content unchanged, skipping update to preserve timestamp")
                 return True
-
         except Exception as e:
-            logger = logging.getLogger(__name__)
-            logger.warning(f"Could not read existing README for comparison: {e}")
-            # Continue with generation if we can't read the existing file
+            logging.getLogger(__name__).warning(f"Could not compare existing README: {e}")
 
     try:
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(content)
-        logger = logging.getLogger(__name__)
-        logger.info("README generated successfully: %s", output_file)
+        output_path.write_text(content, encoding='utf-8')
+        logging.getLogger(__name__).info("README generated successfully: %s", output_file)
         return True
     except Exception as e:
-        logger = logging.getLogger(__name__)
-        logger.error("Failed to write README: %s", e)
+        logging.getLogger(__name__).error("Failed to write README: %s", e)
         return False
 
 def parse_marketplace_data(raw_data: dict) -> list:
@@ -132,82 +70,29 @@ def parse_marketplace_data(raw_data: dict) -> list:
 
 def cmd_generate_readme(args: list, config: dict, logger) -> int:
     """Handle generate-readme command."""
-    logger.info("Skill Scraper starting...")
+    logger.info("Skill metadata catalog generation starting...")
 
-    # Get enabled sources
     sources = config.get_enabled_sources()
     logger.info("Loaded %d enabled sources", len(sources))
-
     if not sources:
         logger.warning("No enabled sources found in configuration")
         return 0
 
-    # Fetch data from all sources
-    fetcher = Fetcher()
-    all_repos = []
-    all_skills = []
+    repositories = fetch_repos_from_sources(sources)
+    logger.info("Loaded %d enabled repositories from source configs", len(repositories))
 
-    for source in sources:
-        logger.info("Processing source: %s", source.get("id"))
-        repos = fetcher.fetch_skill_repos_from_source(source)
-        all_repos.extend(repos)
-
-        # Filter enabled repositories
-        enabled_repos = [
-            repo for repo in repos
-            if repo.get("enabled", True) and repo.get("owner") and repo.get("name")
-        ]
-
-        logger.info("Processing %d enabled repositories with new CAM-style architecture", len(enabled_repos))
-
-        # Use the new CAM-style architecture to fetch skills
-        skills = fetcher._fetch_from_repos_with_cam_architecture(enabled_repos)
-
-        all_skills.extend(skills)
-        logger.info("Found %d skills using new architecture", len(skills))
-
-    logger.info("Total repositories processed: %d", len(all_repos))
-    logger.info("Total skills collected: %d", len(all_skills))
-
-    # Sort first for deterministic deduplication output across runs
-    all_skills = sorted(
-        all_skills,
-        key=lambda skill: (
-            str(skill.get("repo_owner", "") or ""),
-            str(skill.get("repo_name", "") or ""),
-            str(skill.get("name", "") or "").strip().lower(),
-            str(skill.get("readme_url", "") or ""),
-            str(skill.get("directory", "") or "")
-        )
-    )
-
-    # Deduplicate skills based on name and repository (keep skills with same name from different repos)
-    seen_keys = set()
-    unique_skills = []
-    duplicates_removed = 0
-
-    for skill in all_skills:
-        skill_name = str(skill.get("name", "") or "").strip().lower()
-        repo_owner = skill.get("repo_owner", "")
-        repo_name = skill.get("repo_name", "")
-        # Create a unique key combining name and repository
-        skill_key = f"{skill_name}|{repo_owner}/{repo_name}"
-
-        if skill_name and skill_key not in seen_keys:
-            seen_keys.add(skill_key)
-            unique_skills.append(skill)
-        else:
-            duplicates_removed += 1
-
-    logger.info("Removed %d duplicate skills (by name+repo), keeping %d unique skills", duplicates_removed, len(unique_skills))
+    counts = count_skills(repositories, max_workers=config.get_max_workers())
+    total_skills = sum(v.get('count', 0) for v in counts.values())
+    unavailable = sum(1 for v in counts.values() if v.get('status') not in {'ok', 'truncated'})
+    truncated = sum(1 for v in counts.values() if v.get('status') == 'truncated')
+    logger.info("Counted %d skills across %d repos (%d unavailable, %d truncated)", total_skills, len(repositories), unavailable, truncated)
 
     if hasattr(args, 'dry_run') and args.dry_run:
-        print(f"Dry run: Would generate README with {len(all_repos)} repositories and {len(unique_skills)} skills")
+        print(f"Dry run: Would generate README with {len(repositories)} repositories and {total_skills} discoverable skills")
         return 0
 
-    # Generate README
-    if generate_readme(all_repos, unique_skills, args.output, args):
-        print(f"Successfully generated README with {len(all_repos)} repositories and {len(unique_skills)} skills!")
+    if generate_readme(repositories, counts, args.output, args):
+        print(f"Successfully generated README with {len(repositories)} repositories and {total_skills} discoverable skills!")
         return 0
     else:
         print("Failed to generate README")

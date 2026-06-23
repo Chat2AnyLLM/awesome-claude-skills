@@ -1,1 +1,0 @@
-"""Fetching utilities for skills scraper"""

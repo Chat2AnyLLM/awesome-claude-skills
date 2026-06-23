@@ -8,23 +8,13 @@ sources:
     priority: 1
     timeout: 30
 
-  - id: "claude-skill-repos"
-    # Repo renamed: code-assistant-manager -> code-agent-manager (inner dir name kept the old "code_assistant_manager")
-    url: "https://raw.githubusercontent.com/Chat2AnyLLM/code-agent-manager/main/code_assistant_manager/skill_repos.json"
-    format: "json"
-    enabled: true
-    priority: 2
-    timeout: 30
-
 # Generation settings
 generation:
   output_file: "README.md"
-  include_marketplace_tables: true
-  include_skill_categories: true
 
 # Parallel processing settings
 parallel:
-  max_workers: 8  # Maximum number of concurrent repository processing threads
+  max_workers: 8
 
 # Logging settings
 logging:

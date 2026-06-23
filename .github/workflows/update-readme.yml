@@ -32,9 +32,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run skill scraper
+    - name: Run skill catalog generator
       run: |
-        python -m scripts.skill_scraper generate-readme --force
+        python -m scripts.skill_scraper generate-readme
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Check for changes
       id: verify-changed-files
@@ -53,7 +55,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git remote set-url origin https://x-access-token:${PERSONAL_ACCESS_TOKEN}@github.com/${{ github.repository }}.git
-        git add README.md FULL-SKILLS.md domains/
+        git add README.md
         git commit -m "🤖 Update README with latest skills
 
         Auto-generated from skill scraper
