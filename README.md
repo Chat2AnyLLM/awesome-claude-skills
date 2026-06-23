@@ -11,9 +11,9 @@
 
 A curated list of awesome Claude Code skills to enhance your Claude Code experience.
 
-Total Skills: 6779
+Total Skills: 12875
 
-Last updated: 2026-06-23 00:45 UTC
+Last updated: 2026-06-23 00:53 UTC
 
 **[📋 See full skill list](FULL-SKILLS.md#complete-skills-listing)** - Convenient for searching through all skills without size limits.
 
@@ -26,15 +26,15 @@ Last updated: 2026-06-23 00:45 UTC
 - [License](#license)
 - **Skills by Domain:**
   - [Backend Development](./domains/backend-development.md)
-  - [Tools & Utilities](./domains/tools-and-utilities.md)
   - [AI & LLM](./domains/ai-and-llm.md)
-  - [Data & Analytics](./domains/data-and-analytics.md)
-  - [DevOps & Infrastructure](./domains/devops-and-infrastructure.md)
-  - [Frontend Development](./domains/frontend-development.md)
   - [Version Control & Collaboration](./domains/version-control-and-collaboration.md)
+  - [Data & Analytics](./domains/data-and-analytics.md)
+  - [Frontend Development](./domains/frontend-development.md)
+  - [Uncategorized](./domains/uncategorized.md)
+  - [Tools & Utilities](./domains/tools-and-utilities.md)
+  - [DevOps & Infrastructure](./domains/devops-and-infrastructure.md)
   - [Machine Learning](./domains/machine-learning.md)
   - [Testing & Quality](./domains/testing-and-quality.md)
-  - [Uncategorized](./domains/uncategorized.md)
   - [Security](./domains/security.md)
   - [Documentation](./domains/documentation.md)
   - [Business & Productivity](./domains/business-and-productivity.md)
