@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **204**
-- Discoverable skills: **38,799**
+- Discoverable skills: **38,801**
 - Healthy repos: **195** · Truncated: **1** · Unavailable: **8**
-- Last updated: **2026-06-23 22:10 UTC**
+- Last updated: **2026-06-24 01:54 UTC**
 
 ## Source Catalog
 
@@ -105,7 +105,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,368 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
 | [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 37 | `main` | `.` | ✅ ok |  |
 | [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) | 1 | `main` | `.` | ✅ ok |  |
-| [LazyIsEfficient/agentic-os](https://github.com/LazyIsEfficient/agentic-os) | 35 | `main` | `.claude/skills` | ✅ ok |  |
+| [LazyIsEfficient/agentic-os](https://github.com/LazyIsEfficient/agentic-os) | 37 | `main` | `.claude/skills` | ✅ ok |  |
 | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 137 | `master` | `plugins` | ✅ ok |  |
 | [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 59 | `main` | `.` | ✅ ok |  |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | 11 | `main` | `.` | ✅ ok |  |
