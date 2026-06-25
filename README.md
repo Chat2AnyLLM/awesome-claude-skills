@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **315**
-- Discoverable skills: **42,703**
+- Discoverable skills: **42,737**
 - Healthy repos: **305** · Truncated: **1** · Unavailable: **9**
-- Last updated: **2026-06-25 15:35 UTC**
+- Last updated: **2026-06-25 17:59 UTC**
 
 ## Source Catalog
 
@@ -107,7 +107,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters) | 0 | `main` | `./skill-from-masters` | ✅ ok |  |
 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [georgekhananaev/claude-skills-vault](https://github.com/georgekhananaev/claude-skills-vault) | 94 | `main` | `.claude/skills` | ✅ ok |  |
-| [getaero-io/gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) | 14 | `main` | `skills` | ✅ ok |  |
+| [getaero-io/gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) | 12 | `main` | `skills` | ✅ ok |  |
 | [glitternetwork/pinme](https://github.com/glitternetwork/pinme) | 5 | `main` | `skills` | ✅ ok |  |
 | [gmickel/flow-next](https://github.com/gmickel/flow-next) | 59 | `main` | `.` | ✅ ok |  |
 | [go165/agent-skill-groups](https://github.com/go165/agent-skill-groups) | 1 | `main` | `skills` | ✅ ok |  |
@@ -117,7 +117,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [halflength-ampleness75/claude-code-recipes](https://github.com/halflength-ampleness75/claude-code-recipes) | 5 | `main` | `skills` | ✅ ok |  |
 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 20 | `master` | `.` | ✅ ok |  |
 | [hiadrianchen/challenge-plans](https://github.com/hiadrianchen/challenge-plans) | 0 | `main` | `.` | ✅ ok |  |
-| [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 28 | `master` | `.` | ✅ ok |  |
+| [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 63 | `master` | `.` | ✅ ok |  |
 | [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 25 | `main` | `.claude/skills` | ✅ ok |  |
 | [huggingface/skills](https://github.com/huggingface/skills) | 20 | `main` | `.` | ✅ ok |  |
 | [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | 13 | `main` | `.` | ✅ ok |  |
@@ -241,7 +241,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 35 | `main` | `skills` | ✅ ok |  |
 | [romainsimon/paperasse](https://github.com/romainsimon/paperasse) | 6 | `master` | `.` | ✅ ok |  |
 | [rookiestar28/Agentique-CLI](https://github.com/rookiestar28/Agentique-CLI) | 1 | `main` | `.` | ✅ ok |  |
-| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 6 | `main` | `.` | ✅ ok |  |
+| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 7 | `main` | `.` | ✅ ok |  |
 | [salespeak-ai/buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | 57 | `main` | `library` | ✅ ok |  |
 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 24 | `main` | `skills` | ✅ ok |  |
