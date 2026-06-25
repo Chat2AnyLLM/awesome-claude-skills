@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **315**
-- Discoverable skills: **42,737**
+- Discoverable skills: **42,738**
 - Healthy repos: **305** · Truncated: **1** · Unavailable: **9**
-- Last updated: **2026-06-25 17:59 UTC**
+- Last updated: **2026-06-25 19:57 UTC**
 
 ## Source Catalog
 
@@ -199,7 +199,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) | 0 | `main` | `.` | ✅ ok |  |
 | [naimkatiman/continuous-improvement](https://github.com/naimkatiman/continuous-improvement) | 104 | `main` | `.` | ✅ ok |  |
 | [Nako0/devglobe-extension](https://github.com/Nako0/devglobe-extension) | 3 | `main` | `.` | ✅ ok |  |
-| [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 47 | `main` | `.claude/skills` | ✅ ok |  |
+| [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 48 | `main` | `.claude/skills` | ✅ ok |  |
 | [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) | 4 | `main` | `.` | ✅ ok |  |
 | [Necmttn/ax](https://github.com/Necmttn/ax) | 10 | `main` | `skills` | ✅ ok |  |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 13 | `main` | `.` | ✅ ok |  |
