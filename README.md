@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **458**
-- Discoverable skills: **58,721**
+- Discoverable skills: **58,722**
 - Healthy repos: **448** · Truncated: **1** · Unavailable: **9**
-- Last updated: **2026-06-27 18:00 UTC**
+- Last updated: **2026-06-27 19:21 UTC**
 
 ## Source Catalog
 
@@ -410,7 +410,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tinh2/skills-hub-registry](https://github.com/tinh2/skills-hub-registry) | 509 | `main` | `.` | ✅ ok |  |
 | [tobihagemann/turbo](https://github.com/tobihagemann/turbo) | 151 | `main` | `.` | ✅ ok |  |
 | [toBzh30/Claude-Project-Bootstrap](https://github.com/toBzh30/Claude-Project-Bootstrap) | 13 | `main` | `.` | ✅ ok |  |
-| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 12 | `main` | `.` | ✅ ok |  |
+| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 13 | `main` | `.` | ✅ ok |  |
 | [toroleapinc/claude-brain](https://github.com/toroleapinc/claude-brain) | 9 | `main` | `skills` | ✅ ok |  |
 | [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 19 | `main` | `skills` | ✅ ok |  |
 | [unvulcanised-watercress762/mem9](https://github.com/unvulcanised-watercress762/mem9) | 7 | `main` | `.` | ✅ ok |  |
