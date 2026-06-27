@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **401**
-- Discoverable skills: **52,600**
+- Discoverable skills: **52,607**
 - Healthy repos: **391** · Truncated: **1** · Unavailable: **9**
-- Last updated: **2026-06-26 20:24 UTC**
+- Last updated: **2026-06-27 01:54 UTC**
 
 ## Source Catalog
 
@@ -37,7 +37,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [alirezarezvani/claude-cto-team](https://github.com/alirezarezvani/claude-cto-team) | 12 | `main` | `skills` | ✅ ok |  |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 418 | `main` | `.gemini/skills` | ✅ ok |  |
 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 5 | `dev` | `.` | ✅ ok |  |
-| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 340 | `main` | `.` | ✅ ok |  |
+| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 344 | `main` | `.` | ✅ ok |  |
 | [amjad1233/claude-skills](https://github.com/amjad1233/claude-skills) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [anbeime/skill](https://github.com/anbeime/skill) | 67 | `main` | `skills` | ✅ ok |  |
 | [AndreaBozzo/Ceres-Claude-Skill](https://github.com/AndreaBozzo/Ceres-Claude-Skill) | 2 | `main` | `.` | ✅ ok |  |
@@ -222,7 +222,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MarcosNahuel/antigravity-plugin-cc](https://github.com/MarcosNahuel/antigravity-plugin-cc) | 2 | `main` | `.` | ✅ ok |  |
 | [markphelps/agent-plugins](https://github.com/markphelps/agent-plugins) | 22 | `main` | `.` | ✅ ok |  |
 | [marmbiz/humanizer-de](https://github.com/marmbiz/humanizer-de) | 0 | `main` | `.` | ✅ ok |  |
-| [martin1847/evolab](https://github.com/martin1847/evolab) | 3 | `main` | `skills` | ✅ ok |  |
+| [martin1847/evolab](https://github.com/martin1847/evolab) | 5 | `main` | `skills` | ✅ ok |  |
 | [Marwane83930/structured-prompt-skill](https://github.com/Marwane83930/structured-prompt-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [mathisk2095/jko-claude-plugins](https://github.com/mathisk2095/jko-claude-plugins) | 6 | `main` | `.` | ✅ ok |  |
 | [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) | 3 | `main` | `plugins/claude/skills` | ✅ ok |  |
@@ -249,7 +249,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [multiplex-ai/muggle-ai-teams](https://github.com/multiplex-ai/muggle-ai-teams) | 175 | `main` | `skills` | ✅ ok |  |
 | [MustBeSimo/cinematic-scroll-skill](https://github.com/MustBeSimo/cinematic-scroll-skill) | 3 | `main` | `.` | ✅ ok |  |
 | [mxyhi/ok-skills](https://github.com/mxyhi/ok-skills) | 0 | `main` | `.` | ✅ ok |  |
-| [naimkatiman/continuous-improvement](https://github.com/naimkatiman/continuous-improvement) | 104 | `main` | `.` | ✅ ok |  |
+| [naimkatiman/continuous-improvement](https://github.com/naimkatiman/continuous-improvement) | 105 | `main` | `.` | ✅ ok |  |
 | [Nako0/devglobe-extension](https://github.com/Nako0/devglobe-extension) | 3 | `main` | `.` | ✅ ok |  |
 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 48 | `main` | `.claude/skills` | ✅ ok |  |
 | [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 200 | `develop` | `.` | ✅ ok |  |
