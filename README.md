@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **480**
-- Discoverable skills: **58,879**
+- Discoverable skills: **58,926**
 - Healthy repos: **470** · Truncated: **1** · Unavailable: **9**
-- Last updated: **2026-06-27 23:50 UTC**
+- Last updated: **2026-06-28 02:04 UTC**
 
 ## Source Catalog
 
@@ -83,7 +83,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [boshu2/agentops](https://github.com/boshu2/agentops) | 77 | `main` | `skills` | ✅ ok |  |
 | [bradleygolden/claude-marketplace-elixir](https://github.com/bradleygolden/claude-marketplace-elixir) | 4 | `main` | `.` | ✅ ok |  |
 | [brennacodes/brenna-plugs](https://github.com/brennacodes/brenna-plugs) | 79 | `main` | `.` | ✅ ok |  |
-| [broomva/skills](https://github.com/broomva/skills) | 57 | `main` | `skills` | ✅ ok |  |
+| [broomva/skills](https://github.com/broomva/skills) | 58 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
 | [browser-act/skills](https://github.com/browser-act/skills) | 78 | `main` | `solutions` | ✅ ok |  |
 | [Bugrasemerkant/web-quality-skills](https://github.com/Bugrasemerkant/web-quality-skills) | 6 | `main` | `skills` | ✅ ok |  |
@@ -203,7 +203,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Jeremyx000/claude-session-index](https://github.com/Jeremyx000/claude-session-index) | 1 | `main` | `skills` | ✅ ok |  |
 | [jikig-ai/soleur](https://github.com/jikig-ai/soleur) | 157 | `main` | `.` | ✅ ok |  |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 21 | `main` | `skills` | ✅ ok |  |
-| [jmagar/axon](https://github.com/jmagar/axon) | 2 | `main` | `.` | ✅ ok |  |
+| [jmagar/axon](https://github.com/jmagar/axon) | 26 | `main` | `.` | ✅ ok |  |
 | [jmagar/cortex](https://github.com/jmagar/cortex) | 9 | `main` | `.` | ✅ ok |  |
 | [jmagar/unraid-mcp](https://github.com/jmagar/unraid-mcp) | 1 | `main` | `.` | ✅ ok |  |
 | [jnopareboateng/codex-claude-subagents](https://github.com/jnopareboateng/codex-claude-subagents) | 1 | `main` | `skills` | ✅ ok |  |
@@ -292,7 +292,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 567 | `main` | `.` | ✅ ok |  |
 | [molnify/molnify-app-builder-skill](https://github.com/molnify/molnify-app-builder-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [mooreceipts/ai-sandbox](https://github.com/mooreceipts/ai-sandbox) | 5 | `main` | `skills` | ✅ ok |  |
+| [mooreceipts/ai-sandbox](https://github.com/mooreceipts/ai-sandbox) | 27 | `main` | `skills` | ✅ ok |  |
 | [morganmuli/metaskill](https://github.com/morganmuli/metaskill) | 9 | `main` | `.` | ✅ ok |  |
 | [mrdenox109-nyx/skill-manager](https://github.com/mrdenox109-nyx/skill-manager) | 1 | `main` | `skills` | ✅ ok |  |
 | [mrgnfndr-dr/mind-clone](https://github.com/mrgnfndr-dr/mind-clone) | 0 | `main` | `.` | ✅ ok |  |
