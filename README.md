@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **519**
-- Discoverable skills: **59,751**
+- Discoverable skills: **59,756**
 - Healthy repos: **508** · Truncated: **1** · Unavailable: **10**
-- Last updated: **2026-06-28 11:29 UTC**
+- Last updated: **2026-06-28 13:07 UTC**
 
 ## Source Catalog
 
@@ -64,7 +64,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [antonbabenko/deliberation](https://github.com/antonbabenko/deliberation) | 8 | `master` | `.` | ✅ ok |  |
 | [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | 1 | `master` | `skills` | ✅ ok |  |
 | [Anusd6703/writers-room-story-engine](https://github.com/Anusd6703/writers-room-story-engine) | 0 | `main` | `.` | ✅ ok |  |
-| [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 46 | `main` | `skills` | ✅ ok |  |
+| [Aperivue/medsci-skills](https://github.com/Aperivue/medsci-skills) | 51 | `main` | `skills` | ✅ ok |  |
 | [apoorvjain25/production-audit](https://github.com/apoorvjain25/production-audit) | 1 | `main` | `.` | ✅ ok |  |
 | [AR6420/Hail_Hydra](https://github.com/AR6420/Hail_Hydra) | 4 | `main` | `.` | ✅ ok |  |
 | [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 32 | `main` | `.` | ✅ ok |  |
