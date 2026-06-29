@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **617**
-- Discoverable skills: **62,186**
+- Discoverable skills: **62,208**
 - Healthy repos: **604** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-06-29 22:02 UTC**
+- Last updated: **2026-06-29 23:50 UTC**
 
 ## Source Catalog
 
@@ -41,7 +41,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 30 | `main` | `skills` | ✅ ok |  |
 | [aguilera-ee/todo.txt-skill](https://github.com/aguilera-ee/todo.txt-skill) | 1 | `master` | `.` | ✅ ok |  |
 | [ahundt/autorun](https://github.com/ahundt/autorun) | 10 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,062 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,063 | `main` | `skills` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 12 | `main` | `.` | ✅ ok |  |
 | [akaszubski/autonomous-dev](https://github.com/akaszubski/autonomous-dev) | 29 | `master` | `.` | ✅ ok |  |
 | [akira993/doc-audit-harness](https://github.com/akira993/doc-audit-harness) | 2 | `main` | `skills` | ✅ ok |  |
@@ -77,7 +77,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 32 | `main` | `.` | ✅ ok |  |
 | [ArieGoldkin/claude-forge](https://github.com/ArieGoldkin/claude-forge) | 83 | `main` | `.` | ✅ ok |  |
 | [arome3/code-to-content](https://github.com/arome3/code-to-content) | 1 | `main` | `skills` | ✅ ok |  |
-| [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 29 | `main` | `.` | ✅ ok |  |
+| [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 30 | `main` | `.` | ✅ ok |  |
 | [avelikiy/great_cto](https://github.com/avelikiy/great_cto) | 35 | `main` | `skills` | ✅ ok |  |
 | [avilaok8647/ai-friendly-web-design-skill](https://github.com/avilaok8647/ai-friendly-web-design-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [baiyanmo/claude-code-multi-model-review](https://github.com/baiyanmo/claude-code-multi-model-review) | 1 | `master` | `.` | ✅ ok |  |
@@ -359,7 +359,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Modellix/modellix-skill](https://github.com/Modellix/modellix-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [modest-curator478/claude-skills](https://github.com/modest-curator478/claude-skills) | 25 | `main` | `.` | ✅ ok |  |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 653 | `main` | `.` | ✅ ok |  |
+| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 673 | `main` | `.` | ✅ ok |  |
 | [molnify/molnify-app-builder-skill](https://github.com/molnify/molnify-app-builder-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [mooreceipts/ai-sandbox](https://github.com/mooreceipts/ai-sandbox) | 37 | `main` | `skills` | ✅ ok |  |
 | [morganmuli/metaskill](https://github.com/morganmuli/metaskill) | 9 | `main` | `.` | ✅ ok |  |
