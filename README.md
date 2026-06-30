@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **682**
-- Discoverable skills: **68,477**
+- Discoverable skills: **68,495**
 - Healthy repos: **669** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-06-30 20:48 UTC**
+- Last updated: **2026-06-30 22:06 UTC**
 
 ## Source Catalog
 
@@ -329,7 +329,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [KirKruglov/claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit) | 70 | `main` | `skills` | ✅ ok |  |
 | [KKenny0/card-skill](https://github.com/KKenny0/card-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kklimuk/docx-cli](https://github.com/kklimuk/docx-cli) | 3 | `main` | `.claude/skills` | ✅ ok |  |
-| [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,479 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
+| [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,499 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
 | [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 29 | `main` | `.` | ✅ ok |  |
 | [kogakure/skills](https://github.com/kogakure/skills) | 10 | `master` | `.` | ✅ ok |  |
 | [komluk/scaffolding](https://github.com/komluk/scaffolding) | 35 | `main` | `skills` | ✅ ok |  |
@@ -468,7 +468,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [OSideMedia/higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) | 29 | `main` | `skills` | ✅ ok |  |
 | [othmane55/claude-collective-intelligence](https://github.com/othmane55/claude-collective-intelligence) | 5 | `main` | `skills` | ✅ ok |  |
 | [Out-bloodspavin173/openalex-skill](https://github.com/Out-bloodspavin173/openalex-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 90 | `main` | `skills` | ✅ ok |  |
+| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 88 | `main` | `skills` | ✅ ok |  |
 | [outreachmagic/email-finder](https://github.com/outreachmagic/email-finder) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/lead-enrich](https://github.com/outreachmagic/lead-enrich) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/outreachmagic](https://github.com/outreachmagic/outreachmagic) | 3 | `main` | `skills` | ✅ ok |  |
