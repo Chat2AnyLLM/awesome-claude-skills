@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **682**
-- Discoverable skills: **68,495**
+- Discoverable skills: **68,497**
 - Healthy repos: **669** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-06-30 22:06 UTC**
+- Last updated: **2026-06-30 23:55 UTC**
 
 ## Source Catalog
 
@@ -134,7 +134,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 54 | `dev` | `.` | ✅ ok |  |
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 344 | `main` | `.` | ✅ ok |  |
 | [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 55 | `master` | `.` | ✅ ok |  |
-| [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 47 | `main` | `.` | ✅ ok |  |
+| [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 48 | `main` | `.` | ✅ ok |  |
 | [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | 51 | `main` | `skills` | ✅ ok |  |
 | [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) | 1 | `main` | `skills` | ✅ ok |  |
 | [conversiontools/agent-skills](https://github.com/conversiontools/agent-skills) | 1 | `main` | `skills` | ✅ ok |  |
@@ -238,7 +238,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 29 | `master` | `.` | ✅ ok |  |
 | [hiadrianchen/challenge-plans](https://github.com/hiadrianchen/challenge-plans) | 0 | `main` | `.` | ✅ ok |  |
 | [Highlydeveloped-trowel635/context-graph-compressor](https://github.com/Highlydeveloped-trowel635/context-graph-compressor) | 0 | `main` | `.` | ✅ ok |  |
-| [hllrm/G-Forge](https://github.com/hllrm/G-Forge) | 37 | `main` | `skills` | ✅ ok |  |
+| [hllrm/G-Forge](https://github.com/hllrm/G-Forge) | 38 | `main` | `skills` | ✅ ok |  |
 | [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 64 | `master` | `.` | ✅ ok |  |
 | [HOKlNG/zzon-doc](https://github.com/HOKlNG/zzon-doc) | 1 | `main` | `.` | ✅ ok |  |
 | [honerlaw/agent-marketplace](https://github.com/honerlaw/agent-marketplace) | 23 | `main` | `.` | ✅ ok |  |
