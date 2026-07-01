@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **682**
-- Discoverable skills: **68,497**
+- Discoverable skills: **68,502**
 - Healthy repos: **669** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-06-30 23:55 UTC**
+- Last updated: **2026-07-01 02:05 UTC**
 
 ## Source Catalog
 
@@ -284,7 +284,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jhlee0409/claude-harness-kit](https://github.com/jhlee0409/claude-harness-kit) | 9 | `main` | `skills` | ✅ ok |  |
 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 34 | `main` | `.` | ✅ ok |  |
 | [JiHuiYiYou/msh-skill](https://github.com/JiHuiYiYou/msh-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [jikig-ai/soleur](https://github.com/jikig-ai/soleur) | 158 | `main` | `.` | ✅ ok |  |
+| [jikig-ai/soleur](https://github.com/jikig-ai/soleur) | 159 | `main` | `.` | ✅ ok |  |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 21 | `main` | `skills` | ✅ ok |  |
 | [jmagar/axon](https://github.com/jmagar/axon) | 26 | `main` | `.` | ✅ ok |  |
 | [jmagar/cortex](https://github.com/jmagar/cortex) | 9 | `main` | `.` | ✅ ok |  |
@@ -326,7 +326,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [KieranGao/general-readme-skill](https://github.com/KieranGao/general-readme-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kierstenicy452/anti-ai-writing](https://github.com/kierstenicy452/anti-ai-writing) | 1 | `main` | `skills` | ✅ ok |  |
 | [kimikonapps/kimiflow](https://github.com/kimikonapps/kimiflow) | 0 | `main` | `.` | ✅ ok |  |
-| [KirKruglov/claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit) | 70 | `main` | `skills` | ✅ ok |  |
+| [KirKruglov/claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit) | 73 | `main` | `skills` | ✅ ok |  |
 | [KKenny0/card-skill](https://github.com/KKenny0/card-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kklimuk/docx-cli](https://github.com/kklimuk/docx-cli) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,499 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
@@ -575,7 +575,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SugarMGP/study.skill](https://github.com/SugarMGP/study.skill) | 0 | `main` | `.` | ✅ ok |  |
 | [SumanasJ/coc-kp-host](https://github.com/SumanasJ/coc-kp-host) | 0 | `main` | `.` | ✅ ok |  |
 | [SURFLIN2030/swing-skills](https://github.com/SURFLIN2030/swing-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [suxrobGM/jobpilot](https://github.com/suxrobGM/jobpilot) | 19 | `main` | `.` | ✅ ok |  |
+| [suxrobGM/jobpilot](https://github.com/suxrobGM/jobpilot) | 20 | `main` | `.` | ✅ ok |  |
 | [suxuemi/allincms-content-ops](https://github.com/suxuemi/allincms-content-ops) | 1 | `main` | `.` | ✅ ok |  |
 | [sventorben/decider](https://github.com/sventorben/decider) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [swapnil-agrim/loopsmith](https://github.com/swapnil-agrim/loopsmith) | 11 | `main` | `skills` | ✅ ok |  |
