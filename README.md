@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **733**
-- Discoverable skills: **69,700**
+- Discoverable skills: **69,697**
 - Healthy repos: **720** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-07-01 16:13 UTC**
+- Last updated: **2026-07-01 18:53 UTC**
 
 ## Source Catalog
 
@@ -427,7 +427,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mikeprasad/aria-knowledge](https://github.com/mikeprasad/aria-knowledge) | 131 | `main` | `.` | ✅ ok |  |
 | [minamagdyyyy/agentic-marketing](https://github.com/minamagdyyyy/agentic-marketing) | 21 | `master` | `skills` | ✅ ok |  |
 | [mirkobozzetto/arsenal](https://github.com/mirkobozzetto/arsenal) | 8 | `main` | `.` | ✅ ok |  |
-| [MisterVitoPro/qa-claude-market](https://github.com/MisterVitoPro/qa-claude-market) | 11 | `main` | `.` | ✅ ok |  |
+| [MisterVitoPro/qa-claude-market](https://github.com/MisterVitoPro/qa-claude-market) | 8 | `main` | `.` | ✅ ok |  |
 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 8 | `main` | `skills` | ✅ ok |  |
 | [mmTheBest/Research-Architect](https://github.com/mmTheBest/Research-Architect) | 18 | `main` | `.` | ✅ ok |  |
 | [mnyok9939/specdd](https://github.com/mnyok9939/specdd) | 1 | `main` | `.` | ✅ ok |  |
