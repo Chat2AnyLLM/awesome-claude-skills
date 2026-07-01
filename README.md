@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **748**
-- Discoverable skills: **71,592**
+- Discoverable skills: **71,621**
 - Healthy repos: **735** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-07-01 22:10 UTC**
+- Last updated: **2026-07-01 23:59 UTC**
 
 ## Source Catalog
 
@@ -442,7 +442,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Modellix/modellix-skill](https://github.com/Modellix/modellix-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [modest-curator478/claude-skills](https://github.com/modest-curator478/claude-skills) | 25 | `main` | `.` | ✅ ok |  |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 837 | `main` | `.` | ✅ ok |  |
+| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 861 | `main` | `.` | ✅ ok |  |
 | [molnify/molnify-app-builder-skill](https://github.com/molnify/molnify-app-builder-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [mooreceipts/ai-sandbox](https://github.com/mooreceipts/ai-sandbox) | 37 | `main` | `skills` | ✅ ok |  |
 | [morganmuli/metaskill](https://github.com/morganmuli/metaskill) | 9 | `main` | `.` | ✅ ok |  |
@@ -593,7 +593,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sergiparpal/Cambrian](https://github.com/sergiparpal/Cambrian) | 1 | `main` | `skills` | ✅ ok |  |
 | [sergiparpal/Sproutgraph](https://github.com/sergiparpal/Sproutgraph) | 1 | `main` | `skills` | ✅ ok |  |
 | [serpapi/serpapi-claude-plugin](https://github.com/serpapi/serpapi-claude-plugin) | 1 | `main` | `skills` | ✅ ok |  |
-| [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | 48 | `main` | `skills` | ✅ ok |  |
+| [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | 49 | `main` | `skills` | ✅ ok |  |
 | [sgaunet/claude-plugins](https://github.com/sgaunet/claude-plugins) | 9 | `main` | `.` | ✅ ok |  |
 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 16 | `main` | `.` | ✅ ok |  |
@@ -714,7 +714,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [worldwonderer/video-recap-skills](https://github.com/worldwonderer/video-recap-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [wquguru/skills](https://github.com/wquguru/skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [wshobson/agents](https://github.com/wshobson/agents) | 158 | `main` | `.` | ✅ ok |  |
-| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 294 | `main` | `.` | ✅ ok |  |
+| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 298 | `main` | `.` | ✅ ok |  |
 | [x0c/doc-skills](https://github.com/x0c/doc-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [XAKLESK/cre-agent-skills](https://github.com/XAKLESK/cre-agent-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [xiaobei930/cc-best](https://github.com/xiaobei930/cc-best) | 19 | `main` | `skills` | ✅ ok |  |
