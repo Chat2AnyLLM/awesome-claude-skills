@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **818**
-- Discoverable skills: **73,490**
+- Discoverable skills: **73,491**
 - Healthy repos: **805** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-07-02 21:55 UTC**
+- Last updated: **2026-07-02 22:54 UTC**
 
 ## Source Catalog
 
@@ -673,7 +673,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sofumel/claude-handoff-revive](https://github.com/sofumel/claude-handoff-revive) | 1 | `main` | `.` | ✅ ok |  |
 | [solanabr/solana-ai-kit](https://github.com/solanabr/solana-ai-kit) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [soreavis/property-deep-dive](https://github.com/soreavis/property-deep-dive) | 1 | `main` | `skills` | ✅ ok |  |
-| [soulmachine/skills](https://github.com/soulmachine/skills) | 16 | `main` | `.` | ✅ ok |  |
+| [soulmachine/skills](https://github.com/soulmachine/skills) | 17 | `main` | `.` | ✅ ok |  |
 | [sparklingneuronics/sparkling-skills](https://github.com/sparklingneuronics/sparkling-skills) | 2 | `main` | `.` | ✅ ok |  |
 | [spencermarx/open-code-review](https://github.com/spencermarx/open-code-review) | 31 | `main` | `.claude/skills` | ✅ ok |  |
 | [SpencerPresley/spencer-and-claude-sitting-in-a-tree](https://github.com/SpencerPresley/spencer-and-claude-sitting-in-a-tree) | 3 | `main` | `.` | ✅ ok |  |
