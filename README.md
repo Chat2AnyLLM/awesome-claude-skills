@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **867**
-- Discoverable skills: **74,039**
+- Discoverable skills: **74,060**
 - Healthy repos: **853** · Truncated: **1** · Unavailable: **13**
-- Last updated: **2026-07-03 17:08 UTC**
+- Last updated: **2026-07-03 18:57 UTC**
 
 ## Source Catalog
 
@@ -163,7 +163,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 55 | `dev` | `.` | ✅ ok |  |
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 344 | `main` | `.` | ✅ ok |  |
 | [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 55 | `master` | `.` | ✅ ok |  |
-| [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 53 | `main` | `.` | ✅ ok |  |
+| [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 54 | `main` | `.` | ✅ ok |  |
 | [codybrom/clairvoyance](https://github.com/codybrom/clairvoyance) | 16 | `main` | `skills` | ✅ ok |  |
 | [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | 51 | `main` | `skills` | ✅ ok |  |
 | [coinpaprika/skills](https://github.com/coinpaprika/skills) | 2 | `main` | `.` | ✅ ok |  |
@@ -361,7 +361,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jperrello/C0BALT_CUT](https://github.com/jperrello/C0BALT_CUT) | 47 | `main` | `.claude/skills` | ✅ ok |  |
 | [jposluns/grc_library](https://github.com/jposluns/grc_library) | 17 | `main` | `.` | ✅ ok |  |
 | [jpvarbed/artifact-studio-tools](https://github.com/jpvarbed/artifact-studio-tools) | 2 | `main` | `skills` | ✅ ok |  |
-| [jsuvic/agent-profile](https://github.com/jsuvic/agent-profile) | 84 | `master` | `.` | ✅ ok |  |
+| [jsuvic/agent-profile](https://github.com/jsuvic/agent-profile) | 104 | `master` | `.` | ✅ ok |  |
 | [jsyzlbw/bbwatch](https://github.com/jsyzlbw/bbwatch) | 1 | `main` | `skills` | ✅ ok |  |
 | [Julianalost754/infostyle-skill](https://github.com/Julianalost754/infostyle-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Junayedahmedd/gemini_cli_skill](https://github.com/Junayedahmedd/gemini_cli_skill) | 0 | `main` | `.` | ✅ ok |  |
