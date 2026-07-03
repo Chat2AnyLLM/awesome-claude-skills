@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **883**
-- Discoverable skills: **74,533**
+- Discoverable skills: **74,543**
 - Healthy repos: **869** · Truncated: **1** · Unavailable: **13**
-- Last updated: **2026-07-03 22:51 UTC**
+- Last updated: **2026-07-03 23:53 UTC**
 
 ## Source Catalog
 
@@ -185,7 +185,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [dapih/cobaduluk](https://github.com/dapih/cobaduluk) | 5 | `main` | `.` | ✅ ok |  |
 | [davebream/claude-of-alexandria](https://github.com/davebream/claude-of-alexandria) | 7 | `main` | `.` | ✅ ok |  |
 | [davidteren/hotwire-codex-skills](https://github.com/davidteren/hotwire-codex-skills) | 8 | `main` | `skills` | ✅ ok |  |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 872 | `main` | `.` | ✅ ok |  |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 873 | `main` | `.` | ✅ ok |  |
 | [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 82 | `main` | `.` | ✅ ok |  |
 | [dbtlr/atlas-skills](https://github.com/dbtlr/atlas-skills) | 12 | `main` | `skills` | ✅ ok |  |
 | [ddanntheman/GrantForge](https://github.com/ddanntheman/GrantForge) | 9 | `main` | `.` | ✅ ok |  |
@@ -344,7 +344,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [javimosch/machin](https://github.com/javimosch/machin) | 5 | `main` | `skills` | ✅ ok |  |
 | [JayantDevkar/claude-code-karma](https://github.com/JayantDevkar/claude-code-karma) | 1 | `main` | `skills` | ✅ ok |  |
 | [jaydenluckertjes-ai/Carmack-Council](https://github.com/jaydenluckertjes-ai/Carmack-Council) | 5 | `main` | `skills` | ✅ ok |  |
-| [jdanigo/hydraia](https://github.com/jdanigo/hydraia) | 37 | `main` | `skills` | ✅ ok |  |
+| [jdanigo/hydraia](https://github.com/jdanigo/hydraia) | 45 | `main` | `skills` | ✅ ok |  |
 | [JEFF7712/nix-agent](https://github.com/JEFF7712/nix-agent) | 1 | `main` | `skills` | ✅ ok |  |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 | `main` | `.` | ✅ ok |  |
 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 3,644 | `main` | `.` | ✅ ok |  |
@@ -604,7 +604,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) | 52 | `main` | `.claude/skills` | ✅ ok |  |
 | [peterzat/zat.env](https://github.com/peterzat/zat.env) | 7 | `main` | `.` | ✅ ok |  |
 | [pgundlupetvenkatesh/mdb_api_layer](https://github.com/pgundlupetvenkatesh/mdb_api_layer) | 3 | `main` | `.claude/skills` | ✅ ok |  |
-| [photostructure/claude-code-skills](https://github.com/photostructure/claude-code-skills) | 8 | `main` | `.` | ✅ ok |  |
+| [photostructure/claude-code-skills](https://github.com/photostructure/claude-code-skills) | 9 | `main` | `.` | ✅ ok |  |
 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 0 | `main` | `.` | ✅ ok |  |
 | [PHY041/claude-skill-reddit](https://github.com/PHY041/claude-skill-reddit) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [PicsArt/gen-ai-skills](https://github.com/PicsArt/gen-ai-skills) | 20 | `main` | `skills` | ✅ ok |  |
