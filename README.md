@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **867**
-- Discoverable skills: **74,038**
+- Discoverable skills: **74,039**
 - Healthy repos: **853** · Truncated: **1** · Unavailable: **13**
-- Last updated: **2026-07-03 15:46 UTC**
+- Last updated: **2026-07-03 17:08 UTC**
 
 ## Source Catalog
 
@@ -51,7 +51,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ai4paper/apaper-plugin](https://github.com/ai4paper/apaper-plugin) | 2 | `main` | `skills` | ✅ ok |  |
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,109 | `main` | `skills` | ✅ ok |  |
-| [aj604/toolshed](https://github.com/aj604/toolshed) | 6 | `main` | `.` | ✅ ok |  |
+| [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akaszubski/autonomous-dev](https://github.com/akaszubski/autonomous-dev) | 29 | `master` | `.` | ✅ ok |  |
 | [akira993/doc-audit-harness](https://github.com/akira993/doc-audit-harness) | 2 | `main` | `skills` | ✅ ok |  |
@@ -216,7 +216,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [effythealien/plumb-line](https://github.com/effythealien/plumb-line) | 3 | `main` | `skills` | ✅ ok |  |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 8 | `main` | `understand-anything-plugin/skills` | ✅ ok |  |
 | [Einherjar99/bggg-skill-taotie](https://github.com/Einherjar99/bggg-skill-taotie) | 0 | `main` | `.` | ✅ ok |  |
-| [eins78/agent-skills](https://github.com/eins78/agent-skills) | 15 | `main` | `skills` | ✅ ok |  |
+| [eins78/agent-skills](https://github.com/eins78/agent-skills) | 13 | `main` | `skills` | ✅ ok |  |
 | [eiwru/creative-director-skill](https://github.com/eiwru/creative-director-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp) | 4 | `main` | `skills` | ✅ ok |  |
 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 71 | `main` | `skills` | ✅ ok |  |
@@ -238,7 +238,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [felipedeso7za4444/scientific-thinking-general](https://github.com/felipedeso7za4444/scientific-thinking-general) | 0 | `main` | `.` | ✅ ok |  |
 | [felipemelendez/llm-orchestrator](https://github.com/felipemelendez/llm-orchestrator) | 18 | `main` | `skills` | ✅ ok |  |
 | [filippolmt/skills](https://github.com/filippolmt/skills) | 2 | `main` | `.` | ✅ ok |  |
-| [Flagrare/agent-skills](https://github.com/Flagrare/agent-skills) | 29 | `main` | `.` | ✅ ok |  |
+| [Flagrare/agent-skills](https://github.com/Flagrare/agent-skills) | 30 | `main` | `.` | ✅ ok |  |
 | [flakey-caster542/superseo-skills](https://github.com/flakey-caster542/superseo-skills) | 11 | `main` | `skills` | ✅ ok |  |
 | [floccose-burner9185/wow-harness](https://github.com/floccose-burner9185/wow-harness) | 24 | `main` | `.` | ✅ ok |  |
 | [FlorianBruniaux/github-roast-tpc](https://github.com/FlorianBruniaux/github-roast-tpc) | 6 | `main` | `skills` | ✅ ok |  |
