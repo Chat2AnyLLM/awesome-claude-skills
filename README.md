@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **951**
-- Discoverable skills: **75,096**
+- Discoverable skills: **75,097**
 - Healthy repos: **937** · Truncated: **1** · Unavailable: **13**
-- Last updated: **2026-07-04 21:45 UTC**
+- Last updated: **2026-07-04 22:44 UTC**
 
 ## Source Catalog
 
@@ -36,7 +36,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Abed-Zahed/claude-skills-kit](https://github.com/Abed-Zahed/claude-skills-kit) | 0 | `master` | `.` | ✅ ok |  |
 | [abullard1/claude-bionify](https://github.com/abullard1/claude-bionify) | 1 | `main` | `.` | ✅ ok |  |
 | [Abwor9658/social-media-skills](https://github.com/Abwor9658/social-media-skills) | 13 | `main` | `skills` | ✅ ok |  |
-| [AcKeskin/contexture](https://github.com/AcKeskin/contexture) | 44 | `main` | `skills` | ✅ ok |  |
+| [AcKeskin/contexture](https://github.com/AcKeskin/contexture) | 45 | `main` | `skills` | ✅ ok |  |
 | [activeloopai/hivemind](https://github.com/activeloopai/hivemind) | 11 | `main` | `harnesses` | ✅ ok |  |
 | [Acuminate-conventionality909/aibti](https://github.com/Acuminate-conventionality909/aibti) | 1 | `main` | `skills` | ✅ ok |  |
 | [adamjali/claude-skills](https://github.com/adamjali/claude-skills) | 9 | `main` | `.` | ✅ ok |  |
