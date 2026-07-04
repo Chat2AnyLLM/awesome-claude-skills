@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **883**
-- Discoverable skills: **74,543**
+- Discoverable skills: **74,561**
 - Healthy repos: **869** · Truncated: **1** · Unavailable: **13**
-- Last updated: **2026-07-03 23:53 UTC**
+- Last updated: **2026-07-04 01:28 UTC**
 
 ## Source Catalog
 
@@ -70,7 +70,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 418 | `main` | `.gemini/skills` | ✅ ok |  |
 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 5 | `dev` | `.` | ✅ ok |  |
 | [All-The-Vibes/TokenMasterX](https://github.com/All-The-Vibes/TokenMasterX) | 1 | `master` | `.` | ✅ ok |  |
-| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 353 | `main` | `.` | ✅ ok |  |
+| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 357 | `main` | `.` | ✅ ok |  |
 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 239 | `main` | `skills` | ✅ ok |  |
 | [alvis-HaoH/gkd](https://github.com/alvis-HaoH/gkd) | 1 | `main` | `skills` | ✅ ok |  |
 | [amjad1233/claude-skills](https://github.com/amjad1233/claude-skills) | 4 | `main` | `.claude/skills` | ✅ ok |  |
@@ -406,7 +406,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [KirKruglov/claude-skills-kit](https://github.com/KirKruglov/claude-skills-kit) | 73 | `main` | `skills` | ✅ ok |  |
 | [KKenny0/card-skill](https://github.com/KKenny0/card-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kklimuk/docx-cli](https://github.com/kklimuk/docx-cli) | 3 | `main` | `.claude/skills` | ✅ ok |  |
-| [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,499 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
+| [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,519 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
 | [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 29 | `main` | `.` | ✅ ok |  |
 | [kogakure/skills](https://github.com/kogakure/skills) | 10 | `master` | `.` | ✅ ok |  |
 | [komluk/scaffolding](https://github.com/komluk/scaffolding) | 35 | `main` | `skills` | ✅ ok |  |
@@ -626,7 +626,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [qiankunli/devloop](https://github.com/qiankunli/devloop) | 6 | `main` | `.` | ✅ ok |  |
 | [qkitzero/kage-bunshin](https://github.com/qkitzero/kage-bunshin) | 5 | `main` | `.claude/skills` | ✅ ok |  |
 | [qte77/claude-code-plugins](https://github.com/qte77/claude-code-plugins) | 64 | `main` | `.` | ✅ ok |  |
-| [qwerfunch/cladding](https://github.com/qwerfunch/cladding) | 38 | `main` | `.` | ✅ ok |  |
+| [qwerfunch/cladding](https://github.com/qwerfunch/cladding) | 32 | `main` | `.` | ✅ ok |  |
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 10 | `main` | `.` | ✅ ok |  |
 | [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 59 | `main` | `.` | ✅ ok |  |
 | [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 221 | `main` | `.` | ✅ ok |  |
