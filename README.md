@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **901**
-- Discoverable skills: **74,741**
+- Discoverable skills: **74,752**
 - Healthy repos: **888** · Truncated: **1** · Unavailable: **12**
-- Last updated: **2026-07-04 05:33 UTC**
+- Last updated: **2026-07-04 08:17 UTC**
 
 ## Source Catalog
 
@@ -556,7 +556,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [NexaDuo/mARC](https://github.com/NexaDuo/mARC) | 2 | `main` | `.` | ✅ ok |  |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 13 | `main` | `.` | ✅ ok |  |
 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 81 | `main` | `next` | ✅ ok |  |
-| [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 249 | `main` | `.` | ✅ ok |  |
+| [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 250 | `main` | `.` | ✅ ok |  |
 | [NikiforovAll/claude-code-rules](https://github.com/NikiforovAll/claude-code-rules) | 24 | `main` | `.` | ✅ ok |  |
 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 4 | `master` | `skills` | ✅ ok |  |
 | [Nima-Edelkhani/claude-ux-design-skill](https://github.com/Nima-Edelkhani/claude-ux-design-skill) | 0 | `main` | `.` | ✅ ok |  |
@@ -733,7 +733,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sling86/it-cli-plugin](https://github.com/sling86/it-cli-plugin) | 1 | `main` | `.` | ✅ ok |  |
 | [Smaller-rawdata285/cost-guardian](https://github.com/Smaller-rawdata285/cost-guardian) | 4 | `main` | `skills` | ✅ ok |  |
 | [smixs/skill-conductor](https://github.com/smixs/skill-conductor) | 1 | `main` | `skills` | ✅ ok |  |
-| [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 5 | `main` | `.` | ✅ ok |  |
+| [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 6 | `main` | `.` | ✅ ok |  |
 | [smykla-skalski/sai](https://github.com/smykla-skalski/sai) | 40 | `main` | `.` | ✅ ok |  |
 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 58 | `main` | `Skills` | ✅ ok |  |
 | [sneg55/agent-starter](https://github.com/sneg55/agent-starter) | 8 | `main` | `skills` | ✅ ok |  |
@@ -898,7 +898,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Zephyrex21/claude-leetcode-helper](https://github.com/Zephyrex21/claude-leetcode-helper) | 0 | `main` | `.` | ✅ ok |  |
 | [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | 12 | `main` | `skills` | ✅ ok |  |
 | [zexuanw958-svg/travel-plan-viz](https://github.com/zexuanw958-svg/travel-plan-viz) | 1 | `main` | `.` | ✅ ok |  |
-| [zgbrenner/agentcounsel](https://github.com/zgbrenner/agentcounsel) | 198 | `main` | `skills` | ✅ ok |  |
+| [zgbrenner/agentcounsel](https://github.com/zgbrenner/agentcounsel) | 207 | `main` | `skills` | ✅ ok |  |
 | [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | 18 | `main` | `skills` | ✅ ok |  |
 | [zircote/adr](https://github.com/zircote/adr) | 12 | `main` | `skills` | ✅ ok |  |
 | [zxc7563598/skillbox](https://github.com/zxc7563598/skillbox) | 4 | `main` | `skills` | ✅ ok |  |
