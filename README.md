@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **982**
-- Discoverable skills: **75,000**
+- Discoverable skills: **74,999**
 - Healthy repos: **967** · Truncated: **1** · Unavailable: **14**
-- Last updated: **2026-07-05 10:55 UTC**
+- Last updated: **2026-07-05 12:07 UTC**
 
 ## Source Catalog
 
@@ -336,7 +336,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [hotopla5976/software-design-philosophy-skill](https://github.com/hotopla5976/software-design-philosophy-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Houseofmvps/ultraship](https://github.com/Houseofmvps/ultraship) | 45 | `main` | `skills` | ✅ ok |  |
 | [hssh8917/cc-skills](https://github.com/hssh8917/cc-skills) | 12 | `main` | `skills` | ✅ ok |  |
-| [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 25 | `main` | `.claude/skills` | ✅ ok |  |
+| [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 24 | `main` | `.claude/skills` | ✅ ok |  |
 | [huangwb8/skills](https://github.com/huangwb8/skills) | 29 | `main` | `.` | ✅ ok |  |
 | [huggingface/skills](https://github.com/huggingface/skills) | 20 | `main` | `.` | ✅ ok |  |
 | [humongus69/langsmith-fetch-skill](https://github.com/humongus69/langsmith-fetch-skill) | 0 | `main` | `.` | ✅ ok |  |
