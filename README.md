@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1128**
-- Discoverable skills: **77,259**
+- Discoverable skills: **77,366**
 - Healthy repos: **1111** · Truncated: **1** · Unavailable: **16**
-- Last updated: **2026-07-07 15:38 UTC**
+- Last updated: **2026-07-07 17:49 UTC**
 
 ## Source Catalog
 
@@ -96,7 +96,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 418 | `main` | `.gemini/skills` | ✅ ok |  |
 | [alirezarezvani/ClaudeForge](https://github.com/alirezarezvani/ClaudeForge) | 5 | `dev` | `.` | ✅ ok |  |
 | [All-The-Vibes/TokenMasterX](https://github.com/All-The-Vibes/TokenMasterX) | 1 | `master` | `.` | ✅ ok |  |
-| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 371 | `main` | `.` | ✅ ok |  |
+| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 470 | `main` | `.` | ✅ ok |  |
 | [ALQ78/skill-framadate](https://github.com/ALQ78/skill-framadate) | 1 | `main` | `.` | ✅ ok |  |
 | [AlterLab-IEU/AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | 239 | `main` | `skills` | ✅ ok |  |
 | [alvis-HaoH/gkd](https://github.com/alvis-HaoH/gkd) | 1 | `main` | `skills` | ✅ ok |  |
@@ -151,7 +151,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [beefiker/superloopy](https://github.com/beefiker/superloopy) | 6 | `main` | `skills` | ✅ ok |  |
 | [bendrucker/claude](https://github.com/bendrucker/claude) | 68 | `main` | `.` | ✅ ok |  |
 | [Benknightdark/neo-skills](https://github.com/Benknightdark/neo-skills) | 24 | `main` | `skills` | ✅ ok |  |
-| [berrydev-ai/skills](https://github.com/berrydev-ai/skills) | 2 | `main` | `.` | ✅ ok |  |
+| [berrydev-ai/skills](https://github.com/berrydev-ai/skills) | 3 | `main` | `.` | ✅ ok |  |
 | [bertbertov/claude-stack](https://github.com/bertbertov/claude-stack) | 157 | `main` | `skills` | ✅ ok |  |
 | [beydemirfurkan/appstore-release](https://github.com/beydemirfurkan/appstore-release) | 1 | `main` | `skills` | ✅ ok |  |
 | [bg-szy/TOP-SKILLS](https://github.com/bg-szy/TOP-SKILLS) | 8,059 | `master` | `skills` | ✅ ok |  |
@@ -178,7 +178,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [brennacodes/brenna-plugs](https://github.com/brennacodes/brenna-plugs) | 79 | `main` | `.` | ✅ ok |  |
 | [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 5 | `main` | `skills` | ✅ ok |  |
 | [brilliantdirectories/brilliant-directories-mcp](https://github.com/brilliantdirectories/brilliant-directories-mcp) | 0 | `main` | `.` | ✅ ok |  |
-| [broomva/skills](https://github.com/broomva/skills) | 78 | `main` | `skills` | ✅ ok |  |
+| [broomva/skills](https://github.com/broomva/skills) | 79 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
 | [browser-act/skills](https://github.com/browser-act/skills) | 78 | `main` | `solutions` | ✅ ok |  |
 | [BytesFromToby/plumbline](https://github.com/BytesFromToby/plumbline) | 8 | `main` | `skills` | ✅ ok |  |
@@ -353,7 +353,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gonoff/claude-todos-skill](https://github.com/gonoff/claude-todos-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Goodsmileduck/claude-registry](https://github.com/Goodsmileduck/claude-registry) | 23 | `main` | `.` | ✅ ok |  |
 | [googlarz/finance-assistant](https://github.com/googlarz/finance-assistant) | 0 | `main` | `.` | ✅ ok |  |
-| [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 238 | `main` | `skills` | ✅ ok |  |
+| [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 239 | `main` | `skills` | ✅ ok |  |
 | [gptme/gptme-cc-plugin](https://github.com/gptme/gptme-cc-plugin) | 3 | `master` | `skills` | ✅ ok |  |
 | [GrayMa77er/tiny-spec](https://github.com/GrayMa77er/tiny-spec) | 6 | `main` | `.` | ✅ ok |  |
 | [greglas75/zuvo](https://github.com/greglas75/zuvo) | 55 | `main` | `skills` | ✅ ok |  |
@@ -472,7 +472,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Jose-Ribeir/claude-code-review-gate](https://github.com/Jose-Ribeir/claude-code-review-gate) | 1 | `main` | `skills` | ✅ ok |  |
 | [josephfung/trimkit](https://github.com/josephfung/trimkit) | 2 | `main` | `skills` | ✅ ok |  |
 | [jozobeer/mojiemoji-plugin](https://github.com/jozobeer/mojiemoji-plugin) | 4 | `main` | `skills` | ✅ ok |  |
-| [jperrello/C0BALT_CUT](https://github.com/jperrello/C0BALT_CUT) | 47 | `main` | `.claude/skills` | ✅ ok |  |
+| [jperrello/C0BALT_CUT](https://github.com/jperrello/C0BALT_CUT) | 48 | `main` | `.claude/skills` | ✅ ok |  |
 | [jpmsilva1/ai-research-ecosystem](https://github.com/jpmsilva1/ai-research-ecosystem) | 5 | `main` | `skills` | ✅ ok |  |
 | [jposluns/grc_library](https://github.com/jposluns/grc_library) | 18 | `main` | `.` | ✅ ok |  |
 | [jpvarbed/artifact-studio-tools](https://github.com/jpvarbed/artifact-studio-tools) | 2 | `main` | `skills` | ✅ ok |  |
@@ -645,7 +645,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [morganmuli/metaskill](https://github.com/morganmuli/metaskill) | 9 | `main` | `.` | ✅ ok |  |
 | [morodomi/dev-crew](https://github.com/morodomi/dev-crew) | 28 | `main` | `skills` | ✅ ok |  |
 | [motivated-groupthink347/boss-skill](https://github.com/motivated-groupthink347/boss-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [mr-kelly/skills](https://github.com/mr-kelly/skills) | 41 | `main` | `skills` | ✅ ok |  |
+| [mr-kelly/skills](https://github.com/mr-kelly/skills) | 43 | `main` | `skills` | ✅ ok |  |
 | [MrBridgeHQ/aromatic-herb-gardening-expert](https://github.com/MrBridgeHQ/aromatic-herb-gardening-expert) | 1 | `main` | `skills` | ✅ ok |  |
 | [MrBridgeHQ/github-profile-optimizer](https://github.com/MrBridgeHQ/github-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [MrBridgeHQ/hf-profile-optimizer](https://github.com/MrBridgeHQ/hf-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
@@ -802,7 +802,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [qwwiwi/dashi-plugin-claude-code](https://github.com/qwwiwi/dashi-plugin-claude-code) | 1 | `main` | `skills` | ✅ ok |  |
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 11 | `main` | `.` | ✅ ok |  |
 | [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 59 | `main` | `.` | ✅ ok |  |
-| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 222 | `main` | `.` | ✅ ok |  |
+| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 224 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafalr100/enterprise-architect-skill](https://github.com/rafalr100/enterprise-architect-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [raghatatepiyush/conductor](https://github.com/raghatatepiyush/conductor) | 3 | `main` | `skills` | ✅ ok |  |
