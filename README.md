@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1240**
-- Discoverable skills: **78,764**
+- Discoverable skills: **78,777**
 - Healthy repos: **1216** · Truncated: **1** · Unavailable: **23**
-- Last updated: **2026-07-09 10:16 UTC**
+- Last updated: **2026-07-09 13:40 UTC**
 
 ## Source Catalog
 
@@ -80,7 +80,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ai4paper/apaper-plugin](https://github.com/ai4paper/apaper-plugin) | 2 | `main` | `skills` | ✅ ok |  |
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,243 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,244 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akaszubski/autonomous-dev](https://github.com/akaszubski/autonomous-dev) | 29 | `master` | `.` | ✅ ok |  |
@@ -394,7 +394,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gonoff/claude-todos-skill](https://github.com/gonoff/claude-todos-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Goodsmileduck/claude-registry](https://github.com/Goodsmileduck/claude-registry) | 23 | `main` | `.` | ✅ ok |  |
 | [googlarz/finance-assistant](https://github.com/googlarz/finance-assistant) | 0 | `main` | `.` | ✅ ok |  |
-| [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 241 | `main` | `skills` | ✅ ok |  |
+| [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 245 | `main` | `skills` | ✅ ok |  |
 | [gptme/gptme-cc-plugin](https://github.com/gptme/gptme-cc-plugin) | 3 | `master` | `skills` | ✅ ok |  |
 | [gptme/gptme-contrib](https://github.com/gptme/gptme-contrib) | 11 | `master` | `skills` | ✅ ok |  |
 | [GrayMa77er/tiny-spec](https://github.com/GrayMa77er/tiny-spec) | 6 | `main` | `.` | ✅ ok |  |
@@ -813,7 +813,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [oprogramadorreal/optimus-claude](https://github.com/oprogramadorreal/optimus-claude) | 22 | `master` | `skills` | ✅ ok |  |
 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 0 | `main` | `.` | ✅ ok |  |
 | [ORION2809/claude-Fulcrum](https://github.com/ORION2809/claude-Fulcrum) | 404 | `main` | `.` | ✅ ok |  |
-| [OrodruinLabs/nazgul](https://github.com/OrodruinLabs/nazgul) | 24 | `main` | `skills` | ✅ ok |  |
+| [OrodruinLabs/nazgul](https://github.com/OrodruinLabs/nazgul) | 25 | `main` | `skills` | ✅ ok |  |
 | [OSideMedia/higgsfield-ai-prompt-skill](https://github.com/OSideMedia/higgsfield-ai-prompt-skill) | 30 | `main` | `skills` | ✅ ok |  |
 | [osouthgate/agent-plus](https://github.com/osouthgate/agent-plus) | 10 | `main` | `.` | ✅ ok |  |
 | [othmane55/claude-collective-intelligence](https://github.com/othmane55/claude-collective-intelligence) | 5 | `main` | `skills` | ✅ ok |  |
@@ -948,7 +948,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sandypoli-boop/sansheng-gemini-video](https://github.com/sandypoli-boop/sansheng-gemini-video) | 0 | `main` | `.` | ✅ ok |  |
 | [Sanexxxx777/curated-claude-code](https://github.com/Sanexxxx777/curated-claude-code) | 9 | `main` | `skills` | ✅ ok |  |
 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 26 | `main` | `skills` | ✅ ok |  |
-| [sapdev-ai/sap-dev](https://github.com/sapdev-ai/sap-dev) | 67 | `main` | `.` | ✅ ok |  |
+| [sapdev-ai/sap-dev](https://github.com/sapdev-ai/sap-dev) | 70 | `main` | `.` | ✅ ok |  |
 | [satbirbhbc-ux/ai-coding-principles](https://github.com/satbirbhbc-ux/ai-coding-principles) | 2 | `main` | `.` | ✅ ok |  |
 | [sator-imaging/suggest-skills](https://github.com/sator-imaging/suggest-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [saverio87/net-worth](https://github.com/saverio87/net-worth) | 1 | `main` | `.claude/skills` | ✅ ok |  |
@@ -984,7 +984,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 0 | `main` | `.` | ✅ ok |  |
 | [shck-dev/ccx-context-system](https://github.com/shck-dev/ccx-context-system) | 3 | `main` | `.` | ✅ ok |  |
 | [shepsci/kaggle-skill](https://github.com/shepsci/kaggle-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [ShieldNet-360/secure-vibe](https://github.com/ShieldNet-360/secure-vibe) | 128 | `main` | `.` | ✅ ok |  |
+| [ShieldNet-360/secure-vibe](https://github.com/ShieldNet-360/secure-vibe) | 132 | `main` | `.` | ✅ ok |  |
 | [shimo4228/claude-skill-paper-ecosystem](https://github.com/shimo4228/claude-skill-paper-ecosystem) | 2 | `main` | `skills` | ✅ ok |  |
 | [shimo4228/readme-writer](https://github.com/shimo4228/readme-writer) | 1 | `main` | `skills` | ✅ ok |  |
 | [shimo4228/search-first](https://github.com/shimo4228/search-first) | 1 | `main` | `skills` | ✅ ok |  |
