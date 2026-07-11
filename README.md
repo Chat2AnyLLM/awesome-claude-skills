@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1384**
-- Discoverable skills: **87,425**
+- Discoverable skills: **87,426**
 - Healthy repos: **1355** · Truncated: **1** · Unavailable: **28**
-- Last updated: **2026-07-11 19:57 UTC**
+- Last updated: **2026-07-11 20:39 UTC**
 
 ## Source Catalog
 
@@ -234,7 +234,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chafoo/anchored](https://github.com/chafoo/anchored) | 2 | `main` | `.` | ✅ ok |  |
 | [channel47/plugins](https://github.com/channel47/plugins) | 60 | `main` | `.` | ✅ ok |  |
 | [charlesphilippebelhadj/avaa-dev-flow-trace](https://github.com/charlesphilippebelhadj/avaa-dev-flow-trace) | 1 | `main` | `skills` | ✅ ok |  |
-| [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 23 | `main` | `.` | ✅ ok |  |
+| [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 24 | `main` | `.` | ✅ ok |  |
 | [chenweil/skillcaddy](https://github.com/chenweil/skillcaddy) | 1 | `main` | `skills` | ✅ ok |  |
 | [chenxi-bot21/ai-job-search-pipeline](https://github.com/chenxi-bot21/ai-job-search-pipeline) | 0 | `main` | `.` | ✅ ok |  |
 | [chenyuxiaojin/xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | 18 | `main` | `.` | ✅ ok |  |
