@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1358**
-- Discoverable skills: **86,988**
+- Discoverable skills: **86,989**
 - Healthy repos: **1333** · Truncated: **1** · Unavailable: **24**
-- Last updated: **2026-07-11 09:13 UTC**
+- Last updated: **2026-07-11 10:51 UTC**
 
 ## Source Catalog
 
@@ -362,7 +362,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) | 1 | `main` | `.` | ✅ ok |  |
 | [ethanhq/cc-fleet](https://github.com/ethanhq/cc-fleet) | 3 | `main` | `skills` | ✅ ok |  |
 | [ethanolivertroy/my-agent-stuff](https://github.com/ethanolivertroy/my-agent-stuff) | 16 | `main` | `skills` | ✅ ok |  |
-| [EthanYoQ/Skill-hub](https://github.com/EthanYoQ/Skill-hub) | 53 | `mine` | `skills` | ✅ ok |  |
+| [EthanYoQ/Skill-hub](https://github.com/EthanYoQ/Skill-hub) | 54 | `mine` | `skills` | ✅ ok |  |
 | [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 0 | `main` | `.` | ✅ ok |  |
 | [evgenii-studitskikh/Claude-Code-SaaS-Studio](https://github.com/evgenii-studitskikh/Claude-Code-SaaS-Studio) | 23 | `main` | `.claude/skills` | ✅ ok |  |
 | [EvolveHQ/docflow](https://github.com/EvolveHQ/docflow) | 9 | `main` | `.` | ✅ ok |  |
