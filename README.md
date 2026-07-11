@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1371**
-- Discoverable skills: **87,123**
+- Discoverable skills: **87,143**
 - Healthy repos: **1342** · Truncated: **1** · Unavailable: **28**
-- Last updated: **2026-07-11 16:40 UTC**
+- Last updated: **2026-07-11 17:43 UTC**
 
 ## Source Catalog
 
@@ -238,7 +238,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chenyuxiaojin/xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | 18 | `main` | `.` | ✅ ok |  |
 | [chienchuanw/chuan-skills](https://github.com/chienchuanw/chuan-skills) | 32 | `main` | `.` | ✅ ok |  |
 | [Chili-Piper/mcp-assets](https://github.com/Chili-Piper/mcp-assets) | 12 | `main` | `skills` | ✅ ok |  |
-| [Chrike/coding-agent-skills](https://github.com/Chrike/coding-agent-skills) | 12 | `main` | `skills` | ✅ ok |  |
+| [Chrike/coding-agent-skills](https://github.com/Chrike/coding-agent-skills) | 13 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 5 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/tack](https://github.com/chris-peterson/tack) | 1 | `main` | `skills` | ✅ ok |  |
 | [chrislacey89/skills](https://github.com/chrislacey89/skills) | 30 | `prod` | `.` | ✅ ok |  |
@@ -253,7 +253,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [claude-world/director-mode-lite](https://github.com/claude-world/director-mode-lite) | 32 | `main` | `skills` | ✅ ok |  |
 | [Claudefarid/claude-ceo-skill](https://github.com/Claudefarid/claude-ceo-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ClaudeRegistry/marketplace](https://github.com/ClaudeRegistry/marketplace) | 14 | `main` | `.` | ✅ ok |  |
-| [clomia/claude-automata](https://github.com/clomia/claude-automata) | 6 | `main` | `.` | ✅ ok |  |
+| [clomia/claude-automata](https://github.com/clomia/claude-automata) | 7 | `main` | `.` | ✅ ok |  |
 | [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 14 | `main` | `.` | ✅ ok |  |
 | [club-cog/devin-handoff](https://github.com/club-cog/devin-handoff) | 1 | `main` | `.` | ✅ ok |  |
 | [coalesce-labs/catalyst](https://github.com/coalesce-labs/catalyst) | 110 | `main` | `.` | ✅ ok |  |
@@ -526,8 +526,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [izahamyatim/claude-plugin-fizzy](https://github.com/izahamyatim/claude-plugin-fizzy) | 1 | `main` | `.` | ✅ ok |  |
 | [izyanrajwani/agent-skills-library](https://github.com/izyanrajwani/agent-skills-library) | 14 | `main` | `skills` | ✅ ok |  |
 | [j-ronk/backchannel](https://github.com/j-ronk/backchannel) | 1 | `main` | `.` | ✅ ok |  |
-| [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 118 | `main` | `skills` | ✅ ok |  |
-| [jabrena/plinth](https://github.com/jabrena/plinth) | 118 | `main` | `skills` | ✅ ok |  |
+| [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 119 | `main` | `skills` | ✅ ok |  |
+| [jabrena/plinth](https://github.com/jabrena/plinth) | 119 | `main` | `skills` | ✅ ok |  |
 | [jackterror/persuasion-audit-engine](https://github.com/jackterror/persuasion-audit-engine) | 0 | `main` | `.` | ✅ ok |  |
 | [jackterror/script-to-video-production-agent](https://github.com/jackterror/script-to-video-production-agent) | 0 | `main` | `.` | ✅ ok |  |
 | [jackterror/writers-room-story-engine](https://github.com/jackterror/writers-room-story-engine) | 0 | `main` | `.` | ✅ ok |  |
@@ -592,7 +592,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jposluns/grc_library](https://github.com/jposluns/grc_library) | 21 | `main` | `.` | ✅ ok |  |
 | [jpvarbed/artifact-studio-tools](https://github.com/jpvarbed/artifact-studio-tools) | 2 | `main` | `skills` | ✅ ok |  |
 | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 1 | `main` | `.claude/skills` | ✅ ok |  |
-| [jsuvic/agent-profile](https://github.com/jsuvic/agent-profile) | 160 | `master` | `.` | ✅ ok |  |
+| [jsuvic/agent-profile](https://github.com/jsuvic/agent-profile) | 176 | `master` | `.` | ✅ ok |  |
 | [jsyzlbw/bbwatch](https://github.com/jsyzlbw/bbwatch) | 1 | `main` | `skills` | ✅ ok |  |
 | [Julianalost754/infostyle-skill](https://github.com/Julianalost754/infostyle-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Junayedahmedd/gemini_cli_skill](https://github.com/Junayedahmedd/gemini_cli_skill) | 0 | `main` | `.` | ✅ ok |  |
