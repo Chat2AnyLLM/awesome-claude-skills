@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1384**
-- Discoverable skills: **87,426**
+- Discoverable skills: **87,310**
 - Healthy repos: **1355** · Truncated: **1** · Unavailable: **28**
-- Last updated: **2026-07-11 20:39 UTC**
+- Last updated: **2026-07-11 21:37 UTC**
 
 ## Source Catalog
 
@@ -126,7 +126,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [andreilungeanu/cursor-acp-bridge](https://github.com/andreilungeanu/cursor-acp-bridge) | 1 | `main` | `skills` | ✅ ok |  |
 | [andreilungeanu/cursor-delegate-mcp](https://github.com/andreilungeanu/cursor-delegate-mcp) | 1 | `main` | `skills` | ✅ ok |  |
 | [andresanemic/lore-plugin](https://github.com/andresanemic/lore-plugin) | 5 | `main` | `skills` | ✅ ok |  |
-| [andresnator/agents-orchestrator](https://github.com/andresnator/agents-orchestrator) | 72 | `main` | `skills` | ✅ ok |  |
+| [andresnator/agents-orchestrator](https://github.com/andresnator/agents-orchestrator) | 77 | `main` | `skills` | ✅ ok |  |
 | [AndriyKalashnykov/flight-path](https://github.com/AndriyKalashnykov/flight-path) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [andyed/muriel](https://github.com/andyed/muriel) | 2 | `main` | `.` | ✅ ok |  |
 | [andykear/FileMaker-XML-field-definitions](https://github.com/andykear/FileMaker-XML-field-definitions) | 0 | `main` | `.` | ✅ ok |  |
@@ -241,7 +241,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chienchuanw/chuan-skills](https://github.com/chienchuanw/chuan-skills) | 32 | `main` | `.` | ✅ ok |  |
 | [Chili-Piper/mcp-assets](https://github.com/Chili-Piper/mcp-assets) | 12 | `main` | `skills` | ✅ ok |  |
 | [Chrike/coding-agent-skills](https://github.com/Chrike/coding-agent-skills) | 13 | `main` | `skills` | ✅ ok |  |
-| [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 5 | `main` | `skills` | ✅ ok |  |
+| [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 6 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/tack](https://github.com/chris-peterson/tack) | 1 | `main` | `skills` | ✅ ok |  |
 | [chrislacey89/skills](https://github.com/chrislacey89/skills) | 30 | `prod` | `.` | ✅ ok |  |
 | [chrismccoy/skills](https://github.com/chrismccoy/skills) | 25 | `master` | `.` | ✅ ok |  |
@@ -688,7 +688,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [lennney/gate-all-skills](https://github.com/lennney/gate-all-skills) | 54 | `master` | `skills` | ✅ ok |  |
 | [LeonMelamud/claude-code-security-review](https://github.com/LeonMelamud/claude-code-security-review) | 3 | `main` | `.` | ✅ ok |  |
 | [lets-forge/forge-plugins](https://github.com/lets-forge/forge-plugins) | 24 | `main` | `.` | ✅ ok |  |
-| [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 137 | `master` | `plugins` | ✅ ok |  |
+| [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 14 | `master` | `plugins` | ✅ ok |  |
 | [LH8PPL/claude-memory-kit](https://github.com/LH8PPL/claude-memory-kit) | 5 | `main` | `.` | ✅ ok |  |
 | [lhitches/claude-seo-skills](https://github.com/lhitches/claude-seo-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 60 | `main` | `.` | ✅ ok |  |
@@ -763,7 +763,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mehdiforoozandeh/skills](https://github.com/mehdiforoozandeh/skills) | 10 | `main` | `skills` | ✅ ok |  |
 | [memyselfandm/cconami](https://github.com/memyselfandm/cconami) | 13 | `main` | `.` | ✅ ok |  |
 | [meshy-dev/meshy-3d-agent](https://github.com/meshy-dev/meshy-3d-agent) | 3 | `main` | `skills` | ✅ ok |  |
-| [metallurgical/ogre-runner](https://github.com/metallurgical/ogre-runner) | 7 | `main` | `skills` | ✅ ok |  |
+| [metallurgical/ogre-runner](https://github.com/metallurgical/ogre-runner) | 8 | `main` | `skills` | ✅ ok |  |
 | [metraton/gaia](https://github.com/metraton/gaia) | 34 | `main` | `skills` | ✅ ok |  |
 | [mgifford/accessibility-skills](https://github.com/mgifford/accessibility-skills) | 27 | `main` | `skills` | ✅ ok |  |
 | [michalekz/claude-bridge](https://github.com/michalekz/claude-bridge) | 4 | `main` | `skills` | ✅ ok |  |
