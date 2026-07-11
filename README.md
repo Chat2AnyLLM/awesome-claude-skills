@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1384**
-- Discoverable skills: **87,311**
+- Discoverable skills: **87,327**
 - Healthy repos: **1355** · Truncated: **1** · Unavailable: **28**
-- Last updated: **2026-07-11 22:34 UTC**
+- Last updated: **2026-07-11 23:40 UTC**
 
 ## Source Catalog
 
@@ -201,7 +201,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [BKR-57/symfony-ux-skills](https://github.com/BKR-57/symfony-ux-skills) | 5 | `main` | `skills` | ✅ ok |  |
 | [bledden/claude-recall-marketplace](https://github.com/bledden/claude-recall-marketplace) | 1 | `main` | `.` | ✅ ok |  |
 | [blindlove200/sub-agents-skills](https://github.com/blindlove200/sub-agents-skills) | 1 | `main` | `skills` | ✅ ok |  |
-| [blisspixel/primr](https://github.com/blisspixel/primr) | 9 | `main` | `.` | ✅ ok |  |
+| [blisspixel/primr](https://github.com/blisspixel/primr) | 12 | `main` | `.` | ✅ ok |  |
 | [blockdancez/PreviewShip](https://github.com/blockdancez/PreviewShip) | 2 | `main` | `skills` | ✅ ok |  |
 | [BlueprintOS/analysis-to-delivery](https://github.com/BlueprintOS/analysis-to-delivery) | 26 | `main` | `skills` | ✅ ok |  |
 | [bmurphy201/revenue-messaging-framework](https://github.com/bmurphy201/revenue-messaging-framework) | 0 | `main` | `.` | ✅ ok |  |
@@ -980,7 +980,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [qwerfunch/cladding](https://github.com/qwerfunch/cladding) | 32 | `main` | `.` | ✅ ok |  |
 | [qwwiwi/dashi-plugin-claude-code](https://github.com/qwwiwi/dashi-plugin-claude-code) | 1 | `main` | `skills` | ✅ ok |  |
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 14 | `main` | `.` | ✅ ok |  |
-| [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 80 | `main` | `.` | ✅ ok |  |
+| [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 93 | `main` | `.` | ✅ ok |  |
 | [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 224 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafalr100/enterprise-architect-skill](https://github.com/rafalr100/enterprise-architect-skill) | 1 | `main` | `skills` | ✅ ok |  |
