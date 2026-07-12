@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1407**
-- Discoverable skills: **87,688**
-- Healthy repos: **1378** · Truncated: **1** · Unavailable: **28**
-- Last updated: **2026-07-12 11:04 UTC**
+- Discoverable skills: **87,698**
+- Healthy repos: **1377** · Truncated: **1** · Unavailable: **29**
+- Last updated: **2026-07-12 12:47 UTC**
 
 ## Source Catalog
 
@@ -88,7 +88,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ai4paper/apaper-plugin](https://github.com/ai4paper/apaper-plugin) | 2 | `main` | `skills` | ✅ ok |  |
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,431 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,438 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akaszubski/autonomous-dev](https://github.com/akaszubski/autonomous-dev) | 29 | `master` | `.` | ✅ ok |  |
@@ -520,7 +520,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ij5a/subrosa](https://github.com/ij5a/subrosa) | 2 | `main` | `skills` | ✅ ok |  |
 | [iliaal/whetstone](https://github.com/iliaal/whetstone) | 51 | `master` | `.` | ✅ ok |  |
 | [ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru) | 34 | `main` | `.` | ✅ ok |  |
-| [imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill](https://github.com/imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill) | 1 | `main` | `.` | ✅ ok |  |
 | [immacualate/claude-forge](https://github.com/immacualate/claude-forge) | 15 | `main` | `skills` | ✅ ok |  |
 | [immigration2000/unreal-mcp-kit](https://github.com/immigration2000/unreal-mcp-kit) | 3 | `main` | `.` | ✅ ok |  |
 | [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) | 158 | `main` | `skills` | ✅ ok |  |
@@ -698,7 +697,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [lennney/gate-all-skills](https://github.com/lennney/gate-all-skills) | 54 | `master` | `skills` | ✅ ok |  |
 | [LeonMelamud/claude-code-security-review](https://github.com/LeonMelamud/claude-code-security-review) | 3 | `main` | `.` | ✅ ok |  |
 | [lets-forge/forge-plugins](https://github.com/lets-forge/forge-plugins) | 24 | `main` | `.` | ✅ ok |  |
-| [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 14 | `master` | `plugins` | ✅ ok |  |
+| [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 18 | `master` | `plugins` | ✅ ok |  |
 | [LH8PPL/claude-memory-kit](https://github.com/LH8PPL/claude-memory-kit) | 5 | `main` | `.` | ✅ ok |  |
 | [lhitches/claude-seo-skills](https://github.com/lhitches/claude-seo-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 60 | `main` | `.` | ✅ ok |  |
@@ -1405,6 +1404,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gxgeek-n/wenqu-mem](https://github.com/gxgeek-n/wenqu-mem) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [huguryildiz/fable-mode](https://github.com/huguryildiz/fable-mode) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [ibangtam/seo-toolkit](https://github.com/ibangtam/seo-toolkit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
+| [imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill](https://github.com/imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [li599198347-svg/aham-ppt](https://github.com/li599198347-svg/aham-ppt) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Noncontinuous-centaur165/claude-codex-crypto-devkit](https://github.com/Noncontinuous-centaur165/claude-codex-crypto-devkit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [oliveira7015/openclawby-skills](https://github.com/oliveira7015/openclawby-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
