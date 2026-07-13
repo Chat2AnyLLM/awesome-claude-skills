@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1498**
-- Discoverable skills: **90,531**
+- Discoverable skills: **90,533**
 - Healthy repos: **1466** · Truncated: **1** · Unavailable: **31**
-- Last updated: **2026-07-13 21:42 UTC**
+- Last updated: **2026-07-13 22:42 UTC**
 
 ## Source Catalog
 
@@ -234,7 +234,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [browser-act/skills](https://github.com/browser-act/skills) | 78 | `main` | `solutions` | ✅ ok |  |
 | [brycewang-stanford/AER-Skills](https://github.com/brycewang-stanford/AER-Skills) | 15 | `main` | `skills` | ✅ ok |  |
 | [bsromero/excel-house-charts](https://github.com/bsromero/excel-house-charts) | 0 | `main` | `.` | ✅ ok |  |
-| [bufferBrew/craftsman](https://github.com/bufferBrew/craftsman) | 5 | `main` | `.` | ✅ ok |  |
+| [bufferBrew/craftsman](https://github.com/bufferBrew/craftsman) | 7 | `main` | `.` | ✅ ok |  |
 | [bx33661/oh-my-vul](https://github.com/bx33661/oh-my-vul) | 10 | `main` | `skills` | ✅ ok |  |
 | [by-carlos/claude-plugins](https://github.com/by-carlos/claude-plugins) | 3 | `main` | `.` | ✅ ok |  |
 | [byte271/mirrorframe](https://github.com/byte271/mirrorframe) | 0 | `main` | `.` | ✅ ok |  |
