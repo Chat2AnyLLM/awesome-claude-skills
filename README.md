@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1434**
-- Discoverable skills: **88,071**
+- Discoverable skills: **88,068**
 - Healthy repos: **1403** · Truncated: **1** · Unavailable: **30**
-- Last updated: **2026-07-12 23:40 UTC**
+- Last updated: **2026-07-13 01:22 UTC**
 
 ## Source Catalog
 
@@ -395,7 +395,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [fathanghani864/oh-my-openclaw](https://github.com/fathanghani864/oh-my-openclaw) | 3 | `main` | `.` | ✅ ok |  |
 | [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 56 | `main` | `.` | ✅ ok |  |
 | [fedec65/bettercallclaude](https://github.com/fedec65/bettercallclaude) | 14 | `main` | `.` | ✅ ok |  |
-| [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | 15 | `main` | `skills` | ✅ ok |  |
+| [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | 12 | `main` | `skills` | ✅ ok |  |
 | [felipedeso7za4444/scientific-thinking-general](https://github.com/felipedeso7za4444/scientific-thinking-general) | 0 | `main` | `.` | ✅ ok |  |
 | [felipemelendez/llm-orchestrator](https://github.com/felipemelendez/llm-orchestrator) | 18 | `main` | `skills` | ✅ ok |  |
 | [ferdinandobons/brand-docs](https://github.com/ferdinandobons/brand-docs) | 3 | `main` | `skills` | ✅ ok |  |
@@ -1020,7 +1020,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [qwerfunch/cladding](https://github.com/qwerfunch/cladding) | 32 | `main` | `.` | ✅ ok |  |
 | [qwwiwi/dashi-plugin-claude-code](https://github.com/qwwiwi/dashi-plugin-claude-code) | 1 | `main` | `skills` | ✅ ok |  |
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 14 | `main` | `.` | ✅ ok |  |
-| [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 93 | `main` | `.` | ✅ ok |  |
+| [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 92 | `main` | `.` | ✅ ok |  |
 | [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 224 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafalr100/enterprise-architect-skill](https://github.com/rafalr100/enterprise-architect-skill) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1045,7 +1045,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Renn-Labs/Looptimal](https://github.com/Renn-Labs/Looptimal) | 0 | `main` | `.` | ✅ ok |  |
 | [rennf93/opus-fable-playbook](https://github.com/rennf93/opus-fable-playbook) | 3 | `master` | `skills` | ✅ ok |  |
 | [respira-press/agent-skills-wordpress](https://github.com/respira-press/agent-skills-wordpress) | 37 | `main` | `skills` | ✅ ok |  |
-| [rgourley/quant-garage](https://github.com/rgourley/quant-garage) | 57 | `main` | `skills` | ✅ ok |  |
+| [rgourley/quant-garage](https://github.com/rgourley/quant-garage) | 58 | `main` | `skills` | ✅ ok |  |
 | [rhnfzl/slide-sage](https://github.com/rhnfzl/slide-sage) | 0 | `main` | `.` | ✅ ok |  |
 | [rhowardstone/Claude-Code-Scientist](https://github.com/rhowardstone/Claude-Code-Scientist) | 27 | `main` | `.claude/skills` | ✅ ok |  |
 | [rhyean88/apple-platform-build-tools-claude-code-plugin](https://github.com/rhyean88/apple-platform-build-tools-claude-code-plugin) | 1 | `main` | `skills` | ✅ ok |  |
