@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1498**
-- Discoverable skills: **90,538**
+- Discoverable skills: **90,548**
 - Healthy repos: **1466** · Truncated: **1** · Unavailable: **31**
-- Last updated: **2026-07-13 23:40 UTC**
+- Last updated: **2026-07-14 01:11 UTC**
 
 ## Source Catalog
 
@@ -253,7 +253,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chafoo/anchored](https://github.com/chafoo/anchored) | 2 | `main` | `.` | ✅ ok |  |
 | [channel47/plugins](https://github.com/channel47/plugins) | 60 | `main` | `.` | ✅ ok |  |
 | [charlesphilippebelhadj/avaa-dev-flow-trace](https://github.com/charlesphilippebelhadj/avaa-dev-flow-trace) | 1 | `main` | `skills` | ✅ ok |  |
-| [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 24 | `main` | `.` | ✅ ok |  |
+| [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 28 | `main` | `.` | ✅ ok |  |
 | [chengzhongwei/Prompt-sensei](https://github.com/chengzhongwei/Prompt-sensei) | 0 | `main` | `.` | ✅ ok |  |
 | [chenweil/skillcaddy](https://github.com/chenweil/skillcaddy) | 1 | `main` | `skills` | ✅ ok |  |
 | [chenxi-bot21/ai-job-search-pipeline](https://github.com/chenxi-bot21/ai-job-search-pipeline) | 0 | `main` | `.` | ✅ ok |  |
@@ -1161,13 +1161,13 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [Sequenzy/skills](https://github.com/Sequenzy/skills) | 15 | `main` | `skills` | ✅ ok |  |
 | [serejaris/personal-corp-skills](https://github.com/serejaris/personal-corp-skills) | 30 | `main` | `skills` | ✅ ok |  |
-| [sergebulaev/facebook-skills](https://github.com/sergebulaev/facebook-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [sergebulaev/facebook-skills](https://github.com/sergebulaev/facebook-skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | 11 | `main` | `skills` | ✅ ok |  |
-| [sergebulaev/threads-skills](https://github.com/sergebulaev/threads-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [sergebulaev/tiktok-skills](https://github.com/sergebulaev/tiktok-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [sergebulaev/x-skills](https://github.com/sergebulaev/x-skills) | 7 | `main` | `skills` | ✅ ok |  |
-| [sergebulaev/youtube-skills](https://github.com/sergebulaev/youtube-skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [sergebulaev/threads-skills](https://github.com/sergebulaev/threads-skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [sergebulaev/tiktok-skills](https://github.com/sergebulaev/tiktok-skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [sergebulaev/x-skills](https://github.com/sergebulaev/x-skills) | 8 | `main` | `skills` | ✅ ok |  |
+| [sergebulaev/youtube-skills](https://github.com/sergebulaev/youtube-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [sergiparpal/Burgess](https://github.com/sergiparpal/Burgess) | 1 | `main` | `skills` | ✅ ok |  |
 | [serpapi/serpapi-claude-plugin](https://github.com/serpapi/serpapi-claude-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 61 | `main` | `skills` | ✅ ok |  |
