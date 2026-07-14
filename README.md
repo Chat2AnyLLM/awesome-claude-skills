@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1560**
-- Discoverable skills: **91,980**
+- Discoverable skills: **91,982**
 - Healthy repos: **1527** · Truncated: **1** · Unavailable: **32**
-- Last updated: **2026-07-14 22:44 UTC**
+- Last updated: **2026-07-14 23:40 UTC**
 
 ## Source Catalog
 
@@ -516,7 +516,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gregoirefissore25-tech/starpilot](https://github.com/gregoirefissore25-tech/starpilot) | 0 | `main` | `.` | ✅ ok |  |
 | [Gridea-Pro/theme-builder-skill](https://github.com/Gridea-Pro/theme-builder-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [GrillerGeek/idd-framework](https://github.com/GrillerGeek/idd-framework) | 1 | `main` | `.` | ✅ ok |  |
-| [grimaldost/craft-collection](https://github.com/grimaldost/craft-collection) | 21 | `main` | `.` | ✅ ok |  |
+| [grimaldost/craft-collection](https://github.com/grimaldost/craft-collection) | 23 | `main` | `.` | ✅ ok |  |
 | [gshepptech/bits-and-mortar](https://github.com/gshepptech/bits-and-mortar) | 7 | `main` | `.` | ✅ ok |  |
 | [gtapps/claude-code-hermit](https://github.com/gtapps/claude-code-hermit) | 79 | `main` | `.` | ✅ ok |  |
 | [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 28 | `main` | `skills` | ✅ ok |  |
