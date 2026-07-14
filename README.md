@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1544**
-- Discoverable skills: **91,747**
+- Discoverable skills: **91,750**
 - Healthy repos: **1511** · Truncated: **1** · Unavailable: **32**
-- Last updated: **2026-07-14 17:54 UTC**
+- Last updated: **2026-07-14 18:57 UTC**
 
 ## Source Catalog
 
@@ -39,7 +39,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [88plug/scientific-method](https://github.com/88plug/scientific-method) | 1 | `main` | `skills` | ✅ ok |  |
 | [88plug/screen-mcp](https://github.com/88plug/screen-mcp) | 1 | `main` | `skills` | ✅ ok |  |
 | [88plug/trigger-my-training](https://github.com/88plug/trigger-my-training) | 1 | `main` | `skills` | ✅ ok |  |
-| [9uiLe/plugins](https://github.com/9uiLe/plugins) | 11 | `master` | `.` | ✅ ok |  |
+| [9uiLe/plugins](https://github.com/9uiLe/plugins) | 12 | `master` | `.` | ✅ ok |  |
 | [A/claude-booping](https://github.com/A/claude-booping) | 8 | `master` | `skills` | ✅ ok |  |
 | [a-ariff/ariff-claude-plugins](https://github.com/a-ariff/ariff-claude-plugins) | 22 | `main` | `.` | ✅ ok |  |
 | [a-tokyo/agent-skills](https://github.com/a-tokyo/agent-skills) | 6 | `main` | `skills` | ✅ ok |  |
@@ -375,7 +375,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [drhalto/agentmako](https://github.com/drhalto/agentmako) | 48 | `main` | `.` | ✅ ok |  |
 | [DropFan/claude-code-plugins](https://github.com/DropFan/claude-code-plugins) | 30 | `master` | `.` | ✅ ok |  |
 | [drpwchen/paper-review-and-digest](https://github.com/drpwchen/paper-review-and-digest) | 2 | `main` | `.` | ✅ ok |  |
-| [dryvist/claude-code-plugins](https://github.com/dryvist/claude-code-plugins) | 40 | `main` | `.` | ✅ ok |  |
+| [dryvist/claude-code-plugins](https://github.com/dryvist/claude-code-plugins) | 41 | `main` | `.` | ✅ ok |  |
 | [ds-vibe/html-explainer](https://github.com/ds-vibe/html-explainer) | 0 | `main` | `.` | ✅ ok |  |
 | [dss-time/repo-doctor-skills](https://github.com/dss-time/repo-doctor-skills) | 5 | `main` | `.` | ✅ ok |  |
 | [duylam/claude-code-engineering-assembly](https://github.com/duylam/claude-code-engineering-assembly) | 8 | `main` | `.` | ✅ ok |  |
@@ -709,7 +709,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [KerberosClaw/kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) | 22 | `main` | `.` | ✅ ok |  |
 | [kev365/xways-xtension-builder-skill](https://github.com/kev365/xways-xtension-builder-skill) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab) | 0 | `main` | `.` | ✅ ok |  |
-| [KevinZai/commander](https://github.com/KevinZai/commander) | 466 | `main` | `skills` | ✅ ok |  |
+| [KevinZai/commander](https://github.com/KevinZai/commander) | 467 | `main` | `skills` | ✅ ok |  |
 | [keysersoose/claude-agent-builder](https://github.com/keysersoose/claude-agent-builder) | 1 | `main` | `.` | ✅ ok |  |
 | [kgelster/awesome-ecom-skills](https://github.com/kgelster/awesome-ecom-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [khanhvo2172-dotcom/seo-skills](https://github.com/khanhvo2172-dotcom/seo-skills) | 10 | `main` | `.` | ✅ ok |  |
