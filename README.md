@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1581**
-- Discoverable skills: **91,997**
+- Discoverable skills: **91,998**
 - Healthy repos: **1547** · Truncated: **1** · Unavailable: **33**
-- Last updated: **2026-07-15 09:46 UTC**
+- Last updated: **2026-07-15 11:19 UTC**
 
 ## Source Catalog
 
@@ -303,7 +303,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [coalesce-labs/catalyst](https://github.com/coalesce-labs/catalyst) | 110 | `main` | `.` | ✅ ok |  |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 56 | `dev` | `.` | ✅ ok |  |
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 344 | `main` | `.` | ✅ ok |  |
-| [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 55 | `master` | `.` | ✅ ok |  |
+| [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 56 | `master` | `.` | ✅ ok |  |
 | [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 54 | `main` | `.` | ✅ ok |  |
 | [codybrom/clairvoyance](https://github.com/codybrom/clairvoyance) | 16 | `main` | `skills` | ✅ ok |  |
 | [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | 51 | `main` | `skills` | ✅ ok |  |
