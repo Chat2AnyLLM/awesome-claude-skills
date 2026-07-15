@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1614**
-- Discoverable skills: **92,284**
+- Discoverable skills: **92,286**
 - Healthy repos: **1578** · Truncated: **1** · Unavailable: **35**
-- Last updated: **2026-07-15 22:45 UTC**
+- Last updated: **2026-07-15 23:46 UTC**
 
 ## Source Catalog
 
@@ -288,7 +288,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chris-peterson/tack](https://github.com/chris-peterson/tack) | 1 | `main` | `skills` | ✅ ok |  |
 | [chrisdothtml/ai-job-finder](https://github.com/chrisdothtml/ai-job-finder) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [chrislacey89/skills](https://github.com/chrislacey89/skills) | 30 | `prod` | `.` | ✅ ok |  |
-| [chrismccoy/skills](https://github.com/chrismccoy/skills) | 25 | `master` | `.` | ✅ ok |  |
+| [chrismccoy/skills](https://github.com/chrismccoy/skills) | 26 | `master` | `.` | ✅ ok |  |
 | [chrisp28103/sn-toolkit](https://github.com/chrisp28103/sn-toolkit) | 2 | `main` | `.` | ✅ ok |  |
 | [ChrisPachulski/evergreen](https://github.com/ChrisPachulski/evergreen) | 1 | `main` | `skills` | ✅ ok |  |
 | [Christophe1997/agent-extentions](https://github.com/Christophe1997/agent-extentions) | 26 | `main` | `.` | ✅ ok |  |
@@ -481,7 +481,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 50 | `main` | `.` | ✅ ok |  |
 | [Fyzel/claude-skills](https://github.com/Fyzel/claude-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [gabrieldabbah/genesis](https://github.com/gabrieldabbah/genesis) | 12 | `main` | `skills` | ✅ ok |  |
-| [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 21 | `main` | `.` | ✅ ok |  |
+| [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 22 | `main` | `.` | ✅ ok |  |
 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | `main` | `.claude/skills` | ✅ ok |  |
 | [GaimsDevSoftware/glaze-coder](https://github.com/GaimsDevSoftware/glaze-coder) | 1 | `main` | `.` | ✅ ok |  |
 | [galyarderlabs/galyarder-framework](https://github.com/galyarderlabs/galyarder-framework) | 1,376 | `main` | `.` | ✅ ok |  |
