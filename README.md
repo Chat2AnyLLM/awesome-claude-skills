@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1614**
-- Discoverable skills: **92,235**
+- Discoverable skills: **92,246**
 - Healthy repos: **1578** · Truncated: **1** · Unavailable: **35**
-- Last updated: **2026-07-15 20:00 UTC**
+- Last updated: **2026-07-15 20:57 UTC**
 
 ## Source Catalog
 
@@ -783,7 +783,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [LandingRabbit/landingrabbit-skills](https://github.com/LandingRabbit/landingrabbit-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [lanfuli/follow-amazon-daily](https://github.com/lanfuli/follow-amazon-daily) | 0 | `main` | `.` | ✅ ok |  |
 | [latuconsinafr/claude-code-config](https://github.com/latuconsinafr/claude-code-config) | 15 | `main` | `skills` | ✅ ok |  |
-| [lawzava/megapowers](https://github.com/lawzava/megapowers) | 31 | `main` | `.` | ✅ ok |  |
+| [lawzava/megapowers](https://github.com/lawzava/megapowers) | 32 | `main` | `.` | ✅ ok |  |
 | [LazyIsEfficient/agentic-os](https://github.com/LazyIsEfficient/agentic-os) | 38 | `main` | `.claude/skills` | ✅ ok |  |
 | [lbk-open/super-spec](https://github.com/lbk-open/super-spec) | 20 | `main` | `skills` | ✅ ok |  |
 | [lc-semba-ryuichiro/semba-claude-plugins](https://github.com/lc-semba-ryuichiro/semba-claude-plugins) | 4 | `main` | `.` | ✅ ok |  |
@@ -912,7 +912,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mmTheBest/Research-Architect](https://github.com/mmTheBest/Research-Architect) | 18 | `main` | `.` | ✅ ok |  |
 | [mnyok9939/specdd](https://github.com/mnyok9939/specdd) | 1 | `main` | `.` | ✅ ok |  |
 | [MobileReality/mdma](https://github.com/MobileReality/mdma) | 1 | `main` | `skills` | ✅ ok |  |
-| [modeled-information-format/mif-docs-plugin](https://github.com/modeled-information-format/mif-docs-plugin) | 45 | `main` | `skills` | ✅ ok |  |
+| [modeled-information-format/mif-docs-plugin](https://github.com/modeled-information-format/mif-docs-plugin) | 46 | `main` | `skills` | ✅ ok |  |
 | [Modellix/modellix-skill](https://github.com/Modellix/modellix-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [modest-curator478/claude-skills](https://github.com/modest-curator478/claude-skills) | 25 | `main` | `.` | ✅ ok |  |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
@@ -1516,7 +1516,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [WRG-11/wrg-sigma-rules](https://github.com/WRG-11/wrg-sigma-rules) | 3 | `main` | `skills` | ✅ ok |  |
 | [wshobson/agents](https://github.com/wshobson/agents) | 175 | `main` | `.` | ✅ ok |  |
 | [Wunderlandmedia/launchworthy](https://github.com/Wunderlandmedia/launchworthy) | 1 | `main` | `skills` | ✅ ok |  |
-| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 323 | `main` | `.` | ✅ ok |  |
+| [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 332 | `main` | `.` | ✅ ok |  |
 | [x-name15/gorrent](https://github.com/x-name15/gorrent) | 2 | `main` | `.` | ✅ ok |  |
 | [X-RayLuan/awesome-ceo-stack](https://github.com/X-RayLuan/awesome-ceo-stack) | 26 | `main` | `.` | ✅ ok |  |
 | [x0c/doc-skills](https://github.com/x0c/doc-skills) | 3 | `main` | `.` | ✅ ok |  |
