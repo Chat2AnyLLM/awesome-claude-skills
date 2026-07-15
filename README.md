@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1560**
-- Discoverable skills: **91,982**
+- Discoverable skills: **91,987**
 - Healthy repos: **1527** · Truncated: **1** · Unavailable: **32**
-- Last updated: **2026-07-14 23:40 UTC**
+- Last updated: **2026-07-15 01:08 UTC**
 
 ## Source Catalog
 
@@ -716,7 +716,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) | 1 | `main` | `skills` | ✅ ok |  |
 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
-| [KerberosClaw/kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) | 22 | `main` | `.` | ✅ ok |  |
+| [KerberosClaw/kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) | 23 | `main` | `.` | ✅ ok |  |
 | [kev365/xways-xtension-builder-skill](https://github.com/kev365/xways-xtension-builder-skill) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab) | 0 | `main` | `.` | ✅ ok |  |
 | [KevinZai/commander](https://github.com/KevinZai/commander) | 467 | `main` | `skills` | ✅ ok |  |
@@ -1109,8 +1109,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 224 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafalr100/enterprise-architect-skill](https://github.com/rafalr100/enterprise-architect-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [raghatatepiyush/conductor](https://github.com/raghatatepiyush/conductor) | 3 | `main` | `skills` | ✅ ok |  |
-| [raghatatepiyush/ringmaster](https://github.com/raghatatepiyush/ringmaster) | 3 | `main` | `skills` | ✅ ok |  |
+| [raghatatepiyush/conductor](https://github.com/raghatatepiyush/conductor) | 5 | `main` | `skills` | ✅ ok |  |
+| [raghatatepiyush/ringmaster](https://github.com/raghatatepiyush/ringmaster) | 5 | `main` | `skills` | ✅ ok |  |
 | [rahmanef63/si-coder-agent](https://github.com/rahmanef63/si-coder-agent) | 16 | `main` | `skills` | ✅ ok |  |
 | [ralvarezdev/ralvaskills](https://github.com/ralvarezdev/ralvaskills) | 44 | `main` | `skills` | ✅ ok |  |
 | [ramboz/jig](https://github.com/ramboz/jig) | 57 | `main` | `.` | ✅ ok |  |
