@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1654**
-- Discoverable skills: **92,819**
+- Discoverable skills: **92,811**
 - Healthy repos: **1615** · Truncated: **1** · Unavailable: **38**
-- Last updated: **2026-07-16 16:59 UTC**
+- Last updated: **2026-07-16 18:05 UTC**
 
 ## Source Catalog
 
@@ -660,7 +660,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [janineagu4049/live-workshop-skill](https://github.com/janineagu4049/live-workshop-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [jason201385-commits/positioning-companion](https://github.com/jason201385-commits/positioning-companion) | 0 | `main` | `.` | ✅ ok |  |
 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 25 | `main` | `skills` | ✅ ok |  |
-| [JasonWarrenUK/goblin-mode](https://github.com/JasonWarrenUK/goblin-mode) | 55 | `main` | `skills` | ✅ ok |  |
+| [JasonWarrenUK/goblin-mode](https://github.com/JasonWarrenUK/goblin-mode) | 45 | `main` | `skills` | ✅ ok |  |
 | [jassics/agentscanner](https://github.com/jassics/agentscanner) | 2 | `main` | `.` | ✅ ok |  |
 | [javier-garzas/ia-product-management](https://github.com/javier-garzas/ia-product-management) | 15 | `main` | `skills` | ✅ ok |  |
 | [javimosch/machin](https://github.com/javimosch/machin) | 5 | `main` | `skills` | ✅ ok |  |
@@ -760,7 +760,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
 | [KerberosClaw/kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) | 23 | `main` | `.` | ✅ ok |  |
-| [kerilpatel/my-claude-plugin-marketplace](https://github.com/kerilpatel/my-claude-plugin-marketplace) | 1 | `main` | `.` | ✅ ok |  |
+| [kerilpatel/my-claude-plugin-marketplace](https://github.com/kerilpatel/my-claude-plugin-marketplace) | 2 | `main` | `.` | ✅ ok |  |
 | [kev365/xways-xtension-builder-skill](https://github.com/kev365/xways-xtension-builder-skill) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [Kevin7Qi/codex-collab](https://github.com/Kevin7Qi/codex-collab) | 0 | `main` | `.` | ✅ ok |  |
 | [KevinZai/commander](https://github.com/KevinZai/commander) | 467 | `main` | `skills` | ✅ ok |  |
@@ -1461,7 +1461,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 1 | `main` | `.` | ✅ ok |  |
 | [ttncode/ttnplugins](https://github.com/ttncode/ttnplugins) | 15 | `main` | `.` | ✅ ok |  |
 | [tuanle96/mcp-odoo](https://github.com/tuanle96/mcp-odoo) | 4 | `main` | `skills` | ✅ ok |  |
-| [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 24 | `main` | `skills` | ✅ ok |  |
+| [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 25 | `main` | `skills` | ✅ ok |  |
 | [tuannv0069/claude-doc-genome](https://github.com/tuannv0069/claude-doc-genome) | 4 | `main` | `skills` | ✅ ok |  |
 | [twisker/ipman](https://github.com/twisker/ipman) | 4 | `main` | `.` | ✅ ok |  |
 | [U0001F3A2/liquid-org](https://github.com/U0001F3A2/liquid-org) | 2 | `main` | `skills` | ✅ ok |  |
