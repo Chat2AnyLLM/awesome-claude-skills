@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1667**
-- Discoverable skills: **93,878**
+- Discoverable skills: **93,882**
 - Healthy repos: **1627** · Truncated: **1** · Unavailable: **39**
-- Last updated: **2026-07-16 19:55 UTC**
+- Last updated: **2026-07-16 20:42 UTC**
 
 ## Source Catalog
 
@@ -658,8 +658,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jackterror/writers-room-story-engine](https://github.com/jackterror/writers-room-story-engine) | 0 | `main` | `.` | ✅ ok |  |
 | [jafini/learn-claude-code](https://github.com/jafini/learn-claude-code) | 4 | `main` | `skills` | ✅ ok |  |
 | [jaimeschwarz/brandvoice](https://github.com/jaimeschwarz/brandvoice) | 1 | `main` | `.` | ✅ ok |  |
-| [jajupmochi/agent-harness](https://github.com/jajupmochi/agent-harness) | 34 | `main` | `skills` | ✅ ok |  |
-| [jajupmochi/claude-config](https://github.com/jajupmochi/claude-config) | 43 | `main` | `.` | ✅ ok |  |
+| [jajupmochi/agent-harness](https://github.com/jajupmochi/agent-harness) | 35 | `main` | `skills` | ✅ ok |  |
+| [jajupmochi/claude-config](https://github.com/jajupmochi/claude-config) | 44 | `main` | `.` | ✅ ok |  |
 | [jakubs2623/notebooklm-skill](https://github.com/jakubs2623/notebooklm-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [jamdesk/jamdesk-claude-plugin](https://github.com/jamdesk/jamdesk-claude-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism) | 56 | `master` | `.` | ✅ ok |  |
@@ -847,7 +847,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | 11 | `main` | `.` | ✅ ok |  |
 | [lklimek/claudius](https://github.com/lklimek/claudius) | 29 | `main` | `skills` | ✅ ok |  |
 | [LLl0k0laD/agent-skills](https://github.com/LLl0k0laD/agent-skills) | 18 | `main` | `skills` | ✅ ok |  |
-| [logicleap-labs/claude-plugins](https://github.com/logicleap-labs/claude-plugins) | 9 | `main` | `.` | ✅ ok |  |
+| [logicleap-labs/claude-plugins](https://github.com/logicleap-labs/claude-plugins) | 11 | `main` | `.` | ✅ ok |  |
 | [Logiiiii/unity-agent-skills](https://github.com/Logiiiii/unity-agent-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [lohani-mohit/shipcheck](https://github.com/lohani-mohit/shipcheck) | 1 | `main` | `skills` | ✅ ok |  |
 | [longbridge/skills](https://github.com/longbridge/skills) | 13 | `main` | `skills` | ✅ ok |  |
