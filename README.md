@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1667**
-- Discoverable skills: **93,882**
-- Healthy repos: **1627** · Truncated: **1** · Unavailable: **39**
-- Last updated: **2026-07-16 20:42 UTC**
+- Discoverable skills: **93,887**
+- Healthy repos: **1628** · Truncated: **1** · Unavailable: **38**
+- Last updated: **2026-07-16 21:53 UTC**
 
 ## Source Catalog
 
@@ -225,7 +225,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bGiaHuy/vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style) | 0 | `main` | `.` | ✅ ok |  |
 | [bhavsarp25/verified-experiments](https://github.com/bhavsarp25/verified-experiments) | 0 | `main` | `.` | ✅ ok |  |
 | [biggora/dev-team](https://github.com/biggora/dev-team) | 40 | `main` | `skills` | ✅ ok |  |
-| [bim-ba/ai](https://github.com/bim-ba/ai) | 8 | `main` | `.` | ✅ ok |  |
+| [bim-ba/ai](https://github.com/bim-ba/ai) | 9 | `main` | `.` | ✅ ok |  |
 | [bin1874/before-you-build-skill](https://github.com/bin1874/before-you-build-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) | 1,705 | `main` | `skills` | ✅ ok |  |
 | [bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 20 | `main` | `.` | ✅ ok |  |
@@ -244,6 +244,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bold-minds/bots](https://github.com/bold-minds/bots) | 5 | `main` | `.` | ✅ ok |  |
 | [boranesn/agentic-base](https://github.com/boranesn/agentic-base) | 1 | `master` | `.` | ✅ ok |  |
 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 49 | `main` | `.` | ✅ ok |  |
+| [bordumb/recurve](https://github.com/bordumb/recurve) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [Borelchu/menhera-loop](https://github.com/Borelchu/menhera-loop) | 4 | `main` | `skills` | ✅ ok |  |
 | [borghei/AI-Skills-German-Law](https://github.com/borghei/AI-Skills-German-Law) | 189 | `main` | `.` | ✅ ok |  |
 | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | 344 | `main` | `.` | ✅ ok |  |
@@ -1648,7 +1649,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [athola/claude-night-market](https://github.com/athola/claude-night-market) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [bear2u/my-skills](https://github.com/bear2u/my-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [berrydev-ai/skills](https://github.com/berrydev-ai/skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [bordumb/recurve](https://github.com/bordumb/recurve) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
 | [Bugrasemerkant/web-quality-skills](https://github.com/Bugrasemerkant/web-quality-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [chrisp28103/sn-toolkit](https://github.com/chrisp28103/sn-toolkit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
