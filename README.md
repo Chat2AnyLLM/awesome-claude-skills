@@ -7,7 +7,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 - Enabled source repositories: **1614**
 - Discoverable skills: **92,286**
 - Healthy repos: **1578** · Truncated: **1** · Unavailable: **35**
-- Last updated: **2026-07-15 23:46 UTC**
+- Last updated: **2026-07-16 01:17 UTC**
 
 ## Source Catalog
 
@@ -325,7 +325,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | `main` | `.` | ✅ ok |  |
 | [cs-shadowbq/claude-context](https://github.com/cs-shadowbq/claude-context) | 1 | `main` | `skills` | ✅ ok |  |
 | [cskwork/supergoal-skill](https://github.com/cskwork/supergoal-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [cubha/claude-skills](https://github.com/cubha/claude-skills) | 9 | `main` | `.` | ✅ ok |  |
+| [cubha/claude-skills](https://github.com/cubha/claude-skills) | 10 | `main` | `.` | ✅ ok |  |
 | [cyh-skill/field-graph](https://github.com/cyh-skill/field-graph) | 0 | `main` | `.` | ✅ ok |  |
 | [cypggs/fullstack-deploy](https://github.com/cypggs/fullstack-deploy) | 0 | `main` | `.` | ✅ ok |  |
 | [CyrilLeMat/temper-skills](https://github.com/CyrilLeMat/temper-skills) | 1 | `main` | `.claude/skills` | ✅ ok |  |
@@ -929,7 +929,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [morodomi/dev-crew](https://github.com/morodomi/dev-crew) | 28 | `main` | `skills` | ✅ ok |  |
 | [motivated-groupthink347/boss-skill](https://github.com/motivated-groupthink347/boss-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [mr-kelly/skills](https://github.com/mr-kelly/skills) | 65 | `main` | `skills` | ✅ ok |  |
-| [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 8 | `main` | `skills` | ✅ ok |  |
+| [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 7 | `main` | `skills` | ✅ ok |  |
 | [MrBridgeHQ/aromatic-herb-gardening-expert](https://github.com/MrBridgeHQ/aromatic-herb-gardening-expert) | 1 | `main` | `skills` | ✅ ok |  |
 | [MrBridgeHQ/github-profile-optimizer](https://github.com/MrBridgeHQ/github-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [MrBridgeHQ/hf-profile-optimizer](https://github.com/MrBridgeHQ/hf-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
