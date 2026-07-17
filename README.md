@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1719**
-- Discoverable skills: **95,081**
+- Discoverable skills: **95,177**
 - Healthy repos: **1681** · Truncated: **1** · Unavailable: **37**
-- Last updated: **2026-07-17 20:41 UTC**
+- Last updated: **2026-07-17 21:40 UTC**
 
 ## Source Catalog
 
@@ -938,7 +938,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [martimramos/cairn-claude-memory](https://github.com/martimramos/cairn-claude-memory) | 1 | `main` | `.` | ✅ ok |  |
 | [Martin-Code202/skills](https://github.com/Martin-Code202/skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [martin1847/evolab](https://github.com/martin1847/evolab) | 8 | `main` | `skills` | ✅ ok |  |
-| [martinffx/atelier](https://github.com/martinffx/atelier) | 34 | `main` | `skills` | ✅ ok |  |
+| [martinffx/atelier](https://github.com/martinffx/atelier) | 35 | `main` | `skills` | ✅ ok |  |
 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 41 | `main` | `skills` | ✅ ok |  |
 | [MARUCIE/openclaw-foundry](https://github.com/MARUCIE/openclaw-foundry) | 137 | `main` | `.` | ✅ ok |  |
 | [Marwane83930/structured-prompt-skill](https://github.com/Marwane83930/structured-prompt-skill) | 1 | `main` | `skills` | ✅ ok |  |
@@ -990,7 +990,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Modellix/modellix-skill](https://github.com/Modellix/modellix-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [modest-curator478/claude-skills](https://github.com/modest-curator478/claude-skills) | 25 | `main` | `.` | ✅ ok |  |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1,653 | `main` | `.` | ✅ ok |  |
+| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1,659 | `main` | `.` | ✅ ok |  |
 | [mojeebdev/stackbrief](https://github.com/mojeebdev/stackbrief) | 2 | `main` | `.` | ✅ ok |  |
 | [molefrog/moi](https://github.com/molefrog/moi) | 4 | `main` | `.` | ✅ ok |  |
 | [Moliboy5000/.claude](https://github.com/Moliboy5000/.claude) | 191 | `main` | `.` | ✅ ok |  |
@@ -1171,7 +1171,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [peterzat/zat.env](https://github.com/peterzat/zat.env) | 7 | `main` | `.` | ✅ ok |  |
 | [pgoell/pgoell-claude-tools](https://github.com/pgoell/pgoell-claude-tools) | 44 | `master` | `.` | ✅ ok |  |
 | [pgundlupetvenkatesh/mdb_api_layer](https://github.com/pgundlupetvenkatesh/mdb_api_layer) | 3 | `main` | `.claude/skills` | ✅ ok |  |
-| [photostructure/claude-code-skills](https://github.com/photostructure/claude-code-skills) | 13 | `main` | `.` | ✅ ok |  |
+| [photostructure/claude-code-skills](https://github.com/photostructure/claude-code-skills) | 14 | `main` | `.` | ✅ ok |  |
 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 0 | `main` | `.` | ✅ ok |  |
 | [PHY041/claude-skill-reddit](https://github.com/PHY041/claude-skill-reddit) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [PicsArt/gen-ai-skills](https://github.com/PicsArt/gen-ai-skills) | 20 | `main` | `skills` | ✅ ok |  |
@@ -1561,7 +1561,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [vibhorxpandey/Aurelius](https://github.com/vibhorxpandey/Aurelius) | 1 | `main` | `.` | ✅ ok |  |
 | [victor-hac-work/ai-unknowns-resolver](https://github.com/victor-hac-work/ai-unknowns-resolver) | 3 | `main` | `skills` | ✅ ok |  |
 | [viknesh20-20/claude-code-tool-kit](https://github.com/viknesh20-20/claude-code-tool-kit) | 44 | `master` | `.claude/skills` | ✅ ok |  |
-| [ViktorsBaikers/DevRites](https://github.com/ViktorsBaikers/DevRites) | 38 | `main` | `.` | ✅ ok |  |
+| [ViktorsBaikers/DevRites](https://github.com/ViktorsBaikers/DevRites) | 126 | `main` | `.` | ✅ ok |  |
 | [vindm/dotclaude](https://github.com/vindm/dotclaude) | 22 | `main` | `skills` | ✅ ok |  |
 | [vineetu/simple-host](https://github.com/vineetu/simple-host) | 3 | `main` | `.` | ✅ ok |  |
 | [Virag-Koradiya/graybeard](https://github.com/Virag-Koradiya/graybeard) | 1 | `main` | `skills` | ✅ ok |  |
