@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1719**
-- Discoverable skills: **95,177**
+- Discoverable skills: **95,265**
 - Healthy repos: **1681** · Truncated: **1** · Unavailable: **37**
-- Last updated: **2026-07-17 21:40 UTC**
+- Last updated: **2026-07-17 22:36 UTC**
 
 ## Source Catalog
 
@@ -173,7 +173,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [anthonymaley/apple-music](https://github.com/anthonymaley/apple-music) | 1 | `main` | `skills` | ✅ ok |  |
 | [anthonymaley/MusicTUI](https://github.com/anthonymaley/MusicTUI) | 1 | `main` | `skills` | ✅ ok |  |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 10 | `main` | `.` | ✅ ok |  |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 29 | `main` | `.` | ✅ ok |  |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30 | `main` | `.` | ✅ ok |  |
 | [anthropics/skills](https://github.com/anthropics/skills) | 17 | `main` | `skills` | ✅ ok |  |
 | [antonbabenko/deliberation](https://github.com/antonbabenko/deliberation) | 8 | `master` | `.` | ✅ ok |  |
 | [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | 1 | `master` | `skills` | ✅ ok |  |
@@ -938,7 +938,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [martimramos/cairn-claude-memory](https://github.com/martimramos/cairn-claude-memory) | 1 | `main` | `.` | ✅ ok |  |
 | [Martin-Code202/skills](https://github.com/Martin-Code202/skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [martin1847/evolab](https://github.com/martin1847/evolab) | 8 | `main` | `skills` | ✅ ok |  |
-| [martinffx/atelier](https://github.com/martinffx/atelier) | 35 | `main` | `skills` | ✅ ok |  |
+| [martinffx/atelier](https://github.com/martinffx/atelier) | 28 | `main` | `skills` | ✅ ok |  |
 | [martinholovsky/SOTA-skills](https://github.com/martinholovsky/SOTA-skills) | 41 | `main` | `skills` | ✅ ok |  |
 | [MARUCIE/openclaw-foundry](https://github.com/MARUCIE/openclaw-foundry) | 137 | `main` | `.` | ✅ ok |  |
 | [Marwane83930/structured-prompt-skill](https://github.com/Marwane83930/structured-prompt-skill) | 1 | `main` | `skills` | ✅ ok |  |
@@ -990,7 +990,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Modellix/modellix-skill](https://github.com/Modellix/modellix-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [modest-curator478/claude-skills](https://github.com/modest-curator478/claude-skills) | 25 | `main` | `.` | ✅ ok |  |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1,659 | `main` | `.` | ✅ ok |  |
+| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1,739 | `main` | `.` | ✅ ok |  |
 | [mojeebdev/stackbrief](https://github.com/mojeebdev/stackbrief) | 2 | `main` | `.` | ✅ ok |  |
 | [molefrog/moi](https://github.com/molefrog/moi) | 4 | `main` | `.` | ✅ ok |  |
 | [Moliboy5000/.claude](https://github.com/Moliboy5000/.claude) | 191 | `main` | `.` | ✅ ok |  |
@@ -1078,7 +1078,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [noetaris-lab/nexis](https://github.com/noetaris-lab/nexis) | 7 | `main` | `skills` | ✅ ok |  |
 | [nogunix/janus](https://github.com/nogunix/janus) | 3 | `main` | `.` | ✅ ok |  |
 | [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion) | 0 | `main` | `.` | ✅ ok |  |
-| [Nolpak14/getregdata](https://github.com/Nolpak14/getregdata) | 12 | `master` | `skills` | ✅ ok |  |
+| [Nolpak14/getregdata](https://github.com/Nolpak14/getregdata) | 26 | `master` | `skills` | ✅ ok |  |
 | [nolte/claude-shared](https://github.com/nolte/claude-shared) | 45 | `develop` | `skills` | ✅ ok |  |
 | [noluyorAbi/claude-code-recap](https://github.com/noluyorAbi/claude-code-recap) | 1 | `main` | `skills` | ✅ ok |  |
 | [noman3271/caveman](https://github.com/noman3271/caveman) | 9 | `main` | `.` | ✅ ok |  |
