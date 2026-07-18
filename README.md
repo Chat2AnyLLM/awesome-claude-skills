@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1751**
-- Discoverable skills: **96,590**
+- Discoverable skills: **96,596**
 - Healthy repos: **1713** · Truncated: **1** · Unavailable: **37**
-- Last updated: **2026-07-18 20:38 UTC**
+- Last updated: **2026-07-18 21:38 UTC**
 
 ## Source Catalog
 
@@ -1286,7 +1286,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 41 | `main` | `skills` | ✅ ok |  |
 | [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [romainsimon/paperasse](https://github.com/romainsimon/paperasse) | 6 | `master` | `.` | ✅ ok |  |
-| [romiluz13/cc10x](https://github.com/romiluz13/cc10x) | 19 | `main` | `.` | ✅ ok |  |
+| [romiluz13/cc10x](https://github.com/romiluz13/cc10x) | 20 | `main` | `.` | ✅ ok |  |
 | [RoninForge/budgetclaw](https://github.com/RoninForge/budgetclaw) | 1 | `main` | `.` | ✅ ok |  |
 | [Ronkupper/PRISM](https://github.com/Ronkupper/PRISM) | 0 | `main` | `.` | ✅ ok |  |
 | [ronnieiscoo/bootstrap-expert](https://github.com/ronnieiscoo/bootstrap-expert) | 9 | `main` | `.` | ✅ ok |  |
@@ -1643,7 +1643,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [wow-look-at-my/cc-marketplace](https://github.com/wow-look-at-my/cc-marketplace) | 1 | `master` | `.` | ✅ ok |  |
 | [wquguru/skills](https://github.com/wquguru/skills) | 11 | `main` | `skills` | ✅ ok |  |
 | [WRG-11/wrg-sigma-rules](https://github.com/WRG-11/wrg-sigma-rules) | 3 | `main` | `skills` | ✅ ok |  |
-| [wshobson/agents](https://github.com/wshobson/agents) | 175 | `main` | `.` | ✅ ok |  |
+| [wshobson/agents](https://github.com/wshobson/agents) | 180 | `main` | `.` | ✅ ok |  |
 | [Wunderlandmedia/launchworthy](https://github.com/Wunderlandmedia/launchworthy) | 1 | `main` | `skills` | ✅ ok |  |
 | [wyre-technology/msp-claude-plugins](https://github.com/wyre-technology/msp-claude-plugins) | 336 | `main` | `.` | ✅ ok |  |
 | [x-name15/gorrent](https://github.com/x-name15/gorrent) | 2 | `main` | `.` | ✅ ok |  |
