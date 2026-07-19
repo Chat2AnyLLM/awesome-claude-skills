@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1818**
-- Discoverable skills: **97,788**
+- Discoverable skills: **97,790**
 - Healthy repos: **1779** · Truncated: **1** · Unavailable: **38**
-- Last updated: **2026-07-19 20:00 UTC**
+- Last updated: **2026-07-19 20:46 UTC**
 
 ## Source Catalog
 
@@ -335,7 +335,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Claudefarid/claude-ceo-skill](https://github.com/Claudefarid/claude-ceo-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ClaudeRegistry/marketplace](https://github.com/ClaudeRegistry/marketplace) | 27 | `main` | `.` | ✅ ok |  |
 | [clever-cc-plugins/cc-config](https://github.com/clever-cc-plugins/cc-config) | 2 | `main` | `.` | ✅ ok |  |
-| [clever-cc-plugins/cc-content](https://github.com/clever-cc-plugins/cc-content) | 10 | `main` | `.` | ✅ ok |  |
+| [clever-cc-plugins/cc-content](https://github.com/clever-cc-plugins/cc-content) | 12 | `main` | `.` | ✅ ok |  |
 | [clever-cc-plugins/cc-handoff](https://github.com/clever-cc-plugins/cc-handoff) | 2 | `main` | `.` | ✅ ok |  |
 | [clomia/claude-automata](https://github.com/clomia/claude-automata) | 19 | `main` | `.` | ✅ ok |  |
 | [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 14 | `main` | `.` | ✅ ok |  |
