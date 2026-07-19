@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1778**
-- Discoverable skills: **96,939**
+- Discoverable skills: **96,955**
 - Healthy repos: **1739** · Truncated: **1** · Unavailable: **38**
-- Last updated: **2026-07-19 11:03 UTC**
+- Last updated: **2026-07-19 12:45 UTC**
 
 ## Source Catalog
 
@@ -765,7 +765,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [johnisanerd/claude-skill-linkedin-posts-scraper](https://github.com/johnisanerd/claude-skill-linkedin-posts-scraper) | 1 | `main` | `.` | ✅ ok |  |
 | [johnkozaris/jko-claude-plugins](https://github.com/johnkozaris/jko-claude-plugins) | 12 | `main` | `.` | ✅ ok |  |
 | [Johnson-Jia/liuyao-divination](https://github.com/Johnson-Jia/liuyao-divination) | 1 | `main` | `.` | ✅ ok |  |
-| [jojoprison/mnemo](https://github.com/jojoprison/mnemo) | 15 | `main` | `.` | ✅ ok |  |
+| [jojoprison/mnemo](https://github.com/jojoprison/mnemo) | 7 | `main` | `.` | ✅ ok |  |
 | [JonasR-Git/agent-council-cc](https://github.com/JonasR-Git/agent-council-cc) | 1 | `master` | `.` | ✅ ok |  |
 | [jongall45/frontrun-plugins](https://github.com/jongall45/frontrun-plugins) | 1 | `main` | `.` | ✅ ok |  |
 | [joomcode/joompulse-skills](https://github.com/joomcode/joompulse-skills) | 17 | `main` | `skills` | ✅ ok |  |
@@ -851,7 +851,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kktu6507/universal-dev-flow-plugin](https://github.com/kktu6507/universal-dev-flow-plugin) | 4 | `master` | `.` | ✅ ok |  |
 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | ≥23,589 | `main` | `.` | ⚠️ truncated | tree truncated; count is lower bound |
 | [knowhowlab/agent-testkit](https://github.com/knowhowlab/agent-testkit) | 3 | `main` | `skills` | ✅ ok |  |
-| [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 29 | `main` | `.` | ✅ ok |  |
+| [kochetkov-ma/claude-brewcode](https://github.com/kochetkov-ma/claude-brewcode) | 51 | `main` | `.` | ✅ ok |  |
 | [kogakure/skills](https://github.com/kogakure/skills) | 11 | `master` | `.` | ✅ ok |  |
 | [komluk/scaffolding](https://github.com/komluk/scaffolding) | 35 | `main` | `skills` | ✅ ok |  |
 | [kompiro/hane](https://github.com/kompiro/hane) | 16 | `main` | `skills` | ✅ ok |  |
@@ -1428,7 +1428,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [smixs/autograph](https://github.com/smixs/autograph) | 1 | `main` | `skills` | ✅ ok |  |
 | [smixs/humanizer-ru](https://github.com/smixs/humanizer-ru) | 0 | `main` | `.` | ✅ ok |  |
 | [smixs/skill-conductor](https://github.com/smixs/skill-conductor) | 1 | `main` | `skills` | ✅ ok |  |
-| [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 15 | `main` | `.` | ✅ ok |  |
+| [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 16 | `main` | `.` | ✅ ok |  |
 | [smykla-skalski/sai](https://github.com/smykla-skalski/sai) | 40 | `main` | `.` | ✅ ok |  |
 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 58 | `main` | `Skills` | ✅ ok |  |
 | [sneg55/agent-starter](https://github.com/sneg55/agent-starter) | 8 | `main` | `skills` | ✅ ok |  |
@@ -1503,7 +1503,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SWEStash/swe-workflow-skills](https://github.com/SWEStash/swe-workflow-skills) | 263 | `main` | `.` | ✅ ok |  |
 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) | 20 | `main` | `.claude/skills` | ✅ ok |  |
 | [Sylad/claude-code-codex](https://github.com/Sylad/claude-code-codex) | 6 | `main` | `.claude/skills` | ✅ ok |  |
-| [SylphxAI/skills](https://github.com/SylphxAI/skills) | 104 | `main` | `skills` | ✅ ok |  |
+| [SylphxAI/skills](https://github.com/SylphxAI/skills) | 105 | `main` | `skills` | ✅ ok |  |
 | [sysCat64/md-to-html](https://github.com/sysCat64/md-to-html) | 1 | `main` | `skills` | ✅ ok |  |
 | [t1/tdder](https://github.com/t1/tdder) | 14 | `trunk` | `skills` | ✅ ok |  |
 | [TaewoooPark/UIForge](https://github.com/TaewoooPark/UIForge) | 4 | `main` | `skills` | ✅ ok |  |
