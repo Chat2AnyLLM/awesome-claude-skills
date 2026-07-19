@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1798**
-- Discoverable skills: **97,657**
+- Discoverable skills: **97,675**
 - Healthy repos: **1759** · Truncated: **1** · Unavailable: **38**
-- Last updated: **2026-07-19 14:18 UTC**
+- Last updated: **2026-07-19 15:43 UTC**
 
 ## Source Catalog
 
@@ -108,7 +108,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 55 | `main` | `.claude/skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,489 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,504 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akasecurity/ai-tc](https://github.com/akasecurity/ai-tc) | 1 | `main` | `skills` | ✅ ok |  |
@@ -501,7 +501,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [fakoli/fakoli-plugins](https://github.com/fakoli/fakoli-plugins) | 145 | `main` | `.` | ✅ ok |  |
 | [fantasybz/trip-pwa-skills](https://github.com/fantasybz/trip-pwa-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [fathanghani864/oh-my-openclaw](https://github.com/fathanghani864/oh-my-openclaw) | 3 | `main` | `.` | ✅ ok |  |
-| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 56 | `main` | `.` | ✅ ok |  |
+| [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 57 | `main` | `.` | ✅ ok |  |
 | [Fectivnfy112357/camofox-shim](https://github.com/Fectivnfy112357/camofox-shim) | 1 | `master` | `skills` | ✅ ok |  |
 | [fedec65/bettercallclaude](https://github.com/fedec65/bettercallclaude) | 15 | `main` | `.` | ✅ ok |  |
 | [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | 12 | `main` | `skills` | ✅ ok |  |
@@ -963,7 +963,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [malob/nix-config](https://github.com/malob/nix-config) | 14 | `master` | `.` | ✅ ok |  |
 | [mambalabsdev/mamba-labs-skills](https://github.com/mambalabsdev/mamba-labs-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [manastalukdar/ai-devstudio](https://github.com/manastalukdar/ai-devstudio) | 170 | `main` | `skills` | ✅ ok |  |
-| [manhquydev/flow-skill](https://github.com/manhquydev/flow-skill) | 2 | `master` | `.` | ✅ ok |  |
+| [manhquydev/flow-skill](https://github.com/manhquydev/flow-skill) | 3 | `master` | `.` | ✅ ok |  |
 | [Mann1988/awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [maojiebc/majia-guanyuan](https://github.com/maojiebc/majia-guanyuan) | 0 | `main` | `.` | ✅ ok |  |
 | [MaoranSun/paper-to-storyboard](https://github.com/MaoranSun/paper-to-storyboard) | 1 | `main` | `.` | ✅ ok |  |
@@ -1379,7 +1379,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [sequant-io/sequant](https://github.com/sequant-io/sequant) | 57 | `main` | `.` | ✅ ok |  |
 | [Sequenzy/skills](https://github.com/Sequenzy/skills) | 15 | `main` | `skills` | ✅ ok |  |
-| [serejaris/personal-corp-skills](https://github.com/serejaris/personal-corp-skills) | 30 | `main` | `skills` | ✅ ok |  |
+| [serejaris/personal-corp-skills](https://github.com/serejaris/personal-corp-skills) | 31 | `main` | `skills` | ✅ ok |  |
 | [sergebulaev/facebook-skills](https://github.com/sergebulaev/facebook-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | 11 | `main` | `skills` | ✅ ok |  |
