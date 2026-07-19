@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1778**
-- Discoverable skills: **96,929**
+- Discoverable skills: **96,939**
 - Healthy repos: **1739** · Truncated: **1** · Unavailable: **38**
-- Last updated: **2026-07-19 09:42 UTC**
+- Last updated: **2026-07-19 11:03 UTC**
 
 ## Source Catalog
 
@@ -84,7 +84,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [AgamiAI/agami-core](https://github.com/AgamiAI/agami-core) | 7 | `main` | `.` | ✅ ok |  |
 | [AgenticPawan/FullStack-Pilot](https://github.com/AgenticPawan/FullStack-Pilot) | 150 | `master` | `.` | ✅ ok |  |
 | [AgenticPW/AgenticPW](https://github.com/AgenticPW/AgenticPW) | 17 | `main` | `.claude/skills` | ✅ ok |  |
-| [agentkit-seo/agentkit-seo](https://github.com/agentkit-seo/agentkit-seo) | 17 | `main` | `.` | ✅ ok |  |
+| [agentkit-seo/agentkit-seo](https://github.com/agentkit-seo/agentkit-seo) | 25 | `main` | `.` | ✅ ok |  |
 | [agents-inc/cli](https://github.com/agents-inc/cli) | 2 | `main` | `.` | ✅ ok |  |
 | [Agents365-ai/asta-skill](https://github.com/Agents365-ai/asta-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) | 1 | `main` | `skills` | ✅ ok |  |
@@ -107,7 +107,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 55 | `main` | `.claude/skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,488 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,489 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akasecurity/ai-tc](https://github.com/akasecurity/ai-tc) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1167,7 +1167,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [osouthgate/agent-plus](https://github.com/osouthgate/agent-plus) | 10 | `main` | `.` | ✅ ok |  |
 | [othmane55/claude-collective-intelligence](https://github.com/othmane55/claude-collective-intelligence) | 5 | `main` | `skills` | ✅ ok |  |
 | [Out-bloodspavin173/openalex-skill](https://github.com/Out-bloodspavin173/openalex-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 102 | `main` | `skills` | ✅ ok |  |
+| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 103 | `main` | `skills` | ✅ ok |  |
 | [outreachmagic/email-finder](https://github.com/outreachmagic/email-finder) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/lead-enrich](https://github.com/outreachmagic/lead-enrich) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/outreachmagic](https://github.com/outreachmagic/outreachmagic) | 3 | `main` | `skills` | ✅ ok |  |
