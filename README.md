@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1818**
-- Discoverable skills: **97,792**
+- Discoverable skills: **98,094**
 - Healthy repos: **1779** · Truncated: **1** · Unavailable: **38**
-- Last updated: **2026-07-19 21:39 UTC**
+- Last updated: **2026-07-19 22:39 UTC**
 
 ## Source Catalog
 
@@ -394,7 +394,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [davidteren/hotwire-codex-skills](https://github.com/davidteren/hotwire-codex-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [davidteren/intent-engineering](https://github.com/davidteren/intent-engineering) | 5 | `main` | `.` | ✅ ok |  |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 890 | `main` | `.` | ✅ ok |  |
-| [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 88 | `main` | `.` | ✅ ok |  |
+| [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 89 | `main` | `.` | ✅ ok |  |
 | [dbtlr/atlas-skills](https://github.com/dbtlr/atlas-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [Dcrr1717/skill-advisor](https://github.com/Dcrr1717/skill-advisor) | 0 | `main` | `.` | ✅ ok |  |
 | [ddanntheman/GrantForge](https://github.com/ddanntheman/GrantForge) | 9 | `main` | `.` | ✅ ok |  |
@@ -553,7 +553,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [GaimsDevSoftware/glaze-coder](https://github.com/GaimsDevSoftware/glaze-coder) | 1 | `main` | `.` | ✅ ok |  |
 | [galyarderlabs/galyarder-framework](https://github.com/galyarderlabs/galyarder-framework) | 1,376 | `main` | `.` | ✅ ok |  |
 | [gammaremover/gamma-watermark-remover-skill](https://github.com/gammaremover/gamma-watermark-remover-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [garyhtou/claude-plugins](https://github.com/garyhtou/claude-plugins) | 5 | `main` | `.` | ✅ ok |  |
+| [garyhtou/claude-plugins](https://github.com/garyhtou/claude-plugins) | 6 | `main` | `.` | ✅ ok |  |
 | [gauravs19/enterprise-architecture-skill](https://github.com/gauravs19/enterprise-architecture-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters) | 0 | `main` | `./skill-from-masters` | ✅ ok |  |
 | [gdm257/cc-plugins](https://github.com/gdm257/cc-plugins) | 64 | `main` | `.` | ✅ ok |  |
@@ -1046,7 +1046,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Modellix/modellix-skill](https://github.com/Modellix/modellix-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [modest-curator478/claude-skills](https://github.com/modest-curator478/claude-skills) | 25 | `main` | `.` | ✅ ok |  |
 | [modu-ai/cowork-plugins](https://github.com/modu-ai/cowork-plugins) | 176 | `main` | `.` | ✅ ok |  |
-| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 2,002 | `main` | `.` | ✅ ok |  |
+| [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 2,302 | `main` | `.` | ✅ ok |  |
 | [mojeebdev/stackbrief](https://github.com/mojeebdev/stackbrief) | 2 | `main` | `.` | ✅ ok |  |
 | [molefrog/moi](https://github.com/molefrog/moi) | 4 | `main` | `.` | ✅ ok |  |
 | [Moliboy5000/.claude](https://github.com/Moliboy5000/.claude) | 191 | `main` | `.` | ✅ ok |  |
