@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1900**
-- Discoverable skills: **101,014**
+- Discoverable skills: **101,022**
 - Healthy repos: **1858** · Truncated: **1** · Unavailable: **41**
-- Last updated: **2026-07-20 21:57 UTC**
+- Last updated: **2026-07-20 22:45 UTC**
 
 ## Source Catalog
 
@@ -350,7 +350,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Claudefarid/claude-ceo-skill](https://github.com/Claudefarid/claude-ceo-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ClaudeRegistry/marketplace](https://github.com/ClaudeRegistry/marketplace) | 27 | `main` | `.` | ✅ ok |  |
 | [clever-cc-plugins/cc-config](https://github.com/clever-cc-plugins/cc-config) | 2 | `main` | `.` | ✅ ok |  |
-| [clever-cc-plugins/cc-content](https://github.com/clever-cc-plugins/cc-content) | 12 | `main` | `.` | ✅ ok |  |
+| [clever-cc-plugins/cc-content](https://github.com/clever-cc-plugins/cc-content) | 17 | `main` | `.` | ✅ ok |  |
 | [clever-cc-plugins/cc-handoff](https://github.com/clever-cc-plugins/cc-handoff) | 2 | `main` | `.` | ✅ ok |  |
 | [clomia/claude-automata](https://github.com/clomia/claude-automata) | 19 | `main` | `.` | ✅ ok |  |
 | [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 14 | `main` | `.` | ✅ ok |  |
@@ -1422,7 +1422,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [s1ddh-rth/context-health](https://github.com/s1ddh-rth/context-health) | 6 | `main` | `skills` | ✅ ok |  |
 | [s977043/PlanGate](https://github.com/s977043/PlanGate) | 142 | `main` | `.` | ✅ ok |  |
 | [s977043/river-review](https://github.com/s977043/river-review) | 125 | `main` | `skills` | ✅ ok |  |
-| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 14 | `main` | `.` | ✅ ok |  |
+| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 16 | `main` | `.` | ✅ ok |  |
 | [sai-na/claude-mac-cleanup](https://github.com/sai-na/claude-mac-cleanup) | 1 | `main` | `skills` | ✅ ok |  |
 | [saidwivedi/research-skills](https://github.com/saidwivedi/research-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [SakethKanchi/resume-radar](https://github.com/SakethKanchi/resume-radar) | 1 | `main` | `.` | ✅ ok |  |
@@ -1562,7 +1562,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | 2 | `main` | `skills` | ✅ ok |  |
 | [SreeDharshan-GJ/experiment-audit](https://github.com/SreeDharshan-GJ/experiment-audit) | 1 | `main` | `.` | ✅ ok |  |
 | [srivtx/solana-superchargers](https://github.com/srivtx/solana-superchargers) | 1 | `main` | `.` | ✅ ok |  |
-| [Srltas/claude-skills](https://github.com/Srltas/claude-skills) | 15 | `main` | `.` | ✅ ok |  |
+| [Srltas/claude-skills](https://github.com/Srltas/claude-skills) | 16 | `main` | `.` | ✅ ok |  |
 | [srobinson/helioy-plugins](https://github.com/srobinson/helioy-plugins) | 43 | `main` | `.` | ✅ ok |  |
 | [ssskay/claude-skills](https://github.com/ssskay/claude-skills) | 5 | `main` | `.` | ✅ ok |  |
 | [stakekit/agentkit](https://github.com/stakekit/agentkit) | 5 | `main` | `.` | ✅ ok |  |
