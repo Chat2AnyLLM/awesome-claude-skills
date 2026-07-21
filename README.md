@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1979**
-- Discoverable skills: **102,107**
+- Discoverable skills: **102,106**
 - Healthy repos: **1936** · Truncated: **1** · Unavailable: **42**
-- Last updated: **2026-07-21 22:44 UTC**
+- Last updated: **2026-07-21 23:46 UTC**
 
 ## Source Catalog
 
@@ -1282,7 +1282,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [oliver-kriska/claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix) | 53 | `main` | `plugins` | ✅ ok |  |
 | [omar-y-abdi/furl-ctx](https://github.com/omar-y-abdi/furl-ctx) | 1 | `main` | `.` | ✅ ok |  |
 | [ombulabs/claude-code_rails-upgrade-skill](https://github.com/ombulabs/claude-code_rails-upgrade-skill) | 2 | `main` | `.` | ✅ ok |  |
-| [ommakes/Skills](https://github.com/ommakes/Skills) | 12 | `main` | `.` | ✅ ok |  |
+| [ommakes/Skills](https://github.com/ommakes/Skills) | 10 | `main` | `.` | ✅ ok |  |
 | [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 204 | `main` | `.` | ✅ ok |  |
 | [OneWave-AI/open-agent-stack](https://github.com/OneWave-AI/open-agent-stack) | 15 | `main` | `.` | ✅ ok |  |
 | [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) | 19 | `main` | `skills` | ✅ ok |  |
@@ -1479,7 +1479,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [s3onghyun/otelcol-doctor](https://github.com/s3onghyun/otelcol-doctor) | 0 | `main` | `.` | ✅ ok |  |
 | [s977043/PlanGate](https://github.com/s977043/PlanGate) | 142 | `main` | `.` | ✅ ok |  |
 | [s977043/river-review](https://github.com/s977043/river-review) | 125 | `main` | `skills` | ✅ ok |  |
-| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 17 | `main` | `.` | ✅ ok |  |
+| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 18 | `main` | `.` | ✅ ok |  |
 | [sai-na/claude-mac-cleanup](https://github.com/sai-na/claude-mac-cleanup) | 1 | `main` | `skills` | ✅ ok |  |
 | [saidwivedi/research-skills](https://github.com/saidwivedi/research-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [SakethKanchi/resume-radar](https://github.com/SakethKanchi/resume-radar) | 1 | `main` | `.` | ✅ ok |  |
