@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **1940**
-- Discoverable skills: **101,607**
+- Discoverable skills: **101,620**
 - Healthy repos: **1897** · Truncated: **1** · Unavailable: **42**
-- Last updated: **2026-07-21 10:11 UTC**
+- Last updated: **2026-07-21 12:17 UTC**
 
 ## Source Catalog
 
@@ -115,7 +115,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 59 | `main` | `.claude/skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,517 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,526 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akasecurity/ai-tc](https://github.com/akasecurity/ai-tc) | 1 | `main` | `skills` | ✅ ok |  |
@@ -645,7 +645,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Goodsmileduck/claude-registry](https://github.com/Goodsmileduck/claude-registry) | 24 | `main` | `.` | ✅ ok |  |
 | [googlarz/finance-assistant](https://github.com/googlarz/finance-assistant) | 0 | `main` | `.` | ✅ ok |  |
 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 263 | `main` | `skills` | ✅ ok |  |
-| [gordon1210/agent-goodies](https://github.com/gordon1210/agent-goodies) | 6 | `main` | `.` | ✅ ok |  |
+| [gordon1210/agent-goodies](https://github.com/gordon1210/agent-goodies) | 7 | `main` | `.` | ✅ ok |  |
 | [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | 1 | `main` | `skills` | ✅ ok |  |
 | [gptme/gptme-cc-plugin](https://github.com/gptme/gptme-cc-plugin) | 3 | `master` | `skills` | ✅ ok |  |
 | [gptme/gptme-contrib](https://github.com/gptme/gptme-contrib) | 11 | `master` | `skills` | ✅ ok |  |
@@ -1635,7 +1635,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SWEStash/swe-workflow-skills](https://github.com/SWEStash/swe-workflow-skills) | 267 | `main` | `.` | ✅ ok |  |
 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) | 20 | `main` | `.claude/skills` | ✅ ok |  |
 | [Sylad/claude-code-codex](https://github.com/Sylad/claude-code-codex) | 6 | `main` | `.claude/skills` | ✅ ok |  |
-| [SylphxAI/skills](https://github.com/SylphxAI/skills) | 105 | `main` | `skills` | ✅ ok |  |
+| [SylphxAI/skills](https://github.com/SylphxAI/skills) | 107 | `main` | `skills` | ✅ ok |  |
 | [sysCat64/md-to-html](https://github.com/sysCat64/md-to-html) | 1 | `main` | `skills` | ✅ ok |  |
 | [t1/tdder](https://github.com/t1/tdder) | 14 | `trunk` | `skills` | ✅ ok |  |
 | [TaewoooPark/UIForge](https://github.com/TaewoooPark/UIForge) | 4 | `main` | `skills` | ✅ ok |  |
@@ -1731,7 +1731,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [v0id-byte/peg-design-system](https://github.com/v0id-byte/peg-design-system) | 0 | `main` | `.` | ✅ ok |  |
 | [vaaya-ai/vaaya-mcp](https://github.com/vaaya-ai/vaaya-mcp) | 1 | `main` | `skills` | ✅ ok |  |
 | [valentil/featureboard-mcp](https://github.com/valentil/featureboard-mcp) | 2 | `main` | `skills` | ✅ ok |  |
-| [valorisa/Claude-Skills](https://github.com/valorisa/Claude-Skills) | 28 | `main` | `skills` | ✅ ok |  |
+| [valorisa/Claude-Skills](https://github.com/valorisa/Claude-Skills) | 29 | `main` | `skills` | ✅ ok |  |
 | [vanara-agents/skills](https://github.com/vanara-agents/skills) | 17 | `main` | `skills` | ✅ ok |  |
 | [vanducng/skills](https://github.com/vanducng/skills) | 65 | `main` | `skills` | ✅ ok |  |
 | [vanterx/mssql-performance-skills](https://github.com/vanterx/mssql-performance-skills) | 26 | `main` | `skills` | ✅ ok |  |
