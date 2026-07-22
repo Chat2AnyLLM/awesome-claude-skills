@@ -6,8 +6,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 
 - Enabled source repositories: **2044**
 - Discoverable skills: **102,976**
-- Healthy repos: **2001** · Truncated: **1** · Unavailable: **42**
-- Last updated: **2026-07-22 17:59 UTC**
+- Healthy repos: **2000** · Truncated: **1** · Unavailable: **43**
+- Last updated: **2026-07-22 19:11 UTC**
 
 ## Source Catalog
 
@@ -756,7 +756,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 65 | `master` | `.` | ✅ ok |  |
 | [hoblin/claude-ruby-marketplace](https://github.com/hoblin/claude-ruby-marketplace) | 6 | `main` | `.` | ✅ ok |  |
 | [HOKlNG/zzon-doc](https://github.com/HOKlNG/zzon-doc) | 3 | `main` | `.` | ✅ ok |  |
-| [holy-templar/creative-strategy-research-protocol](https://github.com/holy-templar/creative-strategy-research-protocol) | 0 | `main` | `.` | ✅ ok |  |
 | [home-dev-lab/workflow-toolbox](https://github.com/home-dev-lab/workflow-toolbox) | 8 | `main` | `.` | ✅ ok |  |
 | [honerlaw/agent-marketplace](https://github.com/honerlaw/agent-marketplace) | 23 | `main` | `.` | ✅ ok |  |
 | [Honorboxx/crew](https://github.com/Honorboxx/crew) | 3 | `main` | `skills` | ✅ ok |  |
@@ -2031,6 +2030,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [go165/agent-skill-groups](https://github.com/go165/agent-skill-groups) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [gonoff/claude-todos-skill](https://github.com/gonoff/claude-todos-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [gxgeek-n/wenqu-mem](https://github.com/gxgeek-n/wenqu-mem) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
+| [holy-templar/creative-strategy-research-protocol](https://github.com/holy-templar/creative-strategy-research-protocol) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [huguryildiz/fable-mode](https://github.com/huguryildiz/fable-mode) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [ibangtam/seo-toolkit](https://github.com/ibangtam/seo-toolkit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill](https://github.com/imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
