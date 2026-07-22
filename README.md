@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2063**
-- Discoverable skills: **103,206**
+- Discoverable skills: **103,209**
 - Healthy repos: **2019** · Truncated: **1** · Unavailable: **43**
-- Last updated: **2026-07-22 20:53 UTC**
+- Last updated: **2026-07-22 21:53 UTC**
 
 ## Source Catalog
 
@@ -140,7 +140,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [albertoclemente/agentic-design-patterns-skills](https://github.com/albertoclemente/agentic-design-patterns-skills) | 22 | `main` | `skills` | ✅ ok |  |
 | [aleksandr-chaika/flutter-clean-arch-skills](https://github.com/aleksandr-chaika/flutter-clean-arch-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [alelaguard/agentguards-plugins](https://github.com/alelaguard/agentguards-plugins) | 15 | `main` | `.` | ✅ ok |  |
-| [alex-feel/claude-code-artifacts-public](https://github.com/alex-feel/claude-code-artifacts-public) | 1 | `main` | `skills` | ✅ ok |  |
+| [alex-feel/claude-code-artifacts-public](https://github.com/alex-feel/claude-code-artifacts-public) | 2 | `main` | `skills` | ✅ ok |  |
 | [alex-feel/claude-code-toolbox](https://github.com/alex-feel/claude-code-toolbox) | 1 | `main` | `.` | ✅ ok |  |
 | [alex-jb/shadow-mentor](https://github.com/alex-jb/shadow-mentor) | 9 | `main` | `skills` | ✅ ok |  |
 | [alexconner-79/ill-communication](https://github.com/alexconner-79/ill-communication) | 0 | `main` | `.` | ✅ ok |  |
@@ -1796,7 +1796,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tkolleh/skills](https://github.com/tkolleh/skills) | 17 | `main` | `.` | ✅ ok |  |
 | [tmoody1973/pasteup](https://github.com/tmoody1973/pasteup) | 1 | `main` | `skills` | ✅ ok |  |
 | [TNT-Likely/honeycomb](https://github.com/TNT-Likely/honeycomb) | 5 | `main` | `.` | ✅ ok |  |
-| [tobihagemann/turbo](https://github.com/tobihagemann/turbo) | 151 | `main` | `.` | ✅ ok |  |
+| [tobihagemann/turbo](https://github.com/tobihagemann/turbo) | 153 | `main` | `.` | ✅ ok |  |
 | [toBzh30/Claude-Project-Bootstrap](https://github.com/toBzh30/Claude-Project-Bootstrap) | 13 | `main` | `.` | ✅ ok |  |
 | [ToDealMarket/tdm-agentpay](https://github.com/ToDealMarket/tdm-agentpay) | 0 | `main` | `.` | ✅ ok |  |
 | [tomaszstaniak/pm-ai-skills](https://github.com/tomaszstaniak/pm-ai-skills) | 8 | `main` | `.` | ✅ ok |  |
