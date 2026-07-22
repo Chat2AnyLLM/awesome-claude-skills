@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2063**
-- Discoverable skills: **103,209**
+- Discoverable skills: **103,217**
 - Healthy repos: **2019** · Truncated: **1** · Unavailable: **43**
-- Last updated: **2026-07-22 21:53 UTC**
+- Last updated: **2026-07-22 22:50 UTC**
 
 ## Source Catalog
 
@@ -122,8 +122,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ai4s-research/ai4s-skills](https://github.com/ai4s-research/ai4s-skills) | 7 | `main` | `skills` | ✅ ok |  |
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
-| [air-gapped/skills](https://github.com/air-gapped/skills) | 61 | `main` | `.claude/skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,547 | `main` | `skills` | ✅ ok |  |
+| [air-gapped/skills](https://github.com/air-gapped/skills) | 63 | `main` | `.claude/skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,550 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akasecurity/ai-tc](https://github.com/akasecurity/ai-tc) | 1 | `main` | `skills` | ✅ ok |  |
@@ -938,7 +938,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jungjaehoon-lifegamez/MAMA](https://github.com/jungjaehoon-lifegamez/MAMA) | 1 | `main` | `.` | ✅ ok |  |
 | [Junhanliu-dev/espalier-engineering](https://github.com/Junhanliu-dev/espalier-engineering) | 2 | `main` | `skills` | ✅ ok |  |
 | [Junliu1066/vibe-coding-kit](https://github.com/Junliu1066/vibe-coding-kit) | 6 | `main` | `skills` | ✅ ok |  |
-| [JustMichael-80/MasterVault](https://github.com/JustMichael-80/MasterVault) | 23 | `main` | `skills` | ✅ ok |  |
+| [JustMichael-80/MasterVault](https://github.com/JustMichael-80/MasterVault) | 24 | `main` | `skills` | ✅ ok |  |
 | [jx-hxxx/hi-vibe](https://github.com/jx-hxxx/hi-vibe) | 6 | `main` | `skills` | ✅ ok |  |
 | [jxpeng98/qiongli](https://github.com/jxpeng98/qiongli) | 3 | `main` | `.` | ✅ ok |  |
 | [jzills/Claude-Marketplace](https://github.com/jzills/Claude-Marketplace) | 19 | `main` | `.` | ✅ ok |  |
@@ -1605,7 +1605,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sh5623/fe-rail](https://github.com/sh5623/fe-rail) | 5 | `main` | `skills` | ✅ ok |  |
 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 16 | `main` | `.` | ✅ ok |  |
-| [shalintripathi/organic-os](https://github.com/shalintripathi/organic-os) | 22 | `main` | `.` | ✅ ok |  |
+| [shalintripathi/organic-os](https://github.com/shalintripathi/organic-os) | 24 | `main` | `.` | ✅ ok |  |
 | [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 13 | `main` | `.` | ✅ ok |  |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 7 | `main` | `.claude/skills` | ✅ ok |  |
 | [shauryalowkeygotaura/brand-launchpad](https://github.com/shauryalowkeygotaura/brand-launchpad) | 0 | `main` | `.` | ✅ ok |  |
