@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2063**
-- Discoverable skills: **103,217**
+- Discoverable skills: **103,221**
 - Healthy repos: **2019** · Truncated: **1** · Unavailable: **43**
-- Last updated: **2026-07-22 22:50 UTC**
+- Last updated: **2026-07-22 23:53 UTC**
 
 ## Source Catalog
 
@@ -29,7 +29,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [1beebe/beebe-qualitative-skills](https://github.com/1beebe/beebe-qualitative-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [2021291696/setup-tool](https://github.com/2021291696/setup-tool) | 0 | `main` | `.` | ✅ ok |  |
 | [24111999/claude-skills](https://github.com/24111999/claude-skills) | 1 | `main` | `.` | ✅ ok |  |
-| [2naive/claude-telegram-topics](https://github.com/2naive/claude-telegram-topics) | 2 | `main` | `skills` | ✅ ok |  |
+| [2naive/claude-telegram-topics](https://github.com/2naive/claude-telegram-topics) | 3 | `main` | `skills` | ✅ ok |  |
 | [3dcom2711/thrunt-god](https://github.com/3dcom2711/thrunt-god) | 57 | `main` | `.` | ✅ ok |  |
 | [428alexander9/claude-skills-marketplace](https://github.com/428alexander9/claude-skills-marketplace) | 1 | `master` | `.` | ✅ ok |  |
 | [498AS/linkedin-profile-optimizer](https://github.com/498AS/linkedin-profile-optimizer) | 0 | `main` | `.` | ✅ ok |  |
@@ -123,7 +123,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [AiGuangInc/suxiaoqiang-cli](https://github.com/AiGuangInc/suxiaoqiang-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 63 | `main` | `.claude/skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,550 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,551 | `main` | `skills` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 8 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
 | [akasecurity/ai-tc](https://github.com/akasecurity/ai-tc) | 1 | `main` | `skills` | ✅ ok |  |
@@ -395,7 +395,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [codearranger/claude-legal](https://github.com/codearranger/claude-legal) | 344 | `main` | `.` | ✅ ok |  |
 | [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) | 0 | `main` | `.` | ✅ ok |  |
 | [codingSamss/all-my-ai-needs](https://github.com/codingSamss/all-my-ai-needs) | 61 | `master` | `.` | ✅ ok |  |
-| [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 54 | `main` | `.` | ✅ ok |  |
+| [cody-hutson/pmo-platform](https://github.com/cody-hutson/pmo-platform) | 55 | `main` | `.` | ✅ ok |  |
 | [codybrom/clairvoyance](https://github.com/codybrom/clairvoyance) | 16 | `main` | `skills` | ✅ ok |  |
 | [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | 51 | `main` | `skills` | ✅ ok |  |
 | [coinpaprika/skills](https://github.com/coinpaprika/skills) | 2 | `main` | `.` | ✅ ok |  |
@@ -1163,7 +1163,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mehdiforoozandeh/skills](https://github.com/mehdiforoozandeh/skills) | 10 | `main` | `skills` | ✅ ok |  |
 | [memyselfandm/cconami](https://github.com/memyselfandm/cconami) | 13 | `main` | `.` | ✅ ok |  |
 | [meshy-dev/meshy-3d-agent](https://github.com/meshy-dev/meshy-3d-agent) | 3 | `main` | `skills` | ✅ ok |  |
-| [metallurgical/ogre-runner](https://github.com/metallurgical/ogre-runner) | 14 | `main` | `skills` | ✅ ok |  |
+| [metallurgical/ogre-runner](https://github.com/metallurgical/ogre-runner) | 15 | `main` | `skills` | ✅ ok |  |
 | [metraton/gaia](https://github.com/metraton/gaia) | 37 | `main` | `skills` | ✅ ok |  |
 | [metrox-eth/quit-sponsor](https://github.com/metrox-eth/quit-sponsor) | 0 | `main` | `.` | ✅ ok |  |
 | [mgifford/accessibility-skills](https://github.com/mgifford/accessibility-skills) | 28 | `main` | `skills` | ✅ ok |  |
