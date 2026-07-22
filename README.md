@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2044**
-- Discoverable skills: **102,970**
+- Discoverable skills: **102,976**
 - Healthy repos: **2001** · Truncated: **1** · Unavailable: **42**
-- Last updated: **2026-07-22 16:13 UTC**
+- Last updated: **2026-07-22 17:59 UTC**
 
 ## Source Catalog
 
@@ -202,7 +202,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [anthonymaley/apple-music](https://github.com/anthonymaley/apple-music) | 1 | `main` | `skills` | ✅ ok |  |
 | [anthonymaley/MusicTUI](https://github.com/anthonymaley/MusicTUI) | 1 | `main` | `skills` | ✅ ok |  |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 10 | `main` | `.` | ✅ ok |  |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30 | `main` | `.` | ✅ ok |  |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 31 | `main` | `.` | ✅ ok |  |
 | [anthropics/skills](https://github.com/anthropics/skills) | 17 | `main` | `skills` | ✅ ok |  |
 | [antonbabenko/deliberation](https://github.com/antonbabenko/deliberation) | 8 | `master` | `.` | ✅ ok |  |
 | [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | 1 | `master` | `skills` | ✅ ok |  |
@@ -731,7 +731,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Heapy/kortex](https://github.com/Heapy/kortex) | 5 | `main` | `.` | ✅ ok |  |
 | [heartleo/hn-cli](https://github.com/heartleo/hn-cli) | 1 | `main` | `.` | ✅ ok |  |
 | [hec-ovi/research-skill](https://github.com/hec-ovi/research-skill) | 4 | `main` | `.` | ✅ ok |  |
-| [HECer/yoke](https://github.com/HECer/yoke) | 27 | `main` | `.` | ✅ ok |  |
+| [HECer/yoke](https://github.com/HECer/yoke) | 28 | `main` | `.` | ✅ ok |  |
 | [Hedde/trigger_tree](https://github.com/Hedde/trigger_tree) | 0 | `main` | `.` | ✅ ok |  |
 | [hedging8563/tokenlab-skills](https://github.com/hedging8563/tokenlab-skills) | 5 | `main` | `skills` | ✅ ok |  |
 | [HeiGeAi/HeiGe-SuanMing](https://github.com/HeiGeAi/HeiGe-SuanMing) | 0 | `main` | `.` | ✅ ok |  |
@@ -1169,7 +1169,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mikeprasad/aria-knowledge](https://github.com/mikeprasad/aria-knowledge) | 134 | `main` | `.` | ✅ ok |  |
 | [Mikhail-Za/Goalkeeper-Claude-skill](https://github.com/Mikhail-Za/Goalkeeper-Claude-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [mimaowang/econ-compass](https://github.com/mimaowang/econ-compass) | 0 | `main` | `.` | ✅ ok |  |
-| [mimukit/skills](https://github.com/mimukit/skills) | 15 | `main` | `skills` | ✅ ok |  |
+| [mimukit/skills](https://github.com/mimukit/skills) | 16 | `main` | `skills` | ✅ ok |  |
 | [minamagdyyyy/agentic-marketing](https://github.com/minamagdyyyy/agentic-marketing) | 21 | `master` | `skills` | ✅ ok |  |
 | [minhbi245/grok-plugin-cc](https://github.com/minhbi245/grok-plugin-cc) | 1 | `main` | `.` | ✅ ok |  |
 | [minjun0219/rocky](https://github.com/minjun0219/rocky) | 2 | `main` | `skills` | ✅ ok |  |
@@ -1614,7 +1614,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [shuwarida/skills](https://github.com/shuwarida/skills) | 3 | `master` | `skills` | ✅ ok |  |
 | [shuzhao1133/gbt9704-2012-format](https://github.com/shuzhao1133/gbt9704-2012-format) | 0 | `main` | `.` | ✅ ok |  |
 | [Shweta-Mishra-ai/tokenmizer](https://github.com/Shweta-Mishra-ai/tokenmizer) | 4 | `main` | `.` | ✅ ok |  |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 6,278 | `main` | `.` | ✅ ok |  |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 6,281 | `main` | `.` | ✅ ok |  |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 0 | `main` | `plugins/antigravity-awesome-skills-claude/skills` | ✅ ok |  |
 | [siddiqss/semantic-seo-suite](https://github.com/siddiqss/semantic-seo-suite) | 10 | `main` | `skills` | ✅ ok |  |
 | [Side-Peng/clinpub](https://github.com/Side-Peng/clinpub) | 21 | `main` | `.` | ✅ ok |  |
