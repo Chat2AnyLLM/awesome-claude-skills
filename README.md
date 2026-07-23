@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2063**
-- Discoverable skills: **103,221**
+- Discoverable skills: **103,223**
 - Healthy repos: **2019** · Truncated: **1** · Unavailable: **43**
-- Last updated: **2026-07-22 23:53 UTC**
+- Last updated: **2026-07-23 01:26 UTC**
 
 ## Source Catalog
 
@@ -743,7 +743,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [heliohq/ship](https://github.com/heliohq/ship) | 11 | `main` | `skills` | ✅ ok |  |
 | [helius-labs/core-ai](https://github.com/helius-labs/core-ai) | 24 | `main` | `.` | ✅ ok |  |
 | [HelloThisWorld/agent-skill-verification-template](https://github.com/HelloThisWorld/agent-skill-verification-template) | 5 | `main` | `skills` | ✅ ok |  |
-| [Heretyc/subagent-mcp](https://github.com/Heretyc/subagent-mcp) | 7 | `main` | `skills` | ✅ ok |  |
+| [Heretyc/subagent-mcp](https://github.com/Heretyc/subagent-mcp) | 8 | `main` | `skills` | ✅ ok |  |
 | [hex/claude-council](https://github.com/hex/claude-council) | 4 | `main` | `skills` | ✅ ok |  |
 | [heymegabyte/claude-skills](https://github.com/heymegabyte/claude-skills) | 29 | `master` | `.` | ✅ ok |  |
 | [HeyRenan/showreel](https://github.com/HeyRenan/showreel) | 2 | `main` | `.` | ✅ ok |  |
@@ -1542,7 +1542,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [s1ddh-rth/context-health](https://github.com/s1ddh-rth/context-health) | 6 | `main` | `skills` | ✅ ok |  |
 | [s3onghyun/otelcol-doctor](https://github.com/s3onghyun/otelcol-doctor) | 0 | `main` | `.` | ✅ ok |  |
 | [s977043/PlanGate](https://github.com/s977043/PlanGate) | 142 | `main` | `.` | ✅ ok |  |
-| [s977043/river-review](https://github.com/s977043/river-review) | 125 | `main` | `skills` | ✅ ok |  |
+| [s977043/river-review](https://github.com/s977043/river-review) | 126 | `main` | `skills` | ✅ ok |  |
 | [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 18 | `main` | `.` | ✅ ok |  |
 | [sai-na/claude-mac-cleanup](https://github.com/sai-na/claude-mac-cleanup) | 1 | `main` | `skills` | ✅ ok |  |
 | [saidwivedi/research-skills](https://github.com/saidwivedi/research-skills) | 3 | `main` | `.` | ✅ ok |  |
