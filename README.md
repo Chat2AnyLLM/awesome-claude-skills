@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2122**
-- Discoverable skills: **103,864**
+- Discoverable skills: **103,921**
 - Healthy repos: **2069** · Truncated: **1** · Unavailable: **52**
-- Last updated: **2026-07-23 16:22 UTC**
+- Last updated: **2026-07-23 18:06 UTC**
 
 ## Source Catalog
 
@@ -108,8 +108,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Agents365-ai/pi-plugin-cc](https://github.com/Agents365-ai/pi-plugin-cc) | 3 | `main` | `.` | ✅ ok |  |
 | [Agents365-ai/ttsCN](https://github.com/Agents365-ai/ttsCN) | 1 | `main` | `skills` | ✅ ok |  |
 | [Agents365-ai/videogenCN](https://github.com/Agents365-ai/videogenCN) | 1 | `main` | `skills` | ✅ ok |  |
-| [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 47 | `main` | `.` | ✅ ok |  |
-| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 30 | `main` | `skills` | ✅ ok |  |
+| [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 51 | `main` | `.` | ✅ ok |  |
+| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | 32 | `main` | `skills` | ✅ ok |  |
 | [aguilera-ee/todo.txt-skill](https://github.com/aguilera-ee/todo.txt-skill) | 1 | `master` | `.` | ✅ ok |  |
 | [agustinvillegas/repomap](https://github.com/agustinvillegas/repomap) | 1 | `skill` | `.` | ✅ ok |  |
 | [Ahad690/fiverr-gig-optimizer](https://github.com/Ahad690/fiverr-gig-optimizer) | 1 | `main` | `skills` | ✅ ok |  |
@@ -521,7 +521,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [DollarDill/beads-superpowers](https://github.com/DollarDill/beads-superpowers) | 21 | `main` | `skills` | ✅ ok |  |
 | [domengabrovsek/claude](https://github.com/domengabrovsek/claude) | 19 | `main` | `skills` | ✅ ok |  |
 | [donald-ada/workinggenius](https://github.com/donald-ada/workinggenius) | 11 | `main` | `skills` | ✅ ok |  |
-| [donatassimkus/claude-ai-skills](https://github.com/donatassimkus/claude-ai-skills) | 11 | `main` | `skills` | ✅ ok |  |
+| [donatassimkus/claude-ai-skills](https://github.com/donatassimkus/claude-ai-skills) | 60 | `main` | `skills` | ✅ ok |  |
 | [dongzhigang13305312738-art/paper-skills](https://github.com/dongzhigang13305312738-art/paper-skills) | 124 | `main` | `.` | ✅ ok |  |
 | [DOTfei/borrowed-brain-pro](https://github.com/DOTfei/borrowed-brain-pro) | 0 | `main` | `.` | ✅ ok |  |
 | [DOTfei/Learn-From-Failure](https://github.com/DOTfei/Learn-From-Failure) | 1 | `main` | `.claude/skills` | ✅ ok |  |
@@ -1628,7 +1628,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [serpapi/serpapi-claude-plugin](https://github.com/serpapi/serpapi-claude-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [serradura/okf-gem](https://github.com/serradura/okf-gem) | 2 | `main` | `.` | ✅ ok |  |
 | [servatusprime/ai_ops](https://github.com/servatusprime/ai_ops) | 13 | `main` | `.` | ✅ ok |  |
-| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 61 | `main` | `skills` | ✅ ok |  |
+| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 62 | `main` | `skills` | ✅ ok |  |
 | [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | 49 | `main` | `skills` | ✅ ok |  |
 | [severzemlya/hato](https://github.com/severzemlya/hato) | 1 | `main` | `skills` | ✅ ok |  |
 | [sfrangulov/skill-graveyard](https://github.com/sfrangulov/skill-graveyard) | 3 | `main` | `skills` | ✅ ok |  |
@@ -1957,7 +1957,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [wewpellex21/code-sensei](https://github.com/wewpellex21/code-sensei) | 10 | `main` | `skills` | ✅ ok |  |
 | [whenpoem/aiscientist](https://github.com/whenpoem/aiscientist) | 14 | `main` | `.` | ✅ ok |  |
 | [whomsfun-ai/claude-toolkit](https://github.com/whomsfun-ai/claude-toolkit) | 0 | `main` | `skills` | ✅ ok |  |
-| [widnyana/eyay-toolkits](https://github.com/widnyana/eyay-toolkits) | 31 | `main` | `.` | ✅ ok |  |
+| [widnyana/eyay-toolkits](https://github.com/widnyana/eyay-toolkits) | 32 | `main` | `.` | ✅ ok |  |
 | [wigtn/wigtn-plugins](https://github.com/wigtn/wigtn-plugins) | 6 | `main` | `.` | ✅ ok |  |
 | [William2333ZZ/trustshell](https://github.com/William2333ZZ/trustshell) | 12 | `main` | `skills` | ✅ ok |  |
 | [willianbs/skills](https://github.com/willianbs/skills) | 28 | `main` | `.` | ✅ ok |  |
