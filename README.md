@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2139**
-- Discoverable skills: **104,201**
+- Discoverable skills: **104,206**
 - Healthy repos: **2086** · Truncated: **1** · Unavailable: **52**
-- Last updated: **2026-07-23 23:47 UTC**
+- Last updated: **2026-07-24 01:21 UTC**
 
 ## Source Catalog
 
@@ -239,7 +239,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [asynchronos/operator47-plugins](https://github.com/asynchronos/operator47-plugins) | 5 | `main` | `.` | ✅ ok |  |
 | [atdy/maoxuan-product-agent](https://github.com/atdy/maoxuan-product-agent) | 1 | `main` | `.` | ✅ ok |  |
 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 1 | `main` | `skills` | ✅ ok |  |
-| [atman-33/workhub](https://github.com/atman-33/workhub) | 77 | `main` | `.` | ✅ ok |  |
+| [atman-33/workhub](https://github.com/atman-33/workhub) | 78 | `main` | `.` | ✅ ok |  |
 | [atretyak1985/swarmery](https://github.com/atretyak1985/swarmery) | 54 | `main` | `.` | ✅ ok |  |
 | [AtulPurohit/Antigravity-Awesome-Skills](https://github.com/AtulPurohit/Antigravity-Awesome-Skills) | 542 | `main` | `.` | ✅ ok |  |
 | [Atypical-Consulting/claude-legends-review](https://github.com/Atypical-Consulting/claude-legends-review) | 4 | `main` | `skills` | ✅ ok |  |
@@ -656,7 +656,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gabrieldabbah/genesis](https://github.com/gabrieldabbah/genesis) | 12 | `main` | `skills` | ✅ ok |  |
 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 23 | `main` | `.` | ✅ ok |  |
 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | `main` | `.claude/skills` | ✅ ok |  |
-| [GaimsDevSoftware/glaze-coder](https://github.com/GaimsDevSoftware/glaze-coder) | 1 | `main` | `.` | ✅ ok |  |
+| [GaimsDevSoftware/glaze-coder](https://github.com/GaimsDevSoftware/glaze-coder) | 2 | `main` | `.` | ✅ ok |  |
 | [galyarderlabs/galyarder-framework](https://github.com/galyarderlabs/galyarder-framework) | 1,376 | `main` | `.` | ✅ ok |  |
 | [gammaremover/gamma-watermark-remover-skill](https://github.com/gammaremover/gamma-watermark-remover-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [garyhtou/claude-plugins](https://github.com/garyhtou/claude-plugins) | 6 | `main` | `.` | ✅ ok |  |
@@ -714,7 +714,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Gridea-Pro/theme-builder-skill](https://github.com/Gridea-Pro/theme-builder-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [GrillerGeek/idd-framework](https://github.com/GrillerGeek/idd-framework) | 1 | `main` | `.` | ✅ ok |  |
 | [grimaldost/craft-collection](https://github.com/grimaldost/craft-collection) | 24 | `main` | `.` | ✅ ok |  |
-| [grooverLab/stash](https://github.com/grooverLab/stash) | 1 | `main` | `skills` | ✅ ok |  |
+| [grooverLab/stash](https://github.com/grooverLab/stash) | 2 | `main` | `skills` | ✅ ok |  |
 | [gshepptech/bits-and-mortar](https://github.com/gshepptech/bits-and-mortar) | 7 | `main` | `.` | ✅ ok |  |
 | [gtapps/claude-code-hermit](https://github.com/gtapps/claude-code-hermit) | 89 | `main` | `.` | ✅ ok |  |
 | [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 29 | `main` | `skills` | ✅ ok |  |
@@ -999,7 +999,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kennguyen887/agent-foundation](https://github.com/kennguyen887/agent-foundation) | 32 | `main` | `skills` | ✅ ok |  |
 | [kennykankush/skillpack](https://github.com/kennykankush/skillpack) | 21 | `main` | `.` | ✅ ok |  |
 | [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) | 1 | `main` | `skills` | ✅ ok |  |
-| [kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji) | 107 | `main` | `skills` | ✅ ok |  |
+| [kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji) | 109 | `main` | `skills` | ✅ ok |  |
 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [KentQi/product-team-skill](https://github.com/KentQi/product-team-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
