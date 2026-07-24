@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2205**
-- Discoverable skills: **105,465**
+- Discoverable skills: **105,466**
 - Healthy repos: **2150** · Truncated: **1** · Unavailable: **54**
-- Last updated: **2026-07-24 22:49 UTC**
+- Last updated: **2026-07-24 23:53 UTC**
 
 ## Source Catalog
 
@@ -1625,7 +1625,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rookiestar28/Agentique-CLI](https://github.com/rookiestar28/Agentique-CLI) | 1 | `main` | `.` | ✅ ok |  |
 | [royvergara/design-team-os](https://github.com/royvergara/design-team-os) | 18 | `main` | `skills` | ✅ ok |  |
 | [rrezartprebreza/spring-boot-skills](https://github.com/rrezartprebreza/spring-boot-skills) | 38 | `main` | `skills` | ✅ ok |  |
-| [rse/ase](https://github.com/rse/ase) | 42 | `master` | `.` | ✅ ok |  |
+| [rse/ase](https://github.com/rse/ase) | 43 | `master` | `.` | ✅ ok |  |
 | [RubenGlez/mobile-design](https://github.com/RubenGlez/mobile-design) | 0 | `main` | `.` | ✅ ok |  |
 | [rubyt5673/trade-show-skills](https://github.com/rubyt5673/trade-show-skills) | 6 | `main` | `.` | ✅ ok |  |
 | [Runesmith-Studio/deep-reach](https://github.com/Runesmith-Studio/deep-reach) | 1 | `main` | `skills` | ✅ ok |  |
