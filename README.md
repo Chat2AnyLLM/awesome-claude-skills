@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2205**
-- Discoverable skills: **105,466**
+- Discoverable skills: **105,467**
 - Healthy repos: **2150** · Truncated: **1** · Unavailable: **54**
-- Last updated: **2026-07-24 23:53 UTC**
+- Last updated: **2026-07-25 01:23 UTC**
 
 ## Source Catalog
 
@@ -282,7 +282,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bearlike/Grove](https://github.com/bearlike/Grove) | 2 | `current` | `.claude/skills` | ✅ ok |  |
 | [bedardandy/coloring-book-skill](https://github.com/bedardandy/coloring-book-skill) | 0 | `master` | `.` | ✅ ok |  |
 | [beefiker/superloopy](https://github.com/beefiker/superloopy) | 7 | `main` | `skills` | ✅ ok |  |
-| [bendrucker/claude](https://github.com/bendrucker/claude) | 82 | `main` | `.` | ✅ ok |  |
+| [bendrucker/claude](https://github.com/bendrucker/claude) | 81 | `main` | `.` | ✅ ok |  |
 | [bendusz/pm-skill](https://github.com/bendusz/pm-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [Benknightdark/neo-skills](https://github.com/Benknightdark/neo-skills) | 26 | `main` | `skills` | ✅ ok |  |
 | [BenMacDeezy/Orns-Forge](https://github.com/BenMacDeezy/Orns-Forge) | 61 | `main` | `skills` | ✅ ok |  |
@@ -1257,7 +1257,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mirkobozzetto/arsenal](https://github.com/mirkobozzetto/arsenal) | 8 | `main` | `.` | ✅ ok |  |
 | [MisterVitoPro/qa-claude-market](https://github.com/MisterVitoPro/qa-claude-market) | 0 | `main` | `.` | ✅ ok |  |
 | [mitulgarg/agent-ninja](https://github.com/mitulgarg/agent-ninja) | 1 | `main` | `skills` | ✅ ok |  |
-| [Mixard/fable-pack](https://github.com/Mixard/fable-pack) | 85 | `main` | `.` | ✅ ok |  |
+| [Mixard/fable-pack](https://github.com/Mixard/fable-pack) | 86 | `main` | `.` | ✅ ok |  |
 | [mjcreativelab/mjcreativelab-agent-prompts](https://github.com/mjcreativelab/mjcreativelab-agent-prompts) | 22 | `main` | `skills` | ✅ ok |  |
 | [MJL-ren/blindspot-audit](https://github.com/MJL-ren/blindspot-audit) | 1 | `main` | `skills` | ✅ ok |  |
 | [MKAbuMattar/sysdesign](https://github.com/MKAbuMattar/sysdesign) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1641,7 +1641,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [s3onghyun/otelcol-doctor](https://github.com/s3onghyun/otelcol-doctor) | 0 | `main` | `.` | ✅ ok |  |
 | [s977043/PlanGate](https://github.com/s977043/PlanGate) | 142 | `main` | `.` | ✅ ok |  |
 | [s977043/river-review](https://github.com/s977043/river-review) | 126 | `main` | `skills` | ✅ ok |  |
-| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 19 | `main` | `.` | ✅ ok |  |
+| [saadshahd/moo.md](https://github.com/saadshahd/moo.md) | 20 | `main` | `.` | ✅ ok |  |
 | [sai-na/claude-mac-cleanup](https://github.com/sai-na/claude-mac-cleanup) | 1 | `main` | `skills` | ✅ ok |  |
 | [saidwivedi/research-skills](https://github.com/saidwivedi/research-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [saigonbaddielover/sgbl-overseer](https://github.com/saigonbaddielover/sgbl-overseer) | 1 | `main` | `.` | ✅ ok |  |
