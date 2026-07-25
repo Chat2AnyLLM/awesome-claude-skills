@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2247**
-- Discoverable skills: **106,075**
-- Healthy repos: **2189** · Truncated: **1** · Unavailable: **57**
-- Last updated: **2026-07-25 21:43 UTC**
+- Discoverable skills: **106,097**
+- Healthy repos: **2190** · Truncated: **1** · Unavailable: **56**
+- Last updated: **2026-07-25 22:42 UTC**
 
 ## Source Catalog
 
@@ -233,7 +233,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) | 9 | `main` | `skills` | ✅ ok |  |
 | [ArabianCowboy/minto-executive-communication](https://github.com/ArabianCowboy/minto-executive-communication) | 1 | `main` | `.` | ✅ ok |  |
 | [arbi-elezi/emperor-time](https://github.com/arbi-elezi/emperor-time) | 6 | `main` | `.` | ✅ ok |  |
-| [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 169 | `main` | `.` | ✅ ok |  |
+| [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 175 | `main` | `.` | ✅ ok |  |
 | [archubbuck/workspace-architect](https://github.com/archubbuck/workspace-architect) | 31 | `main` | `.` | ✅ ok |  |
 | [ArieGoldkin/claude-forge](https://github.com/ArieGoldkin/claude-forge) | 85 | `main` | `.` | ✅ ok |  |
 | [arndvs/ctrlshft](https://github.com/arndvs/ctrlshft) | 32 | `main` | `skills` | ✅ ok |  |
@@ -277,6 +277,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Bangs00/claude-media-control](https://github.com/Bangs00/claude-media-control) | 15 | `main` | `skills` | ✅ ok |  |
 | [Banyango/scalpel](https://github.com/Banyango/scalpel) | 2 | `main` | `skills` | ✅ ok |  |
 | [Basic-XYZ/baku-skills](https://github.com/Basic-XYZ/baku-skills) | 6 | `main` | `.` | ✅ ok |  |
+| [batterfried-philosophy172/Agent-Startup-Skills](https://github.com/batterfried-philosophy172/Agent-Startup-Skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [Bbk-man/claude-code-owasp](https://github.com/Bbk-man/claude-code-owasp) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [bcanfield/agentic-tech-debt](https://github.com/bcanfield/agentic-tech-debt) | 20 | `main` | `.` | ✅ ok |  |
 | [bdhwrsh/gl-mt3600be-setup](https://github.com/bdhwrsh/gl-mt3600be-setup) | 0 | `main` | `.` | ✅ ok |  |
@@ -318,7 +319,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bogheorghiu/ex-cog-dev](https://github.com/bogheorghiu/ex-cog-dev) | 29 | `main` | `.` | ✅ ok |  |
 | [bold-minds/bots](https://github.com/bold-minds/bots) | 5 | `main` | `.` | ✅ ok |  |
 | [boranesn/agentic-base](https://github.com/boranesn/agentic-base) | 1 | `master` | `.` | ✅ ok |  |
-| [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 50 | `main` | `.` | ✅ ok |  |
+| [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 56 | `main` | `.` | ✅ ok |  |
 | [bordumb/recurve](https://github.com/bordumb/recurve) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [Borelchu/menhera-loop](https://github.com/Borelchu/menhera-loop) | 4 | `main` | `skills` | ✅ ok |  |
 | [borghei/AI-Skills-German-Law](https://github.com/borghei/AI-Skills-German-Law) | 258 | `main` | `.` | ✅ ok |  |
@@ -634,7 +635,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [F2077/doc-sweep](https://github.com/F2077/doc-sweep) | 1 | `main` | `.` | ✅ ok |  |
 | [fabdelgado/fable-mode](https://github.com/fabdelgado/fable-mode) | 1 | `main` | `skills` | ✅ ok |  |
 | [fabienjuif/agentic-skills](https://github.com/fabienjuif/agentic-skills) | 6 | `main` | `.` | ✅ ok |  |
-| [fabioc-aloha/Alex_Skill_Mall](https://github.com/fabioc-aloha/Alex_Skill_Mall) | 368 | `main` | `.` | ✅ ok |  |
+| [fabioc-aloha/Alex_Skill_Mall](https://github.com/fabioc-aloha/Alex_Skill_Mall) | 369 | `main` | `.` | ✅ ok |  |
 | [faizan007jr/local-llm-delegate](https://github.com/faizan007jr/local-llm-delegate) | 2 | `main` | `skills` | ✅ ok |  |
 | [fakoli/fakoli-plugins](https://github.com/fakoli/fakoli-plugins) | 145 | `main` | `.` | ✅ ok |  |
 | [fantasybz/trip-pwa-skills](https://github.com/fantasybz/trip-pwa-skills) | 4 | `main` | `skills` | ✅ ok |  |
@@ -2211,7 +2212,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [arete-aios/skills](https://github.com/arete-aios/skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [athola/claude-night-market](https://github.com/athola/claude-night-market) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [batterfried-philosophy172/Agent-Startup-Skills](https://github.com/batterfried-philosophy172/Agent-Startup-Skills) | 0 | `main` | `skills` | ❌ error | Remote end closed connection without response |
 | [bear2u/my-skills](https://github.com/bear2u/my-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [berrydev-ai/skills](https://github.com/berrydev-ai/skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Bugrasemerkant/web-quality-skills](https://github.com/Bugrasemerkant/web-quality-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
