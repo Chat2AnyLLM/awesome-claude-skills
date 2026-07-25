@@ -6,8 +6,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 
 - Enabled source repositories: **2234**
 - Discoverable skills: **105,940**
-- Healthy repos: **2178** · Truncated: **1** · Unavailable: **55**
-- Last updated: **2026-07-25 16:42 UTC**
+- Healthy repos: **2177** · Truncated: **1** · Unavailable: **56**
+- Last updated: **2026-07-25 17:47 UTC**
 
 ## Source Catalog
 
@@ -1199,7 +1199,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [maiconlara/design-system-extraction](https://github.com/maiconlara/design-system-extraction) | 0 | `main` | `.` | ✅ ok |  |
 | [maioio/genesis-architect](https://github.com/maioio/genesis-architect) | 0 | `main` | `.` | ✅ ok |  |
 | [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 90 | `main` | `skills` | ✅ ok |  |
-| [makieali/claude-code-engineer](https://github.com/makieali/claude-code-engineer) | 12 | `main` | `skills` | ✅ ok |  |
+| [makieali/claude-code-engineer](https://github.com/makieali/claude-code-engineer) | 13 | `main` | `skills` | ✅ ok |  |
 | [Makiya1202/ai-agents-skills](https://github.com/Makiya1202/ai-agents-skills) | 21 | `master` | `skills` | ✅ ok |  |
 | [malob/nix-config](https://github.com/malob/nix-config) | 14 | `master` | `.` | ✅ ok |  |
 | [mambalabsdev/mamba-labs-skills](https://github.com/mambalabsdev/mamba-labs-skills) | 4 | `main` | `skills` | ✅ ok |  |
@@ -1238,7 +1238,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) | 3 | `main` | `plugins/claude/skills` | ✅ ok |  |
 | [MaxSchoon/ixbrl](https://github.com/MaxSchoon/ixbrl) | 0 | `main` | `.` | ✅ ok |  |
 | [maybe-qy/study-tracker](https://github.com/maybe-qy/study-tracker) | 1 | `main` | `.` | ✅ ok |  |
-| [mbarlow/samdin](https://github.com/mbarlow/samdin) | 1 | `main` | `.` | ✅ ok |  |
 | [mccarthy606/claude-operator-stack](https://github.com/mccarthy606/claude-operator-stack) | 6 | `main` | `skills` | ✅ ok |  |
 | [mclayer/plugin-codeforge](https://github.com/mclayer/plugin-codeforge) | 20 | `main` | `skills` | ✅ ok |  |
 | [mcmespinaa/folder-structure-protocol](https://github.com/mcmespinaa/folder-structure-protocol) | 5 | `main` | `.claude/skills` | ✅ ok |  |
@@ -2229,6 +2228,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [LucioLiu/track-record](https://github.com/LucioLiu/track-record) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [LucioLiu/user-md](https://github.com/LucioLiu/user-md) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [MarkkaMiikka/claude-finnish-skills](https://github.com/MarkkaMiikka/claude-finnish-skills) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
+| [mbarlow/samdin](https://github.com/mbarlow/samdin) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [mohamamd991/TencentDB-Agent-Memory](https://github.com/mohamamd991/TencentDB-Agent-Memory) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Noncontinuous-centaur165/claude-codex-crypto-devkit](https://github.com/Noncontinuous-centaur165/claude-codex-crypto-devkit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [oliveira7015/openclawby-skills](https://github.com/oliveira7015/openclawby-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
