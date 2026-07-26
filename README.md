@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2300**
-- Discoverable skills: **106,628**
+- Discoverable skills: **106,635**
 - Healthy repos: **2238** · Truncated: **1** · Unavailable: **61**
-- Last updated: **2026-07-26 21:46 UTC**
+- Last updated: **2026-07-26 22:46 UTC**
 
 ## Source Catalog
 
@@ -841,7 +841,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 65 | `master` | `.` | ✅ ok |  |
 | [hoblin/claude-ruby-marketplace](https://github.com/hoblin/claude-ruby-marketplace) | 6 | `main` | `.` | ✅ ok |  |
 | [HOKlNG/zzon-doc](https://github.com/HOKlNG/zzon-doc) | 3 | `main` | `.` | ✅ ok |  |
-| [home-dev-lab/workflow-toolbox](https://github.com/home-dev-lab/workflow-toolbox) | 8 | `main` | `.` | ✅ ok |  |
+| [home-dev-lab/workflow-toolbox](https://github.com/home-dev-lab/workflow-toolbox) | 10 | `main` | `.` | ✅ ok |  |
 | [honerlaw/agent-marketplace](https://github.com/honerlaw/agent-marketplace) | 23 | `main` | `.` | ✅ ok |  |
 | [hongbietcode/claude-finance-kit](https://github.com/hongbietcode/claude-finance-kit) | 1 | `main` | `.` | ✅ ok |  |
 | [Honorboxx/crew](https://github.com/Honorboxx/crew) | 3 | `main` | `skills` | ✅ ok |  |
@@ -1988,7 +1988,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tomaszstaniak/pm-ai-skills](https://github.com/tomaszstaniak/pm-ai-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [tomharris/engineer-agent](https://github.com/tomharris/engineer-agent) | 20 | `main` | `skills` | ✅ ok |  |
 | [toni7891/DeployGuard](https://github.com/toni7891/DeployGuard) | 1 | `main` | `.` | ✅ ok |  |
-| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 79 | `main` | `.` | ✅ ok |  |
+| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 84 | `main` | `.` | ✅ ok |  |
 | [tonypiazza/gh-metrics](https://github.com/tonypiazza/gh-metrics) | 1 | `main` | `.` | ✅ ok |  |
 | [toolbox-playground/super-claudio](https://github.com/toolbox-playground/super-claudio) | 12 | `main` | `skills` | ✅ ok |  |
 | [topcoder1/jz_skills](https://github.com/topcoder1/jz_skills) | 2 | `main` | `skills` | ✅ ok |  |
