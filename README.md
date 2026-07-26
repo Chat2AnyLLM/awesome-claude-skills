@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2285**
-- Discoverable skills: **106,534**
+- Discoverable skills: **106,543**
 - Healthy repos: **2224** · Truncated: **1** · Unavailable: **60**
-- Last updated: **2026-07-26 14:23 UTC**
+- Last updated: **2026-07-26 15:52 UTC**
 
 ## Source Catalog
 
@@ -174,7 +174,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [alncat/opus-et-agent](https://github.com/alncat/opus-et-agent) | 4 | `main` | `.` | ✅ ok |  |
 | [alo-exp/multai](https://github.com/alo-exp/multai) | 6 | `main` | `skills` | ✅ ok |  |
 | [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 356 | `main` | `.` | ✅ ok |  |
-| [AlpacaLabsLLC/skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects) | 45 | `main` | `skills` | ✅ ok |  |
+| [AlpacaLabsLLC/skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects) | 50 | `main` | `skills` | ✅ ok |  |
 | [alper-dev/build-for-good-ux-skill](https://github.com/alper-dev/build-for-good-ux-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ALQ78/skill-framadate](https://github.com/ALQ78/skill-framadate) | 1 | `main` | `.` | ✅ ok |  |
 | [altafino/FableClaudeMDForOpus](https://github.com/altafino/FableClaudeMDForOpus) | 18 | `main` | `.claude/skills` | ✅ ok |  |
@@ -185,7 +185,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ambystechcom/AmbyKit](https://github.com/ambystechcom/AmbyKit) | 9 | `main` | `.` | ✅ ok |  |
 | [Amey-Thakur/AI-SKILLS](https://github.com/Amey-Thakur/AI-SKILLS) | 638 | `main` | `skills` | ✅ ok |  |
 | [amjad1233/claude-skills](https://github.com/amjad1233/claude-skills) | 4 | `main` | `.claude/skills` | ✅ ok |  |
-| [AnaCataVC/amiga-ia](https://github.com/AnaCataVC/amiga-ia) | 18 | `main` | `skills` | ✅ ok |  |
+| [AnaCataVC/amiga-ia](https://github.com/AnaCataVC/amiga-ia) | 17 | `main` | `skills` | ✅ ok |  |
 | [AnayDhawan/Components](https://github.com/AnayDhawan/Components) | 0 | `main` | `.` | ✅ ok |  |
 | [AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch) | 0 | `main` | `.` | ✅ ok |  |
 | [anbeime/skill](https://github.com/anbeime/skill) | 67 | `main` | `skills` | ✅ ok |  |
@@ -337,7 +337,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [brennacodes/brenna-plugs](https://github.com/brennacodes/brenna-plugs) | 79 | `main` | `.` | ✅ ok |  |
 | [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 5 | `main` | `skills` | ✅ ok |  |
 | [brilliantdirectories/brilliant-directories-mcp](https://github.com/brilliantdirectories/brilliant-directories-mcp) | 0 | `main` | `.` | ✅ ok |  |
-| [broomva/skills](https://github.com/broomva/skills) | 82 | `main` | `skills` | ✅ ok |  |
+| [broomva/skills](https://github.com/broomva/skills) | 83 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
 | [browser-act/skills](https://github.com/browser-act/skills) | 101 | `main` | `solutions` | ✅ ok |  |
 | [brycewang-stanford/AER-Skills](https://github.com/brycewang-stanford/AER-Skills) | 15 | `main` | `skills` | ✅ ok |  |
@@ -1503,7 +1503,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [owgit/ai-collab-bridge](https://github.com/owgit/ai-collab-bridge) | 0 | `main` | `.` | ✅ ok |  |
 | [ownkube/ownkube-cli](https://github.com/ownkube/ownkube-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [oye-collective/actvt-claude-plugin](https://github.com/oye-collective/actvt-claude-plugin) | 1 | `main` | `skills` | ✅ ok |  |
-| [ozzaii/codex-claude-loop](https://github.com/ozzaii/codex-claude-loop) | 4 | `main` | `.` | ✅ ok |  |
+| [ozzaii/codex-claude-loop](https://github.com/ozzaii/codex-claude-loop) | 5 | `main` | `.` | ✅ ok |  |
 | [paanSinghCoder/pr-review-skill-generator](https://github.com/paanSinghCoder/pr-review-skill-generator) | 1 | `main` | `.` | ✅ ok |  |
 | [pablocaeg/claude-army](https://github.com/pablocaeg/claude-army) | 3 | `main` | `skills` | ✅ ok |  |
 | [pactkit/claude-code-plugin](https://github.com/pactkit/claude-code-plugin) | 39 | `main` | `.` | ✅ ok |  |
@@ -1976,7 +1976,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tomaszstaniak/pm-ai-skills](https://github.com/tomaszstaniak/pm-ai-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [tomharris/engineer-agent](https://github.com/tomharris/engineer-agent) | 20 | `main` | `skills` | ✅ ok |  |
 | [toni7891/DeployGuard](https://github.com/toni7891/DeployGuard) | 1 | `main` | `.` | ✅ ok |  |
-| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 76 | `main` | `.` | ✅ ok |  |
+| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 79 | `main` | `.` | ✅ ok |  |
 | [tonypiazza/gh-metrics](https://github.com/tonypiazza/gh-metrics) | 1 | `main` | `.` | ✅ ok |  |
 | [toolbox-playground/super-claudio](https://github.com/toolbox-playground/super-claudio) | 12 | `main` | `skills` | ✅ ok |  |
 | [topcoder1/jz_skills](https://github.com/topcoder1/jz_skills) | 2 | `main` | `skills` | ✅ ok |  |
