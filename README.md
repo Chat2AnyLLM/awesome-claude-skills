@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2300**
-- Discoverable skills: **106,635**
+- Discoverable skills: **106,642**
 - Healthy repos: **2238** · Truncated: **1** · Unavailable: **61**
-- Last updated: **2026-07-26 22:46 UTC**
+- Last updated: **2026-07-26 23:50 UTC**
 
 ## Source Catalog
 
@@ -1042,8 +1042,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jx-hxxx/hi-vibe](https://github.com/jx-hxxx/hi-vibe) | 6 | `main` | `skills` | ✅ ok |  |
 | [jxpeng98/qiongli](https://github.com/jxpeng98/qiongli) | 3 | `main` | `.` | ✅ ok |  |
 | [jzills/Claude-Marketplace](https://github.com/jzills/Claude-Marketplace) | 19 | `main` | `.` | ✅ ok |  |
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 151 | `main` | `.` | ✅ ok |  |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 151 | `main` | `skills` | ✅ ok |  |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 154 | `main` | `.` | ✅ ok |  |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 154 | `main` | `skills` | ✅ ok |  |
 | [kabirnarang39/skillci](https://github.com/kabirnarang39/skillci) | 5 | `main` | `.` | ✅ ok |  |
 | [Kaelio/ktx](https://github.com/Kaelio/ktx) | 1 | `main` | `skills` | ✅ ok |  |
 | [kalinbogatzevski/captain-memo](https://github.com/kalinbogatzevski/captain-memo) | 6 | `master` | `.` | ✅ ok |  |
@@ -1988,7 +1988,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tomaszstaniak/pm-ai-skills](https://github.com/tomaszstaniak/pm-ai-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [tomharris/engineer-agent](https://github.com/tomharris/engineer-agent) | 20 | `main` | `skills` | ✅ ok |  |
 | [toni7891/DeployGuard](https://github.com/toni7891/DeployGuard) | 1 | `main` | `.` | ✅ ok |  |
-| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 84 | `main` | `.` | ✅ ok |  |
+| [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 85 | `main` | `.` | ✅ ok |  |
 | [tonypiazza/gh-metrics](https://github.com/tonypiazza/gh-metrics) | 1 | `main` | `.` | ✅ ok |  |
 | [toolbox-playground/super-claudio](https://github.com/toolbox-playground/super-claudio) | 12 | `main` | `skills` | ✅ ok |  |
 | [topcoder1/jz_skills](https://github.com/topcoder1/jz_skills) | 2 | `main` | `skills` | ✅ ok |  |
