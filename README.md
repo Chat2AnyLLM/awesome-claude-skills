@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2285**
-- Discoverable skills: **106,505**
+- Discoverable skills: **106,507**
 - Healthy repos: **2223** · Truncated: **1** · Unavailable: **61**
-- Last updated: **2026-07-26 17:52 UTC**
+- Last updated: **2026-07-26 18:51 UTC**
 
 ## Source Catalog
 
@@ -2013,7 +2013,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [uplift-technology-company-limited/uplift-plugins](https://github.com/uplift-technology-company-limited/uplift-plugins) | 4 | `main` | `.` | ✅ ok |  |
 | [ur-grue/autopunk-media-skills](https://github.com/ur-grue/autopunk-media-skills) | 394 | `main` | `skills` | ✅ ok |  |
 | [urveshdev/tradelane-intel](https://github.com/urveshdev/tradelane-intel) | 1 | `main` | `.` | ✅ ok |  |
-| [uwuclxdy/agenticat](https://github.com/uwuclxdy/agenticat) | 17 | `main` | `skills` | ✅ ok |  |
+| [uwuclxdy/agenticat](https://github.com/uwuclxdy/agenticat) | 19 | `main` | `skills` | ✅ ok |  |
 | [Uxcel-Lab/product-skills](https://github.com/Uxcel-Lab/product-skills) | 59 | `main` | `.` | ✅ ok |  |
 | [V-Songbird/claude-plugins](https://github.com/V-Songbird/claude-plugins) | 0 | `main` | `.` | ✅ ok |  |
 | [V-Songbird/foreman](https://github.com/V-Songbird/foreman) | 4 | `main` | `skills` | ✅ ok |  |
