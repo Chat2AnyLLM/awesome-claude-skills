@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2420**
-- Discoverable skills: **109,689**
+- Discoverable skills: **109,696**
 - Healthy repos: **2347** · Truncated: **1** · Unavailable: **72**
-- Last updated: **2026-07-28 17:17 UTC**
+- Last updated: **2026-07-28 19:03 UTC**
 
 ## Source Catalog
 
@@ -1151,7 +1151,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [khasky/awesome-agent-skills](https://github.com/khasky/awesome-agent-skills) | 18 | `main` | `skills` | ✅ ok |  |
 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [khujta/gabe-suite](https://github.com/khujta/gabe-suite) | 32 | `main` | `skills` | ✅ ok |  |
-| [kickinrad/personas](https://github.com/kickinrad/personas) | 7 | `main` | `.` | ✅ ok |  |
+| [kickinrad/personas](https://github.com/kickinrad/personas) | 14 | `main` | `.` | ✅ ok |  |
 | [KieranGao/general-readme-skill](https://github.com/KieranGao/general-readme-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kierstenicy452/anti-ai-writing](https://github.com/kierstenicy452/anti-ai-writing) | 1 | `main` | `skills` | ✅ ok |  |
 | [kimikonapps/kimiflow](https://github.com/kimikonapps/kimiflow) | 0 | `main` | `.` | ✅ ok |  |
