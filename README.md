@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2438**
-- Discoverable skills: **110,349**
+- Discoverable skills: **110,352**
 - Healthy repos: **2366** · Truncated: **1** · Unavailable: **71**
-- Last updated: **2026-07-28 23:48 UTC**
+- Last updated: **2026-07-29 01:19 UTC**
 
 ## Source Catalog
 
@@ -245,7 +245,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [arbi-elezi/emperor-time](https://github.com/arbi-elezi/emperor-time) | 6 | `main` | `.` | ✅ ok |  |
 | [arbiterForge/codeArbiter](https://github.com/arbiterForge/codeArbiter) | 175 | `main` | `.` | ✅ ok |  |
 | [archubbuck/workspace-architect](https://github.com/archubbuck/workspace-architect) | 31 | `main` | `.` | ✅ ok |  |
-| [argent-gnome/sdlc-skills](https://github.com/argent-gnome/sdlc-skills) | 3 | `main` | `skills` | ✅ ok |  |
+| [argent-gnome/sdlc-skills](https://github.com/argent-gnome/sdlc-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [ArieGoldkin/claude-forge](https://github.com/ArieGoldkin/claude-forge) | 85 | `main` | `.` | ✅ ok |  |
 | [arndvs/ctrlshft](https://github.com/arndvs/ctrlshft) | 32 | `main` | `skills` | ✅ ok |  |
 | [arome3/arnen-blog-illustration](https://github.com/arome3/arnen-blog-illustration) | 0 | `main` | `.` | ✅ ok |  |
