@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2546**
-- Discoverable skills: **111,946**
+- Discoverable skills: **111,951**
 - Healthy repos: **2470** · Truncated: **1** · Unavailable: **75**
-- Last updated: **2026-07-30 10:09 UTC**
+- Last updated: **2026-07-30 12:22 UTC**
 
 ## Source Catalog
 
@@ -587,7 +587,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [developer-overheid-nl/skills-standaarden](https://github.com/developer-overheid-nl/skills-standaarden) | 10 | `main` | `skills` | ✅ ok |  |
 | [devjun7/LUDDITE_KR](https://github.com/devjun7/LUDDITE_KR) | 0 | `main` | `.` | ✅ ok |  |
 | [devkindhq/agency-marketplace](https://github.com/devkindhq/agency-marketplace) | 12 | `main` | `.` | ✅ ok |  |
-| [devkindhq/ideogram-ai-toolkit](https://github.com/devkindhq/ideogram-ai-toolkit) | 13 | `main` | `skills` | ✅ ok |  |
+| [devkindhq/ideogram-ai-toolkit](https://github.com/devkindhq/ideogram-ai-toolkit) | 14 | `main` | `skills` | ✅ ok |  |
 | [DevOtts/parallel-lifecycle](https://github.com/DevOtts/parallel-lifecycle) | 0 | `main` | `.` | ✅ ok |  |
 | [DevOtts/plan-it](https://github.com/DevOtts/plan-it) | 5 | `main` | `.` | ✅ ok |  |
 | [dfk1352/LibreOffice-skills](https://github.com/dfk1352/LibreOffice-skills) | 3 | `main` | `skills` | ✅ ok |  |
@@ -1490,7 +1490,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MrBridgeHQ/github-profile-optimizer](https://github.com/MrBridgeHQ/github-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [MrBridgeHQ/hf-profile-optimizer](https://github.com/MrBridgeHQ/hf-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [MrBridgeHQ/kaggle-profile-optimizer](https://github.com/MrBridgeHQ/kaggle-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
-| [mrcha033/yonsei-skills](https://github.com/mrcha033/yonsei-skills) | 53 | `main` | `.` | ✅ ok |  |
+| [mrcha033/yonsei-skills](https://github.com/mrcha033/yonsei-skills) | 52 | `main` | `.` | ✅ ok |  |
 | [mrdenox109-nyx/skill-manager](https://github.com/mrdenox109-nyx/skill-manager) | 1 | `main` | `skills` | ✅ ok |  |
 | [MrEmanAhmad/yt2skill](https://github.com/MrEmanAhmad/yt2skill) | 1 | `master` | `.` | ✅ ok |  |
 | [mrevjd/claude-review-suite](https://github.com/mrevjd/claude-review-suite) | 6 | `main` | `skills` | ✅ ok |  |
@@ -2199,7 +2199,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [tomaszstaniak/pm-ai-skills](https://github.com/tomaszstaniak/pm-ai-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [tomharris/engineer-agent](https://github.com/tomharris/engineer-agent) | 20 | `main` | `skills` | ✅ ok |  |
 | [toni7891/DeployGuard](https://github.com/toni7891/DeployGuard) | 1 | `main` | `.` | ✅ ok |  |
-| [tonmoy007/forge-plugins](https://github.com/tonmoy007/forge-plugins) | 74 | `main` | `.` | ✅ ok |  |
+| [tonmoy007/forge-plugins](https://github.com/tonmoy007/forge-plugins) | 80 | `main` | `.` | ✅ ok |  |
 | [tony/ai-workflow-plugins](https://github.com/tony/ai-workflow-plugins) | 89 | `main` | `.` | ✅ ok |  |
 | [tonypiazza/gh-metrics](https://github.com/tonypiazza/gh-metrics) | 1 | `main` | `.` | ✅ ok |  |
 | [toolbox-playground/super-claudio](https://github.com/toolbox-playground/super-claudio) | 12 | `main` | `skills` | ✅ ok |  |
@@ -2371,7 +2371,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [xiaodong528/mobilework-expert-manager](https://github.com/xiaodong528/mobilework-expert-manager) | 1 | `main` | `skills` | ✅ ok |  |
 | [XiaofeiCY/performance-report-assistant-skill](https://github.com/XiaofeiCY/performance-report-assistant-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [xiaowu89/skill-compress](https://github.com/xiaowu89/skill-compress) | 2 | `master` | `.` | ✅ ok |  |
-| [xiaowu89/skill-function](https://github.com/xiaowu89/skill-function) | 2 | `master` | `.` | ✅ ok |  |
+| [xiaowu89/skill-function](https://github.com/xiaowu89/skill-function) | 1 | `master` | `.` | ✅ ok |  |
 | [xiaowu89/skill-matting](https://github.com/xiaowu89/skill-matting) | 0 | `master` | `.` | ✅ ok |  |
 | [Xiaoyuan-Liu/national-team-position](https://github.com/Xiaoyuan-Liu/national-team-position) | 0 | `main` | `.` | ✅ ok |  |
 | [XieWxx/maxhub-api-skills](https://github.com/XieWxx/maxhub-api-skills) | 20 | `main` | `.` | ✅ ok |  |
