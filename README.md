@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2565**
-- Discoverable skills: **112,388**
+- Discoverable skills: **112,406**
 - Healthy repos: **2489** · Truncated: **1** · Unavailable: **75**
-- Last updated: **2026-07-30 15:00 UTC**
+- Last updated: **2026-07-30 16:24 UTC**
 
 ## Source Catalog
 
@@ -948,7 +948,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [hypnosdesign/claude-skill-scrittura-italiana](https://github.com/hypnosdesign/claude-skill-scrittura-italiana) | 0 | `main` | `.` | ✅ ok |  |
 | [iamjosuho/memOrb](https://github.com/iamjosuho/memOrb) | 14 | `main` | `skills` | ✅ ok |  |
 | [IamK77/Skill](https://github.com/IamK77/Skill) | 38 | `main` | `skills` | ✅ ok |  |
-| [IamOumarIbrahim/skill-issue](https://github.com/IamOumarIbrahim/skill-issue) | 3 | `main` | `skills` | ✅ ok |  |
+| [IamOumarIbrahim/skill-issue](https://github.com/IamOumarIbrahim/skill-issue) | 4 | `main` | `skills` | ✅ ok |  |
 | [iampantherr/SecureContext](https://github.com/iampantherr/SecureContext) | 2 | `main` | `.` | ✅ ok |  |
 | [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | 13 | `main` | `.` | ✅ ok |  |
 | [Ian-Louw/potion](https://github.com/Ian-Louw/potion) | 13 | `main` | `skills` | ✅ ok |  |
@@ -1290,7 +1290,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [LH8PPL/core-memory-kit](https://github.com/LH8PPL/core-memory-kit) | 5 | `main` | `.` | ✅ ok |  |
 | [lhitches/claude-seo-skills](https://github.com/lhitches/claude-seo-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [liatrio-labs/claude-code-gauntlet](https://github.com/liatrio-labs/claude-code-gauntlet) | 2 | `main` | `skills` | ✅ ok |  |
-| [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 61 | `main` | `.` | ✅ ok |  |
+| [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 62 | `main` | `.` | ✅ ok |  |
 | [liminalshruti/liminal-agents](https://github.com/liminalshruti/liminal-agents) | 11 | `main` | `skills` | ✅ ok |  |
 | [limingnanyue/novel-creation-omnibus](https://github.com/limingnanyue/novel-creation-omnibus) | 0 | `main` | `.` | ✅ ok |  |
 | [limited-grisaille833/claude-java-plugins](https://github.com/limited-grisaille833/claude-java-plugins) | 26 | `main` | `.` | ✅ ok |  |
@@ -1546,7 +1546,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [NatChung/english-recap](https://github.com/NatChung/english-recap) | 1 | `main` | `skills` | ✅ ok |  |
 | [nateruze/ghost_ai](https://github.com/nateruze/ghost_ai) | 15 | `main` | `.` | ✅ ok |  |
 | [natthasath/natthasath-marketplace](https://github.com/natthasath/natthasath-marketplace) | 60 | `main` | `.` | ✅ ok |  |
-| [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 372 | `develop` | `.` | ✅ ok |  |
+| [naveedharri/benai-skills](https://github.com/naveedharri/benai-skills) | 384 | `develop` | `.` | ✅ ok |  |
 | [naxoc/claude-briefs](https://github.com/naxoc/claude-briefs) | 5 | `main` | `.` | ✅ ok |  |
 | [Naz1anmak/claude-code-notifications](https://github.com/Naz1anmak/claude-code-notifications) | 0 | `main` | `.` | ✅ ok |  |
 | [ncaq/konoka](https://github.com/ncaq/konoka) | 62 | `master` | `.` | ✅ ok |  |
@@ -1665,7 +1665,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [osouthgate/agent-plus](https://github.com/osouthgate/agent-plus) | 10 | `main` | `.` | ✅ ok |  |
 | [othmane55/claude-collective-intelligence](https://github.com/othmane55/claude-collective-intelligence) | 5 | `main` | `skills` | ✅ ok |  |
 | [Out-bloodspavin173/openalex-skill](https://github.com/Out-bloodspavin173/openalex-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 109 | `main` | `skills` | ✅ ok |  |
+| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 112 | `main` | `skills` | ✅ ok |  |
 | [outreachmagic/email-finder](https://github.com/outreachmagic/email-finder) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/lead-enrich](https://github.com/outreachmagic/lead-enrich) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/outreachmagic](https://github.com/outreachmagic/outreachmagic) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1738,7 +1738,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [pitimon/8-habit-ai-dev](https://github.com/pitimon/8-habit-ai-dev) | 48 | `main` | `.` | ✅ ok |  |
 | [pj-costello/slop-guard](https://github.com/pj-costello/slop-guard) | 6 | `main` | `.` | ✅ ok |  |
 | [plori-ai/skills](https://github.com/plori-ai/skills) | 1 | `main` | `.` | ✅ ok |  |
-| [pockerhead/maw](https://github.com/pockerhead/maw) | 4 | `main` | `skills` | ✅ ok |  |
+| [pockerhead/maw](https://github.com/pockerhead/maw) | 5 | `main` | `skills` | ✅ ok |  |
 | [polgarp/collage-design](https://github.com/polgarp/collage-design) | 0 | `main` | `.` | ✅ ok |  |
 | [polrai-bg/polr-ai-skills](https://github.com/polrai-bg/polr-ai-skills) | 4 | `main` | `.` | ✅ ok |  |
 | [popjam-io/skills](https://github.com/popjam-io/skills) | 4 | `main` | `skills` | ✅ ok |  |
