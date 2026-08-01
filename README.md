@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2706**
-- Discoverable skills: **113,074**
+- Discoverable skills: **113,077**
 - Healthy repos: **2628** · Truncated: **1** · Unavailable: **77**
-- Last updated: **2026-08-01 14:21 UTC**
+- Last updated: **2026-08-01 15:50 UTC**
 
 ## Source Catalog
 
@@ -814,7 +814,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Fyzel/claude-skills](https://github.com/Fyzel/claude-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [gabelul/stitch-kit](https://github.com/gabelul/stitch-kit) | 36 | `main` | `skills` | ✅ ok |  |
 | [gabrieldabbah/genesis](https://github.com/gabrieldabbah/genesis) | 10 | `main` | `skills` | ✅ ok |  |
-| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 399 | `main` | `.` | ✅ ok |  |
+| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 401 | `main` | `.` | ✅ ok |  |
 | [gageracer/svelte5-migration-analyst](https://github.com/gageracer/svelte5-migration-analyst) | 1 | `main` | `skills` | ✅ ok |  |
 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 23 | `main` | `.` | ✅ ok |  |
 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | `main` | `.claude/skills` | ✅ ok |  |
@@ -954,7 +954,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [HiMyNameIsDavidKim/prompt-triwizard-skill](https://github.com/HiMyNameIsDavidKim/prompt-triwizard-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [hiphapis/loopcraft](https://github.com/hiphapis/loopcraft) | 4 | `main` | `skills` | ✅ ok |  |
 | [HiroHyun/grounded-copy](https://github.com/HiroHyun/grounded-copy) | 0 | `main` | `.` | ✅ ok |  |
-| [hirokisakabe/issuekit](https://github.com/hirokisakabe/issuekit) | 7 | `main` | `skills` | ✅ ok |  |
+| [hirokisakabe/issuekit](https://github.com/hirokisakabe/issuekit) | 8 | `main` | `skills` | ✅ ok |  |
 | [hjdealba96/claude-code-skills](https://github.com/hjdealba96/claude-code-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [hjongc/humanizer-kr](https://github.com/hjongc/humanizer-kr) | 2 | `main` | `.` | ✅ ok |  |
 | [hllrm/G-Forge](https://github.com/hllrm/G-Forge) | 38 | `main` | `skills` | ✅ ok |  |
