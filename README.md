@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2674**
-- Discoverable skills: **112,926**
+- Discoverable skills: **112,931**
 - Healthy repos: **2597** · Truncated: **1** · Unavailable: **76**
-- Last updated: **2026-08-01 05:16 UTC**
+- Last updated: **2026-08-01 07:58 UTC**
 
 ## Source Catalog
 
@@ -702,7 +702,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 82 | `main` | `skills` | ✅ ok |  |
 | [Elevatormusic/apple-hig](https://github.com/Elevatormusic/apple-hig) | 1 | `main` | `skills` | ✅ ok |  |
 | [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | 1 | `main` | `.` | ✅ ok |  |
-| [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 385 | `master` | `skills` | ✅ ok |  |
+| [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 389 | `master` | `skills` | ✅ ok |  |
 | [EllypsisAI/ellypsis-plugin-labs](https://github.com/EllypsisAI/ellypsis-plugin-labs) | 4 | `main` | `.` | ✅ ok |  |
 | [Elnora-AI/elnora-cli](https://github.com/Elnora-AI/elnora-cli) | 10 | `main` | `skills` | ✅ ok |  |
 | [Elnora-AI/elnora-google-workspace](https://github.com/Elnora-AI/elnora-google-workspace) | 11 | `main` | `skills` | ✅ ok |  |
@@ -1830,7 +1830,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [PrabhdeepSingh/claude-plugins](https://github.com/PrabhdeepSingh/claude-plugins) | 26 | `main` | `.` | ✅ ok |  |
 | [PradiptaPutra/cold-shower](https://github.com/PradiptaPutra/cold-shower) | 1 | `main` | `skills` | ✅ ok |  |
 | [prakhar1114/ai_mime](https://github.com/prakhar1114/ai_mime) | 1 | `main` | `.` | ✅ ok |  |
-| [Price-Win/pricewin-skills-hub](https://github.com/Price-Win/pricewin-skills-hub) | 4 | `main` | `skills` | ✅ ok |  |
+| [Price-Win/pricewin-skills-hub](https://github.com/Price-Win/pricewin-skills-hub) | 5 | `main` | `skills` | ✅ ok |  |
 | [prime-radiant-inc/greenfield](https://github.com/prime-radiant-inc/greenfield) | 22 | `main` | `skills` | ✅ ok |  |
 | [prismatic-io/prismatic-skills](https://github.com/prismatic-io/prismatic-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [procoders/superpowers-v](https://github.com/procoders/superpowers-v) | 3 | `main` | `skills` | ✅ ok |  |
