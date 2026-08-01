@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2689**
-- Discoverable skills: **112,957**
+- Discoverable skills: **112,975**
 - Healthy repos: **2612** · Truncated: **1** · Unavailable: **76**
-- Last updated: **2026-08-01 09:51 UTC**
+- Last updated: **2026-08-01 11:09 UTC**
 
 ## Source Catalog
 
@@ -855,7 +855,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [globalize-now/globalize-skills](https://github.com/globalize-now/globalize-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [Glowboth/skillsync-mcp](https://github.com/Glowboth/skillsync-mcp) | 0 | `main` | `.` | ✅ ok |  |
 | [glubean/skill](https://github.com/glubean/skill) | 1 | `main` | `.` | ✅ ok |  |
-| [gmickel/flow-next](https://github.com/gmickel/flow-next) | 63 | `main` | `.` | ✅ ok |  |
+| [gmickel/flow-next](https://github.com/gmickel/flow-next) | 67 | `main` | `.` | ✅ ok |  |
 | [gogoingai/wenqu-skills](https://github.com/gogoingai/wenqu-skills) | 6 | `master` | `.` | ✅ ok |  |
 | [gogolumo/rbsmithy-roblox-claude-skill](https://github.com/gogolumo/rbsmithy-roblox-claude-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [goharabbas321/zeoel-framework](https://github.com/goharabbas321/zeoel-framework) | 4,338 | `main` | `.` | ✅ ok |  |
@@ -1049,8 +1049,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [j-ronk/backchannel](https://github.com/j-ronk/backchannel) | 1 | `main` | `.` | ✅ ok |  |
 | [j4rk0r/claude-skills](https://github.com/j4rk0r/claude-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [j7an/cross-agent-reviews](https://github.com/j7an/cross-agent-reviews) | 1 | `main` | `.` | ✅ ok |  |
-| [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 119 | `main` | `skills` | ✅ ok |  |
-| [jabrena/plinth](https://github.com/jabrena/plinth) | 119 | `main` | `skills` | ✅ ok |  |
+| [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) | 125 | `main` | `skills` | ✅ ok |  |
+| [jabrena/plinth](https://github.com/jabrena/plinth) | 125 | `main` | `skills` | ✅ ok |  |
 | [JaceProgramming/naver-seo-expert](https://github.com/JaceProgramming/naver-seo-expert) | 0 | `main` | `.` | ✅ ok |  |
 | [jackterror/persuasion-audit-engine](https://github.com/jackterror/persuasion-audit-engine) | 0 | `main` | `.` | ✅ ok |  |
 | [jackterror/script-to-video-production-agent](https://github.com/jackterror/script-to-video-production-agent) | 0 | `main` | `.` | ✅ ok |  |
@@ -1099,7 +1099,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli) | 2 | `main` | `skills` | ✅ ok |  |
 | [jhlee0409/claude-harness-kit](https://github.com/jhlee0409/claude-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
 | [jhlee0409/omni-harness-kit](https://github.com/jhlee0409/omni-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
-| [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 29 | `main` | `skills` | ✅ ok |  |
+| [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 30 | `main` | `skills` | ✅ ok |  |
 | [ji-in-loop/nohello](https://github.com/ji-in-loop/nohello) | 1 | `main` | `skills` | ✅ ok |  |
 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 34 | `main` | `.` | ✅ ok |  |
 | [JiaWeiXie/swarm-pi-code-plugin](https://github.com/JiaWeiXie/swarm-pi-code-plugin) | 10 | `main` | `.` | ✅ ok |  |
@@ -2483,7 +2483,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | 13 | `main` | `skills` | ✅ ok |  |
 | [worldwonderer/video-recap-skills](https://github.com/worldwonderer/video-recap-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [wotai-dev/woterclip](https://github.com/wotai-dev/woterclip) | 7 | `main` | `skills` | ✅ ok |  |
-| [wow-look-at-my/cc-marketplace](https://github.com/wow-look-at-my/cc-marketplace) | 3 | `master` | `.` | ✅ ok |  |
+| [wow-look-at-my/cc-marketplace](https://github.com/wow-look-at-my/cc-marketplace) | 4 | `master` | `.` | ✅ ok |  |
 | [wquguru/skills](https://github.com/wquguru/skills) | 12 | `main` | `skills` | ✅ ok |  |
 | [WRG-11/wrg-sigma-rules](https://github.com/WRG-11/wrg-sigma-rules) | 3 | `main` | `skills` | ✅ ok |  |
 | [wrsmith108/session-cleanup-skill](https://github.com/wrsmith108/session-cleanup-skill) | 0 | `main` | `.` | ✅ ok |  |
