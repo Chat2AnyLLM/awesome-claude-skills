@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2780**
-- Discoverable skills: **113,438**
+- Discoverable skills: **113,441**
 - Healthy repos: **2700** · Truncated: **1** · Unavailable: **79**
-- Last updated: **2026-08-02 14:21 UTC**
+- Last updated: **2026-08-02 15:52 UTC**
 
 ## Source Catalog
 
@@ -1132,7 +1132,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jhlee0409/omni-harness-kit](https://github.com/jhlee0409/omni-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
 | [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 30 | `main` | `skills` | ✅ ok |  |
 | [ji-in-loop/nohello](https://github.com/ji-in-loop/nohello) | 1 | `main` | `skills` | ✅ ok |  |
-| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 34 | `main` | `.` | ✅ ok |  |
+| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 35 | `main` | `.` | ✅ ok |  |
 | [JiaWeiXie/swarm-pi-code-plugin](https://github.com/JiaWeiXie/swarm-pi-code-plugin) | 10 | `main` | `.` | ✅ ok |  |
 | [jiayi-ThE-CREATOR/es-coach-skills](https://github.com/jiayi-ThE-CREATOR/es-coach-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [jiayou20021120-afk/paper-conductor](https://github.com/jiayou20021120-afk/paper-conductor) | 0 | `main` | `.` | ✅ ok |  |
@@ -1230,7 +1230,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [JustMichael-80/MasterVault](https://github.com/JustMichael-80/MasterVault) | 24 | `main` | `skills` | ✅ ok |  |
 | [jx-hxxx/hi-vibe](https://github.com/jx-hxxx/hi-vibe) | 6 | `main` | `skills` | ✅ ok |  |
 | [jxpeng98/qiongli](https://github.com/jxpeng98/qiongli) | 3 | `main` | `.` | ✅ ok |  |
-| [jyh4358/jay-plugin](https://github.com/jyh4358/jay-plugin) | 1 | `main` | `skills` | ✅ ok |  |
+| [jyh4358/jay-plugin](https://github.com/jyh4358/jay-plugin) | 2 | `main` | `skills` | ✅ ok |  |
 | [jzills/Claude-Marketplace](https://github.com/jzills/Claude-Marketplace) | 19 | `main` | `.` | ✅ ok |  |
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 158 | `main` | `.` | ✅ ok |  |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 158 | `main` | `skills` | ✅ ok |  |
@@ -1481,7 +1481,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [maiconlara/design-system-extraction](https://github.com/maiconlara/design-system-extraction) | 0 | `main` | `.` | ✅ ok |  |
 | [maioio/genesis-architect](https://github.com/maioio/genesis-architect) | 0 | `main` | `.` | ✅ ok |  |
 | [majdghithan/agent-skills](https://github.com/majdghithan/agent-skills) | 9 | `main` | `skills` | ✅ ok |  |
-| [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 90 | `main` | `skills` | ✅ ok |  |
+| [majiayu000/spellbook](https://github.com/majiayu000/spellbook) | 91 | `main` | `skills` | ✅ ok |  |
 | [makieali/claude-code-engineer](https://github.com/makieali/claude-code-engineer) | 13 | `main` | `skills` | ✅ ok |  |
 | [Makiya1202/ai-agents-skills](https://github.com/Makiya1202/ai-agents-skills) | 21 | `master` | `skills` | ✅ ok |  |
 | [malkreide/mcp-audit-skill](https://github.com/malkreide/mcp-audit-skill) | 0 | `main` | `.` | ✅ ok |  |
