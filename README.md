@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2780**
-- Discoverable skills: **113,447**
+- Discoverable skills: **113,448**
 - Healthy repos: **2700** · Truncated: **1** · Unavailable: **79**
-- Last updated: **2026-08-02 17:51 UTC**
+- Last updated: **2026-08-02 18:50 UTC**
 
 ## Source Catalog
 
@@ -899,7 +899,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gptme/gptme-cc-plugin](https://github.com/gptme/gptme-cc-plugin) | 3 | `master` | `skills` | ✅ ok |  |
 | [gptme/gptme-contrib](https://github.com/gptme/gptme-contrib) | 11 | `master` | `skills` | ✅ ok |  |
 | [GrayMa77er/tiny-spec](https://github.com/GrayMa77er/tiny-spec) | 7 | `main` | `.` | ✅ ok |  |
-| [greglas75/zuvo](https://github.com/greglas75/zuvo) | 56 | `main` | `skills` | ✅ ok |  |
+| [greglas75/zuvo](https://github.com/greglas75/zuvo) | 57 | `main` | `skills` | ✅ ok |  |
 | [gregoirefissore25-tech/starpilot](https://github.com/gregoirefissore25-tech/starpilot) | 0 | `main` | `.` | ✅ ok |  |
 | [Gridea-Pro/theme-builder-skill](https://github.com/Gridea-Pro/theme-builder-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [GrillerGeek/idd-framework](https://github.com/GrillerGeek/idd-framework) | 1 | `main` | `.` | ✅ ok |  |
@@ -1755,7 +1755,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [nxtg-ai/forge-plugin](https://github.com/nxtg-ai/forge-plugin) | 27 | `main` | `.` | ✅ ok |  |
 | [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) | 110 | `main` | `.` | ✅ ok |  |
 | [oaris-dev/diviops](https://github.com/oaris-dev/diviops) | 2 | `main` | `skills` | ✅ ok |  |
-| [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 178 | `main` | `.` | ✅ ok |  |
+| [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 176 | `main` | `.` | ✅ ok |  |
 | [obra/superpowers](https://github.com/obra/superpowers) | 14 | `main` | `skills` | ✅ ok |  |
 | [obuboai/business-coach](https://github.com/obuboai/business-coach) | 0 | `main` | `.` | ✅ ok |  |
 | [Ocean1346/bigquery-expert](https://github.com/Ocean1346/bigquery-expert) | 5 | `main` | `skills` | ✅ ok |  |
@@ -2198,7 +2198,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [skyf0xx/better-thinking](https://github.com/skyf0xx/better-thinking) | 2 | `master` | `skills` | ✅ ok |  |
 | [skymanbp/cc-enslaver](https://github.com/skymanbp/cc-enslaver) | 1 | `main` | `skills` | ✅ ok |  |
 | [SlashyIsTaken/fp-pluginplaza](https://github.com/SlashyIsTaken/fp-pluginplaza) | 5 | `main` | `.` | ✅ ok |  |
-| [SlavaSexton/comfyui-agent-kit](https://github.com/SlavaSexton/comfyui-agent-kit) | 2 | `master` | `.` | ✅ ok |  |
+| [SlavaSexton/comfyui-agent-kit](https://github.com/SlavaSexton/comfyui-agent-kit) | 4 | `master` | `.` | ✅ ok |  |
 | [slavins-co/cellartracker-mcp](https://github.com/slavins-co/cellartracker-mcp) | 2 | `main` | `skills` | ✅ ok |  |
 | [sleetcrash/sleetcrash-skills](https://github.com/sleetcrash/sleetcrash-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [sling86/it-cli-plugin](https://github.com/sling86/it-cli-plugin) | 1 | `main` | `.` | ✅ ok |  |
