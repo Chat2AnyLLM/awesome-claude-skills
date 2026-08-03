@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2849**
-- Discoverable skills: **114,264**
+- Discoverable skills: **114,277**
 - Healthy repos: **2768** · Truncated: **1** · Unavailable: **80**
-- Last updated: **2026-08-03 15:36 UTC**
+- Last updated: **2026-08-03 17:40 UTC**
 
 ## Source Catalog
 
@@ -388,7 +388,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bmeunier1974/beautify-md](https://github.com/bmeunier1974/beautify-md) | 0 | `main` | `.` | ✅ ok |  |
 | [bmurphy201/revenue-messaging-framework](https://github.com/bmurphy201/revenue-messaging-framework) | 0 | `main` | `.` | ✅ ok |  |
 | [bobbyhyam/agentics](https://github.com/bobbyhyam/agentics) | 2 | `main` | `.` | ✅ ok |  |
-| [bogheorghiu/ex-cog-dev](https://github.com/bogheorghiu/ex-cog-dev) | 29 | `main` | `.` | ✅ ok |  |
+| [bogheorghiu/ex-cog-dev](https://github.com/bogheorghiu/ex-cog-dev) | 37 | `main` | `.` | ✅ ok |  |
 | [bold-minds/bots](https://github.com/bold-minds/bots) | 9 | `main` | `.` | ✅ ok |  |
 | [boranesn/agentic-base](https://github.com/boranesn/agentic-base) | 1 | `master` | `.` | ✅ ok |  |
 | [Borda/AI-Rig](https://github.com/Borda/AI-Rig) | 56 | `main` | `.` | ✅ ok |  |
@@ -1159,7 +1159,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli) | 2 | `main` | `skills` | ✅ ok |  |
 | [jhlee0409/claude-harness-kit](https://github.com/jhlee0409/claude-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
 | [jhlee0409/omni-harness-kit](https://github.com/jhlee0409/omni-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
-| [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 31 | `main` | `skills` | ✅ ok |  |
+| [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 32 | `main` | `skills` | ✅ ok |  |
 | [ji-in-loop/nohello](https://github.com/ji-in-loop/nohello) | 1 | `main` | `skills` | ✅ ok |  |
 | [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 35 | `main` | `.` | ✅ ok |  |
 | [JiaWeiXie/swarm-pi-code-plugin](https://github.com/JiaWeiXie/swarm-pi-code-plugin) | 10 | `main` | `.` | ✅ ok |  |
@@ -1562,9 +1562,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Matthewyin/CustomSkills](https://github.com/Matthewyin/CustomSkills) | 2 | `main` | `skills` | ✅ ok |  |
 | [maun11/raise-my-dr](https://github.com/maun11/raise-my-dr) | 0 | `main` | `.` | ✅ ok |  |
 | [Mavens-Tech-Lab/skills](https://github.com/Mavens-Tech-Lab/skills) | 3 | `main` | `.` | ✅ ok |  |
-| [Max-Levitskiy/agent-marketplace](https://github.com/Max-Levitskiy/agent-marketplace) | 4 | `main` | `.` | ✅ ok |  |
-| [Max-Levitskiy/claude-code-marketplace](https://github.com/Max-Levitskiy/claude-code-marketplace) | 4 | `main` | `.` | ✅ ok |  |
-| [Max-Levitskiy/skills](https://github.com/Max-Levitskiy/skills) | 4 | `main` | `.` | ✅ ok |  |
+| [Max-Levitskiy/agent-marketplace](https://github.com/Max-Levitskiy/agent-marketplace) | 5 | `main` | `.` | ✅ ok |  |
+| [Max-Levitskiy/claude-code-marketplace](https://github.com/Max-Levitskiy/claude-code-marketplace) | 5 | `main` | `.` | ✅ ok |  |
+| [Max-Levitskiy/skills](https://github.com/Max-Levitskiy/skills) | 5 | `main` | `.` | ✅ ok |  |
 | [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) | 3 | `main` | `plugins/claude/skills` | ✅ ok |  |
 | [maxbuildog/skills](https://github.com/maxbuildog/skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [MaxSchoon/ixbrl](https://github.com/MaxSchoon/ixbrl) | 0 | `main` | `.` | ✅ ok |  |
@@ -2133,7 +2133,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sapdev-ai/sap-dev](https://github.com/sapdev-ai/sap-dev) | 123 | `main` | `.` | ✅ ok |  |
 | [Sarakael78/Bridge-Search](https://github.com/Sarakael78/Bridge-Search) | 0 | `master` | `.` | ✅ ok |  |
 | [sasha-deneux/claude-skills-cre](https://github.com/sasha-deneux/claude-skills-cre) | 10 | `main` | `skills` | ✅ ok |  |
-| [SashaMarchuk/claude-plugins](https://github.com/SashaMarchuk/claude-plugins) | 42 | `main` | `.` | ✅ ok |  |
+| [SashaMarchuk/claude-plugins](https://github.com/SashaMarchuk/claude-plugins) | 43 | `main` | `.` | ✅ ok |  |
 | [satbirbhbc-ux/ai-coding-principles](https://github.com/satbirbhbc-ux/ai-coding-principles) | 2 | `main` | `.` | ✅ ok |  |
 | [sator-imaging/suggest-skills](https://github.com/sator-imaging/suggest-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [saurabhshuklagrowisto/saurabh-ai-systems](https://github.com/saurabhshuklagrowisto/saurabh-ai-systems) | 13 | `main` | `.` | ✅ ok |  |
