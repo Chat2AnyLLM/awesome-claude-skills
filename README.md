@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2866**
-- Discoverable skills: **114,428**
+- Discoverable skills: **114,435**
 - Healthy repos: **2785** · Truncated: **1** · Unavailable: **80**
-- Last updated: **2026-08-03 23:58 UTC**
+- Last updated: **2026-08-04 01:27 UTC**
 
 ## Source Catalog
 
@@ -618,7 +618,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [davidteren/intent-engineering](https://github.com/davidteren/intent-engineering) | 6 | `main` | `.` | ✅ ok |  |
 | [davidtheproduct/claude-ship-skills](https://github.com/davidtheproduct/claude-ship-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [davidvictor/slopspeare](https://github.com/davidvictor/slopspeare) | 2 | `main` | `.` | ✅ ok |  |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 895 | `main` | `.` | ✅ ok |  |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 896 | `main` | `.` | ✅ ok |  |
 | [davorrunje/honest-scholar](https://github.com/davorrunje/honest-scholar) | 11 | `main` | `skills` | ✅ ok |  |
 | [daxaur/hueristic](https://github.com/daxaur/hueristic) | 0 | `main` | `.` | ✅ ok |  |
 | [dayfinggg/claude-code-codex-skills](https://github.com/dayfinggg/claude-code-codex-skills) | 31 | `main` | `.` | ✅ ok |  |
@@ -1314,7 +1314,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kennguyen887/agent-foundation](https://github.com/kennguyen887/agent-foundation) | 32 | `main` | `skills` | ✅ ok |  |
 | [kennykankush/skillpack](https://github.com/kennykankush/skillpack) | 22 | `main` | `.` | ✅ ok |  |
 | [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) | 1 | `main` | `skills` | ✅ ok |  |
-| [kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji) | 110 | `main` | `skills` | ✅ ok |  |
+| [kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji) | 114 | `main` | `skills` | ✅ ok |  |
 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [KentQi/product-team-skill](https://github.com/KentQi/product-team-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
@@ -1479,7 +1479,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [louisdijkstra/claude-toolbox](https://github.com/louisdijkstra/claude-toolbox) | 39 | `main` | `skills` | ✅ ok |  |
 | [Louisedinky226/superstack](https://github.com/Louisedinky226/superstack) | 1 | `main` | `skills` | ✅ ok |  |
 | [Louishin/claude-api-cost-optimization](https://github.com/Louishin/claude-api-cost-optimization) | 0 | `main` | `.` | ✅ ok |  |
-| [louixs/onebreath](https://github.com/louixs/onebreath) | 2 | `main` | `skills` | ✅ ok |  |
+| [louixs/onebreath](https://github.com/louixs/onebreath) | 3 | `main` | `skills` | ✅ ok |  |
 | [LOVAHE/JustDoIt](https://github.com/LOVAHE/JustDoIt) | 1 | `main` | `skills` | ✅ ok |  |
 | [lucagattoni/TidyClaudeMD](https://github.com/lucagattoni/TidyClaudeMD) | 2 | `main` | `skills` | ✅ ok |  |
 | [ludeo-labs/cosmos-os](https://github.com/ludeo-labs/cosmos-os) | 4 | `main` | `.` | ✅ ok |  |
@@ -1618,7 +1618,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [miguel-herrero-systems/hrevn-surface-anthropic](https://github.com/miguel-herrero-systems/hrevn-surface-anthropic) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [Mikacr1138/claude-bug-bounty](https://github.com/Mikacr1138/claude-bug-bounty) | 7 | `main` | `skills` | ✅ ok |  |
 | [mikeprasad/aria-knowledge](https://github.com/mikeprasad/aria-knowledge) | 135 | `main` | `.` | ✅ ok |  |
-| [mikestankavich/claude-ship-workflow](https://github.com/mikestankavich/claude-ship-workflow) | 4 | `main` | `skills` | ✅ ok |  |
+| [mikestankavich/claude-ship-workflow](https://github.com/mikestankavich/claude-ship-workflow) | 5 | `main` | `skills` | ✅ ok |  |
 | [Mikhail-Za/Goalkeeper-Claude-skill](https://github.com/Mikhail-Za/Goalkeeper-Claude-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [MildlyMeticulous/shortlist](https://github.com/MildlyMeticulous/shortlist) | 2 | `main` | `skills` | ✅ ok |  |
 | [mimaowang/econ-compass](https://github.com/mimaowang/econ-compass) | 0 | `main` | `.` | ✅ ok |  |
