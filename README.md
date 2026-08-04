@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2944**
-- Discoverable skills: **115,034**
+- Discoverable skills: **115,037**
 - Healthy repos: **2860** · Truncated: **1** · Unavailable: **83**
-- Last updated: **2026-08-04 21:00 UTC**
+- Last updated: **2026-08-04 22:10 UTC**
 
 ## Source Catalog
 
@@ -1270,7 +1270,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jojoprison/mnemo](https://github.com/jojoprison/mnemo) | 7 | `main` | `.` | ✅ ok |  |
 | [jonaskahn/docforge](https://github.com/jonaskahn/docforge) | 3 | `main` | `skills` | ✅ ok |  |
 | [JonasR-Git/agent-council-cc](https://github.com/JonasR-Git/agent-council-cc) | 1 | `master` | `.` | ✅ ok |  |
-| [jonfazzaro/skills](https://github.com/jonfazzaro/skills) | 6 | `main` | `.` | ✅ ok |  |
+| [jonfazzaro/skills](https://github.com/jonfazzaro/skills) | 7 | `main` | `.` | ✅ ok |  |
 | [jongall45/frontrun-plugins](https://github.com/jongall45/frontrun-plugins) | 1 | `main` | `.` | ✅ ok |  |
 | [joomcode/joompulse-skills](https://github.com/joomcode/joompulse-skills) | 18 | `main` | `skills` | ✅ ok |  |
 | [JordanNewell/pat-scanner](https://github.com/JordanNewell/pat-scanner) | 0 | `master` | `.` | ✅ ok |  |
@@ -1627,7 +1627,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Max-Levitskiy/claude-code-marketplace](https://github.com/Max-Levitskiy/claude-code-marketplace) | 5 | `main` | `.` | ✅ ok |  |
 | [Max-Levitskiy/skills](https://github.com/Max-Levitskiy/skills) | 5 | `main` | `.` | ✅ ok |  |
 | [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) | 3 | `main` | `plugins/claude/skills` | ✅ ok |  |
-| [maxbuildog/skills](https://github.com/maxbuildog/skills) | 1 | `main` | `skills` | ✅ ok |  |
+| [maxbuildog/skills](https://github.com/maxbuildog/skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [MaxSchoon/ixbrl](https://github.com/MaxSchoon/ixbrl) | 0 | `main` | `.` | ✅ ok |  |
 | [maybe-qy/study-tracker](https://github.com/maybe-qy/study-tracker) | 1 | `main` | `.` | ✅ ok |  |
 | [mbackschat/a12-dmtool-releases](https://github.com/mbackschat/a12-dmtool-releases) | 4 | `main` | `.` | ✅ ok |  |
@@ -2585,7 +2585,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ttncode/unioss-plugins](https://github.com/ttncode/unioss-plugins) | 32 | `main` | `.` | ✅ ok |  |
 | [tuanle96/mcp-odoo](https://github.com/tuanle96/mcp-odoo) | 4 | `main` | `skills` | ✅ ok |  |
 | [tuannv0069/claude-doc-genome](https://github.com/tuannv0069/claude-doc-genome) | 4 | `main` | `skills` | ✅ ok |  |
-| [turntuptechnologies-ai/skills](https://github.com/turntuptechnologies-ai/skills) | 22 | `main` | `skills` | ✅ ok |  |
+| [turntuptechnologies-ai/skills](https://github.com/turntuptechnologies-ai/skills) | 23 | `main` | `skills` | ✅ ok |  |
 | [tutum-pro/archirules](https://github.com/tutum-pro/archirules) | 7 | `main` | `.` | ✅ ok |  |
 | [twisker/ipman](https://github.com/twisker/ipman) | 4 | `main` | `.` | ✅ ok |  |
 | [twominutereports/marketing-skills](https://github.com/twominutereports/marketing-skills) | 12 | `main` | `.` | ✅ ok |  |
