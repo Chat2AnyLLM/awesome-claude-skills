@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **2927**
-- Discoverable skills: **114,844**
+- Discoverable skills: **114,850**
 - Healthy repos: **2843** · Truncated: **1** · Unavailable: **83**
-- Last updated: **2026-08-04 17:28 UTC**
+- Last updated: **2026-08-04 19:17 UTC**
 
 ## Source Catalog
 
@@ -211,7 +211,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [alvarose/android-update-deps](https://github.com/alvarose/android-update-deps) | 0 | `main` | `.` | ✅ ok |  |
 | [alvis-HaoH/gkd](https://github.com/alvis-HaoH/gkd) | 0 | `main` | `skills` | ✅ ok |  |
 | [ambystechcom/AmbyKit](https://github.com/ambystechcom/AmbyKit) | 9 | `main` | `.` | ✅ ok |  |
-| [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 10 | `master` | `skills` | ✅ ok |  |
+| [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) | 11 | `master` | `skills` | ✅ ok |  |
 | [Amey-Thakur/AI-SKILLS](https://github.com/Amey-Thakur/AI-SKILLS) | 1,000 | `main` | `skills` | ✅ ok |  |
 | [amjad1233/claude-skills](https://github.com/amjad1233/claude-skills) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [AnaCataVC/amiga-ia](https://github.com/AnaCataVC/amiga-ia) | 21 | `main` | `skills` | ✅ ok |  |
@@ -990,8 +990,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [halflength-ampleness75/claude-code-recipes](https://github.com/halflength-ampleness75/claude-code-recipes) | 5 | `main` | `skills` | ✅ ok |  |
 | [hamza-ali-shahjahan/hamzaish](https://github.com/hamza-ali-shahjahan/hamzaish) | 117 | `main` | `.` | ✅ ok |  |
 | [hamzhk15/tenable-sc-reporting-assistant](https://github.com/hamzhk15/tenable-sc-reporting-assistant) | 0 | `main` | `skills` | ✅ ok |  |
-| [handcraftedbygod/Skill-Sentinel](https://github.com/handcraftedbygod/Skill-Sentinel) | 7 | `main` | `.` | ✅ ok |  |
-| [handcraftedbygod/SkillTrace](https://github.com/handcraftedbygod/SkillTrace) | 7 | `main` | `.` | ✅ ok |  |
+| [handcraftedbygod/Skill-Sentinel](https://github.com/handcraftedbygod/Skill-Sentinel) | 8 | `main` | `.` | ✅ ok |  |
+| [handcraftedbygod/SkillTrace](https://github.com/handcraftedbygod/SkillTrace) | 8 | `main` | `.` | ✅ ok |  |
 | [handsomeZR-netizen/mathmodel-skill](https://github.com/handsomeZR-netizen/mathmodel-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [hannsxpeter/codedna](https://github.com/hannsxpeter/codedna) | 1 | `main` | `.` | ✅ ok |  |
 | [hannsxpeter/godaudits](https://github.com/hannsxpeter/godaudits) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1259,9 +1259,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jojoprison/mnemo](https://github.com/jojoprison/mnemo) | 7 | `main` | `.` | ✅ ok |  |
 | [jonaskahn/docforge](https://github.com/jonaskahn/docforge) | 3 | `main` | `skills` | ✅ ok |  |
 | [JonasR-Git/agent-council-cc](https://github.com/JonasR-Git/agent-council-cc) | 1 | `master` | `.` | ✅ ok |  |
-| [jonfazzaro/skills](https://github.com/jonfazzaro/skills) | 5 | `main` | `.` | ✅ ok |  |
+| [jonfazzaro/skills](https://github.com/jonfazzaro/skills) | 6 | `main` | `.` | ✅ ok |  |
 | [jongall45/frontrun-plugins](https://github.com/jongall45/frontrun-plugins) | 1 | `main` | `.` | ✅ ok |  |
-| [joomcode/joompulse-skills](https://github.com/joomcode/joompulse-skills) | 17 | `main` | `skills` | ✅ ok |  |
+| [joomcode/joompulse-skills](https://github.com/joomcode/joompulse-skills) | 18 | `main` | `skills` | ✅ ok |  |
 | [JordanNewell/pat-scanner](https://github.com/JordanNewell/pat-scanner) | 0 | `master` | `.` | ✅ ok |  |
 | [jordantplows/STARTUP-OS.MD](https://github.com/jordantplows/STARTUP-OS.MD) | 2 | `main` | `.claude/skills` | ✅ ok |  |
 | [Jose-Ribeir/claude-code-review-gate](https://github.com/Jose-Ribeir/claude-code-review-gate) | 1 | `main` | `skills` | ✅ ok |  |
@@ -2404,7 +2404,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [stgomoyaa/firma](https://github.com/stgomoyaa/firma) | 1 | `main` | `skills` | ✅ ok |  |
 | [StielChancellor/VibeGod-Tech-Team](https://github.com/StielChancellor/VibeGod-Tech-Team) | 53 | `main` | `.` | ✅ ok |  |
 | [Stoica-Mihai/claude-skills](https://github.com/Stoica-Mihai/claude-skills) | 14 | `main` | `.` | ✅ ok |  |
-| [storehand/storehand](https://github.com/storehand/storehand) | 4 | `main` | `skills` | ✅ ok |  |
+| [storehand/storehand](https://github.com/storehand/storehand) | 5 | `main` | `skills` | ✅ ok |  |
 | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 1 | `main` | `.` | ✅ ok |  |
 | [stotihv/skills](https://github.com/stotihv/skills) | 10 | `main` | `.` | ✅ ok |  |
 | [Studio-Moser/skills-n-stuff](https://github.com/Studio-Moser/skills-n-stuff) | 19 | `main` | `.` | ✅ ok |  |
