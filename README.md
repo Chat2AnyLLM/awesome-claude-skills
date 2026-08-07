@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3086**
-- Discoverable skills: **117,712**
+- Discoverable skills: **117,723**
 - Healthy repos: **3001** · Truncated: **1** · Unavailable: **84**
-- Last updated: **2026-08-07 14:05 UTC**
+- Last updated: **2026-08-07 15:43 UTC**
 
 ## Source Catalog
 
@@ -157,7 +157,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [AIPMAndy/andy-product-skill](https://github.com/AIPMAndy/andy-product-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,601 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,602 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -843,7 +843,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [emircbngl/claude-skills](https://github.com/emircbngl/claude-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [Empire-Business/omnx-code](https://github.com/Empire-Business/omnx-code) | 0 | `main` | `.` | ✅ ok |  |
 | [emrecdr/devt](https://github.com/emrecdr/devt) | 17 | `main` | `skills` | ✅ ok |  |
-| [enalbenerraw/blanewarrene](https://github.com/enalbenerraw/blanewarrene) | 6 | `main` | `.` | ✅ ok |  |
+| [enalbenerraw/blanewarrene](https://github.com/enalbenerraw/blanewarrene) | 10 | `main` | `.` | ✅ ok |  |
 | [Endika/eskills](https://github.com/Endika/eskills) | 14 | `main` | `skills` | ✅ ok |  |
 | [endorphin-ai/hasbrains-agent-kit](https://github.com/endorphin-ai/hasbrains-agent-kit) | 12 | `main` | `.` | ✅ ok |  |
 | [ENEmyr/brief](https://github.com/ENEmyr/brief) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1160,7 +1160,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru) | 34 | `main` | `.` | ✅ ok |  |
 | [immacualate/claude-forge](https://github.com/immacualate/claude-forge) | 15 | `main` | `skills` | ✅ ok |  |
 | [imMamdouhaboammar/conversion-copywriting-engine](https://github.com/imMamdouhaboammar/conversion-copywriting-engine) | 3 | `main` | `.` | ✅ ok |  |
-| [imMamdouhaboammar/linkedin-animated-infographics](https://github.com/imMamdouhaboammar/linkedin-animated-infographics) | 11 | `main` | `skills` | ✅ ok |  |
+| [imMamdouhaboammar/linkedin-animated-infographics](https://github.com/imMamdouhaboammar/linkedin-animated-infographics) | 12 | `main` | `skills` | ✅ ok |  |
 | [imMamdouhaboammar/vibe-svgs](https://github.com/imMamdouhaboammar/vibe-svgs) | 3 | `main` | `.` | ✅ ok |  |
 | [immigration2000/unreal-mcp-kit](https://github.com/immigration2000/unreal-mcp-kit) | 3 | `main` | `.` | ✅ ok |  |
 | [impravin22/my-claude-maestro](https://github.com/impravin22/my-claude-maestro) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1264,7 +1264,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jhlee0409/omni-harness-kit](https://github.com/jhlee0409/omni-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
 | [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 32 | `main` | `skills` | ✅ ok |  |
 | [ji-in-loop/nohello](https://github.com/ji-in-loop/nohello) | 1 | `main` | `skills` | ✅ ok |  |
-| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 35 | `main` | `.` | ✅ ok |  |
+| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 36 | `main` | `.` | ✅ ok |  |
 | [JiaWeiXie/swarm-pi-code-plugin](https://github.com/JiaWeiXie/swarm-pi-code-plugin) | 10 | `main` | `.` | ✅ ok |  |
 | [jiayi-ThE-CREATOR/es-coach-skills](https://github.com/jiayi-ThE-CREATOR/es-coach-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [jiayou20021120-afk/paper-conductor](https://github.com/jiayou20021120-afk/paper-conductor) | 0 | `main` | `.` | ✅ ok |  |
@@ -1765,7 +1765,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Mikhail-Za/Goalkeeper-Claude-skill](https://github.com/Mikhail-Za/Goalkeeper-Claude-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [MildlyMeticulous/shortlist](https://github.com/MildlyMeticulous/shortlist) | 2 | `main` | `skills` | ✅ ok |  |
 | [mimaowang/econ-compass](https://github.com/mimaowang/econ-compass) | 0 | `main` | `.` | ✅ ok |  |
-| [mimukit/skills](https://github.com/mimukit/skills) | 25 | `main` | `skills` | ✅ ok |  |
+| [mimukit/skills](https://github.com/mimukit/skills) | 26 | `main` | `skills` | ✅ ok |  |
 | [minamagdyyyy/agentic-marketing](https://github.com/minamagdyyyy/agentic-marketing) | 21 | `master` | `skills` | ✅ ok |  |
 | [minhbi245/grok-plugin-cc](https://github.com/minhbi245/grok-plugin-cc) | 1 | `main` | `.` | ✅ ok |  |
 | [minjun0219/rocky](https://github.com/minjun0219/rocky) | 2 | `main` | `skills` | ✅ ok |  |
@@ -2176,7 +2176,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [qwwiwi/dashi-plugin-claude-code](https://github.com/qwwiwi/dashi-plugin-claude-code) | 1 | `main` | `skills` | ✅ ok |  |
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 16 | `main` | `.` | ✅ ok |  |
 | [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 102 | `main` | `.` | ✅ ok |  |
-| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 224 | `main` | `.` | ✅ ok |  |
+| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 225 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafael-adcp/kraken](https://github.com/rafael-adcp/kraken) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafaelnasch/branding-growai](https://github.com/rafaelnasch/branding-growai) | 0 | `main` | `.` | ✅ ok |  |
@@ -2485,7 +2485,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sociilabs/claude-content-writer](https://github.com/sociilabs/claude-content-writer) | 0 | `master` | `.` | ✅ ok |  |
 | [sodam-ai/business-counselor](https://github.com/sodam-ai/business-counselor) | 6 | `main` | `skills` | ✅ ok |  |
 | [sodam-ai/SoDam-Persona](https://github.com/sodam-ai/SoDam-Persona) | 7 | `main` | `.` | ✅ ok |  |
-| [soden46/syarif-laravel-ai-skills](https://github.com/soden46/syarif-laravel-ai-skills) | 71 | `main` | `skills` | ✅ ok |  |
+| [soden46/syarif-laravel-ai-skills](https://github.com/soden46/syarif-laravel-ai-skills) | 72 | `main` | `skills` | ✅ ok |  |
 | [softcane/human-state-skills](https://github.com/softcane/human-state-skills) | 10 | `main` | `.` | ✅ ok |  |
 | [softwareone-platform/issue-to-pr](https://github.com/softwareone-platform/issue-to-pr) | 14 | `main` | `.` | ✅ ok |  |
 | [softwaresoftware-dev/claude-browser-bridge](https://github.com/softwaresoftware-dev/claude-browser-bridge) | 2 | `main` | `skills` | ✅ ok |  |
@@ -2545,7 +2545,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [stevederico/video-understanding](https://github.com/stevederico/video-understanding) | 0 | `master` | `.` | ✅ ok |  |
 | [stgomoyaa/firma](https://github.com/stgomoyaa/firma) | 1 | `main` | `skills` | ✅ ok |  |
 | [StielChancellor/VibeGod-Tech-Team](https://github.com/StielChancellor/VibeGod-Tech-Team) | 53 | `main` | `.` | ✅ ok |  |
-| [Stoica-Mihai/claude-skills](https://github.com/Stoica-Mihai/claude-skills) | 15 | `main` | `.` | ✅ ok |  |
+| [Stoica-Mihai/claude-skills](https://github.com/Stoica-Mihai/claude-skills) | 16 | `main` | `.` | ✅ ok |  |
 | [storehand/storehand](https://github.com/storehand/storehand) | 6 | `main` | `skills` | ✅ ok |  |
 | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 1 | `main` | `.` | ✅ ok |  |
 | [stotihv/skills](https://github.com/stotihv/skills) | 10 | `main` | `.` | ✅ ok |  |
