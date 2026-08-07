@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3076**
-- Discoverable skills: **117,248**
-- Healthy repos: **2991** · Truncated: **1** · Unavailable: **84**
-- Last updated: **2026-08-07 08:04 UTC**
+- Discoverable skills: **117,250**
+- Healthy repos: **2990** · Truncated: **1** · Unavailable: **85**
+- Last updated: **2026-08-07 09:49 UTC**
 
 ## Source Catalog
 
@@ -156,7 +156,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [aihunt-ttg/client-safe-sweep](https://github.com/aihunt-ttg/client-safe-sweep) | 1 | `main` | `.` | ✅ ok |  |
 | [AIPMAndy/andy-product-skill](https://github.com/AIPMAndy/andy-product-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,600 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,601 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -211,7 +211,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [AllanOps/Clean-Backend](https://github.com/AllanOps/Clean-Backend) | 1 | `main` | `skills` | ✅ ok |  |
 | [alncat/opus-et-agent](https://github.com/alncat/opus-et-agent) | 4 | `main` | `.` | ✅ ok |  |
 | [alo-exp/multai](https://github.com/alo-exp/multai) | 6 | `main` | `skills` | ✅ ok |  |
-| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 0 | `main` | `.` | ✅ ok |  |
 | [AlpacaLabsLLC/skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects) | 50 | `main` | `skills` | ✅ ok |  |
 | [alper-dev/build-for-good-ux-skill](https://github.com/alper-dev/build-for-good-ux-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ALQ78/skill-framadate](https://github.com/ALQ78/skill-framadate) | 1 | `main` | `.` | ✅ ok |  |
@@ -301,7 +300,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [archubbuck/workspace-architect](https://github.com/archubbuck/workspace-architect) | 31 | `main` | `.` | ✅ ok |  |
 | [argent-gnome/sdlc-skills](https://github.com/argent-gnome/sdlc-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [argorixlabs/argorix-build-skill](https://github.com/argorixlabs/argorix-build-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [ArieGoldkin/claude-forge](https://github.com/ArieGoldkin/claude-forge) | 114 | `main` | `.` | ✅ ok |  |
+| [ArieGoldkin/claude-forge](https://github.com/ArieGoldkin/claude-forge) | 115 | `main` | `.` | ✅ ok |  |
 | [Arindaag760/humanizer-cli](https://github.com/Arindaag760/humanizer-cli) | 0 | `main` | `.` | ✅ ok |  |
 | [arndvs/ctrlshft](https://github.com/arndvs/ctrlshft) | 32 | `main` | `skills` | ✅ ok |  |
 | [arome3/arnen-blog-illustration](https://github.com/arome3/arnen-blog-illustration) | 0 | `main` | `.` | ✅ ok |  |
@@ -3008,6 +3007,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [adrianpuiu/claude-skills-marketplace](https://github.com/adrianpuiu/claude-skills-marketplace) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [AgenticPW/AgenticPW](https://github.com/AgenticPW/AgenticPW) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
 | [alikmlsipahi/youtube-to-spec](https://github.com/alikmlsipahi/youtube-to-spec) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
+| [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [anchit-choudhry/gryffin-calorai](https://github.com/anchit-choudhry/gryffin-calorai) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [anhermon/claude-public](https://github.com/anhermon/claude-public) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [antvis/Infographic](https://github.com/antvis/Infographic) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
