@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3086**
-- Discoverable skills: **117,757**
+- Discoverable skills: **117,759**
 - Healthy repos: **3001** · Truncated: **1** · Unavailable: **84**
-- Last updated: **2026-08-07 17:39 UTC**
+- Last updated: **2026-08-07 18:37 UTC**
 
 ## Source Catalog
 
@@ -1251,7 +1251,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jdanigo/hydraia](https://github.com/jdanigo/hydraia) | 46 | `main` | `skills` | ✅ ok |  |
 | [jdepew88/Ralphifier](https://github.com/jdepew88/Ralphifier) | 2 | `main` | `.` | ✅ ok |  |
 | [JEFF7712/nix-agent](https://github.com/JEFF7712/nix-agent) | 2 | `main` | `skills` | ✅ ok |  |
-| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 | `main` | `.` | ✅ ok |  |
+| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 67 | `main` | `.` | ✅ ok |  |
 | [jeltehomminga/figma-design-skills](https://github.com/jeltehomminga/figma-design-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [jeongph/pdf-scan-audit](https://github.com/jeongph/pdf-scan-audit) | 1 | `main` | `skills` | ✅ ok |  |
 | [JeonKH81/MediStat-EDA](https://github.com/JeonKH81/MediStat-EDA) | 0 | `main` | `.` | ✅ ok |  |
@@ -1708,7 +1708,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [matt-ye/Pack-and-Ship](https://github.com/matt-ye/Pack-and-Ship) | 0 | `main` | `.` | ✅ ok |  |
 | [matt-ye/Toutour](https://github.com/matt-ye/Toutour) | 0 | `main` | `.` | ✅ ok |  |
 | [matteotitta/claude-code-marketing-quickstart](https://github.com/matteotitta/claude-code-marketing-quickstart) | 11 | `main` | `.claude/skills` | ✅ ok |  |
-| [matthews-wong/claude-code-plugins](https://github.com/matthews-wong/claude-code-plugins) | 62 | `main` | `.` | ✅ ok |  |
+| [matthews-wong/claude-code-plugins](https://github.com/matthews-wong/claude-code-plugins) | 63 | `main` | `.` | ✅ ok |  |
 | [Matthewyin/CustomSkills](https://github.com/Matthewyin/CustomSkills) | 2 | `main` | `skills` | ✅ ok |  |
 | [maun11/raise-my-dr](https://github.com/maun11/raise-my-dr) | 0 | `main` | `.` | ✅ ok |  |
 | [Mavens-Tech-Lab/skills](https://github.com/Mavens-Tech-Lab/skills) | 3 | `main` | `.` | ✅ ok |  |
