@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3153**
-- Discoverable skills: **118,199**
+- Discoverable skills: **118,311**
 - Healthy repos: **3069** · Truncated: **1** · Unavailable: **83**
-- Last updated: **2026-08-08 15:18 UTC**
+- Last updated: **2026-08-08 16:19 UTC**
 
 ## Source Catalog
 
@@ -518,7 +518,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [cerebrocybersolutions/libro](https://github.com/cerebrocybersolutions/libro) | 10 | `main` | `skills` | ✅ ok |  |
 | [cerint/CareerForge](https://github.com/cerint/CareerForge) | 3 | `main` | `.` | ✅ ok |  |
 | [CesiumGS/cesiumjs-skills](https://github.com/CesiumGS/cesiumjs-skills) | 15 | `main` | `skills` | ✅ ok |  |
-| [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) | 130 | `main` | `.` | ✅ ok |  |
+| [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness) | 244 | `main` | `.` | ✅ ok |  |
 | [ch015/code-pentester](https://github.com/ch015/code-pentester) | 6 | `main` | `skills` | ✅ ok |  |
 | [chacheum/chageun](https://github.com/chacheum/chageun) | 36 | `main` | `.` | ✅ ok |  |
 | [chafoo/anchored](https://github.com/chafoo/anchored) | 2 | `main` | `.` | ✅ ok |  |
@@ -2202,7 +2202,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [pyqcm-project/pyqcm-skill](https://github.com/pyqcm-project/pyqcm-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Pyroxin/opinionated-claude-skills](https://github.com/Pyroxin/opinionated-claude-skills) | 19 | `main` | `.` | ✅ ok |  |
 | [Pythoughts-labs/claude-architect](https://github.com/Pythoughts-labs/claude-architect) | 3 | `main` | `skills` | ✅ ok |  |
-| [QAIA-Project/QAIA](https://github.com/QAIA-Project/QAIA) | 37 | `main` | `.` | ✅ ok |  |
+| [QAIA-Project/QAIA](https://github.com/QAIA-Project/QAIA) | 39 | `main` | `.` | ✅ ok |  |
 | [qiaeru/skill-prose-francaise](https://github.com/qiaeru/skill-prose-francaise) | 1 | `main` | `skills` | ✅ ok |  |
 | [qiaeru/skills-github](https://github.com/qiaeru/skills-github) | 3 | `main` | `skills` | ✅ ok |  |
 | [qiankunli/devloop](https://github.com/qiankunli/devloop) | 7 | `main` | `.` | ✅ ok |  |
@@ -2383,7 +2383,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [scagogogo/mvn-skills](https://github.com/scagogogo/mvn-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [scagogogo/versions-skills](https://github.com/scagogogo/versions-skills) | 14 | `main` | `skills` | ✅ ok |  |
-| [scdenney/open-science-skills](https://github.com/scdenney/open-science-skills) | 80 | `main` | `.` | ✅ ok |  |
+| [scdenney/open-science-skills](https://github.com/scdenney/open-science-skills) | 76 | `main` | `.` | ✅ ok |  |
 | [Schmandarine/web-motion-skill](https://github.com/Schmandarine/web-motion-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [schmug/clodcast](https://github.com/schmug/clodcast) | 1 | `main` | `skills` | ✅ ok |  |
 | [ScienceIsNeato/slop-mop](https://github.com/ScienceIsNeato/slop-mop) | 4 | `main` | `.` | ✅ ok |  |
