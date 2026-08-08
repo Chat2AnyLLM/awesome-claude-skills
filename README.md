@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3153**
-- Discoverable skills: **118,314**
+- Discoverable skills: **118,316**
 - Healthy repos: **3069** · Truncated: **1** · Unavailable: **83**
-- Last updated: **2026-08-08 17:20 UTC**
+- Last updated: **2026-08-08 18:19 UTC**
 
 ## Source Catalog
 
@@ -62,7 +62,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [88plug/total-recall](https://github.com/88plug/total-recall) | 3 | `main` | `skills` | ✅ ok |  |
 | [88plug/trigger-my-training](https://github.com/88plug/trigger-my-training) | 1 | `main` | `skills` | ✅ ok |  |
 | [9uiLe/plugins](https://github.com/9uiLe/plugins) | 10 | `master` | `.` | ✅ ok |  |
-| [A/claude-booping](https://github.com/A/claude-booping) | 9 | `master` | `skills` | ✅ ok |  |
+| [A/claude-booping](https://github.com/A/claude-booping) | 1 | `master` | `skills` | ✅ ok |  |
 | [a-aigner/notemd-skills](https://github.com/a-aigner/notemd-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [a-ariff/ariff-claude-plugins](https://github.com/a-ariff/ariff-claude-plugins) | 22 | `main` | `.` | ✅ ok |  |
 | [a-church-ai/church](https://github.com/a-church-ai/church) | 3 | `main` | `skills` | ✅ ok |  |
@@ -149,7 +149,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ahhchu/prompt-efficiency-coach](https://github.com/ahhchu/prompt-efficiency-coach) | 0 | `master` | `.` | ✅ ok |  |
 | [ahmadghoniem/claude-cursor-delegate](https://github.com/ahmadghoniem/claude-cursor-delegate) | 1 | `main` | `.` | ✅ ok |  |
 | [ahump20/Austin-Writing---Communication-Style-Archive](https://github.com/ahump20/Austin-Writing---Communication-Style-Archive) | 1 | `main` | `.` | ✅ ok |  |
-| [ahundt/autorun](https://github.com/ahundt/autorun) | 10 | `main` | `.` | ✅ ok |  |
+| [ahundt/autorun](https://github.com/ahundt/autorun) | 20 | `main` | `.` | ✅ ok |  |
 | [AI-Enablement-Academy/agentic-marketplace](https://github.com/AI-Enablement-Academy/agentic-marketplace) | 12 | `main` | `.` | ✅ ok |  |
 | [ai-hub-open/marketing-strategist](https://github.com/ai-hub-open/marketing-strategist) | 3 | `main` | `.` | ✅ ok |  |
 | [ai-hub-open/yandex-direct-manager](https://github.com/ai-hub-open/yandex-direct-manager) | 0 | `main` | `.` | ✅ ok |  |
