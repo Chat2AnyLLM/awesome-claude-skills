@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3153**
-- Discoverable skills: **118,311**
+- Discoverable skills: **118,314**
 - Healthy repos: **3069** · Truncated: **1** · Unavailable: **83**
-- Last updated: **2026-08-08 16:19 UTC**
+- Last updated: **2026-08-08 17:20 UTC**
 
 ## Source Catalog
 
@@ -2202,7 +2202,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [pyqcm-project/pyqcm-skill](https://github.com/pyqcm-project/pyqcm-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Pyroxin/opinionated-claude-skills](https://github.com/Pyroxin/opinionated-claude-skills) | 19 | `main` | `.` | ✅ ok |  |
 | [Pythoughts-labs/claude-architect](https://github.com/Pythoughts-labs/claude-architect) | 3 | `main` | `skills` | ✅ ok |  |
-| [QAIA-Project/QAIA](https://github.com/QAIA-Project/QAIA) | 39 | `main` | `.` | ✅ ok |  |
+| [QAIA-Project/QAIA](https://github.com/QAIA-Project/QAIA) | 42 | `main` | `.` | ✅ ok |  |
 | [qiaeru/skill-prose-francaise](https://github.com/qiaeru/skill-prose-francaise) | 1 | `main` | `skills` | ✅ ok |  |
 | [qiaeru/skills-github](https://github.com/qiaeru/skills-github) | 3 | `main` | `skills` | ✅ ok |  |
 | [qiankunli/devloop](https://github.com/qiankunli/devloop) | 7 | `main` | `.` | ✅ ok |  |
