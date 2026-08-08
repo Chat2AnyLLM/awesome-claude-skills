@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3122**
-- Discoverable skills: **118,017**
+- Discoverable skills: **118,022**
 - Healthy repos: **3038** · Truncated: **1** · Unavailable: **83**
-- Last updated: **2026-08-08 04:02 UTC**
+- Last updated: **2026-08-08 05:34 UTC**
 
 ## Source Catalog
 
@@ -779,7 +779,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [domengabrovsek/claude](https://github.com/domengabrovsek/claude) | 27 | `main` | `skills` | ✅ ok |  |
 | [domenicdgenovese/pocket-terminal](https://github.com/domenicdgenovese/pocket-terminal) | 0 | `main` | `.` | ✅ ok |  |
 | [dominikwozniak/dw-solo-skills](https://github.com/dominikwozniak/dw-solo-skills) | 11 | `main` | `skills` | ✅ ok |  |
-| [donald-ada/workinggenius](https://github.com/donald-ada/workinggenius) | 12 | `main` | `skills` | ✅ ok |  |
+| [donald-ada/workinggenius](https://github.com/donald-ada/workinggenius) | 13 | `main` | `skills` | ✅ ok |  |
 | [donatassimkus/claude-ai-skills](https://github.com/donatassimkus/claude-ai-skills) | 61 | `main` | `skills` | ✅ ok |  |
 | [dongzhigang13305312738-art/paper-skills](https://github.com/dongzhigang13305312738-art/paper-skills) | 124 | `main` | `.` | ✅ ok |  |
 | [doodledood/manifest-dev](https://github.com/doodledood/manifest-dev) | 88 | `main` | `.` | ✅ ok |  |
@@ -943,7 +943,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [FrkAk/piyaz](https://github.com/FrkAk/piyaz) | 32 | `main` | `.` | ✅ ok |  |
 | [fruafr/skills](https://github.com/fruafr/skills) | 3 | `main` | `.` | ✅ ok |  |
 | [fseixas/super-geo-agent-readiness](https://github.com/fseixas/super-geo-agent-readiness) | 1 | `main` | `.` | ✅ ok |  |
-| [fullymiddleaged/Clawness](https://github.com/fullymiddleaged/Clawness) | 7 | `main` | `skills` | ✅ ok |  |
+| [fullymiddleaged/Clawness](https://github.com/fullymiddleaged/Clawness) | 9 | `main` | `skills` | ✅ ok |  |
 | [Fundryi/claude-codex-handoff](https://github.com/Fundryi/claude-codex-handoff) | 4 | `main` | `.` | ✅ ok |  |
 | [furkancingoz/aso-skill](https://github.com/furkancingoz/aso-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [fusedio/skills](https://github.com/fusedio/skills) | 18 | `main` | `.` | ✅ ok |  |
@@ -2072,7 +2072,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [pamelaaaaa1218/gongwen-format-skill](https://github.com/pamelaaaaa1218/gongwen-format-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [panbanda/omen](https://github.com/panbanda/omen) | 13 | `main` | `.` | ✅ ok |  |
 | [PangenomeAI/academic-skills-food-nutrition](https://github.com/PangenomeAI/academic-skills-food-nutrition) | 38 | `main` | `.` | ✅ ok |  |
-| [PANGKAIFENG/ai-product-manager-skills](https://github.com/PANGKAIFENG/ai-product-manager-skills) | 13 | `main` | `skills` | ✅ ok |  |
+| [PANGKAIFENG/ai-product-manager-skills](https://github.com/PANGKAIFENG/ai-product-manager-skills) | 15 | `main` | `skills` | ✅ ok |  |
 | [paniolo-ai/scan](https://github.com/paniolo-ai/scan) | 2 | `main` | `.` | ✅ ok |  |
 | [papanito/ai-skills](https://github.com/papanito/ai-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [PaperasseAI/demarches-skills](https://github.com/PaperasseAI/demarches-skills) | 0 | `main` | `.` | ✅ ok |  |
