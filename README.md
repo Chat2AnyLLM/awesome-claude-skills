@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3192**
-- Discoverable skills: **118,932**
+- Discoverable skills: **118,936**
 - Healthy repos: **3104** · Truncated: **1** · Unavailable: **87**
-- Last updated: **2026-08-09 17:22 UTC**
+- Last updated: **2026-08-09 18:23 UTC**
 
 ## Source Catalog
 
@@ -1053,7 +1053,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 11 | `main` | `.` | ✅ ok |  |
 | [GRU-953/GRU953-Studio](https://github.com/GRU-953/GRU953-Studio) | 35 | `main` | `.` | ✅ ok |  |
 | [gtapps/claude-code-hermit](https://github.com/gtapps/claude-code-hermit) | 94 | `main` | `.` | ✅ ok |  |
-| [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 33 | `main` | `skills` | ✅ ok |  |
+| [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 35 | `main` | `skills` | ✅ ok |  |
 | [guhcostan/claude-mega-brain](https://github.com/guhcostan/claude-mega-brain) | 4 | `main` | `skills` | ✅ ok |  |
 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 5 | `main` | `.` | ✅ ok |  |
 | [guilherme-iaparaagronomos/skills-agro](https://github.com/guilherme-iaparaagronomos/skills-agro) | 3 | `main` | `.` | ✅ ok |  |
@@ -1069,7 +1069,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [h3nryprod01/design-taste](https://github.com/h3nryprod01/design-taste) | 0 | `main` | `.` | ✅ ok |  |
 | [haabe/mycelium](https://github.com/haabe/mycelium) | 82 | `main` | `.` | ✅ ok |  |
 | [habibbedawi/claude-code-tips](https://github.com/habibbedawi/claude-code-tips) | 1 | `main` | `.` | ✅ ok |  |
-| [Habitat-Thinking/ai-literacy-superpowers](https://github.com/Habitat-Thinking/ai-literacy-superpowers) | 38 | `main` | `.` | ✅ ok |  |
+| [Habitat-Thinking/ai-literacy-superpowers](https://github.com/Habitat-Thinking/ai-literacy-superpowers) | 39 | `main` | `.` | ✅ ok |  |
 | [hacka0wi/IBN5100](https://github.com/hacka0wi/IBN5100) | 1 | `main` | `.` | ✅ ok |  |
 | [hackermanishackerman/claude-skills-vault](https://github.com/hackermanishackerman/claude-skills-vault) | 23 | `main` | `.claude/skills` | ✅ ok |  |
 | [hah23255/adb-android-control](https://github.com/hah23255/adb-android-control) | 0 | `main` | `.` | ✅ ok |  |
@@ -2678,7 +2678,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sxhmilyoyo/sundayhao-plugins](https://github.com/sxhmilyoyo/sundayhao-plugins) | 5 | `main` | `.` | ✅ ok |  |
 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) | 20 | `main` | `.claude/skills` | ✅ ok |  |
 | [Sylad/claude-code-codex](https://github.com/Sylad/claude-code-codex) | 6 | `main` | `.claude/skills` | ✅ ok |  |
-| [SylphxAI/skills](https://github.com/SylphxAI/skills) | 57 | `main` | `skills` | ✅ ok |  |
+| [SylphxAI/skills](https://github.com/SylphxAI/skills) | 58 | `main` | `skills` | ✅ ok |  |
 | [synaptiai/synapti-marketplace](https://github.com/synaptiai/synapti-marketplace) | 71 | `main` | `.` | ✅ ok |  |
 | [sysCat64/md-to-html](https://github.com/sysCat64/md-to-html) | 1 | `main` | `skills` | ✅ ok |  |
 | [t1/tdder](https://github.com/t1/tdder) | 14 | `trunk` | `skills` | ✅ ok |  |
