@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3192**
-- Discoverable skills: **118,814**
+- Discoverable skills: **118,944**
 - Healthy repos: **3105** · Truncated: **1** · Unavailable: **86**
-- Last updated: **2026-08-09 15:21 UTC**
+- Last updated: **2026-08-09 16:21 UTC**
 
 ## Source Catalog
 
@@ -415,7 +415,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [berrydev-ai/skills](https://github.com/berrydev-ai/skills) | 8 | `main` | `.` | ✅ ok |  |
 | [bertbertov/claude-stack](https://github.com/bertbertov/claude-stack) | 157 | `main` | `skills` | ✅ ok |  |
 | [bertrand-do/ai-photography-accuracy](https://github.com/bertrand-do/ai-photography-accuracy) | 0 | `main` | `.` | ✅ ok |  |
-| [bestdeejay-design/agent-skills](https://github.com/bestdeejay-design/agent-skills) | 24 | `main` | `skills` | ✅ ok |  |
+| [bestdeejay-design/agent-skills](https://github.com/bestdeejay-design/agent-skills) | 28 | `main` | `skills` | ✅ ok |  |
 | [betmoar/cc-proxy-plugin](https://github.com/betmoar/cc-proxy-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [betmoar/cc-status-plugin](https://github.com/betmoar/cc-status-plugin) | 2 | `main` | `skills` | ✅ ok |  |
 | [beydemirfurkan/appstore-release](https://github.com/beydemirfurkan/appstore-release) | 1 | `main` | `skills` | ✅ ok |  |
@@ -2554,7 +2554,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [smixs/mentor](https://github.com/smixs/mentor) | 1 | `main` | `.` | ✅ ok |  |
 | [smixs/skill-conductor](https://github.com/smixs/skill-conductor) | 1 | `main` | `skills` | ✅ ok |  |
 | [smixs/visual-skills](https://github.com/smixs/visual-skills) | 2 | `main` | `.` | ✅ ok |  |
-| [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 27 | `main` | `.` | ✅ ok |  |
+| [smk-labs/claude-plugins](https://github.com/smk-labs/claude-plugins) | 28 | `main` | `.` | ✅ ok |  |
 | [smykla-skalski/sai](https://github.com/smykla-skalski/sai) | 42 | `main` | `.` | ✅ ok |  |
 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 58 | `main` | `Skills` | ✅ ok |  |
 | [sneg55/agent-starter](https://github.com/sneg55/agent-starter) | 8 | `main` | `skills` | ✅ ok |  |
@@ -2949,7 +2949,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [wizzy15/obsidian-skill](https://github.com/wizzy15/obsidian-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Wolfe-Jam/faf-skills](https://github.com/Wolfe-Jam/faf-skills) | 7 | `main` | `skills` | ✅ ok |  |
 | [Wolfgangrush/indian-hc-drafting-litigation](https://github.com/Wolfgangrush/indian-hc-drafting-litigation) | 15 | `main` | `skills` | ✅ ok |  |
-| [wondelai/skills](https://github.com/wondelai/skills) | 62 | `main` | `.` | ✅ ok |  |
+| [wondelai/skills](https://github.com/wondelai/skills) | 187 | `main` | `.` | ✅ ok |  |
 | [woodfantasy/Seedance-ShotDesign-Skills](https://github.com/woodfantasy/Seedance-ShotDesign-Skills) | 0 | `main` | `.` | ✅ ok |  |
 | [woodfantasy/Seedance2.0-ShotDesign-Skills](https://github.com/woodfantasy/Seedance2.0-ShotDesign-Skills) | 0 | `main` | `.` | ✅ ok |  |
 | [worksystems-design/dwsd-markdown](https://github.com/worksystems-design/dwsd-markdown) | 3 | `main` | `skills` | ✅ ok |  |
