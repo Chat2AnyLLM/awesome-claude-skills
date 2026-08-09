@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3188**
-- Discoverable skills: **118,675**
-- Healthy repos: **3100** · Truncated: **1** · Unavailable: **87**
-- Last updated: **2026-08-09 11:19 UTC**
+- Discoverable skills: **118,679**
+- Healthy repos: **3101** · Truncated: **1** · Unavailable: **86**
+- Last updated: **2026-08-09 12:23 UTC**
 
 ## Source Catalog
 
@@ -3005,6 +3005,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [xx-hub/craft-your-textbook](https://github.com/xx-hub/craft-your-textbook) | 1 | `main` | `skills` | ✅ ok |  |
 | [xxluffyxx40/cera-reasoning-harness](https://github.com/xxluffyxx40/cera-reasoning-harness) | 0 | `main` | `.` | ✅ ok |  |
 | [Xza2792/ui-ux-audit-skill](https://github.com/Xza2792/ui-ux-audit-skill) | 1 | `main` | `.` | ✅ ok |  |
+| [xzawed/claude-grok-build-plugin](https://github.com/xzawed/claude-grok-build-plugin) | 4 | `main` | `.` | ✅ ok |  |
 | [y-a-v-a/skills](https://github.com/y-a-v-a/skills) | 9 | `main` | `.` | ✅ ok |  |
 | [y49/tlive](https://github.com/y49/tlive) | 2 | `main` | `.` | ✅ ok |  |
 | [ya5huk/findash](https://github.com/ya5huk/findash) | 7 | `main` | `skills` | ✅ ok |  |
@@ -3200,7 +3201,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [vittobh/pm-os](https://github.com/vittobh/pm-os) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
 | [voidning/ink-it](https://github.com/voidning/ink-it) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [XIYO/plug-hole](https://github.com/XIYO/plug-hole) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [xzawed/claude-grok-build-plugin](https://github.com/xzawed/claude-grok-build-plugin) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 
 ## Contributing
 
