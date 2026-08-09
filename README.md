@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3180**
-- Discoverable skills: **118,638**
-- Healthy repos: **3094** · Truncated: **1** · Unavailable: **85**
-- Last updated: **2026-08-09 02:56 UTC**
+- Discoverable skills: **118,640**
+- Healthy repos: **3095** · Truncated: **1** · Unavailable: **84**
+- Last updated: **2026-08-09 04:09 UTC**
 
 ## Source Catalog
 
@@ -49,7 +49,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [7bata/claude-workflow-kit](https://github.com/7bata/claude-workflow-kit) | 15 | `main` | `.` | ✅ ok |  |
 | [7dieuuoc/ChernyCode](https://github.com/7dieuuoc/ChernyCode) | 6 | `main` | `.` | ✅ ok |  |
 | [7xuanlu/ultrapowers](https://github.com/7xuanlu/ultrapowers) | 1 | `main` | `skills` | ✅ ok |  |
-| [7xuanlu/wenlan](https://github.com/7xuanlu/wenlan) | 25 | `main` | `.` | ✅ ok |  |
+| [7xuanlu/wenlan](https://github.com/7xuanlu/wenlan) | 26 | `main` | `.` | ✅ ok |  |
 | [88plug/addlightness](https://github.com/88plug/addlightness) | 3 | `main` | `skills` | ✅ ok |  |
 | [88plug/amnesia](https://github.com/88plug/amnesia) | 1 | `main` | `.` | ✅ ok |  |
 | [88plug/dehumanize](https://github.com/88plug/dehumanize) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1213,6 +1213,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [inkatze/planwright](https://github.com/inkatze/planwright) | 11 | `main` | `skills` | ✅ ok |  |
 | [inquisitive-production852/github-optimization-skill](https://github.com/inquisitive-production852/github-optimization-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Insolvent-pyrene754/claude-code-server-side-swift-skills](https://github.com/Insolvent-pyrene754/claude-code-server-side-swift-skills) | 2 | `main` | `skills` | ✅ ok |  |
+| [Institut-du-Numerique-Responsable/green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | 1 | `main` | `skills` | ✅ ok |  |
 | [Intai/story-flow](https://github.com/Intai/story-flow) | 9 | `main` | `.` | ✅ ok |  |
 | [InterfaceX-co-jp/genshijin](https://github.com/InterfaceX-co-jp/genshijin) | 7 | `main` | `skills` | ✅ ok |  |
 | [IPedrax/motion-ui](https://github.com/IPedrax/motion-ui) | 1 | `main` | `.` | ✅ ok |  |
@@ -3140,7 +3141,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [IamOumarIbrahim/skill-issue](https://github.com/IamOumarIbrahim/skill-issue) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [ibangtam/seo-toolkit](https://github.com/ibangtam/seo-toolkit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill](https://github.com/imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Institut-du-Numerique-Responsable/green-claude](https://github.com/Institut-du-Numerique-Responsable/green-claude) | 0 | `main` | `skills` | ❌ error | Remote end closed connection without response |
 | [jackiectl/research-agent-pitfalls](https://github.com/jackiectl/research-agent-pitfalls) | 0 | `universal-core` | `skills` | ❌ missing | HTTP 404 |
 | [jaenicket/code-webdesign](https://github.com/jaenicket/code-webdesign) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [jairo19993062/stitch-skills](https://github.com/jairo19993062/stitch-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
