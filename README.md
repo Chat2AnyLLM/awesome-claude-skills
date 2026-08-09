@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3192**
-- Discoverable skills: **118,944**
-- Healthy repos: **3105** · Truncated: **1** · Unavailable: **86**
-- Last updated: **2026-08-09 16:21 UTC**
+- Discoverable skills: **118,932**
+- Healthy repos: **3104** · Truncated: **1** · Unavailable: **87**
+- Last updated: **2026-08-09 17:22 UTC**
 
 ## Source Catalog
 
@@ -415,7 +415,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [berrydev-ai/skills](https://github.com/berrydev-ai/skills) | 8 | `main` | `.` | ✅ ok |  |
 | [bertbertov/claude-stack](https://github.com/bertbertov/claude-stack) | 157 | `main` | `skills` | ✅ ok |  |
 | [bertrand-do/ai-photography-accuracy](https://github.com/bertrand-do/ai-photography-accuracy) | 0 | `main` | `.` | ✅ ok |  |
-| [bestdeejay-design/agent-skills](https://github.com/bestdeejay-design/agent-skills) | 28 | `main` | `skills` | ✅ ok |  |
+| [bestdeejay-design/agent-skills](https://github.com/bestdeejay-design/agent-skills) | 29 | `main` | `skills` | ✅ ok |  |
 | [betmoar/cc-proxy-plugin](https://github.com/betmoar/cc-proxy-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [betmoar/cc-status-plugin](https://github.com/betmoar/cc-status-plugin) | 2 | `main` | `skills` | ✅ ok |  |
 | [beydemirfurkan/appstore-release](https://github.com/beydemirfurkan/appstore-release) | 1 | `main` | `skills` | ✅ ok |  |
@@ -467,7 +467,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 5 | `main` | `skills` | ✅ ok |  |
 | [BriarDevv/skills](https://github.com/BriarDevv/skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [brilliantdirectories/brilliant-directories-mcp](https://github.com/brilliantdirectories/brilliant-directories-mcp) | 0 | `main` | `.` | ✅ ok |  |
-| [brokenrobot-xyz/agent-skills](https://github.com/brokenrobot-xyz/agent-skills) | 26 | `main` | `.` | ✅ ok |  |
+| [brokenrobot-xyz/agent-skills](https://github.com/brokenrobot-xyz/agent-skills) | 30 | `main` | `.` | ✅ ok |  |
 | [broneq/bdk](https://github.com/broneq/bdk) | 33 | `main` | `skills` | ✅ ok |  |
 | [broomva/skills](https://github.com/broomva/skills) | 89 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
@@ -805,7 +805,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [drayline/rootnode-skills](https://github.com/drayline/rootnode-skills) | 27 | `main` | `.` | ✅ ok |  |
 | [dream-num/skills](https://github.com/dream-num/skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [drhalto/agentmako](https://github.com/drhalto/agentmako) | 48 | `main` | `.` | ✅ ok |  |
-| [Drizzy07x/cognitive-powers](https://github.com/Drizzy07x/cognitive-powers) | 19 | `main` | `skills` | ✅ ok |  |
 | [drobins25/craft](https://github.com/drobins25/craft) | 11 | `main` | `skills` | ✅ ok |  |
 | [DROOdotFOO/agent-skills](https://github.com/DROOdotFOO/agent-skills) | 58 | `main` | `skills` | ✅ ok |  |
 | [DropFan/claude-code-plugins](https://github.com/DropFan/claude-code-plugins) | 30 | `master` | `.` | ✅ ok |  |
@@ -1549,7 +1548,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kylehughes/the-unofficial-swift-programming-language-skill](https://github.com/kylehughes/the-unofficial-swift-programming-language-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [kyota8ai/halal-app-check](https://github.com/kyota8ai/halal-app-check) | 0 | `main` | `.` | ✅ ok |  |
 | [Kyure-A/agent-skills-nix](https://github.com/Kyure-A/agent-skills-nix) | 8 | `master` | `.` | ✅ ok |  |
-| [L3-iGrant/skills](https://github.com/L3-iGrant/skills) | 74 | `main` | `.` | ✅ ok |  |
+| [L3-iGrant/skills](https://github.com/L3-iGrant/skills) | 76 | `main` | `.` | ✅ ok |  |
 | [labeveryday/claude-put-in-work](https://github.com/labeveryday/claude-put-in-work) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [labspangaea/pangaealabs-claude-plugins-marketplace](https://github.com/labspangaea/pangaealabs-claude-plugins-marketplace) | 16 | `main` | `.` | ✅ ok |  |
 | [lachydotmcg/slopsec](https://github.com/lachydotmcg/slopsec) | 0 | `master` | `.` | ✅ ok |  |
@@ -3140,6 +3139,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [cruisefeed/cruisefeed-skill](https://github.com/cruisefeed/cruisefeed-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Da6ka/tech-sourcing-skill](https://github.com/Da6ka/tech-sourcing-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [dinglebear-ai/runraid](https://github.com/dinglebear-ai/runraid) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
+| [Drizzy07x/cognitive-powers](https://github.com/Drizzy07x/cognitive-powers) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [Eslam3bed/claude-atlas](https://github.com/Eslam3bed/claude-atlas) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Fectivnfy112357/camofox-shim](https://github.com/Fectivnfy112357/camofox-shim) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
 | [go165/agent-skill-groups](https://github.com/go165/agent-skill-groups) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
