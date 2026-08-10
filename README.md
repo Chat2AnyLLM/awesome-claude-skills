@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3209**
-- Discoverable skills: **119,204**
+- Discoverable skills: **119,218**
 - Healthy repos: **3120** · Truncated: **1** · Unavailable: **88**
-- Last updated: **2026-08-10 03:05 UTC**
+- Last updated: **2026-08-10 05:14 UTC**
 
 ## Source Catalog
 
@@ -166,7 +166,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [AIPMAndy/andy-product-skill](https://github.com/AIPMAndy/andy-product-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,634 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,643 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -1887,7 +1887,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [mr-kelly/skills](https://github.com/mr-kelly/skills) | 67 | `main` | `skills` | ✅ ok |  |
 | [mralabs/claude-plugins](https://github.com/mralabs/claude-plugins) | 4 | `main` | `.` | ✅ ok |  |
 | [mralabs/radar](https://github.com/mralabs/radar) | 1 | `main` | `skills` | ✅ ok |  |
-| [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [MrBridgeHQ/aromatic-herb-gardening-expert](https://github.com/MrBridgeHQ/aromatic-herb-gardening-expert) | 1 | `main` | `skills` | ✅ ok |  |
 | [MrBridgeHQ/github-profile-optimizer](https://github.com/MrBridgeHQ/github-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [MrBridgeHQ/hf-profile-optimizer](https://github.com/MrBridgeHQ/hf-profile-optimizer) | 1 | `main` | `.claude/skills` | ✅ ok |  |
@@ -2060,7 +2060,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ommakes/Skills](https://github.com/ommakes/Skills) | 10 | `main` | `.` | ✅ ok |  |
 | [omnifaces/claude-faces-expert](https://github.com/omnifaces/claude-faces-expert) | 2 | `main` | `.claude/skills` | ✅ ok |  |
 | [On-mission96/janaabg-operations](https://github.com/On-mission96/janaabg-operations) | 20 | `main` | `.` | ✅ ok |  |
-| [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 204 | `main` | `.` | ✅ ok |  |
+| [OneWave-AI/claude-skills](https://github.com/OneWave-AI/claude-skills) | 205 | `main` | `.` | ✅ ok |  |
 | [OneWave-AI/open-agent-stack](https://github.com/OneWave-AI/open-agent-stack) | 15 | `main` | `.` | ✅ ok |  |
 | [onsails/skills](https://github.com/onsails/skills) | 3 | `master` | `.` | ✅ ok |  |
 | [ontology-of-everything/SemanticSkills](https://github.com/ontology-of-everything/SemanticSkills) | 5 | `main` | `skills` | ✅ ok |  |
@@ -2444,7 +2444,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [seldonframe/seldonframe](https://github.com/seldonframe/seldonframe) | 27 | `main` | `.` | ✅ ok |  |
 | [senderkit/senderkit-skills](https://github.com/senderkit/senderkit-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 3 | `main` | `.claude/skills` | ✅ ok |  |
-| [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 10 | `main` | `skills` | ✅ ok |  |
+| [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 11 | `main` | `skills` | ✅ ok |  |
 | [Senzing/senzing-mcp-skill](https://github.com/Senzing/senzing-mcp-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [seokan-jeong/team-shinchan](https://github.com/seokan-jeong/team-shinchan) | 58 | `main` | `skills` | ✅ ok |  |
 | [seokhoonj/fred-client](https://github.com/seokhoonj/fred-client) | 4 | `main` | `.` | ✅ ok |  |
@@ -2555,7 +2555,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [slogsdon/skills-writing](https://github.com/slogsdon/skills-writing) | 4 | `main` | `skills` | ✅ ok |  |
 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | `main` | `skills` | ✅ ok |  |
 | [slopstopper/recursive-spine](https://github.com/slopstopper/recursive-spine) | 8 | `main` | `skills` | ✅ ok |  |
-| [slowdini/slow-powers](https://github.com/slowdini/slow-powers) | 8 | `dev` | `skills` | ✅ ok |  |
+| [slowdini/slow-powers](https://github.com/slowdini/slow-powers) | 9 | `dev` | `skills` | ✅ ok |  |
 | [Smaller-rawdata285/cost-guardian](https://github.com/Smaller-rawdata285/cost-guardian) | 4 | `main` | `skills` | ✅ ok |  |
 | [smartaicoach/skills](https://github.com/smartaicoach/skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [smarzban/agent-sdlc](https://github.com/smarzban/agent-sdlc) | 15 | `main` | `skills` | ✅ ok |  |
