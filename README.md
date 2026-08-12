@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3362**
-- Discoverable skills: **121,072**
+- Discoverable skills: **121,078**
 - Healthy repos: **3267** · Truncated: **1** · Unavailable: **94**
-- Last updated: **2026-08-12 14:12 UTC**
+- Last updated: **2026-08-12 15:47 UTC**
 
 ## Source Catalog
 
@@ -383,7 +383,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [BackTrackCo/tenjin-agent](https://github.com/BackTrackCo/tenjin-agent) | 3 | `main` | `skills` | ✅ ok |  |
 | [baekchangjoon/hotspot-analysis](https://github.com/baekchangjoon/hotspot-analysis) | 1 | `main` | `skills` | ✅ ok |  |
 | [baidu-netdisk/bdpan-storage](https://github.com/baidu-netdisk/bdpan-storage) | 2 | `main` | `skills` | ✅ ok |  |
-| [baixinghao/intent-gate](https://github.com/baixinghao/intent-gate) | 3 | `main` | `skills` | ✅ ok |  |
+| [baixinghao/intent-gate](https://github.com/baixinghao/intent-gate) | 4 | `main` | `skills` | ✅ ok |  |
 | [baiyanmo/claude-code-multi-model-review](https://github.com/baiyanmo/claude-code-multi-model-review) | 1 | `master` | `.` | ✅ ok |  |
 | [baizhiyuan/finding-unknowns-skill](https://github.com/baizhiyuan/finding-unknowns-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [bakhod1r/awesome-agents](https://github.com/bakhod1r/awesome-agents) | 22 | `main` | `.` | ✅ ok |  |
@@ -1505,7 +1505,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kanopi/cms-cultivator](https://github.com/kanopi/cms-cultivator) | 24 | `main` | `skills` | ✅ ok |  |
 | [kansokusha2026/jsa-park](https://github.com/kansokusha2026/jsa-park) | 2 | `main` | `skills` | ✅ ok |  |
 | [kaposty/context-kit](https://github.com/kaposty/context-kit) | 6 | `main` | `.` | ✅ ok |  |
-| [KAppMaker/KAppMaker-CLI](https://github.com/KAppMaker/KAppMaker-CLI) | 14 | `main` | `.claude/skills` | ✅ ok |  |
+| [KAppMaker/KAppMaker-CLI](https://github.com/KAppMaker/KAppMaker-CLI) | 18 | `main` | `.claude/skills` | ✅ ok |  |
 | [Kara-lynnmacroeconomic2412/paper-fetch](https://github.com/Kara-lynnmacroeconomic2412/paper-fetch) | 0 | `main` | `.` | ✅ ok |  |
 | [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) | 7 | `main` | `.` | ✅ ok |  |
 | [karanb192/itr-wala](https://github.com/karanb192/itr-wala) | 1 | `main` | `skills` | ✅ ok |  |
@@ -2101,7 +2101,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Northwestern-caddo190/dashmotion](https://github.com/Northwestern-caddo190/dashmotion) | 1 | `main` | `skills` | ✅ ok |  |
 | [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 119 | `main` | `skills` | ✅ ok |  |
 | [novanoticia/token-calculator-suite](https://github.com/novanoticia/token-calculator-suite) | 4 | `main` | `skills` | ✅ ok |  |
-| [novoads/claude-code-ads](https://github.com/novoads/claude-code-ads) | 11 | `main` | `skills` | ✅ ok |  |
+| [novoads/claude-code-ads](https://github.com/novoads/claude-code-ads) | 12 | `main` | `skills` | ✅ ok |  |
 | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 0 | `main` | `.` | ✅ ok |  |
 | [NTCHz/off-by-none](https://github.com/NTCHz/off-by-none) | 1 | `main` | `skills` | ✅ ok |  |
 | [nthansen/funbox-plugins](https://github.com/nthansen/funbox-plugins) | 12 | `main` | `.` | ✅ ok |  |
