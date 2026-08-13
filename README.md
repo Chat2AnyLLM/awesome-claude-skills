@@ -7,7 +7,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 - Enabled source repositories: **3395**
 - Discoverable skills: **121,387**
 - Healthy repos: **3300** · Truncated: **1** · Unavailable: **94**
-- Last updated: **2026-08-13 05:26 UTC**
+- Last updated: **2026-08-13 07:08 UTC**
 
 ## Source Catalog
 
@@ -2085,7 +2085,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [nextor2k/hyperfocus](https://github.com/nextor2k/hyperfocus) | 1 | `main` | `skills` | ✅ ok |  |
 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 81 | `main` | `next` | ✅ ok |  |
 | [ngocsangyem/MeowKit](https://github.com/ngocsangyem/MeowKit) | 390 | `main` | `.` | ✅ ok |  |
-| [nguyenvanphituoc/shapeup-sdlc-plugin](https://github.com/nguyenvanphituoc/shapeup-sdlc-plugin) | 13 | `main` | `skills` | ✅ ok |  |
+| [nguyenvanphituoc/shapeup-sdlc-plugin](https://github.com/nguyenvanphituoc/shapeup-sdlc-plugin) | 12 | `main` | `skills` | ✅ ok |  |
 | [ngvoicu/kluris](https://github.com/ngvoicu/kluris) | 4 | `main` | `.` | ✅ ok |  |
 | [ngvoicu/specmint-core](https://github.com/ngvoicu/specmint-core) | 0 | `main` | `.` | ✅ ok |  |
 | [ngvoicu/specmint-tdd](https://github.com/ngvoicu/specmint-tdd) | 0 | `main` | `.` | ✅ ok |  |
@@ -3103,7 +3103,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [web-lifter/official-business-plugins](https://github.com/web-lifter/official-business-plugins) | 121 | `main` | `.` | ✅ ok |  |
 | [web-lifter/official-lifestyle-plugins](https://github.com/web-lifter/official-lifestyle-plugins) | 18 | `main` | `.` | ✅ ok |  |
 | [web594/resolve-multicam-workflow](https://github.com/web594/resolve-multicam-workflow) | 0 | `main` | `.` | ✅ ok |  |
-| [webmehedi/oma](https://github.com/webmehedi/oma) | 8 | `main` | `skills` | ✅ ok |  |
+| [webmehedi/oma](https://github.com/webmehedi/oma) | 9 | `main` | `skills` | ✅ ok |  |
 | [wedabro/bro-skills](https://github.com/wedabro/bro-skills) | 104 | `main` | `.` | ✅ ok |  |
 | [wei18/apple-dev-skills](https://github.com/wei18/apple-dev-skills) | 37 | `main` | `.` | ✅ ok |  |
 | [wei18/Upkeep](https://github.com/wei18/Upkeep) | 1 | `main` | `skills` | ✅ ok |  |
