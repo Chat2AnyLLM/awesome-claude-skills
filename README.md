@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3552**
-- Discoverable skills: **123,458**
+- Discoverable skills: **123,460**
 - Healthy repos: **3446** · Truncated: **1** · Unavailable: **105**
-- Last updated: **2026-08-15 15:10 UTC**
+- Last updated: **2026-08-15 16:12 UTC**
 
 ## Source Catalog
 
@@ -656,7 +656,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [conversiontools/agent-skills](https://github.com/conversiontools/agent-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [cooler333/cool-claude-code](https://github.com/cooler333/cool-claude-code) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [Coolkidlab-Yin/claude-code-checkpoint-system](https://github.com/Coolkidlab-Yin/claude-code-checkpoint-system) | 1 | `main` | `skills` | ✅ ok |  |
-| [Coolkidlab-Yin/Coolkidlab](https://github.com/Coolkidlab-Yin/Coolkidlab) | 10 | `master` | `.` | ✅ ok |  |
+| [Coolkidlab-Yin/Coolkidlab](https://github.com/Coolkidlab-Yin/Coolkidlab) | 11 | `master` | `.` | ✅ ok |  |
 | [Coolkidlab-Yin/ig-bot-builder](https://github.com/Coolkidlab-Yin/ig-bot-builder) | 1 | `main` | `skills` | ✅ ok |  |
 | [Coolkidlab-Yin/line-bot-builder](https://github.com/Coolkidlab-Yin/line-bot-builder) | 1 | `main` | `skills` | ✅ ok |  |
 | [Coolkidlab-Yin/threads-bot-builder](https://github.com/Coolkidlab-Yin/threads-bot-builder) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1363,7 +1363,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jacob-scheatzle/claude-pwa-portal](https://github.com/jacob-scheatzle/claude-pwa-portal) | 1 | `main` | `.` | ✅ ok |  |
 | [jacobjustin8/skill-forge](https://github.com/jacobjustin8/skill-forge) | 1 | `main` | `skills` | ✅ ok |  |
 | [jadstrike/claude-screen-skill](https://github.com/jadstrike/claude-screen-skill) | 1 | `main` | `.` | ✅ ok |  |
-| [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | 198 | `main` | `skills` | ✅ ok |  |
+| [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | 199 | `main` | `skills` | ✅ ok |  |
 | [jafini/learn-claude-code](https://github.com/jafini/learn-claude-code) | 4 | `main` | `skills` | ✅ ok |  |
 | [jaimeschwarz/brandvoice](https://github.com/jaimeschwarz/brandvoice) | 1 | `main` | `.` | ✅ ok |  |
 | [jajupmochi/agent-harness](https://github.com/jajupmochi/agent-harness) | 37 | `main` | `skills` | ✅ ok |  |
