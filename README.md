@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3521**
-- Discoverable skills: **123,261**
+- Discoverable skills: **123,259**
 - Healthy repos: **3415** · Truncated: **1** · Unavailable: **105**
-- Last updated: **2026-08-15 05:17 UTC**
+- Last updated: **2026-08-15 06:18 UTC**
 
 ## Source Catalog
 
@@ -1371,7 +1371,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jangviktor-web/nihaixia](https://github.com/jangviktor-web/nihaixia) | 0 | `main` | `.` | ✅ ok |  |
 | [jangviktor-web/wujutong](https://github.com/jangviktor-web/wujutong) | 0 | `main` | `.` | ✅ ok |  |
 | [janineagu4049/live-workshop-skill](https://github.com/janineagu4049/live-workshop-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | 4 | `main` | `.` | ✅ ok |  |
+| [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [Jarroslav/agentic-os](https://github.com/Jarroslav/agentic-os) | 33 | `main` | `.` | ✅ ok |  |
 | [JarrydAdaens/agentic_rails_marketplace](https://github.com/JarrydAdaens/agentic_rails_marketplace) | 6 | `main` | `.` | ✅ ok |  |
 | [Jartan-LLC/grimoire](https://github.com/Jartan-LLC/grimoire) | 39 | `main` | `.` | ✅ ok |  |
@@ -3384,7 +3384,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [zacklecon/claude-skills](https://github.com/zacklecon/claude-skills) | 66 | `main` | `skills` | ✅ ok |  |
 | [Zaious/journal-atlas](https://github.com/Zaious/journal-atlas) | 2 | `main` | `skills` | ✅ ok |  |
 | [zalom/plastic](https://github.com/zalom/plastic) | 37 | `main` | `skills` | ✅ ok |  |
-| [zamushwani/biomedical-ai-skills](https://github.com/zamushwani/biomedical-ai-skills) | 7 | `main` | `skills` | ✅ ok |  |
+| [zamushwani/biomedical-ai-skills](https://github.com/zamushwani/biomedical-ai-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [Zandereins/hydra](https://github.com/Zandereins/hydra) | 0 | `main` | `.` | ✅ ok |  |
 | [Zaosusu/resume-onepager](https://github.com/Zaosusu/resume-onepager) | 0 | `main` | `.` | ✅ ok |  |
 | [Zaosusu/schedule-onepager](https://github.com/Zaosusu/schedule-onepager) | 0 | `main` | `.` | ✅ ok |  |
