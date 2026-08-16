@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3597**
-- Discoverable skills: **123,706**
+- Discoverable skills: **123,736**
 - Healthy repos: **3490** · Truncated: **1** · Unavailable: **106**
-- Last updated: **2026-08-16 11:11 UTC**
+- Last updated: **2026-08-16 12:15 UTC**
 
 ## Source Catalog
 
@@ -2794,7 +2794,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Shweta-Mishra-ai/tokenmizer](https://github.com/Shweta-Mishra-ai/tokenmizer) | 4 | `main` | `.` | ✅ ok |  |
 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 6,353 | `main` | `.` | ✅ ok |  |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 0 | `main` | `plugins/antigravity-awesome-skills-claude/skills` | ✅ ok |  |
-| [sidchaudhary/gtm-skills](https://github.com/sidchaudhary/gtm-skills) | 68 | `master` | `skills` | ✅ ok |  |
+| [sidchaudhary/gtm-skills](https://github.com/sidchaudhary/gtm-skills) | 98 | `master` | `skills` | ✅ ok |  |
 | [siddiqss/semantic-seo-suite](https://github.com/siddiqss/semantic-seo-suite) | 10 | `main` | `skills` | ✅ ok |  |
 | [Side-Peng/clinpub](https://github.com/Side-Peng/clinpub) | 21 | `main` | `.` | ✅ ok |  |
 | [Sidgit11/resume-studio](https://github.com/Sidgit11/resume-studio) | 0 | `main` | `.` | ✅ ok |  |
