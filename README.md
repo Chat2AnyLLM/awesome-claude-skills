@@ -7,7 +7,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 - Enabled source repositories: **3618**
 - Discoverable skills: **123,872**
 - Healthy repos: **3509** · Truncated: **1** · Unavailable: **108**
-- Last updated: **2026-08-16 17:11 UTC**
+- Last updated: **2026-08-16 18:13 UTC**
 
 ## Source Catalog
 
@@ -999,7 +999,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [fabdelgado/fable-mode](https://github.com/fabdelgado/fable-mode) | 1 | `main` | `skills` | ✅ ok |  |
 | [fabienjuif/agentic-skills](https://github.com/fabienjuif/agentic-skills) | 6 | `main` | `.` | ✅ ok |  |
 | [fabioc-aloha/Alex_Skill_Mall](https://github.com/fabioc-aloha/Alex_Skill_Mall) | 390 | `main` | `.` | ✅ ok |  |
-| [FabworksHQ/fabworks-plugin](https://github.com/FabworksHQ/fabworks-plugin) | 2 | `main` | `skills` | ✅ ok |  |
+| [FabworksHQ/fabworks-plugin](https://github.com/FabworksHQ/fabworks-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [faizan007jr/local-llm-delegate](https://github.com/faizan007jr/local-llm-delegate) | 2 | `main` | `skills` | ✅ ok |  |
 | [fakoli/fakoli-plugins](https://github.com/fakoli/fakoli-plugins) | 148 | `main` | `.` | ✅ ok |  |
 | [fantasybz/trip-pwa-skills](https://github.com/fantasybz/trip-pwa-skills) | 4 | `main` | `skills` | ✅ ok |  |
@@ -2713,7 +2713,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SearchCans/searchcans-skills-zh](https://github.com/SearchCans/searchcans-skills-zh) | 7 | `main` | `skills` | ✅ ok |  |
 | [secondsky/claude-skills](https://github.com/secondsky/claude-skills) | 187 | `main` | `.` | ✅ ok |  |
 | [seductive-bercy787/learn-from-claudecode](https://github.com/seductive-bercy787/learn-from-claudecode) | 1 | `main` | `skills` | ✅ ok |  |
-| [seed-forge/harness-ai-kit](https://github.com/seed-forge/harness-ai-kit) | 41 | `main` | `skills` | ✅ ok |  |
+| [seed-forge/harness-ai-kit](https://github.com/seed-forge/harness-ai-kit) | 42 | `main` | `skills` | ✅ ok |  |
 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 4 | `main` | `skills` | ✅ ok |  |
 | [SELAT-AI/selat-plugins](https://github.com/SELAT-AI/selat-plugins) | 1 | `main` | `.` | ✅ ok |  |
 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 19 | `main` | `skills` | ✅ ok |  |
