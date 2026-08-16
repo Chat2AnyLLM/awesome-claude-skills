@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3585**
-- Discoverable skills: **123,668**
+- Discoverable skills: **123,678**
 - Healthy repos: **3479** · Truncated: **1** · Unavailable: **105**
-- Last updated: **2026-08-16 05:18 UTC**
+- Last updated: **2026-08-16 06:20 UTC**
 
 ## Source Catalog
 
@@ -874,7 +874,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [DROOdotFOO/agent-skills](https://github.com/DROOdotFOO/agent-skills) | 58 | `main` | `skills` | ✅ ok |  |
 | [DropFan/claude-code-plugins](https://github.com/DropFan/claude-code-plugins) | 30 | `master` | `.` | ✅ ok |  |
 | [drpwchen/paper-review-and-digest](https://github.com/drpwchen/paper-review-and-digest) | 2 | `main` | `.` | ✅ ok |  |
-| [dryvist/claude-code-plugins](https://github.com/dryvist/claude-code-plugins) | 54 | `main` | `.` | ✅ ok |  |
+| [dryvist/claude-code-plugins](https://github.com/dryvist/claude-code-plugins) | 64 | `main` | `.` | ✅ ok |  |
 | [ds-vibe/html-explainer](https://github.com/ds-vibe/html-explainer) | 0 | `main` | `.` | ✅ ok |  |
 | [dss-time/repo-doctor-skills](https://github.com/dss-time/repo-doctor-skills) | 79 | `main` | `.` | ✅ ok |  |
 | [dT-Tb-labs/babel-orchestration](https://github.com/dT-Tb-labs/babel-orchestration) | 3 | `master` | `skills` | ✅ ok |  |
