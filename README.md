@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3631**
-- Discoverable skills: **124,090**
+- Discoverable skills: **124,089**
 - Healthy repos: **3515** · Truncated: **1** · Unavailable: **115**
-- Last updated: **2026-08-16 23:09 UTC**
+- Last updated: **2026-08-17 00:30 UTC**
 
 ## Source Catalog
 
@@ -1163,7 +1163,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [GuidanceStudio/tech-audit-skill](https://github.com/GuidanceStudio/tech-audit-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 5 | `main` | `.` | ✅ ok |  |
 | [guilherme-iaparaagronomos/skills-agro](https://github.com/guilherme-iaparaagronomos/skills-agro) | 4 | `main` | `.` | ✅ ok |  |
-| [GuillaumeLessard/qector-claude-plugin](https://github.com/GuillaumeLessard/qector-claude-plugin) | 24 | `main` | `skills` | ✅ ok |  |
+| [GuillaumeLessard/qector-claude-plugin](https://github.com/GuillaumeLessard/qector-claude-plugin) | 23 | `main` | `skills` | ✅ ok |  |
 | [guinacio/claude-image-gen](https://github.com/guinacio/claude-image-gen) | 1 | `master` | `skills` | ✅ ok |  |
 | [gulmezeren2-byte/andon](https://github.com/gulmezeren2-byte/andon) | 1 | `main` | `skills` | ✅ ok |  |
 | [gulmezeren2-byte/claude-skills-doctor](https://github.com/gulmezeren2-byte/claude-skills-doctor) | 1 | `main` | `skills` | ✅ ok |  |
