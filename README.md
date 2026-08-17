@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3640**
-- Discoverable skills: **124,135**
+- Discoverable skills: **124,144**
 - Healthy repos: **3522** · Truncated: **1** · Unavailable: **117**
-- Last updated: **2026-08-17 05:26 UTC**
+- Last updated: **2026-08-17 06:30 UTC**
 
 ## Source Catalog
 
@@ -180,7 +180,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,729 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,733 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -699,7 +699,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Criss404/agent-kb-toolkit](https://github.com/Criss404/agent-kb-toolkit) | 3 | `master` | `skills` | ✅ ok |  |
 | [CronusL-1141/AI-company](https://github.com/CronusL-1141/AI-company) | 4 | `master` | `.` | ✅ ok |  |
 | [CrowdStrike/foundry-skills](https://github.com/CrowdStrike/foundry-skills) | 10 | `main` | `skills` | ✅ ok |  |
-| [CrunTeam/crun-agent-skills](https://github.com/CrunTeam/crun-agent-skills) | 5 | `main` | `skills` | ✅ ok |  |
+| [CrunTeam/crun-agent-skills](https://github.com/CrunTeam/crun-agent-skills) | 7 | `main` | `skills` | ✅ ok |  |
 | [crypdick/pynchy](https://github.com/crypdick/pynchy) | 10 | `main` | `.` | ✅ ok |  |
 | [cryptoyoginya/learneverything](https://github.com/cryptoyoginya/learneverything) | 1 | `main` | `skills` | ✅ ok |  |
 | [cs-shadowbq/claude-context](https://github.com/cs-shadowbq/claude-context) | 1 | `main` | `skills` | ✅ ok |  |
@@ -2721,7 +2721,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sdsrss/sgc](https://github.com/sdsrss/sgc) | 9 | `main` | `.` | ✅ ok |  |
 | [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 8 | `main` | `.` | ✅ ok |  |
 | [seal-7/shintenshin](https://github.com/seal-7/shintenshin) | 2 | `main` | `skills` | ✅ ok |  |
-| [Sean190828/crun-agent-skills](https://github.com/Sean190828/crun-agent-skills) | 5 | `main` | `skills` | ✅ ok |  |
+| [Sean190828/crun-agent-skills](https://github.com/Sean190828/crun-agent-skills) | 7 | `main` | `skills` | ✅ ok |  |
 | [search-atlas-group/amm-founding-circle](https://github.com/search-atlas-group/amm-founding-circle) | 63 | `main` | `skills` | ✅ ok |  |
 | [SearchCans/searchcans-skills-zh](https://github.com/SearchCans/searchcans-skills-zh) | 7 | `main` | `skills` | ✅ ok |  |
 | [secondsky/claude-skills](https://github.com/secondsky/claude-skills) | 187 | `main` | `.` | ✅ ok |  |
@@ -2779,7 +2779,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [shahzaibrafiq/shipkit](https://github.com/shahzaibrafiq/shipkit) | 0 | `main` | `.` | ✅ ok |  |
 | [shajith003/awesome-claude-skills](https://github.com/shajith003/awesome-claude-skills) | 16 | `main` | `.` | ✅ ok |  |
 | [shalintripathi/organic-os](https://github.com/shalintripathi/organic-os) | 24 | `main` | `.` | ✅ ok |  |
-| [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 18 | `main` | `.` | ✅ ok |  |
+| [shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents) | 19 | `main` | `.` | ✅ ok |  |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 7 | `main` | `.claude/skills` | ✅ ok |  |
 | [shaunmarsden/book-to-skill](https://github.com/shaunmarsden/book-to-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [shaunmarsden/skill-author](https://github.com/shaunmarsden/skill-author) | 0 | `main` | `.` | ✅ ok |  |
