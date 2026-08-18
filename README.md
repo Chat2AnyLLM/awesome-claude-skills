@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3701**
-- Discoverable skills: **124,699**
+- Discoverable skills: **124,707**
 - Healthy repos: **3580** · Truncated: **1** · Unavailable: **120**
-- Last updated: **2026-08-18 05:20 UTC**
+- Last updated: **2026-08-18 06:22 UTC**
 
 ## Source Catalog
 
@@ -1850,7 +1850,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [livevil7/creeta-lens](https://github.com/livevil7/creeta-lens) | 9 | `master` | `skills` | ✅ ok |  |
 | [livlign/claude-skills](https://github.com/livlign/claude-skills) | 7 | `main` | `.` | ✅ ok |  |
 | [liyuechao2018/face-photo-search](https://github.com/liyuechao2018/face-photo-search) | 0 | `main` | `.` | ✅ ok |  |
-| [lizliz404/agent-skills](https://github.com/lizliz404/agent-skills) | 8 | `main` | `skills` | ✅ ok |  |
+| [lizliz404/agent-skills](https://github.com/lizliz404/agent-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [lj22503/awesome-finai-tools-zn](https://github.com/lj22503/awesome-finai-tools-zn) | 0 | `main` | `.` | ✅ ok |  |
 | [lj22503/diaolong-skill](https://github.com/lj22503/diaolong-skill) | 26 | `main` | `skills` | ✅ ok |  |
 | [lj22503/investment-framework-skill](https://github.com/lj22503/investment-framework-skill) | 33 | `main` | `.` | ✅ ok |  |
@@ -2865,7 +2865,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [shuzhao1133/gbt9704-format](https://github.com/shuzhao1133/gbt9704-format) | 0 | `main` | `.` | ✅ ok |  |
 | [Shweta-Mishra-ai/tokenmizer](https://github.com/Shweta-Mishra-ai/tokenmizer) | 4 | `main` | `.` | ✅ ok |  |
 | [sichenai/sichen-skills](https://github.com/sichenai/sichen-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 6,362 | `main` | `.` | ✅ ok |  |
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 6,369 | `main` | `.` | ✅ ok |  |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 0 | `main` | `plugins/antigravity-awesome-skills-claude/skills` | ✅ ok |  |
 | [sidchaudhary/gtm-skills](https://github.com/sidchaudhary/gtm-skills) | 98 | `master` | `skills` | ✅ ok |  |
 | [siddiqss/semantic-seo-suite](https://github.com/siddiqss/semantic-seo-suite) | 10 | `main` | `skills` | ✅ ok |  |
