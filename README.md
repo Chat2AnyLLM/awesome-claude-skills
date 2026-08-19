@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3800**
-- Discoverable skills: **125,727**
+- Discoverable skills: **125,735**
 - Healthy repos: **3679** · Truncated: **2** · Unavailable: **119**
-- Last updated: **2026-08-19 17:18 UTC**
+- Last updated: **2026-08-19 18:17 UTC**
 
 ## Source Catalog
 
@@ -361,7 +361,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [arome3/code-to-content](https://github.com/arome3/code-to-content) | 1 | `main` | `skills` | ✅ ok |  |
 | [Arsxxi/Iterative-dev-workflow](https://github.com/Arsxxi/Iterative-dev-workflow) | 2 | `main` | `.` | ✅ ok |  |
 | [Arthurz7887/choose-ontario-agent](https://github.com/Arthurz7887/choose-ontario-agent) | 0 | `main` | `.` | ✅ ok |  |
-| [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 40 | `main` | `.` | ✅ ok |  |
+| [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 41 | `main` | `.` | ✅ ok |  |
 | [ArulVelusamy/generate-walkthrough](https://github.com/ArulVelusamy/generate-walkthrough) | 2 | `main` | `skills` | ✅ ok |  |
 | [asale-ai/anything-to-skill](https://github.com/asale-ai/anything-to-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ashfulcra/fulcra-tools](https://github.com/ashfulcra/fulcra-tools) | 19 | `main` | `skills` | ✅ ok |  |
@@ -734,7 +734,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [cubha/claude-workflow-plugins](https://github.com/cubha/claude-workflow-plugins) | 10 | `main` | `.` | ✅ ok |  |
 | [cucupac/shellbrain](https://github.com/cucupac/shellbrain) | 8 | `main` | `.` | ✅ ok |  |
 | [cunhaax/ai-workflow](https://github.com/cunhaax/ai-workflow) | 8 | `master` | `.` | ✅ ok |  |
-| [curie-eng/curie](https://github.com/curie-eng/curie) | 9 | `main` | `.` | ✅ ok |  |
+| [curie-eng/curie](https://github.com/curie-eng/curie) | 10 | `main` | `.` | ✅ ok |  |
 | [cyberchitta/cad-khana](https://github.com/cyberchitta/cad-khana) | 1 | `main` | `skills` | ✅ ok |  |
 | [cyh-skill/field-graph](https://github.com/cyh-skill/field-graph) | 0 | `main` | `.` | ✅ ok |  |
 | [cypggs/fullstack-deploy](https://github.com/cypggs/fullstack-deploy) | 0 | `main` | `.` | ✅ ok |  |
@@ -1382,7 +1382,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ictseoyoungmin/immersive-web-simulation-forge](https://github.com/ictseoyoungmin/immersive-web-simulation-forge) | 1 | `main` | `skills` | ✅ ok |  |
 | [IdanTayree/Blindspot](https://github.com/IdanTayree/Blindspot) | 0 | `main` | `.` | ✅ ok |  |
 | [idean3885/claude-ops-agent](https://github.com/idean3885/claude-ops-agent) | 10 | `main` | `skills` | ✅ ok |  |
-| [igloude/ds-skills](https://github.com/igloude/ds-skills) | 3 | `main` | `skills` | ✅ ok |  |
+| [igloude/ds-skills](https://github.com/igloude/ds-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [igorrendulic/task-graph](https://github.com/igorrendulic/task-graph) | 0 | `main` | `.` | ✅ ok |  |
 | [igorrendulic/tg-customer-support-plugin](https://github.com/igorrendulic/tg-customer-support-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [ihabkhaled/AI-Psychiatry](https://github.com/ihabkhaled/AI-Psychiatry) | 80 | `main` | `.` | ✅ ok |  |
@@ -3539,7 +3539,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [xniperbuilds/rule-audit](https://github.com/xniperbuilds/rule-audit) | 0 | `main` | `.` | ✅ ok |  |
 | [xnjiang/autowhisper-skill](https://github.com/xnjiang/autowhisper-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [xntj-ai/lean-canvas-coach](https://github.com/xntj-ai/lean-canvas-coach) | 0 | `main` | `.` | ✅ ok |  |
-| [Xopoko/plug-n-skills](https://github.com/Xopoko/plug-n-skills) | 119 | `main` | `.` | ✅ ok |  |
+| [Xopoko/plug-n-skills](https://github.com/Xopoko/plug-n-skills) | 124 | `main` | `.` | ✅ ok |  |
 | [xplusplusai/autoxpp-marketplace](https://github.com/xplusplusai/autoxpp-marketplace) | 19 | `main` | `skills` | ✅ ok |  |
 | [XPOZpublic/xpoz-agent-skills](https://github.com/XPOZpublic/xpoz-agent-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | 1 | `master` | `skills` | ✅ ok |  |
