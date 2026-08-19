@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3763**
-- Discoverable skills: **125,389**
+- Discoverable skills: **125,385**
 - Healthy repos: **3642** · Truncated: **2** · Unavailable: **119**
-- Last updated: **2026-08-19 02:11 UTC**
+- Last updated: **2026-08-19 03:38 UTC**
 
 ## Source Catalog
 
@@ -1499,7 +1499,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jeongph/pdf-scan-audit](https://github.com/jeongph/pdf-scan-audit) | 1 | `main` | `skills` | ✅ ok |  |
 | [JeonKH81/MediStat-EDA](https://github.com/JeonKH81/MediStat-EDA) | 0 | `main` | `.` | ✅ ok |  |
 | [JeonKH81/MediStat-Table1](https://github.com/JeonKH81/MediStat-Table1) | 0 | `main` | `.` | ✅ ok |  |
-| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 5,599 | `main` | `.` | ✅ ok |  |
+| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 5,594 | `main` | `.` | ✅ ok |  |
 | [Jeremyx000/claude-session-index](https://github.com/Jeremyx000/claude-session-index) | 1 | `main` | `skills` | ✅ ok |  |
 | [jeroromano/claude-code-orchestration-template](https://github.com/jeroromano/claude-code-orchestration-template) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [JesseRaber/manus-prompt-engineering-skill](https://github.com/JesseRaber/manus-prompt-engineering-skill) | 0 | `main` | `.` | ✅ ok |  |
@@ -1696,7 +1696,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kennguyen887/agent-foundation](https://github.com/kennguyen887/agent-foundation) | 32 | `main` | `skills` | ✅ ok |  |
 | [kennykankush/skillpack](https://github.com/kennykankush/skillpack) | 22 | `main` | `.` | ✅ ok |  |
 | [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) | 1 | `main` | `skills` | ✅ ok |  |
-| [kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji) | 135 | `main` | `skills` | ✅ ok |  |
+| [kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji) | 136 | `main` | `skills` | ✅ ok |  |
 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [KentQi/product-team-skill](https://github.com/KentQi/product-team-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
