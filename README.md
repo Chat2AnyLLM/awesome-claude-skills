@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3835**
-- Discoverable skills: **126,031**
+- Discoverable skills: **125,707**
 - Healthy repos: **3714** · Truncated: **2** · Unavailable: **119**
-- Last updated: **2026-08-20 02:11 UTC**
+- Last updated: **2026-08-20 03:39 UTC**
 
 ## Source Catalog
 
@@ -129,7 +129,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Adkid-Zephyr/anti-defensive-writing](https://github.com/Adkid-Zephyr/anti-defensive-writing) | 2 | `main` | `skills` | ✅ ok |  |
 | [adkit/ads-skills](https://github.com/adkit/ads-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [adriannoes/awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) | 329 | `main` | `.` | ✅ ok |  |
-| [adriannoes/awesome-vibe-coding](https://github.com/adriannoes/awesome-vibe-coding) | 329 | `main` | `.` | ✅ ok |  |
+| [adriannoes/awesome-vibe-coding](https://github.com/adriannoes/awesome-vibe-coding) | 0 | `main` | `.` | ✅ ok |  |
 | [adrianohenriqueuna-pixel/printkk-agent-skill](https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [AdrianV101/obsidian-pkm-plugin](https://github.com/AdrianV101/obsidian-pkm-plugin) | 6 | `master` | `skills` | ✅ ok |  |
 | [adrknapp/skills](https://github.com/adrknapp/skills) | 1 | `main` | `skills` | ✅ ok |  |
@@ -185,7 +185,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,763 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,764 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -876,7 +876,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Diegocortes15/playwright-ia-automation-framework-saucedemo](https://github.com/Diegocortes15/playwright-ia-automation-framework-saucedemo) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | 9 | `main` | `.` | ✅ ok |  |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 12 | `main` | `.` | ✅ ok |  |
-| [digitaldreams/tuhin](https://github.com/digitaldreams/tuhin) | 25 | `main` | `skills` | ✅ ok |  |
+| [digitaldreams/tuhin](https://github.com/digitaldreams/tuhin) | 26 | `main` | `skills` | ✅ ok |  |
 | [digitaljavelina/the-ai-clinicians-claude-plugins](https://github.com/digitaljavelina/the-ai-clinicians-claude-plugins) | 14 | `main` | `.` | ✅ ok |  |
 | [digitalsamba/digital-samba-skill](https://github.com/digitalsamba/digital-samba-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [dikaia-io/claude-for-legal-paraguay](https://github.com/dikaia-io/claude-for-legal-paraguay) | 20 | `main` | `.` | ✅ ok |  |
@@ -1727,7 +1727,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kenspc/kenspc-claude-plugin](https://github.com/kenspc/kenspc-claude-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [KentQi/product-team-skill](https://github.com/KentQi/product-team-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 5 | `main` | `.` | ✅ ok |  |
-| [KerberosClaw/kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) | 24 | `main` | `.` | ✅ ok |  |
+| [KerberosClaw/kc_ai_skills](https://github.com/KerberosClaw/kc_ai_skills) | 25 | `main` | `.` | ✅ ok |  |
 | [kerilpatel/my-claude-plugin-marketplace](https://github.com/kerilpatel/my-claude-plugin-marketplace) | 8 | `main` | `.` | ✅ ok |  |
 | [ketilaa/claude-altinn-plugin](https://github.com/ketilaa/claude-altinn-plugin) | 5 | `master` | `.` | ✅ ok |  |
 | [kev365/xways-xtension-builder-skill](https://github.com/kev365/xways-xtension-builder-skill) | 0 | `main` | `.claude/skills` | ✅ ok |  |
@@ -3081,7 +3081,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sriptcollector/toolbay-skills](https://github.com/sriptcollector/toolbay-skills) | 20 | `main` | `skills` | ✅ ok |  |
 | [sriptcollector/toolbay-skills-claude-code-skill-pack](https://github.com/sriptcollector/toolbay-skills-claude-code-skill-pack) | 20 | `main` | `skills` | ✅ ok |  |
 | [srivtx/solana-superchargers](https://github.com/srivtx/solana-superchargers) | 1 | `main` | `.` | ✅ ok |  |
-| [Srltas/claude-skills](https://github.com/Srltas/claude-skills) | 17 | `main` | `.` | ✅ ok |  |
+| [Srltas/claude-skills](https://github.com/Srltas/claude-skills) | 18 | `main` | `.` | ✅ ok |  |
 | [srobinson/helioy-plugins](https://github.com/srobinson/helioy-plugins) | 67 | `main` | `.` | ✅ ok |  |
 | [srwbsw/second-agent-skill](https://github.com/srwbsw/second-agent-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [ssskay/claude-skills](https://github.com/ssskay/claude-skills) | 5 | `main` | `.` | ✅ ok |  |
@@ -3431,7 +3431,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [vindm/dotclaude](https://github.com/vindm/dotclaude) | 0 | `main` | `skills` | ✅ ok |  |
 | [vineetu/simple-host](https://github.com/vineetu/simple-host) | 3 | `main` | `.` | ✅ ok |  |
 | [vinsonconsulting/califa-cards](https://github.com/vinsonconsulting/califa-cards) | 1 | `main` | `.` | ✅ ok |  |
-| [vinta/hal-9000](https://github.com/vinta/hal-9000) | 9 | `main` | `skills` | ✅ ok |  |
+| [vinta/hal-9000](https://github.com/vinta/hal-9000) | 10 | `main` | `skills` | ✅ ok |  |
 | [Virag-Koradiya/graybeard](https://github.com/Virag-Koradiya/graybeard) | 1 | `main` | `skills` | ✅ ok |  |
 | [virtualsms-io/claude-skill-sms-verification](https://github.com/virtualsms-io/claude-skill-sms-verification) | 0 | `main` | `.` | ✅ ok |  |
 | [virtualsms-io/sms-skill](https://github.com/virtualsms-io/sms-skill) | 0 | `main` | `.` | ✅ ok |  |
