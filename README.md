@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3835**
-- Discoverable skills: **125,709**
+- Discoverable skills: **125,695**
 - Healthy repos: **3714** · Truncated: **2** · Unavailable: **119**
-- Last updated: **2026-08-20 05:22 UTC**
+- Last updated: **2026-08-20 06:25 UTC**
 
 ## Source Catalog
 
@@ -185,7 +185,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,764 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,765 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -1531,7 +1531,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jhlee0409/omni-harness-kit](https://github.com/jhlee0409/omni-harness-kit) | 12 | `main` | `skills` | ✅ ok |  |
 | [JHostalek/dotclaude](https://github.com/JHostalek/dotclaude) | 32 | `main` | `skills` | ✅ ok |  |
 | [ji-in-loop/nohello](https://github.com/ji-in-loop/nohello) | 1 | `main` | `skills` | ✅ ok |  |
-| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 38 | `main` | `.` | ✅ ok |  |
+| [jianshuo/claude-skills](https://github.com/jianshuo/claude-skills) | 39 | `main` | `.` | ✅ ok |  |
 | [JiaWeiXie/swarm-pi-code-plugin](https://github.com/JiaWeiXie/swarm-pi-code-plugin) | 10 | `main` | `.` | ✅ ok |  |
 | [jiayi-ThE-CREATOR/es-coach-skills](https://github.com/jiayi-ThE-CREATOR/es-coach-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [jiayou20021120-afk/paper-conductor](https://github.com/jiayou20021120-afk/paper-conductor) | 0 | `main` | `.` | ✅ ok |  |
@@ -2149,7 +2149,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MiracleWeb3/claude-memory-light](https://github.com/MiracleWeb3/claude-memory-light) | 3 | `main` | `skills` | ✅ ok |  |
 | [MiracleWeb3/metal](https://github.com/MiracleWeb3/metal) | 0 | `main` | `.` | ✅ ok |  |
 | [mirkobozzetto/arsenal](https://github.com/mirkobozzetto/arsenal) | 8 | `main` | `.` | ✅ ok |  |
-| [Misaka16384/magi](https://github.com/Misaka16384/magi) | 17 | `main` | `skills` | ✅ ok |  |
+| [Misaka16384/magi](https://github.com/Misaka16384/magi) | 0 | `main` | `skills` | ✅ ok |  |
 | [mishafyi/claudus-maximus](https://github.com/mishafyi/claudus-maximus) | 5 | `master` | `.` | ✅ ok |  |
 | [mishahanin/heading-os-marketplace](https://github.com/mishahanin/heading-os-marketplace) | 12 | `main` | `.` | ✅ ok |  |
 | [Misoto22/skills](https://github.com/Misoto22/skills) | 15 | `main` | `.` | ✅ ok |  |
@@ -2758,7 +2758,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [RoXsaita/debank-portfolio-skill](https://github.com/RoXsaita/debank-portfolio-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [royvergara/design-team-os](https://github.com/royvergara/design-team-os) | 18 | `main` | `skills` | ✅ ok |  |
 | [rrezartprebreza/spring-boot-skills](https://github.com/rrezartprebreza/spring-boot-skills) | 60 | `main` | `skills` | ✅ ok |  |
-| [rs2pydev/claude-skills](https://github.com/rs2pydev/claude-skills) | 2 | `main` | `.` | ✅ ok |  |
+| [rs2pydev/claude-skills](https://github.com/rs2pydev/claude-skills) | 3 | `main` | `.` | ✅ ok |  |
 | [rse/ase](https://github.com/rse/ase) | 48 | `master` | `.` | ✅ ok |  |
 | [rterakedis/leanwheel-skills](https://github.com/rterakedis/leanwheel-skills) | 43 | `main` | `.claude/skills` | ✅ ok |  |
 | [RubenGlez/mobile-design](https://github.com/RubenGlez/mobile-design) | 0 | `main` | `.` | ✅ ok |  |
