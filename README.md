@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3849**
-- Discoverable skills: **125,751**
+- Discoverable skills: **125,758**
 - Healthy repos: **3726** · Truncated: **2** · Unavailable: **121**
-- Last updated: **2026-08-20 11:16 UTC**
+- Last updated: **2026-08-20 12:23 UTC**
 
 ## Source Catalog
 
@@ -186,7 +186,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,777 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,778 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -2641,8 +2641,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [quietmachineworks/qmw](https://github.com/quietmachineworks/qmw) | 3 | `main` | `skills` | ✅ ok |  |
 | [quietmill/respeak](https://github.com/quietmill/respeak) | 0 | `main` | `.` | ✅ ok |  |
 | [quiknode-labs/blockchain-skills](https://github.com/quiknode-labs/blockchain-skills) | 1 | `main` | `skills` | ✅ ok |  |
-| [qupunto/workflow-secretary](https://github.com/qupunto/workflow-secretary) | 25 | `main` | `skills` | ✅ ok |  |
-| [qupunto/workflow-secretary-suite](https://github.com/qupunto/workflow-secretary-suite) | 25 | `main` | `skills` | ✅ ok |  |
+| [qupunto/workflow-secretary](https://github.com/qupunto/workflow-secretary) | 24 | `main` | `skills` | ✅ ok |  |
+| [qupunto/workflow-secretary-suite](https://github.com/qupunto/workflow-secretary-suite) | 24 | `main` | `skills` | ✅ ok |  |
 | [qwerfunch/cladding](https://github.com/qwerfunch/cladding) | 54 | `main` | `.` | ✅ ok |  |
 | [qwwiwi/dashi-plugin-claude-code](https://github.com/qwwiwi/dashi-plugin-claude-code) | 1 | `main` | `skills` | ✅ ok |  |
 | [qxbyte/pluginhub](https://github.com/qxbyte/pluginhub) | 16 | `main` | `.` | ✅ ok |  |
@@ -2858,7 +2858,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sdsrss/loop-testing](https://github.com/sdsrss/loop-testing) | 1 | `main` | `skills` | ✅ ok |  |
 | [sdsrss/loop_eng](https://github.com/sdsrss/loop_eng) | 1 | `main` | `skills` | ✅ ok |  |
 | [sdsrss/sgc](https://github.com/sdsrss/sgc) | 9 | `main` | `.` | ✅ ok |  |
-| [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 10 | `main` | `.` | ✅ ok |  |
+| [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 19 | `main` | `.` | ✅ ok |  |
 | [seal-7/shintenshin](https://github.com/seal-7/shintenshin) | 2 | `main` | `skills` | ✅ ok |  |
 | [Sean190828/crun-agent-skills](https://github.com/Sean190828/crun-agent-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [seanjr2847/seo-miner](https://github.com/seanjr2847/seo-miner) | 4 | `main` | `skills` | ✅ ok |  |
@@ -3101,7 +3101,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) | 13 | `main` | `skills` | ✅ ok |  |
 | [stbarbe/agent-skills-cli](https://github.com/stbarbe/agent-skills-cli) | 2 | `main` | `skills` | ✅ ok |  |
 | [stealth-engine/skills](https://github.com/stealth-engine/skills) | 20 | `main` | `skills` | ✅ ok |  |
-| [SteerSpec/.claude](https://github.com/SteerSpec/.claude) | 1 | `main` | `skills` | ✅ ok |  |
+| [SteerSpec/.claude](https://github.com/SteerSpec/.claude) | 0 | `main` | `skills` | ✅ ok |  |
 | [stefan-stepzero/shipkit](https://github.com/stefan-stepzero/shipkit) | 40 | `main` | `.` | ✅ ok |  |
 | [stefanobaghino/simple-output-styles](https://github.com/stefanobaghino/simple-output-styles) | 2 | `main` | `.` | ✅ ok |  |
 | [stefanoskarakasis/Product-Marketing-Skills](https://github.com/stefanoskarakasis/Product-Marketing-Skills) | 21 | `main` | `.` | ✅ ok |  |
