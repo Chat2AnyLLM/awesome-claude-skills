@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3885**
-- Discoverable skills: **126,253**
+- Discoverable skills: **126,249**
 - Healthy repos: **3761** · Truncated: **2** · Unavailable: **122**
-- Last updated: **2026-08-21 02:16 UTC**
+- Last updated: **2026-08-21 03:41 UTC**
 
 ## Source Catalog
 
@@ -538,7 +538,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [brennacodes/brenna-plugs](https://github.com/brennacodes/brenna-plugs) | 79 | `main` | `.` | ✅ ok |  |
 | [BrennanJCollins/UnabatedPM-coaching](https://github.com/BrennanJCollins/UnabatedPM-coaching) | 28 | `main` | `.` | ✅ ok |  |
 | [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 6 | `main` | `skills` | ✅ ok |  |
-| [BriarDevv/skills](https://github.com/BriarDevv/skills) | 5 | `main` | `skills` | ✅ ok |  |
+| [BriarDevv/skills](https://github.com/BriarDevv/skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [brilliantdirectories/brilliant-directories-mcp](https://github.com/brilliantdirectories/brilliant-directories-mcp) | 0 | `main` | `.` | ✅ ok |  |
 | [brissonjo-sudo/droit-francais-skill](https://github.com/brissonjo-sudo/droit-francais-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [brittanyslay/web-qa](https://github.com/brittanyslay/web-qa) | 0 | `main` | `.` | ✅ ok |  |
@@ -570,7 +570,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [by-carlos/daikenja](https://github.com/by-carlos/daikenja) | 15 | `main` | `skills` | ✅ ok |  |
 | [by-carlos/plan-staged-rollout](https://github.com/by-carlos/plan-staged-rollout) | 1 | `main` | `skills` | ✅ ok |  |
 | [byensitmagnus/sitesmith](https://github.com/byensitmagnus/sitesmith) | 1 | `main` | `skills` | ✅ ok |  |
-| [bygama/skills](https://github.com/bygama/skills) | 5 | `main` | `skills` | ✅ ok |  |
+| [bygama/skills](https://github.com/bygama/skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [byte271/mirrorframe](https://github.com/byte271/mirrorframe) | 0 | `main` | `.` | ✅ ok |  |
 | [BytesFromToby/plumbline](https://github.com/BytesFromToby/plumbline) | 9 | `main` | `skills` | ✅ ok |  |
 | [C0FFEEC0DE/agnthive](https://github.com/C0FFEEC0DE/agnthive) | 9 | `main` | `.` | ✅ ok |  |
@@ -1149,7 +1149,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [G59-Toneli/agent-harness](https://github.com/G59-Toneli/agent-harness) | 0 | `main` | `.` | ✅ ok |  |
 | [gabelul/stitch-kit](https://github.com/gabelul/stitch-kit) | 36 | `main` | `skills` | ✅ ok |  |
 | [gabrieldabbah/genesis](https://github.com/gabrieldabbah/genesis) | 10 | `main` | `skills` | ✅ ok |  |
-| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 420 | `main` | `.` | ✅ ok |  |
+| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 418 | `main` | `.` | ✅ ok |  |
 | [gageracer/svelte5-migration-analyst](https://github.com/gageracer/svelte5-migration-analyst) | 1 | `main` | `skills` | ✅ ok |  |
 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 23 | `main` | `.` | ✅ ok |  |
 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | `main` | `.claude/skills` | ✅ ok |  |
@@ -2880,7 +2880,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SeagullTwo/uk-planning-skills](https://github.com/SeagullTwo/uk-planning-skills) | 19 | `main` | `.` | ✅ ok |  |
 | [seal-7/shintenshin](https://github.com/seal-7/shintenshin) | 2 | `main` | `skills` | ✅ ok |  |
 | [Sean190828/crun-agent-skills](https://github.com/Sean190828/crun-agent-skills) | 8 | `main` | `skills` | ✅ ok |  |
-| [seanjr2847/seo-miner](https://github.com/seanjr2847/seo-miner) | 4 | `main` | `skills` | ✅ ok |  |
+| [seanjr2847/seo-miner](https://github.com/seanjr2847/seo-miner) | 3 | `main` | `skills` | ✅ ok |  |
 | [search-atlas-group/amm-founding-circle](https://github.com/search-atlas-group/amm-founding-circle) | 64 | `main` | `skills` | ✅ ok |  |
 | [SearchCans/searchcans-skills-zh](https://github.com/SearchCans/searchcans-skills-zh) | 7 | `main` | `skills` | ✅ ok |  |
 | [secondsky/claude-skills](https://github.com/secondsky/claude-skills) | 187 | `main` | `.` | ✅ ok |  |
@@ -3532,7 +3532,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Wavez/debrief-skill](https://github.com/Wavez/debrief-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [wayne930242/grillboard](https://github.com/wayne930242/grillboard) | 3 | `main` | `skills` | ✅ ok |  |
 | [wayne930242/Reflexive-Claude-Code](https://github.com/wayne930242/Reflexive-Claude-Code) | 29 | `main` | `.` | ✅ ok |  |
-| [wayne930242/straw-boss](https://github.com/wayne930242/straw-boss) | 11 | `main` | `skills` | ✅ ok |  |
+| [wayne930242/straw-boss](https://github.com/wayne930242/straw-boss) | 12 | `main` | `skills` | ✅ ok |  |
 | [wazionapps/nexo](https://github.com/wazionapps/nexo) | 1 | `main` | `.` | ✅ ok |  |
 | [weakened-fixedinvestmenttrust229/pm-skills-ko](https://github.com/weakened-fixedinvestmenttrust229/pm-skills-ko) | 65 | `main` | `.` | ✅ ok |  |
 | [Weaverse/.agents](https://github.com/Weaverse/.agents) | 6 | `main` | `skills` | ✅ ok |  |
