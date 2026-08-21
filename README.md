@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3900**
-- Discoverable skills: **126,656**
+- Discoverable skills: **126,663**
 - Healthy repos: **3775** · Truncated: **2** · Unavailable: **123**
-- Last updated: **2026-08-21 11:17 UTC**
+- Last updated: **2026-08-21 12:22 UTC**
 
 ## Source Catalog
 
@@ -1515,7 +1515,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [janineagu4049/live-workshop-skill](https://github.com/janineagu4049/live-workshop-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | 1 | `main` | `skills` | ✅ ok |  |
 | [Jarroslav/agentic-os](https://github.com/Jarroslav/agentic-os) | 33 | `main` | `.` | ✅ ok |  |
-| [JarrydAdaens/agentic_rails_marketplace](https://github.com/JarrydAdaens/agentic_rails_marketplace) | 12 | `main` | `.` | ✅ ok |  |
+| [JarrydAdaens/agentic_rails_marketplace](https://github.com/JarrydAdaens/agentic_rails_marketplace) | 18 | `main` | `.` | ✅ ok |  |
 | [Jartan-LLC/grimoire](https://github.com/Jartan-LLC/grimoire) | 40 | `main` | `.` | ✅ ok |  |
 | [jason201385-commits/positioning-companion](https://github.com/jason201385-commits/positioning-companion) | 0 | `main` | `.` | ✅ ok |  |
 | [jason8-8/start-working-template](https://github.com/jason8-8/start-working-template) | 0 | `main` | `.` | ✅ ok |  |
@@ -1767,7 +1767,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [khadinakbarlabs/shopify-app-builder](https://github.com/khadinakbarlabs/shopify-app-builder) | 32 | `main` | `skills` | ✅ ok |  |
 | [khalilmaaouni/BrotherSBE](https://github.com/khalilmaaouni/BrotherSBE) | 16 | `main` | `skills` | ✅ ok |  |
-| [khanhvo2172-dotcom/seo-skills](https://github.com/khanhvo2172-dotcom/seo-skills) | 11 | `main` | `.` | ✅ ok |  |
+| [khanhvo2172-dotcom/seo-skills](https://github.com/khanhvo2172-dotcom/seo-skills) | 12 | `main` | `.` | ✅ ok |  |
 | [khasky/awesome-agent-skills](https://github.com/khasky/awesome-agent-skills) | 28 | `main` | `skills` | ✅ ok |  |
 | [khemratechconsulting/github-actions-setup](https://github.com/khemratechconsulting/github-actions-setup) | 1 | `main` | `skills` | ✅ ok |  |
 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 3 | `main` | `skills` | ✅ ok |  |
