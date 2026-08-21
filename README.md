@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3877**
-- Discoverable skills: **126,138**
+- Discoverable skills: **126,141**
 - Healthy repos: **3753** · Truncated: **2** · Unavailable: **122**
-- Last updated: **2026-08-20 23:15 UTC**
+- Last updated: **2026-08-21 00:33 UTC**
 
 ## Source Catalog
 
@@ -644,7 +644,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [choiyounggi/groundwork](https://github.com/choiyounggi/groundwork) | 7 | `main` | `.` | ✅ ok |  |
 | [Chrike/coding-agent-skills](https://github.com/Chrike/coding-agent-skills) | 23 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/anchor](https://github.com/chris-peterson/anchor) | 9 | `main` | `skills` | ✅ ok |  |
-| [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 1 | `main` | `skills` | ✅ ok |  |
+| [chris-peterson/beacon](https://github.com/chris-peterson/beacon) | 0 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/sextant](https://github.com/chris-peterson/sextant) | 3 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/shipshape](https://github.com/chris-peterson/shipshape) | 2 | `main` | `skills` | ✅ ok |  |
 | [chris-peterson/tack](https://github.com/chris-peterson/tack) | 3 | `main` | `skills` | ✅ ok |  |
@@ -1146,7 +1146,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [G59-Toneli/agent-harness](https://github.com/G59-Toneli/agent-harness) | 0 | `main` | `.` | ✅ ok |  |
 | [gabelul/stitch-kit](https://github.com/gabelul/stitch-kit) | 36 | `main` | `skills` | ✅ ok |  |
 | [gabrieldabbah/genesis](https://github.com/gabrieldabbah/genesis) | 10 | `main` | `skills` | ✅ ok |  |
-| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 421 | `main` | `.` | ✅ ok |  |
+| [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 422 | `main` | `.` | ✅ ok |  |
 | [gageracer/svelte5-migration-analyst](https://github.com/gageracer/svelte5-migration-analyst) | 1 | `main` | `skills` | ✅ ok |  |
 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 23 | `main` | `.` | ✅ ok |  |
 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | `main` | `.claude/skills` | ✅ ok |  |
@@ -2467,7 +2467,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [othmane55/claude-collective-intelligence](https://github.com/othmane55/claude-collective-intelligence) | 5 | `main` | `skills` | ✅ ok |  |
 | [ou-sei/ai-dev-market](https://github.com/ou-sei/ai-dev-market) | 1 | `main` | `.` | ✅ ok |  |
 | [Out-bloodspavin173/openalex-skill](https://github.com/Out-bloodspavin173/openalex-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 128 | `main` | `skills` | ✅ ok |  |
+| [OutlineDriven/odin-claude-plugin](https://github.com/OutlineDriven/odin-claude-plugin) | 131 | `main` | `skills` | ✅ ok |  |
 | [outreachmagic/email-finder](https://github.com/outreachmagic/email-finder) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/lead-enrich](https://github.com/outreachmagic/lead-enrich) | 0 | `main` | `.` | ✅ ok |  |
 | [outreachmagic/outreachmagic](https://github.com/outreachmagic/outreachmagic) | 1 | `main` | `skills` | ✅ ok |  |
