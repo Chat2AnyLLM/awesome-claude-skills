@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3964**
-- Discoverable skills: **127,412**
+- Discoverable skills: **127,448**
 - Healthy repos: **3837** · Truncated: **2** · Unavailable: **125**
-- Last updated: **2026-08-22 11:13 UTC**
+- Last updated: **2026-08-22 12:16 UTC**
 
 ## Source Catalog
 
@@ -1531,9 +1531,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jangviktor-web/nihaixia](https://github.com/jangviktor-web/nihaixia) | 0 | `main` | `.` | ✅ ok |  |
 | [jangviktor-web/wujutong](https://github.com/jangviktor-web/wujutong) | 0 | `main` | `.` | ✅ ok |  |
 | [janineagu4049/live-workshop-skill](https://github.com/janineagu4049/live-workshop-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | 1 | `main` | `skills` | ✅ ok |  |
+| [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | 3 | `main` | `skills` | ✅ ok |  |
 | [Jarroslav/agentic-os](https://github.com/Jarroslav/agentic-os) | 33 | `main` | `.` | ✅ ok |  |
-| [JarrydAdaens/agentic_rails_marketplace](https://github.com/JarrydAdaens/agentic_rails_marketplace) | 18 | `main` | `.` | ✅ ok |  |
+| [JarrydAdaens/agentic_rails_marketplace](https://github.com/JarrydAdaens/agentic_rails_marketplace) | 51 | `main` | `.` | ✅ ok |  |
 | [Jartan-LLC/grimoire](https://github.com/Jartan-LLC/grimoire) | 40 | `main` | `.` | ✅ ok |  |
 | [jason201385-commits/positioning-companion](https://github.com/jason201385-commits/positioning-companion) | 0 | `main` | `.` | ✅ ok |  |
 | [jason8-8/start-working-template](https://github.com/jason8-8/start-working-template) | 0 | `main` | `.` | ✅ ok |  |
@@ -1930,7 +1930,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [LH8PPL/core-memory-kit](https://github.com/LH8PPL/core-memory-kit) | 7 | `main` | `.` | ✅ ok |  |
 | [lhitches/claude-seo-skills](https://github.com/lhitches/claude-seo-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [liatrio-labs/claude-code-gauntlet](https://github.com/liatrio-labs/claude-code-gauntlet) | 2 | `main` | `skills` | ✅ ok |  |
-| [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 64 | `main` | `.` | ✅ ok |  |
+| [Lifecycle-Innovations-Limited/claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops) | 65 | `main` | `.` | ✅ ok |  |
 | [lignertys/reddit-research-skills](https://github.com/lignertys/reddit-research-skills) | 5 | `main` | `skills` | ✅ ok |  |
 | [LikeMindsCommunity/agentic-workflow-backend](https://github.com/LikeMindsCommunity/agentic-workflow-backend) | 11 | `master` | `.claude/skills` | ✅ ok |  |
 | [LilyCTM/claude-mentor-skills](https://github.com/LilyCTM/claude-mentor-skills) | 3 | `main` | `skills` | ✅ ok |  |
