@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3953**
-- Discoverable skills: **127,311**
+- Discoverable skills: **127,312**
 - Healthy repos: **3827** · Truncated: **2** · Unavailable: **124**
-- Last updated: **2026-08-22 05:18 UTC**
+- Last updated: **2026-08-22 06:20 UTC**
 
 ## Source Catalog
 
@@ -3216,7 +3216,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SumanasJ/coc-kp-host](https://github.com/SumanasJ/coc-kp-host) | 0 | `main` | `.` | ✅ ok |  |
 | [Sumedh1599/chess-theory](https://github.com/Sumedh1599/chess-theory) | 0 | `main` | `.` | ✅ ok |  |
 | [sumeetmi2/architecture-debt-visualizer](https://github.com/sumeetmi2/architecture-debt-visualizer) | 2 | `main` | `skills` | ✅ ok |  |
-| [sumitake/agent-collab](https://github.com/sumitake/agent-collab) | 52 | `main` | `.` | ✅ ok |  |
+| [sumitake/agent-collab](https://github.com/sumitake/agent-collab) | 53 | `main` | `.` | ✅ ok |  |
 | [sumomowynaut/sayu-perspective](https://github.com/sumomowynaut/sayu-perspective) | 0 | `main` | `.` | ✅ ok |  |
 | [sunchaokun/PPT-Design-Skill](https://github.com/sunchaokun/PPT-Design-Skill) | 0 | `main` | `.` | ✅ ok |  |
 | [sundarshahi/drydock](https://github.com/sundarshahi/drydock) | 19 | `main` | `skills` | ✅ ok |  |
