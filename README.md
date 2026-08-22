@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3953**
-- Discoverable skills: **127,288**
+- Discoverable skills: **127,315**
 - Healthy repos: **3828** · Truncated: **2** · Unavailable: **123**
-- Last updated: **2026-08-22 02:09 UTC**
+- Last updated: **2026-08-22 03:33 UTC**
 
 ## Source Catalog
 
@@ -846,8 +846,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Dcrr1717/skill-advisor](https://github.com/Dcrr1717/skill-advisor) | 0 | `main` | `.` | ✅ ok |  |
 | [dd3ok/naverstock-api-skill](https://github.com/dd3ok/naverstock-api-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ddanntheman/GrantForge](https://github.com/ddanntheman/GrantForge) | 9 | `main` | `.` | ✅ ok |  |
-| [ddtcorex/agent-dev-skills](https://github.com/ddtcorex/agent-dev-skills) | 11 | `master` | `skills` | ✅ ok |  |
-| [ddtcorex/dev-skills-hub](https://github.com/ddtcorex/dev-skills-hub) | 11 | `master` | `skills` | ✅ ok |  |
+| [ddtcorex/agent-dev-skills](https://github.com/ddtcorex/agent-dev-skills) | 25 | `master` | `skills` | ✅ ok |  |
+| [ddtcorex/dev-skills-hub](https://github.com/ddtcorex/dev-skills-hub) | 25 | `master` | `skills` | ✅ ok |  |
 | [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) | 77 | `main` | `skills` | ✅ ok |  |
 | [debabsah/superstack](https://github.com/debabsah/superstack) | 25 | `main` | `skills` | ✅ ok |  |
 | [debba/free-my-arch](https://github.com/debba/free-my-arch) | 0 | `main` | `.` | ✅ ok |  |
@@ -3788,7 +3788,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [zacklecon/claude-skills](https://github.com/zacklecon/claude-skills) | 66 | `main` | `skills` | ✅ ok |  |
 | [Zaious/journal-atlas](https://github.com/Zaious/journal-atlas) | 2 | `main` | `skills` | ✅ ok |  |
 | [Zaious/riftbound-chronicle](https://github.com/Zaious/riftbound-chronicle) | 1 | `main` | `.` | ✅ ok |  |
-| [zalom/plastic](https://github.com/zalom/plastic) | 37 | `main` | `skills` | ✅ ok |  |
+| [zalom/plastic](https://github.com/zalom/plastic) | 36 | `main` | `skills` | ✅ ok |  |
 | [zamushwani/biomedical-ai-skills](https://github.com/zamushwani/biomedical-ai-skills) | 10 | `main` | `skills` | ✅ ok |  |
 | [Zandereins/hydra](https://github.com/Zandereins/hydra) | 0 | `main` | `.` | ✅ ok |  |
 | [Zaosusu/resume-onepager](https://github.com/Zaosusu/resume-onepager) | 0 | `main` | `.` | ✅ ok |  |
