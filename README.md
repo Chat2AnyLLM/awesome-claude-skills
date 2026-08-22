@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3976**
-- Discoverable skills: **127,518**
+- Discoverable skills: **127,540**
 - Healthy repos: **3848** · Truncated: **2** · Unavailable: **126**
-- Last updated: **2026-08-22 17:12 UTC**
+- Last updated: **2026-08-22 18:13 UTC**
 
 ## Source Catalog
 
@@ -2419,7 +2419,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [nordicnode/skillpack](https://github.com/nordicnode/skillpack) | 4 | `main` | `.` | ✅ ok |  |
 | [normalled/apijack](https://github.com/normalled/apijack) | 10 | `main` | `.claude/skills` | ✅ ok |  |
 | [Northwestern-caddo190/dashmotion](https://github.com/Northwestern-caddo190/dashmotion) | 1 | `main` | `skills` | ✅ ok |  |
-| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 120 | `main` | `skills` | ✅ ok |  |
+| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 121 | `main` | `skills` | ✅ ok |  |
 | [novanoticia/token-calculator-suite](https://github.com/novanoticia/token-calculator-suite) | 4 | `main` | `skills` | ✅ ok |  |
 | [novoads/agent-skills](https://github.com/novoads/agent-skills) | 13 | `main` | `skills` | ✅ ok |  |
 | [novoads/claude-code-ads](https://github.com/novoads/claude-code-ads) | 13 | `main` | `skills` | ✅ ok |  |
@@ -2476,7 +2476,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ontology-of-everything/SemanticSkills](https://github.com/ontology-of-everything/SemanticSkills) | 5 | `main` | `skills` | ✅ ok |  |
 | [ooooooooooooooooooop/agent-tools](https://github.com/ooooooooooooooooooop/agent-tools) | 12 | `main` | `skills` | ✅ ok |  |
 | [ooooooooooooooooooop/skills](https://github.com/ooooooooooooooooooop/skills) | 13 | `main` | `.` | ✅ ok |  |
-| [Ootto-AI/claude-content-skills](https://github.com/Ootto-AI/claude-content-skills) | 14 | `main` | `skills` | ✅ ok |  |
+| [Ootto-AI/claude-content-skills](https://github.com/Ootto-AI/claude-content-skills) | 31 | `main` | `skills` | ✅ ok |  |
 | [Ootto-AI/ootto-watch](https://github.com/Ootto-AI/ootto-watch) | 0 | `main` | `.` | ✅ ok |  |
 | [opefyre/auditsmith](https://github.com/opefyre/auditsmith) | 1 | `main` | `.` | ✅ ok |  |
 | [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) | 19 | `main` | `skills` | ✅ ok |  |
@@ -3710,7 +3710,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [xr843/Master-skill](https://github.com/xr843/Master-skill) | 20 | `main` | `.` | ✅ ok |  |
 | [xs2tariqrasheed/strict-property-access](https://github.com/xs2tariqrasheed/strict-property-access) | 1 | `main` | `.` | ✅ ok |  |
 | [XTSoftwareLabs/neatcontext-plugins](https://github.com/XTSoftwareLabs/neatcontext-plugins) | 25 | `main` | `.` | ✅ ok |  |
-| [xu-jin-cs/dsh-skills](https://github.com/xu-jin-cs/dsh-skills) | 2 | `main` | `.` | ✅ ok |  |
+| [xu-jin-cs/dsh-skills](https://github.com/xu-jin-cs/dsh-skills) | 4 | `main` | `.` | ✅ ok |  |
 | [xuboboo/grok-geo](https://github.com/xuboboo/grok-geo) | 1 | `main` | `.` | ✅ ok |  |
 | [Xue-Sir/skills-manager](https://github.com/Xue-Sir/skills-manager) | 0 | `main` | `.` | ✅ ok |  |
 | [xvary-research/claude-code-stock-analysis-skill](https://github.com/xvary-research/claude-code-stock-analysis-skill) | 2 | `main` | `.` | ✅ ok |  |
@@ -3766,7 +3766,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [yojahny55/claude-wp-builder](https://github.com/yojahny55/claude-wp-builder) | 11 | `main` | `skills` | ✅ ok |  |
 | [yokeloop/yoke](https://github.com/yokeloop/yoke) | 15 | `main` | `skills` | ✅ ok |  |
 | [YonasValentin/claude-kimi-relay](https://github.com/YonasValentin/claude-kimi-relay) | 7 | `main` | `.` | ✅ ok |  |
-| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | 220 | `main` | `.` | ✅ ok |  |
+| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | 222 | `main` | `.` | ✅ ok |  |
 | [YoniChechik/claude-code-config](https://github.com/YoniChechik/claude-code-config) | 31 | `main` | `skills` | ✅ ok |  |
 | [yosishe/token-efficient-skill-optimizer](https://github.com/yosishe/token-efficient-skill-optimizer) | 12 | `main` | `.` | ✅ ok |  |
 | [yotron-ai/transcribe-meeting](https://github.com/yotron-ai/transcribe-meeting) | 0 | `main` | `.` | ✅ ok |  |
