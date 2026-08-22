@@ -6,8 +6,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 
 - Enabled source repositories: **3976**
 - Discoverable skills: **127,505**
-- Healthy repos: **3848** · Truncated: **2** · Unavailable: **126**
-- Last updated: **2026-08-22 15:12 UTC**
+- Healthy repos: **3847** · Truncated: **2** · Unavailable: **127**
+- Last updated: **2026-08-22 16:10 UTC**
 
 ## Source Catalog
 
@@ -190,7 +190,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,794 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,797 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -454,7 +454,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [baokhang83/fluencyloop](https://github.com/baokhang83/fluencyloop) | 11 | `main` | `.` | ✅ ok |  |
 | [bar148/ben-adam-humanizer](https://github.com/bar148/ben-adam-humanizer) | 0 | `main` | `.` | ✅ ok |  |
 | [Basic-XYZ/baku-skills](https://github.com/Basic-XYZ/baku-skills) | 7 | `main` | `.` | ✅ ok |  |
-| [batterfried-philosophy172/Agent-Startup-Skills](https://github.com/batterfried-philosophy172/Agent-Startup-Skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [bayeslabs-rsi/Svatah](https://github.com/bayeslabs-rsi/Svatah) | 6 | `main` | `.` | ✅ ok |  |
 | [baytcho/spider-dead-code-skill](https://github.com/baytcho/spider-dead-code-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Bbk-man/claude-code-owasp](https://github.com/Bbk-man/claude-code-owasp) | 1 | `main` | `.claude/skills` | ✅ ok |  |
@@ -1497,7 +1496,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [its-me-prash/kleinanzeigen-reader](https://github.com/its-me-prash/kleinanzeigen-reader) | 3 | `main` | `.` | ✅ ok |  |
 | [itsgitz/agent-skills](https://github.com/itsgitz/agent-skills) | 3 | `master` | `.` | ✅ ok |  |
 | [iuliandita/skills](https://github.com/iuliandita/skills) | 47 | `main` | `skills` | ✅ ok |  |
-| [iuripereira/deltaspec](https://github.com/iuripereira/deltaspec) | 15 | `main` | `skills` | ✅ ok |  |
+| [iuripereira/deltaspec](https://github.com/iuripereira/deltaspec) | 17 | `main` | `skills` | ✅ ok |  |
 | [IvanMurzak/ai-game-dev-plugin](https://github.com/IvanMurzak/ai-game-dev-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [IvanMurzak/claude-code-game-dev](https://github.com/IvanMurzak/claude-code-game-dev) | 6 | `main` | `.` | ✅ ok |  |
 | [ivuorinen/skills](https://github.com/ivuorinen/skills) | 6 | `main` | `.claude/skills` | ✅ ok |  |
@@ -1762,7 +1761,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kelegele/oh-my-pm](https://github.com/kelegele/oh-my-pm) | 12 | `main` | `skills` | ✅ ok |  |
 | [Kelinop/noesis-tutorial](https://github.com/Kelinop/noesis-tutorial) | 0 | `main` | `.` | ✅ ok |  |
 | [Kelonwai/claude-skills](https://github.com/Kelonwai/claude-skills) | 3 | `main` | `skills` | ✅ ok |  |
-| [kelp/kelp-claude-plugins](https://github.com/kelp/kelp-claude-plugins) | 14 | `main` | `.` | ✅ ok |  |
+| [kelp/kelp-claude-plugins](https://github.com/kelp/kelp-claude-plugins) | 15 | `main` | `.` | ✅ ok |  |
 | [kelsi-bizer/bizer-ai-agent-skills](https://github.com/kelsi-bizer/bizer-ai-agent-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [kemalyy/edumints-scorm-skill](https://github.com/kemalyy/edumints-scorm-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [kenjudy/pdca-agentic-coding-framework](https://github.com/kenjudy/pdca-agentic-coding-framework) | 2 | `main` | `.` | ✅ ok |  |
@@ -3495,7 +3494,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [urveshdev/tradelane-intel](https://github.com/urveshdev/tradelane-intel) | 1 | `main` | `.` | ✅ ok |  |
 | [useosint/osint-skills](https://github.com/useosint/osint-skills) | 29 | `main` | `skills` | ✅ ok |  |
 | [usetheokit/theokit-skill](https://github.com/usetheokit/theokit-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [utk2103/Prompt-Studio](https://github.com/utk2103/Prompt-Studio) | 3 | `main` | `skills` | ✅ ok |  |
+| [utk2103/Prompt-Studio](https://github.com/utk2103/Prompt-Studio) | 6 | `main` | `skills` | ✅ ok |  |
 | [uwuclxdy/agenticat](https://github.com/uwuclxdy/agenticat) | 19 | `main` | `skills` | ✅ ok |  |
 | [Uxcel-Lab/product-skills](https://github.com/Uxcel-Lab/product-skills) | 59 | `main` | `.` | ✅ ok |  |
 | [V-Songbird/claude-plugins](https://github.com/V-Songbird/claude-plugins) | 0 | `main` | `.` | ✅ ok |  |
@@ -3877,6 +3876,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [arete-aios/skills](https://github.com/arete-aios/skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [athola/claude-night-market](https://github.com/athola/claude-night-market) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
+| [batterfried-philosophy172/Agent-Startup-Skills](https://github.com/batterfried-philosophy172/Agent-Startup-Skills) | 0 | `main` | `skills` | ❌ error | Remote end closed connection without response |
 | [bear2u/my-skills](https://github.com/bear2u/my-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [bim-ba/ai](https://github.com/bim-ba/ai) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [BlackRaptorAI/BlackRaptor_Agents](https://github.com/BlackRaptorAI/BlackRaptor_Agents) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
