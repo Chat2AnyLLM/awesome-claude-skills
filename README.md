@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4039**
-- Discoverable skills: **127,598**
+- Discoverable skills: **127,610**
 - Healthy repos: **3908** · Truncated: **2** · Unavailable: **129**
-- Last updated: **2026-08-23 22:11 UTC**
+- Last updated: **2026-08-23 23:11 UTC**
 
 ## Source Catalog
 
@@ -1786,9 +1786,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kelegele/oh-my-pm](https://github.com/kelegele/oh-my-pm) | 12 | `main` | `skills` | ✅ ok |  |
 | [Kelinop/noesis-tutorial](https://github.com/Kelinop/noesis-tutorial) | 0 | `main` | `.` | ✅ ok |  |
 | [Kelonwai/claude-skills](https://github.com/Kelonwai/claude-skills) | 3 | `main` | `skills` | ✅ ok |  |
-| [kelp/agent-plugins](https://github.com/kelp/agent-plugins) | 15 | `main` | `.` | ✅ ok |  |
-| [kelp/kelp-agent-plugins](https://github.com/kelp/kelp-agent-plugins) | 15 | `main` | `.` | ✅ ok |  |
-| [kelp/kelp-claude-plugins](https://github.com/kelp/kelp-claude-plugins) | 15 | `main` | `.` | ✅ ok |  |
+| [kelp/agent-plugins](https://github.com/kelp/agent-plugins) | 17 | `main` | `.` | ✅ ok |  |
+| [kelp/kelp-agent-plugins](https://github.com/kelp/kelp-agent-plugins) | 17 | `main` | `.` | ✅ ok |  |
+| [kelp/kelp-claude-plugins](https://github.com/kelp/kelp-claude-plugins) | 17 | `main` | `.` | ✅ ok |  |
 | [kelsi-bizer/bizer-ai-agent-skills](https://github.com/kelsi-bizer/bizer-ai-agent-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [kemalyy/edumints-scorm-skill](https://github.com/kemalyy/edumints-scorm-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [kenjudy/pdca-agentic-coding-framework](https://github.com/kenjudy/pdca-agentic-coding-framework) | 2 | `main` | `.` | ✅ ok |  |
@@ -2015,7 +2015,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [LorcanChinnock/reflect](https://github.com/LorcanChinnock/reflect) | 0 | `main` | `.` | ✅ ok |  |
 | [loredotlink/lore-plugin](https://github.com/loredotlink/lore-plugin) | 3 | `main` | `skills` | ✅ ok |  |
 | [lorsabyan/claude-advisor-executor-skill](https://github.com/lorsabyan/claude-advisor-executor-skill) | 1 | `main` | `.` | ✅ ok |  |
-| [lost-rob0t/skills](https://github.com/lost-rob0t/skills) | 13 | `main` | `skills` | ✅ ok |  |
+| [lost-rob0t/skills](https://github.com/lost-rob0t/skills) | 16 | `main` | `skills` | ✅ ok |  |
 | [louisdijkstra/claude-toolbox](https://github.com/louisdijkstra/claude-toolbox) | 39 | `main` | `skills` | ✅ ok |  |
 | [Louisedinky226/superstack](https://github.com/Louisedinky226/superstack) | 1 | `main` | `skills` | ✅ ok |  |
 | [Louishin/claude-api-cost-optimization](https://github.com/Louishin/claude-api-cost-optimization) | 0 | `main` | `.` | ✅ ok |  |
@@ -3310,7 +3310,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [svedbg/trz](https://github.com/svedbg/trz) | 1 | `main` | `skills` | ✅ ok |  |
 | [sventorben/decider](https://github.com/sventorben/decider) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [Svur42/teach-pro](https://github.com/Svur42/teach-pro) | 0 | `master` | `.` | ✅ ok |  |
-| [svy04/ballast](https://github.com/svy04/ballast) | 12 | `main` | `skills` | ✅ ok |  |
+| [svy04/ballast](https://github.com/svy04/ballast) | 15 | `main` | `skills` | ✅ ok |  |
 | [swapnil5053/algotrace](https://github.com/swapnil5053/algotrace) | 0 | `main` | `.` | ✅ ok |  |
 | [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [Swastikbhat-lab/kintsugi](https://github.com/Swastikbhat-lab/kintsugi) | 0 | `main` | `.` | ✅ ok |  |
