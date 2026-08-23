@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **3999**
-- Discoverable skills: **127,679**
+- Discoverable skills: **127,683**
 - Healthy repos: **3869** · Truncated: **2** · Unavailable: **128**
-- Last updated: **2026-08-23 05:20 UTC**
+- Last updated: **2026-08-23 06:21 UTC**
 
 ## Source Catalog
 
@@ -555,7 +555,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [brittanyslay/web-qa](https://github.com/brittanyslay/web-qa) | 0 | `main` | `.` | ✅ ok |  |
 | [brokenrobot-xyz/agent-skills](https://github.com/brokenrobot-xyz/agent-skills) | 30 | `main` | `.` | ✅ ok |  |
 | [broneq/bdk](https://github.com/broneq/bdk) | 28 | `main` | `skills` | ✅ ok |  |
-| [broomva/skills](https://github.com/broomva/skills) | 96 | `main` | `skills` | ✅ ok |  |
+| [broomva/skills](https://github.com/broomva/skills) | 97 | `main` | `skills` | ✅ ok |  |
 | [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) | 13 | `master` | `.` | ✅ ok |  |
 | [browser-act/skills](https://github.com/browser-act/skills) | 101 | `main` | `solutions` | ✅ ok |  |
 | [BryceEWatson/claude-global-skills](https://github.com/BryceEWatson/claude-global-skills) | 15 | `main` | `.` | ✅ ok |  |
@@ -3396,7 +3396,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [thinkyou0714/github-flow-kit](https://github.com/thinkyou0714/github-flow-kit) | 7 | `main` | `.` | ✅ ok |  |
 | [thinslatelabs/keepp-skill](https://github.com/thinslatelabs/keepp-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [ThirteenMonthLabXIII/personal-writing-voice](https://github.com/ThirteenMonthLabXIII/personal-writing-voice) | 0 | `main` | `.` | ✅ ok |  |
-| [This-HW/claude-code-kit](https://github.com/This-HW/claude-code-kit) | 16 | `main` | `.` | ✅ ok |  |
+| [This-HW/claude-code-kit](https://github.com/This-HW/claude-code-kit) | 19 | `main` | `.` | ✅ ok |  |
 | [thisAAY/archeyes](https://github.com/thisAAY/archeyes) | 1 | `main` | `.` | ✅ ok |  |
 | [thisis-romar/opendeck-factory](https://github.com/thisis-romar/opendeck-factory) | 5 | `master` | `.claude/skills` | ✅ ok |  |
 | [thisisnsh/planx](https://github.com/thisisnsh/planx) | 1 | `main` | `skills` | ✅ ok |  |
