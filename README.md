@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4039**
-- Discoverable skills: **127,578**
+- Discoverable skills: **127,598**
 - Healthy repos: **3908** · Truncated: **2** · Unavailable: **129**
-- Last updated: **2026-08-23 21:11 UTC**
+- Last updated: **2026-08-23 22:11 UTC**
 
 ## Source Catalog
 
@@ -2454,7 +2454,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [nordicnode/skillpack](https://github.com/nordicnode/skillpack) | 4 | `main` | `.` | ✅ ok |  |
 | [normalled/apijack](https://github.com/normalled/apijack) | 10 | `main` | `.claude/skills` | ✅ ok |  |
 | [Northwestern-caddo190/dashmotion](https://github.com/Northwestern-caddo190/dashmotion) | 1 | `main` | `skills` | ✅ ok |  |
-| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 121 | `main` | `skills` | ✅ ok |  |
+| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 123 | `main` | `skills` | ✅ ok |  |
 | [novanoticia/token-calculator-suite](https://github.com/novanoticia/token-calculator-suite) | 4 | `main` | `skills` | ✅ ok |  |
 | [novoads/agent-skills](https://github.com/novoads/agent-skills) | 13 | `main` | `skills` | ✅ ok |  |
 | [novoads/claude-code-ads](https://github.com/novoads/claude-code-ads) | 13 | `main` | `skills` | ✅ ok |  |
@@ -2518,7 +2518,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Ootto-AI/ootto-watch](https://github.com/Ootto-AI/ootto-watch) | 0 | `main` | `.` | ✅ ok |  |
 | [opefyre/auditsmith](https://github.com/opefyre/auditsmith) | 1 | `main` | `.` | ✅ ok |  |
 | [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) | 19 | `main` | `skills` | ✅ ok |  |
-| [open-coder-ai/chock-claude-plugins](https://github.com/open-coder-ai/chock-claude-plugins) | 32 | `main` | `.` | ✅ ok |  |
+| [open-coder-ai/chock-claude-plugins](https://github.com/open-coder-ai/chock-claude-plugins) | 48 | `main` | `.` | ✅ ok |  |
 | [openapi/openapi-skills](https://github.com/openapi/openapi-skills) | 11 | `main` | `.` | ✅ ok |  |
 | [openclawby/openclawby-skills](https://github.com/openclawby/openclawby-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [OpenCnid/claude-code-skill-creator](https://github.com/OpenCnid/claude-code-skill-creator) | 0 | `main` | `.` | ✅ ok |  |
@@ -3034,7 +3034,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [serradura/okf-gem](https://github.com/serradura/okf-gem) | 5 | `main` | `.` | ✅ ok |  |
 | [Sertelegger/claude-sesh-mover](https://github.com/Sertelegger/claude-sesh-mover) | 1 | `main` | `skills` | ✅ ok |  |
 | [servatusprime/ai_ops](https://github.com/servatusprime/ai_ops) | 13 | `main` | `.` | ✅ ok |  |
-| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 66 | `main` | `skills` | ✅ ok |  |
+| [Servosity/msp-skills](https://github.com/Servosity/msp-skills) | 67 | `main` | `skills` | ✅ ok |  |
 | [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | 48 | `main` | `skills` | ✅ ok |  |
 | [severzemlya/hato](https://github.com/severzemlya/hato) | 1 | `main` | `skills` | ✅ ok |  |
 | [seyedehsanhadi/sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 0 | `main` | `.` | ✅ ok |  |
@@ -3634,7 +3634,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [voxpelli/vp-claude](https://github.com/voxpelli/vp-claude) | 14 | `main` | `skills` | ✅ ok |  |
 | [vsdudakov/troika](https://github.com/vsdudakov/troika) | 23 | `main` | `skills` | ✅ ok |  |
 | [vshidlovsky/prd-agents-framework](https://github.com/vshidlovsky/prd-agents-framework) | 1 | `main` | `skills` | ✅ ok |  |
-| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | 4 | `main` | `.` | ✅ ok |  |
+| [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | 5 | `main` | `.` | ✅ ok |  |
 | [vsladkov/claudex-stereo](https://github.com/vsladkov/claudex-stereo) | 4 | `main` | `.` | ✅ ok |  |
 | [w3nabil/become-human](https://github.com/w3nabil/become-human) | 0 | `main` | `.` | ✅ ok |  |
 | [w4xqz/code-review-skill](https://github.com/w4xqz/code-review-skill) | 1 | `main` | `.` | ✅ ok |  |
