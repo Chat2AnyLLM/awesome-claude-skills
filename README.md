@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4070**
-- Discoverable skills: **129,006**
+- Discoverable skills: **128,991**
 - Healthy repos: **3939** · Truncated: **2** · Unavailable: **129**
-- Last updated: **2026-08-24 11:18 UTC**
+- Last updated: **2026-08-24 12:24 UTC**
 
 ## Source Catalog
 
@@ -960,7 +960,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [docwilde/LORE](https://github.com/docwilde/LORE) | 1 | `main` | `skills` | ✅ ok |  |
 | [DogInfantry/claude-skill-management-consultant-B1](https://github.com/DogInfantry/claude-skill-management-consultant-B1) | 1 | `main` | `.` | ✅ ok |  |
 | [DollarDill/beads-superpowers](https://github.com/DollarDill/beads-superpowers) | 21 | `main` | `skills` | ✅ ok |  |
-| [domengabrovsek/claude](https://github.com/domengabrovsek/claude) | 27 | `main` | `skills` | ✅ ok |  |
+| [domengabrovsek/claude](https://github.com/domengabrovsek/claude) | 28 | `main` | `skills` | ✅ ok |  |
 | [domenicdgenovese/pocket-terminal](https://github.com/domenicdgenovese/pocket-terminal) | 0 | `main` | `.` | ✅ ok |  |
 | [dominikwozniak/dw-solo-skills](https://github.com/dominikwozniak/dw-solo-skills) | 13 | `main` | `skills` | ✅ ok |  |
 | [donald-ada/workinggenius](https://github.com/donald-ada/workinggenius) | 18 | `main` | `skills` | ✅ ok |  |
@@ -2536,7 +2536,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Ootto-AI/ootto-watch](https://github.com/Ootto-AI/ootto-watch) | 0 | `main` | `.` | ✅ ok |  |
 | [opefyre/auditsmith](https://github.com/opefyre/auditsmith) | 1 | `main` | `.` | ✅ ok |  |
 | [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) | 19 | `main` | `skills` | ✅ ok |  |
-| [open-coder-ai/chock-claude-plugins](https://github.com/open-coder-ai/chock-claude-plugins) | 48 | `main` | `.` | ✅ ok |  |
+| [open-coder-ai/chock-claude-plugins](https://github.com/open-coder-ai/chock-claude-plugins) | 32 | `main` | `.` | ✅ ok |  |
 | [openapi/openapi-skills](https://github.com/openapi/openapi-skills) | 11 | `main` | `.` | ✅ ok |  |
 | [openclawby/openclawby-skills](https://github.com/openclawby/openclawby-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [OpenCnid/claude-code-skill-creator](https://github.com/OpenCnid/claude-code-skill-creator) | 0 | `main` | `.` | ✅ ok |  |
