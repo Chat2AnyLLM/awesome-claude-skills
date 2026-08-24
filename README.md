@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4039**
-- Discoverable skills: **127,610**
+- Discoverable skills: **127,613**
 - Healthy repos: **3908** · Truncated: **2** · Unavailable: **129**
-- Last updated: **2026-08-23 23:11 UTC**
+- Last updated: **2026-08-24 00:33 UTC**
 
 ## Source Catalog
 
@@ -2015,7 +2015,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [LorcanChinnock/reflect](https://github.com/LorcanChinnock/reflect) | 0 | `main` | `.` | ✅ ok |  |
 | [loredotlink/lore-plugin](https://github.com/loredotlink/lore-plugin) | 3 | `main` | `skills` | ✅ ok |  |
 | [lorsabyan/claude-advisor-executor-skill](https://github.com/lorsabyan/claude-advisor-executor-skill) | 1 | `main` | `.` | ✅ ok |  |
-| [lost-rob0t/skills](https://github.com/lost-rob0t/skills) | 16 | `main` | `skills` | ✅ ok |  |
+| [lost-rob0t/skills](https://github.com/lost-rob0t/skills) | 17 | `main` | `skills` | ✅ ok |  |
 | [louisdijkstra/claude-toolbox](https://github.com/louisdijkstra/claude-toolbox) | 39 | `main` | `skills` | ✅ ok |  |
 | [Louisedinky226/superstack](https://github.com/Louisedinky226/superstack) | 1 | `main` | `skills` | ✅ ok |  |
 | [Louishin/claude-api-cost-optimization](https://github.com/Louishin/claude-api-cost-optimization) | 0 | `main` | `.` | ✅ ok |  |
@@ -2591,7 +2591,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [paraqualis/paraqualis-gxp](https://github.com/paraqualis/paraqualis-gxp) | 2 | `main` | `skills` | ✅ ok |  |
 | [parasvishwa/beautify-flutter](https://github.com/parasvishwa/beautify-flutter) | 0 | `main` | `.` | ✅ ok |  |
 | [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) | 159 | `main` | `.claude/skills` | ✅ ok |  |
-| [Paretofilm/superpowers-gstack](https://github.com/Paretofilm/superpowers-gstack) | 16 | `main` | `skills` | ✅ ok |  |
+| [Paretofilm/superpowers-gstack](https://github.com/Paretofilm/superpowers-gstack) | 17 | `main` | `skills` | ✅ ok |  |
 | [parisgroup-ai/imersao-ia-setup](https://github.com/parisgroup-ai/imersao-ia-setup) | 74 | `main` | `.` | ✅ ok |  |
 | [parkerfellows/scriptural-exegesis](https://github.com/parkerfellows/scriptural-exegesis) | 0 | `main` | `.` | ✅ ok |  |
 | [parkjui92/fact-verify](https://github.com/parkjui92/fact-verify) | 0 | `main` | `.` | ✅ ok |  |
@@ -2972,7 +2972,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [scagogogo/versions-skills](https://github.com/scagogogo/versions-skills) | 14 | `main` | `skills` | ✅ ok |  |
 | [scdenney/open-science-skills](https://github.com/scdenney/open-science-skills) | 84 | `main` | `.` | ✅ ok |  |
 | [Schmandarine/web-motion-skill](https://github.com/Schmandarine/web-motion-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [schmug/clodcast](https://github.com/schmug/clodcast) | 1 | `main` | `skills` | ✅ ok |  |
+| [schmug/clodcast](https://github.com/schmug/clodcast) | 2 | `main` | `skills` | ✅ ok |  |
 | [schwann2402/quiz-me-skill](https://github.com/schwann2402/quiz-me-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [ScienceIsNeato/slop-mop](https://github.com/ScienceIsNeato/slop-mop) | 4 | `main` | `.` | ✅ ok |  |
 | [scolladon/craft](https://github.com/scolladon/craft) | 19 | `main` | `skills` | ✅ ok |  |
