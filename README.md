@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4122**
-- Discoverable skills: **130,051**
+- Discoverable skills: **130,055**
 - Healthy repos: **3989** · Truncated: **2** · Unavailable: **131**
-- Last updated: **2026-08-25 11:18 UTC**
+- Last updated: **2026-08-25 12:23 UTC**
 
 ## Source Catalog
 
@@ -196,7 +196,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [air-gapped/skills](https://github.com/air-gapped/skills) | 68 | `main` | `.claude/skills` | ✅ ok |  |
 | [AirtonLira/boostprompt](https://github.com/AirtonLira/boostprompt) | 2 | `main` | `.` | ✅ ok |  |
 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | `main` | `.` | ✅ ok |  |
-| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,827 | `main` | `skills` | ✅ ok |  |
+| [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 5,828 | `main` | `skills` | ✅ ok |  |
 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 12 | `main` | `.` | ✅ ok |  |
 | [aj604/toolshed](https://github.com/aj604/toolshed) | 7 | `main` | `.` | ✅ ok |  |
 | [ajbarea/techne](https://github.com/ajbarea/techne) | 13 | `main` | `.` | ✅ ok |  |
@@ -1049,7 +1049,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | 1 | `main` | `.` | ✅ ok |  |
 | [Eliasjunit/vibestretch](https://github.com/Eliasjunit/vibestretch) | 1 | `main` | `skills` | ✅ ok |  |
 | [eliazv/italian-investor](https://github.com/eliazv/italian-investor) | 1 | `main` | `skills` | ✅ ok |  |
-| [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 382 | `master` | `skills` | ✅ ok |  |
+| [ellmos-ai/skills](https://github.com/ellmos-ai/skills) | 383 | `master` | `skills` | ✅ ok |  |
 | [EllypsisAI/ellypsis-plugin-labs](https://github.com/EllypsisAI/ellypsis-plugin-labs) | 3 | `main` | `.` | ✅ ok |  |
 | [Elnora-AI/elnora-cli](https://github.com/Elnora-AI/elnora-cli) | 10 | `main` | `skills` | ✅ ok |  |
 | [Elnora-AI/elnora-google-workspace](https://github.com/Elnora-AI/elnora-google-workspace) | 11 | `main` | `skills` | ✅ ok |  |
@@ -2458,7 +2458,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [NexaDuo/mARC](https://github.com/NexaDuo/mARC) | 8 | `main` | `.` | ✅ ok |  |
 | [neXenio/bifrost-plugin](https://github.com/neXenio/bifrost-plugin) | 5 | `master` | `skills` | ✅ ok |  |
 | [nexiouscaliver/OmniForge](https://github.com/nexiouscaliver/OmniForge) | 8 | `main` | `.` | ✅ ok |  |
-| [NEXPACE-Limited/msu-skills](https://github.com/NEXPACE-Limited/msu-skills) | 7 | `main` | `.` | ✅ ok |  |
+| [NEXPACE-Limited/msu-skills](https://github.com/NEXPACE-Limited/msu-skills) | 9 | `main` | `.` | ✅ ok |  |
 | [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) | 52 | `main` | `.` | ✅ ok |  |
 | [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 162 | `main` | `.` | ✅ ok |  |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 13 | `main` | `.` | ✅ ok |  |
