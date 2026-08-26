@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4171**
-- Discoverable skills: **128,366**
+- Discoverable skills: **128,365**
 - Healthy repos: **4036** · Truncated: **2** · Unavailable: **133**
-- Last updated: **2026-08-26 05:23 UTC**
+- Last updated: **2026-08-26 06:27 UTC**
 
 ## Source Catalog
 
@@ -3250,7 +3250,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sky-magenta/pravo-grammatika](https://github.com/sky-magenta/pravo-grammatika) | 0 | `main` | `.` | ✅ ok |  |
 | [skyestaq/repo-shakedown](https://github.com/skyestaq/repo-shakedown) | 1 | `main` | `.` | ✅ ok |  |
 | [skyf0xx/better-thinking](https://github.com/skyf0xx/better-thinking) | 2 | `master` | `skills` | ✅ ok |  |
-| [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) | 16 | `master` | `.` | ✅ ok |  |
+| [skyf0xx/hedgehog](https://github.com/skyf0xx/hedgehog) | 15 | `master` | `.` | ✅ ok |  |
 | [skymanbp/cc-enforcer](https://github.com/skymanbp/cc-enforcer) | 2 | `main` | `skills` | ✅ ok |  |
 | [skymanbp/cc-enslaver](https://github.com/skymanbp/cc-enslaver) | 2 | `main` | `skills` | ✅ ok |  |
 | [skymanbp/cc-memory](https://github.com/skymanbp/cc-memory) | 2 | `main` | `skills` | ✅ ok |  |
