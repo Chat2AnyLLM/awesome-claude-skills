@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4582**
-- Discoverable skills: **146,948**
-- Healthy repos: **4428** · Truncated: **2** · Unavailable: **152**
-- Last updated: **2026-09-02 21:26 UTC**
+- Discoverable skills: **146,722**
+- Healthy repos: **4427** · Truncated: **2** · Unavailable: **153**
+- Last updated: **2026-09-02 23:41 UTC**
 
 ## Source Catalog
 
@@ -733,7 +733,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [chafoo/anchored](https://github.com/chafoo/anchored) | 2 | `main` | `.` | ✅ ok |  |
 | [chakki-the-potato/open-migrate](https://github.com/chakki-the-potato/open-migrate) | 32 | `main` | `.` | ✅ ok |  |
 | [chan4lk/specclaw](https://github.com/chan4lk/specclaw) | 20 | `main` | `.` | ✅ ok |  |
-| [chancegraff/rules-for-claude](https://github.com/chancegraff/rules-for-claude) | 6 | `main` | `skills` | ✅ ok |  |
+| [chancegraff/rules-for-claude](https://github.com/chancegraff/rules-for-claude) | 7 | `main` | `skills` | ✅ ok |  |
 | [chanjing-ai/chan-skills](https://github.com/chanjing-ai/chan-skills) | 11 | `main` | `skills` | ✅ ok |  |
 | [channel47/plugins](https://github.com/channel47/plugins) | 60 | `main` | `.` | ✅ ok |  |
 | [chaonannn-a11y/quantitative--crosstable-skill](https://github.com/chaonannn-a11y/quantitative--crosstable-skill) | 1 | `main` | `.` | ✅ ok |  |
@@ -1690,7 +1690,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [infranodus/skills](https://github.com/infranodus/skills) | 16 | `master` | `.` | ✅ ok |  |
 | [Infrasity-Labs/dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) | 588 | `main` | `.` | ✅ ok |  |
 | [ingcontartese-netizen/multi-agent-system-architect-v2](https://github.com/ingcontartese-netizen/multi-agent-system-architect-v2) | 1 | `main` | `skills` | ✅ ok |  |
-| [IngvarConsulting/unica](https://github.com/IngvarConsulting/unica) | 80 | `main` | `.` | ✅ ok |  |
+| [IngvarConsulting/unica](https://github.com/IngvarConsulting/unica) | 71 | `main` | `.` | ✅ ok |  |
 | [Inhibit0r/to-md](https://github.com/Inhibit0r/to-md) | 2 | `main` | `skills` | ✅ ok |  |
 | [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) | 11 | `main` | `skills` | ✅ ok |  |
 | [inkatze/planwright](https://github.com/inkatze/planwright) | 11 | `main` | `skills` | ✅ ok |  |
@@ -3016,7 +3016,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Pilot2Service/AI-Business-Designer](https://github.com/Pilot2Service/AI-Business-Designer) | 112 | `main` | `.` | ✅ ok |  |
 | [pilotspace/ADD](https://github.com/pilotspace/ADD) | 6 | `main` | `.` | ✅ ok |  |
 | [pinatropical/curb-skill](https://github.com/pinatropical/curb-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [pipeworx-io/claude-code-plugin](https://github.com/pipeworx-io/claude-code-plugin) | 7 | `main` | `skills` | ✅ ok |  |
+| [pipeworx-io/claude-code-plugin](https://github.com/pipeworx-io/claude-code-plugin) | 11 | `main` | `skills` | ✅ ok |  |
 | [PIsberg/skill3](https://github.com/PIsberg/skill3) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [pitimon/8-habit-ai-dev](https://github.com/pitimon/8-habit-ai-dev) | 48 | `main` | `.` | ✅ ok |  |
 | [pixel-ju/wechat-mp-backup](https://github.com/pixel-ju/wechat-mp-backup) | 1 | `main` | `.` | ✅ ok |  |
@@ -3134,7 +3134,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [R2h1/my-book-skills](https://github.com/R2h1/my-book-skills) | 107 | `main` | `.` | ✅ ok |  |
 | [racecraft-lab/racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) | 102 | `main` | `.` | ✅ ok |  |
 | [radkode/underwrite](https://github.com/radkode/underwrite) | 1 | `main` | `skills` | ✅ ok |  |
-| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 224 | `main` | `.` | ✅ ok |  |
 | [radra23/otel-as-code-plugin](https://github.com/radra23/otel-as-code-plugin) | 15 | `main` | `.` | ✅ ok |  |
 | [raelli/octowiz](https://github.com/raelli/octowiz) | 3 | `main` | `skills` | ✅ ok |  |
 | [rafael-adcp/kraken](https://github.com/rafael-adcp/kraken) | 3 | `main` | `skills` | ✅ ok |  |
@@ -4145,8 +4144,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [wanshuiyin/Anti-Autoresearch](https://github.com/wanshuiyin/Anti-Autoresearch) | 11 | `main` | `skills` | ✅ ok |  |
 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 187 | `main` | `skills` | ✅ ok |  |
 | [waqas1412/claude-harness](https://github.com/waqas1412/claude-harness) | 9 | `main` | `.` | ✅ ok |  |
-| [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 46 | `main` | `skills` | ✅ ok |  |
-| [wardawgmalvicious/claude-config](https://github.com/wardawgmalvicious/claude-config) | 46 | `main` | `skills` | ✅ ok |  |
+| [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 47 | `main` | `skills` | ✅ ok |  |
+| [wardawgmalvicious/claude-config](https://github.com/wardawgmalvicious/claude-config) | 47 | `main` | `skills` | ✅ ok |  |
 | [WardLu/skills](https://github.com/WardLu/skills) | 6 | `main` | `.` | ✅ ok |  |
 | [warodan/hey-codex](https://github.com/warodan/hey-codex) | 0 | `main` | `.` | ✅ ok |  |
 | [warodan/vscode-claude-chat-context-meter](https://github.com/warodan/vscode-claude-chat-context-meter) | 0 | `main` | `.` | ✅ ok |  |
@@ -4549,6 +4548,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [produtoramaxvision/maxvision-utilities](https://github.com/produtoramaxvision/maxvision-utilities) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [project-nomos/nomos](https://github.com/project-nomos/nomos) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [punkscience/agent-skills](https://github.com/punkscience/agent-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
+| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [rahmanef63/si-coder-agent](https://github.com/rahmanef63/si-coder-agent) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [rhyspatt/stay-on-task](https://github.com/rhyspatt/stay-on-task) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
