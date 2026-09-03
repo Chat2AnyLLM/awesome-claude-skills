@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4582**
-- Discoverable skills: **146,722**
+- Discoverable skills: **146,734**
 - Healthy repos: **4427** · Truncated: **2** · Unavailable: **153**
-- Last updated: **2026-09-02 23:41 UTC**
+- Last updated: **2026-09-03 01:43 UTC**
 
 ## Source Catalog
 
@@ -363,7 +363,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Anmol-Srv/sigil](https://github.com/Anmol-Srv/sigil) | 1 | `master` | `.` | ✅ ok |  |
 | [anmolnagpal/devops-skills](https://github.com/anmolnagpal/devops-skills) | 18 | `main` | `skills` | ✅ ok |  |
 | [AnniesAI/agenthog-claude](https://github.com/AnniesAI/agenthog-claude) | 3 | `main` | `.` | ✅ ok |  |
-| [AnotherSava/claude-code-common](https://github.com/AnotherSava/claude-code-common) | 29 | `main` | `.` | ✅ ok |  |
+| [AnotherSava/claude-code-common](https://github.com/AnotherSava/claude-code-common) | 30 | `main` | `.` | ✅ ok |  |
 | [anschnapp/djinnvim](https://github.com/anschnapp/djinnvim) | 1 | `master` | `.` | ✅ ok |  |
 | [Anselmoo/werkstoff](https://github.com/Anselmoo/werkstoff) | 64 | `main` | `.` | ✅ ok |  |
 | [ansh2807/creative-ui](https://github.com/ansh2807/creative-ui) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1813,9 +1813,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jeongph/pdf-scan-audit](https://github.com/jeongph/pdf-scan-audit) | 1 | `main` | `skills` | ✅ ok |  |
 | [JeonKH81/MediStat-EDA](https://github.com/JeonKH81/MediStat-EDA) | 0 | `main` | `.` | ✅ ok |  |
 | [JeonKH81/MediStat-Table1](https://github.com/JeonKH81/MediStat-Table1) | 0 | `main` | `.` | ✅ ok |  |
-| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 6,002 | `main` | `.` | ✅ ok |  |
+| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 6,003 | `main` | `.` | ✅ ok |  |
 | [jeremylongshore/excel-analyst-pro-skill-md](https://github.com/jeremylongshore/excel-analyst-pro-skill-md) | 1 | `main` | `skills` | ✅ ok |  |
-| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 6,002 | `main` | `.` | ✅ ok |  |
+| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 6,003 | `main` | `.` | ✅ ok |  |
 | [Jeremyx000/claude-session-index](https://github.com/Jeremyx000/claude-session-index) | 1 | `main` | `skills` | ✅ ok |  |
 | [jeroromano/claude-code-orchestration-template](https://github.com/jeroromano/claude-code-orchestration-template) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [JesseRaber/manus-prompt-engineering-skill](https://github.com/JesseRaber/manus-prompt-engineering-skill) | 0 | `main` | `.` | ✅ ok |  |
@@ -2074,7 +2074,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [khangpqvn/SDDADD](https://github.com/khangpqvn/SDDADD) | 27 | `main` | `.claude/skills` | ✅ ok |  |
 | [khanhvo2172-dotcom/seo-skills](https://github.com/khanhvo2172-dotcom/seo-skills) | 13 | `main` | `.` | ✅ ok |  |
 | [kharmanskyi/open-steps](https://github.com/kharmanskyi/open-steps) | 7 | `main` | `skills` | ✅ ok |  |
-| [khasky/awesome-agent-skills](https://github.com/khasky/awesome-agent-skills) | 40 | `main` | `skills` | ✅ ok |  |
+| [khasky/awesome-agent-skills](https://github.com/khasky/awesome-agent-skills) | 41 | `main` | `skills` | ✅ ok |  |
 | [khemratechconsulting/github-actions-setup](https://github.com/khemratechconsulting/github-actions-setup) | 1 | `main` | `skills` | ✅ ok |  |
 | [khmm12/solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [khujta/gabe-suite](https://github.com/khujta/gabe-suite) | 36 | `main` | `skills` | ✅ ok |  |
@@ -2449,7 +2449,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Master0fFate/parallax-claudecode](https://github.com/Master0fFate/parallax-claudecode) | 10 | `main` | `skills` | ✅ ok |  |
 | [matcra587/claude-themes](https://github.com/matcra587/claude-themes) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [matejformanek/postgres-claude](https://github.com/matejformanek/postgres-claude) | 58 | `main` | `.claude/skills` | ✅ ok |  |
-| [mateusands/claude-code-crew-kit](https://github.com/mateusands/claude-code-crew-kit) | 16 | `main` | `skills` | ✅ ok |  |
+| [mateusands/claude-code-crew-kit](https://github.com/mateusands/claude-code-crew-kit) | 18 | `main` | `skills` | ✅ ok |  |
 | [matewishkey/mwk-rider](https://github.com/matewishkey/mwk-rider) | 1 | `main` | `skills` | ✅ ok |  |
 | [matheusPavaneli/unique-skill](https://github.com/matheusPavaneli/unique-skill) | 5 | `main` | `skills` | ✅ ok |  |
 | [mathisk2095/jko-claude-plugins](https://github.com/mathisk2095/jko-claude-plugins) | 6 | `main` | `.` | ✅ ok |  |
@@ -3016,7 +3016,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Pilot2Service/AI-Business-Designer](https://github.com/Pilot2Service/AI-Business-Designer) | 112 | `main` | `.` | ✅ ok |  |
 | [pilotspace/ADD](https://github.com/pilotspace/ADD) | 6 | `main` | `.` | ✅ ok |  |
 | [pinatropical/curb-skill](https://github.com/pinatropical/curb-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [pipeworx-io/claude-code-plugin](https://github.com/pipeworx-io/claude-code-plugin) | 11 | `main` | `skills` | ✅ ok |  |
+| [pipeworx-io/claude-code-plugin](https://github.com/pipeworx-io/claude-code-plugin) | 14 | `main` | `skills` | ✅ ok |  |
 | [PIsberg/skill3](https://github.com/PIsberg/skill3) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [pitimon/8-habit-ai-dev](https://github.com/pitimon/8-habit-ai-dev) | 48 | `main` | `.` | ✅ ok |  |
 | [pixel-ju/wechat-mp-backup](https://github.com/pixel-ju/wechat-mp-backup) | 1 | `main` | `.` | ✅ ok |  |
@@ -3718,7 +3718,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 2 | `main` | `.` | ✅ ok |  |
 | [stotihv/skills](https://github.com/stotihv/skills) | 10 | `main` | `.` | ✅ ok |  |
 | [strelov1/freehire-cli](https://github.com/strelov1/freehire-cli) | 6 | `main` | `skills` | ✅ ok |  |
-| [Studio-Moser/skills-n-stuff](https://github.com/Studio-Moser/skills-n-stuff) | 25 | `main` | `.` | ✅ ok |  |
+| [Studio-Moser/skills-n-stuff](https://github.com/Studio-Moser/skills-n-stuff) | 26 | `main` | `.` | ✅ ok |  |
 | [studiomeyer-io/studiomeyer-marketplace](https://github.com/studiomeyer-io/studiomeyer-marketplace) | 5 | `main` | `.` | ✅ ok |  |
 | [stuinfla/ruvnet-brain](https://github.com/stuinfla/ruvnet-brain) | 9 | `main` | `.` | ✅ ok |  |
 | [StuMason/edator](https://github.com/StuMason/edator) | 1 | `main` | `skills` | ✅ ok |  |
@@ -4144,8 +4144,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [wanshuiyin/Anti-Autoresearch](https://github.com/wanshuiyin/Anti-Autoresearch) | 11 | `main` | `skills` | ✅ ok |  |
 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 187 | `main` | `skills` | ✅ ok |  |
 | [waqas1412/claude-harness](https://github.com/waqas1412/claude-harness) | 9 | `main` | `.` | ✅ ok |  |
-| [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 47 | `main` | `skills` | ✅ ok |  |
-| [wardawgmalvicious/claude-config](https://github.com/wardawgmalvicious/claude-config) | 47 | `main` | `skills` | ✅ ok |  |
+| [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 48 | `main` | `skills` | ✅ ok |  |
+| [wardawgmalvicious/claude-config](https://github.com/wardawgmalvicious/claude-config) | 48 | `main` | `skills` | ✅ ok |  |
 | [WardLu/skills](https://github.com/WardLu/skills) | 6 | `main` | `.` | ✅ ok |  |
 | [warodan/hey-codex](https://github.com/warodan/hey-codex) | 0 | `main` | `.` | ✅ ok |  |
 | [warodan/vscode-claude-chat-context-meter](https://github.com/warodan/vscode-claude-chat-context-meter) | 0 | `main` | `.` | ✅ ok |  |
