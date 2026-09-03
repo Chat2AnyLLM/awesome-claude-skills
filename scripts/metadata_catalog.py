@@ -7,6 +7,13 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 UA = "awesome-metadata-catalog/1.0"
+RELATED_LISTS = [
+    (
+        "loqimean/awesome-claude-code-hooks",
+        "https://github.com/loqimean/awesome-claude-code-hooks",
+        "Curated list of Claude Code hooks for extending and automating Claude Code workflows.",
+    ),
+]
 
 
 def _jget(url: str, token: str | None) -> dict:
@@ -98,6 +105,10 @@ def render_readme(entries: list[dict], counts: dict[str, dict]) -> str:
         f"- Discoverable skills: **{total:,}**",
         f"- Healthy repos: **{ok}** · Truncated: **{trunc}** · Unavailable: **{bad}**",
         f"- Last updated: **{ts}**",
+        "",
+        "## Related Lists",
+        "",
+        *[f"- [{name}]({url}) - {description}" for name, url, description in RELATED_LISTS],
         "",
         "## Source Catalog",
         "",
