@@ -9,6 +9,10 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 - Healthy repos: **4439** · Truncated: **2** · Unavailable: **153**
 - Last updated: **2026-09-03 06:36 UTC**
 
+## Related Lists
+
+- [loqimean/awesome-claude-code-hooks](https://github.com/loqimean/awesome-claude-code-hooks) - Curated list of Claude Code hooks for extending and automating Claude Code workflows.
+
 ## Source Catalog
 
 | Repository | Skills | Branch | Path | Status | Note |
