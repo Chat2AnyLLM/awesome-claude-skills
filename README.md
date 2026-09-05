@@ -4,10 +4,10 @@
 
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
-- Enabled source repositories: **4727**
-- Discoverable skills: **148,215**
-- Healthy repos: **4554** · Truncated: **2** · Unavailable: **171**
-- Last updated: **2026-09-05 06:26 UTC**
+- Enabled source repositories: **4741**
+- Discoverable skills: **148,301**
+- Healthy repos: **4568** · Truncated: **2** · Unavailable: **171**
+- Last updated: **2026-09-05 11:02 UTC**
 
 ## Related Lists
 
@@ -41,6 +41,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [1gr14/agents-party](https://github.com/1gr14/agents-party) | 1 | `main` | `skills` | ✅ ok |  |
 | [1Popov/handoff](https://github.com/1Popov/handoff) | 0 | `main` | `.` | ✅ ok |  |
 | [2021291696/setup-tool](https://github.com/2021291696/setup-tool) | 0 | `main` | `.` | ✅ ok |  |
+| [224Sand/charter](https://github.com/224Sand/charter) | 0 | `master` | `.` | ✅ ok |  |
 | [23blocks-OS/ai-maestro-plugins](https://github.com/23blocks-OS/ai-maestro-plugins) | 13 | `main` | `.` | ✅ ok |  |
 | [24111999/claude-skills](https://github.com/24111999/claude-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [2naive/claude-telegram-topics](https://github.com/2naive/claude-telegram-topics) | 3 | `main` | `skills` | ✅ ok |  |
@@ -117,7 +118,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Aboudjem/goalify](https://github.com/Aboudjem/goalify) | 1 | `main` | `skills` | ✅ ok |  |
 | [Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Aboudjem/ui-ux-suite](https://github.com/Aboudjem/ui-ux-suite) | 14 | `main` | `skills` | ✅ ok |  |
-| [abs1294/fulin-claude-plugins](https://github.com/abs1294/fulin-claude-plugins) | 18 | `main` | `.` | ✅ ok |  |
+| [abs1294/fulin-claude-plugins](https://github.com/abs1294/fulin-claude-plugins) | 20 | `main` | `.` | ✅ ok |  |
 | [ABTdomain/domainkits-plugins](https://github.com/ABTdomain/domainkits-plugins) | 9 | `main` | `skills` | ✅ ok |  |
 | [abullard1/claude-bionify](https://github.com/abullard1/claude-bionify) | 1 | `main` | `.` | ✅ ok |  |
 | [Abwor9658/social-media-skills](https://github.com/Abwor9658/social-media-skills) | 13 | `main` | `skills` | ✅ ok |  |
@@ -276,6 +277,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Alexyskoutnev/research-skills](https://github.com/Alexyskoutnev/research-skills) | 10 | `main` | `.` | ✅ ok |  |
 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 6 | `main` | `.claude/skills` | ✅ ok |  |
 | [alfredtech2026/shopify-app-review-brief](https://github.com/alfredtech2026/shopify-app-review-brief) | 1 | `main` | `docs/skills` | ✅ ok |  |
+| [alfredzhang98/research-obsidian-skill](https://github.com/alfredzhang98/research-obsidian-skill) | 5 | `main` | `skills` | ✅ ok |  |
 | [ali-demirbas/ab-test-playbook](https://github.com/ali-demirbas/ab-test-playbook) | 6 | `main` | `skills` | ✅ ok |  |
 | [ali-demirbas/claude-lifecycle](https://github.com/ali-demirbas/claude-lifecycle) | 11 | `main` | `skills` | ✅ ok |  |
 | [alialsaudi/deslop](https://github.com/alialsaudi/deslop) | 1 | `main` | `.` | ✅ ok |  |
@@ -342,7 +344,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [andreilungeanu/cursor-acp-bridge](https://github.com/andreilungeanu/cursor-acp-bridge) | 1 | `main` | `skills` | ✅ ok |  |
 | [andreilungeanu/cursor-delegate-mcp](https://github.com/andreilungeanu/cursor-delegate-mcp) | 1 | `main` | `skills` | ✅ ok |  |
 | [andresanemic/lore-plugin](https://github.com/andresanemic/lore-plugin) | 7 | `main` | `skills` | ✅ ok |  |
-| [andresnator/agents-orchestrator](https://github.com/andresnator/agents-orchestrator) | 28 | `main` | `skills` | ✅ ok |  |
+| [andresnator/agents-orchestrator](https://github.com/andresnator/agents-orchestrator) | 30 | `main` | `skills` | ✅ ok |  |
 | [AndrewAvery7/claude-codex-bridge](https://github.com/AndrewAvery7/claude-codex-bridge) | 1 | `main` | `.` | ✅ ok |  |
 | [andrewcigan/vibe-dev-plugin](https://github.com/andrewcigan/vibe-dev-plugin) | 29 | `main` | `skills` | ✅ ok |  |
 | [AndrewDongminYoo/cc-agents-kit](https://github.com/AndrewDongminYoo/cc-agents-kit) | 11 | `main` | `.` | ✅ ok |  |
@@ -472,7 +474,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [atlas-doc/atlas-flight-booking-skill](https://github.com/atlas-doc/atlas-flight-booking-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [atlassian/forge-skills](https://github.com/atlassian/forge-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [atman-33/workhub](https://github.com/atman-33/workhub) | 93 | `main` | `.` | ✅ ok |  |
+| [atman-33/workhub](https://github.com/atman-33/workhub) | 94 | `main` | `.` | ✅ ok |  |
 | [atretyak1985/swarmery](https://github.com/atretyak1985/swarmery) | 73 | `main` | `.` | ✅ ok |  |
 | [attac-t/the-foundry](https://github.com/attac-t/the-foundry) | 138 | `main` | `.` | ✅ ok |  |
 | [Attemainio/dotnet-toolkit](https://github.com/Attemainio/dotnet-toolkit) | 9 | `main` | `skills` | ✅ ok |  |
@@ -489,6 +491,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) | 5 | `main` | `skills` | ✅ ok |  |
 | [Autsunset/vision-skill](https://github.com/Autsunset/vision-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [auver/maven-code-graph](https://github.com/auver/maven-code-graph) | 1 | `main` | `skills` | ✅ ok |  |
+| [av/skills](https://github.com/av/skills) | 26 | `master` | `.` | ✅ ok |  |
 | [avanturer/claude-bestpractice](https://github.com/avanturer/claude-bestpractice) | 3 | `main` | `.` | ✅ ok |  |
 | [Avatechdir/video-walkthrough-skill](https://github.com/Avatechdir/video-walkthrough-skill) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [avectats7/anti-ai-writing](https://github.com/avectats7/anti-ai-writing) | 1 | `main` | `skills` | ✅ ok |  |
@@ -601,12 +604,13 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bhumik154/claim-check](https://github.com/bhumik154/claim-check) | 1 | `main` | `skills` | ✅ ok |  |
 | [biancoenrico/claude-skills](https://github.com/biancoenrico/claude-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [bicced/sidequest](https://github.com/bicced/sidequest) | 1 | `main` | `.` | ✅ ok |  |
-| [biggora/dev-team](https://github.com/biggora/dev-team) | 42 | `main` | `skills` | ✅ ok |  |
+| [biggora/dev-team](https://github.com/biggora/dev-team) | 44 | `main` | `skills` | ✅ ok |  |
 | [billLiao/PPT-Design-Skill](https://github.com/billLiao/PPT-Design-Skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [bin1874/before-you-build-skill](https://github.com/bin1874/before-you-build-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [Bing-Bryan/skills-by-bing](https://github.com/Bing-Bryan/skills-by-bing) | 0 | `main` | `skills` | ✅ ok |  |
 | [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) | 1,705 | `main` | `skills` | ✅ ok |  |
 | [Bisbi/testament-of-ephemeral-minds](https://github.com/Bisbi/testament-of-ephemeral-minds) | 4 | `main` | `.` | ✅ ok |  |
+| [biswajeetdev/classnotes-agent](https://github.com/biswajeetdev/classnotes-agent) | 1 | `main` | `.` | ✅ ok |  |
 | [Bitcoindefi/agente-smith](https://github.com/Bitcoindefi/agente-smith) | 7 | `main` | `skills` | ✅ ok |  |
 | [bitcraft-apps/spec-first](https://github.com/bitcraft-apps/spec-first) | 3 | `main` | `skills` | ✅ ok |  |
 | [bitjaru/styleseed](https://github.com/bitjaru/styleseed) | 47 | `main` | `.` | ✅ ok |  |
@@ -695,6 +699,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [buluslan/seedance-video-script](https://github.com/buluslan/seedance-video-script) | 0 | `main` | `.` | ✅ ok |  |
 | [buminduyasith/la-peace](https://github.com/buminduyasith/la-peace) | 0 | `main` | `.` | ✅ ok |  |
 | [bunhine0452/Ocul-PM](https://github.com/bunhine0452/Ocul-PM) | 6 | `main` | `.` | ✅ ok |  |
+| [BurakErdemci/codex-delegate](https://github.com/BurakErdemci/codex-delegate) | 2 | `main` | `skills` | ✅ ok |  |
 | [BurraRohan/precision-context](https://github.com/BurraRohan/precision-context) | 1 | `main` | `.` | ✅ ok |  |
 | [burythehammer/claude-code-plugins](https://github.com/burythehammer/claude-code-plugins) | 4 | `main` | `.` | ✅ ok |  |
 | [bushrabeg/turkce-humanizer](https://github.com/bushrabeg/turkce-humanizer) | 0 | `main` | `.` | ✅ ok |  |
@@ -1399,6 +1404,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [FutrixDev/magic-art-skill](https://github.com/FutrixDev/magic-art-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [futuresearch/futuresearch-python](https://github.com/futuresearch/futuresearch-python) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [fvadicamo/dev-agent-skills](https://github.com/fvadicamo/dev-agent-skills) | 7 | `main` | `.` | ✅ ok |  |
+| [FW1201/twa-edu-harness](https://github.com/FW1201/twa-edu-harness) | 21 | `main` | `skills` | ✅ ok |  |
 | [fworks-tech/agenthood](https://github.com/fworks-tech/agenthood) | 67 | `main` | `.` | ✅ ok |  |
 | [fxw-labs/beachcombing](https://github.com/fxw-labs/beachcombing) | 0 | `main` | `.` | ✅ ok |  |
 | [FynePool/job-hunter-template](https://github.com/FynePool/job-hunter-template) | 9 | `main` | `.claude/skills` | ✅ ok |  |
@@ -1506,6 +1512,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [grandheman/claude-sdlc](https://github.com/grandheman/claude-sdlc) | 3 | `master` | `skills` | ✅ ok |  |
 | [GrayMa77er/tiny-spec](https://github.com/GrayMa77er/tiny-spec) | 8 | `main` | `.` | ✅ ok |  |
 | [GRCEngClub/claude-grc-engineering](https://github.com/GRCEngClub/claude-grc-engineering) | 101 | `main` | `.` | ✅ ok |  |
+| [greenstevester/archlens-postgres](https://github.com/greenstevester/archlens-postgres) | 1 | `main` | `skills` | ✅ ok |  |
 | [greenstevester/db-architecture-reviewer](https://github.com/greenstevester/db-architecture-reviewer) | 1 | `main` | `skills` | ✅ ok |  |
 | [gregkozakiewicz/roast-my-design-system](https://github.com/gregkozakiewicz/roast-my-design-system) | 1 | `main` | `skills` | ✅ ok |  |
 | [greglas75/zuvo](https://github.com/greglas75/zuvo) | 57 | `main` | `skills` | ✅ ok |  |
@@ -1680,6 +1687,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [huiyonghkw/hekouwang-env-doctor-skill](https://github.com/huiyonghkw/hekouwang-env-doctor-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [huiyonghkw/hekouwang-stock-data-reader-skill](https://github.com/huiyonghkw/hekouwang-stock-data-reader-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [humbleteam/audit-design-tokens](https://github.com/humbleteam/audit-design-tokens) | 0 | `main` | `.` | ✅ ok |  |
+| [humbleteam/design-brief](https://github.com/humbleteam/design-brief) | 0 | `main` | `.` | ✅ ok |  |
+| [humbleteam/ux-writing](https://github.com/humbleteam/ux-writing) | 0 | `main` | `.` | ✅ ok |  |
 | [hummer98/nanobanana-adc](https://github.com/hummer98/nanobanana-adc) | 1 | `main` | `skills` | ✅ ok |  |
 | [humongus69/langsmith-fetch-skill](https://github.com/humongus69/langsmith-fetch-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [Hussam3bd/filamentphp-claude-design-system](https://github.com/Hussam3bd/filamentphp-claude-design-system) | 0 | `main` | `.` | ✅ ok |  |
@@ -2484,6 +2493,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MaoranSun/paper-to-storyboard](https://github.com/MaoranSun/paper-to-storyboard) | 1 | `main` | `.` | ✅ ok |  |
 | [maplenk/claude-orchestrator](https://github.com/maplenk/claude-orchestrator) | 2 | `main` | `skills` | ✅ ok |  |
 | [mappamind/mappamind](https://github.com/mappamind/mappamind) | 1 | `main` | `.` | ✅ ok |  |
+| [maravil5768/Wonder-Pill](https://github.com/maravil5768/Wonder-Pill) | 0 | `main` | `.` | ✅ ok |  |
 | [marcomarkl/plugin-cmd-skills](https://github.com/marcomarkl/plugin-cmd-skills) | 11 | `main` | `.` | ✅ ok |  |
 | [MarcosNahuel/antigravity-plugin-cc](https://github.com/MarcosNahuel/antigravity-plugin-cc) | 2 | `main` | `.` | ✅ ok |  |
 | [MarcSky/loanword](https://github.com/MarcSky/loanword) | 3 | `master` | `skills` | ✅ ok |  |
@@ -3088,6 +3098,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [phillipalcock/code-clipping](https://github.com/phillipalcock/code-clipping) | 0 | `main` | `.` | ✅ ok |  |
 | [phillipalcock/skills-collection](https://github.com/phillipalcock/skills-collection) | 8 | `main` | `.` | ✅ ok |  |
 | [phillipalcock/viral-clip-finder](https://github.com/phillipalcock/viral-clip-finder) | 0 | `main` | `.` | ✅ ok |  |
+| [phmatray/ai-migration-kit](https://github.com/phmatray/ai-migration-kit) | 12 | `main` | `skills` | ✅ ok |  |
 | [photostructure/claude-code-skills](https://github.com/photostructure/claude-code-skills) | 15 | `main` | `.` | ✅ ok |  |
 | [photostructure/coding-skills](https://github.com/photostructure/coding-skills) | 15 | `main` | `.` | ✅ ok |  |
 | [PHPCraftdream/rust-intel](https://github.com/PHPCraftdream/rust-intel) | 2 | `main` | `.` | ✅ ok |  |
@@ -3326,6 +3337,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rjvim/ai-skills](https://github.com/rjvim/ai-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [Rlegaspi562/no-slop](https://github.com/Rlegaspi562/no-slop) | 16 | `main` | `.` | ✅ ok |  |
 | [rmanish2000-del/warrant-mcp](https://github.com/rmanish2000-del/warrant-mcp) | 1 | `main` | `skills` | ✅ ok |  |
+| [Rneayan/airship-skills](https://github.com/Rneayan/airship-skills) | 8 | `main` | `skills` | ✅ ok |  |
 | [robertgorsuch/AI-JasperReports-Generator](https://github.com/robertgorsuch/AI-JasperReports-Generator) | 0 | `main` | `.claude/skills` | ✅ ok |  |
 | [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) | 23 | `main` | `skills` | ✅ ok |  |
 | [robertnowell/marketing-pipeline](https://github.com/robertnowell/marketing-pipeline) | 8 | `main` | `skills` | ✅ ok |  |
@@ -3352,6 +3364,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 41 | `main` | `skills` | ✅ ok |  |
 | [rohitguta2432/agentgrade](https://github.com/rohitguta2432/agentgrade) | 1 | `main` | `skills` | ✅ ok |  |
 | [rohitguta2432/agentic-os-skills](https://github.com/rohitguta2432/agentic-os-skills) | 41 | `main` | `.` | ✅ ok |  |
+| [RolandOne/codex-image-generation](https://github.com/RolandOne/codex-image-generation) | 1 | `main` | `skills` | ✅ ok |  |
 | [romain-nicod/kickoff](https://github.com/romain-nicod/kickoff) | 1 | `main` | `skills` | ✅ ok |  |
 | [romainsimon/paperasse](https://github.com/romainsimon/paperasse) | 6 | `master` | `.` | ✅ ok |  |
 | [Romandredan/1c-quality-gate](https://github.com/Romandredan/1c-quality-gate) | 5 | `main` | `skills` | ✅ ok |  |
@@ -3401,6 +3414,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Ruxiu0409/tarot-skill](https://github.com/Ruxiu0409/tarot-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [Ruya-AI/cozempic](https://github.com/Ruya-AI/cozempic) | 5 | `main` | `.` | ✅ ok |  |
 | [rvanbaalen/skills](https://github.com/rvanbaalen/skills) | 33 | `main` | `.` | ✅ ok |  |
+| [rvignatenko/treker-akseleratora](https://github.com/rvignatenko/treker-akseleratora) | 0 | `main` | `.` | ✅ ok |  |
 | [ryan-scheinberg/harness](https://github.com/ryan-scheinberg/harness) | 11 | `main` | `skills` | ✅ ok |  |
 | [ryan-scheinberg/remote-workstreams](https://github.com/ryan-scheinberg/remote-workstreams) | 4 | `main` | `skills` | ✅ ok |  |
 | [ryanduguid/MaryAddisonHamilton](https://github.com/ryanduguid/MaryAddisonHamilton) | 19 | `main` | `.claude/skills` | ✅ ok |  |
@@ -4402,7 +4416,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [xvary-research/claude-code-stock-analysis-skill](https://github.com/xvary-research/claude-code-stock-analysis-skill) | 2 | `main` | `.` | ✅ ok |  |
 | [xx-hub/craft-your-textbook](https://github.com/xx-hub/craft-your-textbook) | 1 | `main` | `skills` | ✅ ok |  |
 | [xxluffyxx40/cera-reasoning-harness](https://github.com/xxluffyxx40/cera-reasoning-harness) | 0 | `main` | `.` | ✅ ok |  |
-| [XyraSinclair/ideonomy](https://github.com/XyraSinclair/ideonomy) | 14 | `main` | `skills` | ✅ ok |  |
+| [XyraSinclair/ideonomy](https://github.com/XyraSinclair/ideonomy) | 15 | `main` | `skills` | ✅ ok |  |
 | [Xza2792/ui-ux-audit-skill](https://github.com/Xza2792/ui-ux-audit-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [xzawed/claude-grok-build-plugin](https://github.com/xzawed/claude-grok-build-plugin) | 4 | `main` | `.` | ✅ ok |  |
 | [y-a-v-a/skills](https://github.com/y-a-v-a/skills) | 9 | `main` | `.` | ✅ ok |  |
@@ -4443,7 +4457,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [yeer0s/recibosegarantia](https://github.com/yeer0s/recibosegarantia) | 0 | `main` | `.` | ✅ ok |  |
 | [yehudalevy-collab/polis-protocol](https://github.com/yehudalevy-collab/polis-protocol) | 4 | `main` | `.` | ✅ ok |  |
 | [yerdaulet-damir/redpen](https://github.com/yerdaulet-damir/redpen) | 1 | `main` | `skills` | ✅ ok |  |
-| [yerros/context-forge](https://github.com/yerros/context-forge) | 24 | `main` | `skills` | ✅ ok |  |
+| [yerros/context-forge](https://github.com/yerros/context-forge) | 25 | `main` | `skills` | ✅ ok |  |
 | [Yesterday-AI/skills](https://github.com/Yesterday-AI/skills) | 46 | `main` | `.` | ✅ ok |  |
 | [yeyuan98/bioresearcher-skills](https://github.com/yeyuan98/bioresearcher-skills) | 4 | `main` | `skills` | ✅ ok |  |
 | [yheshamx/artifact-to-pdf](https://github.com/yheshamx/artifact-to-pdf) | 0 | `main` | `.` | ✅ ok |  |
