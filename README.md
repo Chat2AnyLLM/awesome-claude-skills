@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4775**
-- Discoverable skills: **148,842**
+- Discoverable skills: **148,845**
 - Healthy repos: **4601** · Truncated: **2** · Unavailable: **172**
-- Last updated: **2026-09-05 20:48 UTC**
+- Last updated: **2026-09-05 22:26 UTC**
 
 ## Related Lists
 
@@ -2120,9 +2120,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kelegele/oh-my-pm](https://github.com/kelegele/oh-my-pm) | 12 | `main` | `skills` | ✅ ok |  |
 | [Kelinop/noesis-tutorial](https://github.com/Kelinop/noesis-tutorial) | 0 | `main` | `.` | ✅ ok |  |
 | [Kelonwai/claude-skills](https://github.com/Kelonwai/claude-skills) | 3 | `main` | `skills` | ✅ ok |  |
-| [kelp/agent-plugins](https://github.com/kelp/agent-plugins) | 17 | `main` | `.` | ✅ ok |  |
-| [kelp/kelp-agent-plugins](https://github.com/kelp/kelp-agent-plugins) | 17 | `main` | `.` | ✅ ok |  |
-| [kelp/kelp-claude-plugins](https://github.com/kelp/kelp-claude-plugins) | 17 | `main` | `.` | ✅ ok |  |
+| [kelp/agent-plugins](https://github.com/kelp/agent-plugins) | 18 | `main` | `.` | ✅ ok |  |
+| [kelp/kelp-agent-plugins](https://github.com/kelp/kelp-agent-plugins) | 18 | `main` | `.` | ✅ ok |  |
+| [kelp/kelp-claude-plugins](https://github.com/kelp/kelp-claude-plugins) | 18 | `main` | `.` | ✅ ok |  |
 | [kelsi-bizer/bizer-ai-agent-skills](https://github.com/kelsi-bizer/bizer-ai-agent-skills) | 6 | `main` | `skills` | ✅ ok |  |
 | [kemalyy/edumints-scorm-skill](https://github.com/kemalyy/edumints-scorm-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [kenjudy/pdca-agentic-coding-framework](https://github.com/kenjudy/pdca-agentic-coding-framework) | 2 | `main` | `.` | ✅ ok |  |
