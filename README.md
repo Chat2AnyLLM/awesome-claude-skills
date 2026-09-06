@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **4831**
-- Discoverable skills: **149,273**
-- Healthy repos: **4612** · Truncated: **2** · Unavailable: **217**
-- Last updated: **2026-09-06 20:56 UTC**
+- Discoverable skills: **149,260**
+- Healthy repos: **4611** · Truncated: **2** · Unavailable: **218**
+- Last updated: **2026-09-06 22:32 UTC**
 
 ## Related Lists
 
@@ -1539,7 +1539,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Growth-Today/claude-skills](https://github.com/Growth-Today/claude-skills) | 12 | `main` | `.` | ✅ ok |  |
 | [GRU-953/GRU953-Studio](https://github.com/GRU-953/GRU953-Studio) | 37 | `main` | `.` | ✅ ok |  |
 | [grunion-ai/decklet](https://github.com/grunion-ai/decklet) | 0 | `main` | `.` | ✅ ok |  |
-| [gtapps/claude-code-hermit](https://github.com/gtapps/claude-code-hermit) | 111 | `main` | `.` | ✅ ok |  |
+| [gtapps/claude-code-hermit](https://github.com/gtapps/claude-code-hermit) | 113 | `main` | `.` | ✅ ok |  |
 | [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow) | 39 | `main` | `skills` | ✅ ok |  |
 | [Gucs29/name-the-dodge](https://github.com/Gucs29/name-the-dodge) | 1 | `main` | `.` | ✅ ok |  |
 | [guerrilla2799/ops-and-scale-os](https://github.com/guerrilla2799/ops-and-scale-os) | 26 | `main` | `skills` | ✅ ok |  |
@@ -2560,7 +2560,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MasterinoSplinterino/mobile-release-playbook](https://github.com/MasterinoSplinterino/mobile-release-playbook) | 0 | `main` | `.` | ✅ ok |  |
 | [matcra587/claude-themes](https://github.com/matcra587/claude-themes) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [matejformanek/postgres-claude](https://github.com/matejformanek/postgres-claude) | 58 | `main` | `.claude/skills` | ✅ ok |  |
-| [mateusands/claude-code-crew-kit](https://github.com/mateusands/claude-code-crew-kit) | 20 | `main` | `skills` | ✅ ok |  |
 | [matewishkey/mwk-rider](https://github.com/matewishkey/mwk-rider) | 1 | `main` | `skills` | ✅ ok |  |
 | [matheusPavaneli/unique-skill](https://github.com/matheusPavaneli/unique-skill) | 5 | `main` | `skills` | ✅ ok |  |
 | [mathisk2095/jko-claude-plugins](https://github.com/mathisk2095/jko-claude-plugins) | 6 | `main` | `.` | ✅ ok |  |
@@ -2934,7 +2933,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [NVZver/claude-marketplace](https://github.com/NVZver/claude-marketplace) | 20 | `main` | `.` | ✅ ok |  |
 | [nWave-ai/nWave](https://github.com/nWave-ai/nWave) | 151 | `main` | `nWave` | ✅ ok |  |
 | [nxtg-ai/forge-plugin](https://github.com/nxtg-ai/forge-plugin) | 27 | `main` | `.` | ✅ ok |  |
-| [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) | 118 | `main` | `.` | ✅ ok |  |
+| [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) | 120 | `main` | `.` | ✅ ok |  |
 | [nyldn/model-optimizer-lite](https://github.com/nyldn/model-optimizer-lite) | 3 | `main` | `.` | ✅ ok |  |
 | [oaris-dev/diviops](https://github.com/oaris-dev/diviops) | 2 | `main` | `skills` | ✅ ok |  |
 | [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 182 | `main` | `.` | ✅ ok |  |
@@ -3641,7 +3640,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [shenchangmin/cairnkit](https://github.com/shenchangmin/cairnkit) | 4 | `main` | `.` | ✅ ok |  |
 | [shepaland/LexForge](https://github.com/shepaland/LexForge) | 18 | `main` | `.` | ✅ ok |  |
 | [shepsci/kaggle-skill](https://github.com/shepsci/kaggle-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [sherifabdlnaby/skills](https://github.com/sherifabdlnaby/skills) | 25 | `main` | `skills` | ✅ ok |  |
+| [sherifabdlnaby/skills](https://github.com/sherifabdlnaby/skills) | 27 | `main` | `skills` | ✅ ok |  |
 | [ShieldNet-360/secure-vibe](https://github.com/ShieldNet-360/secure-vibe) | 93 | `main` | `.` | ✅ ok |  |
 | [shimo4228/agent-stocktake](https://github.com/shimo4228/agent-stocktake) | 1 | `main` | `skills` | ✅ ok |  |
 | [shimo4228/authorship-strategy-skill](https://github.com/shimo4228/authorship-strategy-skill) | 1 | `main` | `skills` | ✅ ok |  |
@@ -3996,7 +3995,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [taxueseek/fund-investment-guide](https://github.com/taxueseek/fund-investment-guide) | 9 | `main` | `skills` | ✅ ok |  |
 | [taylorbanks/page-foundry](https://github.com/taylorbanks/page-foundry) | 1 | `main` | `skills` | ✅ ok |  |
 | [TbusOS/whetstone](https://github.com/TbusOS/whetstone) | 2 | `main` | `.` | ✅ ok |  |
-| [tdimino/claude-code-minoan](https://github.com/tdimino/claude-code-minoan) | 98 | `main` | `skills` | ✅ ok |  |
+| [tdimino/claude-code-minoan](https://github.com/tdimino/claude-code-minoan) | 99 | `main` | `skills` | ✅ ok |  |
 | [team-markmesh/mark_mesh_skill](https://github.com/team-markmesh/mark_mesh_skill) | 0 | `main` | `.` | ✅ ok |  |
 | [teambrilliant/dev-skills](https://github.com/teambrilliant/dev-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [TecCat/claude-skills](https://github.com/TecCat/claude-skills) | 2 | `main` | `.` | ✅ ok |  |
@@ -4764,6 +4763,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [marcomorettim/illuminate](https://github.com/marcomorettim/illuminate) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
 | [MarkkaMiikka/claude-finnish-skills](https://github.com/MarkkaMiikka/claude-finnish-skills) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
 | [MartinPuli/cvfit](https://github.com/MartinPuli/cvfit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [mateusands/claude-code-crew-kit](https://github.com/mateusands/claude-code-crew-kit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [mbarlow/samdin](https://github.com/mbarlow/samdin) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [mefayed/boss-skill](https://github.com/mefayed/boss-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [merturl4576/unflat](https://github.com/merturl4576/unflat) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
