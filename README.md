@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **5024**
-- Discoverable skills: **149,429**
+- Discoverable skills: **149,425**
 - Healthy repos: **4592** · Truncated: **2** · Unavailable: **430**
-- Last updated: **2026-09-09 23:40 UTC**
+- Last updated: **2026-09-10 01:44 UTC**
 
 ## Related Lists
 
@@ -285,7 +285,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [ali-demirbas/ab-test-playbook](https://github.com/ali-demirbas/ab-test-playbook) | 6 | `main` | `skills` | ✅ ok |  |
 | [ali-demirbas/claude-lifecycle](https://github.com/ali-demirbas/claude-lifecycle) | 11 | `main` | `skills` | ✅ ok |  |
 | [alialsaudi/deslop](https://github.com/alialsaudi/deslop) | 1 | `main` | `.` | ✅ ok |  |
-| [aliasunder/agent-plugins](https://github.com/aliasunder/agent-plugins) | 7 | `main` | `.` | ✅ ok |  |
+| [aliasunder/agent-plugins](https://github.com/aliasunder/agent-plugins) | 8 | `main` | `.` | ✅ ok |  |
 | [aliasunder/agent-skills](https://github.com/aliasunder/agent-skills) | 2 | `main` | `skills` | ✅ ok |  |
 | [aliasunder/vault-onboarding](https://github.com/aliasunder/vault-onboarding) | 1 | `main` | `skills` | ✅ ok |  |
 | [alice51849/lumi-mcp](https://github.com/alice51849/lumi-mcp) | 1 | `main` | `skills` | ✅ ok |  |
@@ -3557,7 +3557,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SenMuShare/senmu-buildos](https://github.com/SenMuShare/senmu-buildos) | 8 | `main` | `skills` | ✅ ok |  |
 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 3 | `main` | `.claude/skills` | ✅ ok |  |
 | [sentasity/cadence](https://github.com/sentasity/cadence) | 10 | `main` | `skills` | ✅ ok |  |
-| [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 19 | `main` | `skills` | ✅ ok |  |
+| [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 20 | `main` | `skills` | ✅ ok |  |
 | [Senzing/senzing-mcp-skill](https://github.com/Senzing/senzing-mcp-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [seo-skills/seo-audit-skill](https://github.com/seo-skills/seo-audit-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [seokan-jeong/team-shinchan](https://github.com/seokan-jeong/team-shinchan) | 58 | `main` | `skills` | ✅ ok |  |
@@ -4193,7 +4193,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [using-system/oddyssey](https://github.com/using-system/oddyssey) | 19 | `main` | `.` | ✅ ok |  |
 | [utk2103/Prompt-Studio](https://github.com/utk2103/Prompt-Studio) | 8 | `main` | `skills` | ✅ ok |  |
 | [Uxcel-Lab/product-skills](https://github.com/Uxcel-Lab/product-skills) | 59 | `main` | `.` | ✅ ok |  |
-| [V-Songbird/claude-plugins](https://github.com/V-Songbird/claude-plugins) | 12 | `main` | `.` | ✅ ok |  |
+| [V-Songbird/claude-plugins](https://github.com/V-Songbird/claude-plugins) | 13 | `main` | `.` | ✅ ok |  |
 | [V-Songbird/foreman](https://github.com/V-Songbird/foreman) | 0 | `main` | `skills` | ✅ ok |  |
 | [V-Songbird/hush](https://github.com/V-Songbird/hush) | 0 | `main` | `skills` | ✅ ok |  |
 | [V-Songbird/razor](https://github.com/V-Songbird/razor) | 0 | `main` | `skills` | ✅ ok |  |
@@ -4306,7 +4306,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [wanshuiyin/Anti-Autoresearch](https://github.com/wanshuiyin/Anti-Autoresearch) | 11 | `main` | `skills` | ✅ ok |  |
 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 187 | `main` | `skills` | ✅ ok |  |
 | [waqas1412/claude-harness](https://github.com/waqas1412/claude-harness) | 9 | `main` | `.` | ✅ ok |  |
-| [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 50 | `main` | `skills` | ✅ ok |  |
+| [wardawgmalvicious/agent-config](https://github.com/wardawgmalvicious/agent-config) | 43 | `main` | `skills` | ✅ ok |  |
 | [WardLu/skills](https://github.com/WardLu/skills) | 17 | `main` | `.` | ✅ ok |  |
 | [warodan/hey-codex](https://github.com/warodan/hey-codex) | 0 | `main` | `.` | ✅ ok |  |
 | [warodan/vscode-claude-chat-context-meter](https://github.com/warodan/vscode-claude-chat-context-meter) | 0 | `main` | `.` | ✅ ok |  |
