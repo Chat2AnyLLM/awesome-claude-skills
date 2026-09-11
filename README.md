@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **5070**
-- Discoverable skills: **149,526**
+- Discoverable skills: **149,578**
 - Healthy repos: **4589** · Truncated: **2** · Unavailable: **479**
-- Last updated: **2026-09-10 23:32 UTC**
+- Last updated: **2026-09-11 01:42 UTC**
 
 ## Related Lists
 
@@ -567,7 +567,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [bekideas/fast-marketing-skill](https://github.com/bekideas/fast-marketing-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [belumume/claude-skills](https://github.com/belumume/claude-skills) | 13 | `main` | `.` | ✅ ok |  |
 | [Bemosha/claude-image-skill](https://github.com/Bemosha/claude-image-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [bendrucker/claude](https://github.com/bendrucker/claude) | 95 | `main` | `.` | ✅ ok |  |
+| [bendrucker/claude](https://github.com/bendrucker/claude) | 96 | `main` | `.` | ✅ ok |  |
 | [bendusz/deliver](https://github.com/bendusz/deliver) | 36 | `main` | `.` | ✅ ok |  |
 | [bendusz/pm-skill](https://github.com/bendusz/pm-skill) | 36 | `main` | `.` | ✅ ok |  |
 | [benjaminstelzer/ask-claude-for-codex](https://github.com/benjaminstelzer/ask-claude-for-codex) | 1 | `main` | `.` | ✅ ok |  |
@@ -1801,7 +1801,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [its-me-prash/kleinanzeigen-reader](https://github.com/its-me-prash/kleinanzeigen-reader) | 3 | `main` | `.` | ✅ ok |  |
 | [itsgitz/agent-skills](https://github.com/itsgitz/agent-skills) | 3 | `master` | `.` | ✅ ok |  |
 | [iuliandita/skills](https://github.com/iuliandita/skills) | 47 | `main` | `skills` | ✅ ok |  |
-| [iuripereira/deltaspec](https://github.com/iuripereira/deltaspec) | 18 | `main` | `skills` | ✅ ok |  |
+| [iuripereira/deltaspec](https://github.com/iuripereira/deltaspec) | 21 | `main` | `skills` | ✅ ok |  |
 | [IvanMurzak/ai-game-dev-plugin](https://github.com/IvanMurzak/ai-game-dev-plugin) | 6 | `main` | `.` | ✅ ok |  |
 | [IvanMurzak/claude-code-game-dev](https://github.com/IvanMurzak/claude-code-game-dev) | 6 | `main` | `.` | ✅ ok |  |
 | [ivuorinen/skills](https://github.com/ivuorinen/skills) | 6 | `main` | `.claude/skills` | ✅ ok |  |
@@ -1886,9 +1886,9 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jeongph/pdf-scan-audit](https://github.com/jeongph/pdf-scan-audit) | 1 | `main` | `skills` | ✅ ok |  |
 | [JeonKH81/MediStat-EDA](https://github.com/JeonKH81/MediStat-EDA) | 0 | `main` | `.` | ✅ ok |  |
 | [JeonKH81/MediStat-Table1](https://github.com/JeonKH81/MediStat-Table1) | 0 | `main` | `.` | ✅ ok |  |
-| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 5,979 | `main` | `.` | ✅ ok |  |
+| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 6,003 | `main` | `.` | ✅ ok |  |
 | [jeremylongshore/excel-analyst-pro-skill-md](https://github.com/jeremylongshore/excel-analyst-pro-skill-md) | 1 | `main` | `skills` | ✅ ok |  |
-| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 5,979 | `main` | `.` | ✅ ok |  |
+| [jeremylongshore/tons-of-skills-marketplace](https://github.com/jeremylongshore/tons-of-skills-marketplace) | 6,003 | `main` | `.` | ✅ ok |  |
 | [Jeremyx000/claude-session-index](https://github.com/Jeremyx000/claude-session-index) | 1 | `main` | `skills` | ✅ ok |  |
 | [jeroromano/claude-code-orchestration-template](https://github.com/jeroromano/claude-code-orchestration-template) | 1 | `main` | `.claude/skills` | ✅ ok |  |
 | [JesseRaber/manus-prompt-engineering-skill](https://github.com/JesseRaber/manus-prompt-engineering-skill) | 0 | `main` | `.` | ✅ ok |  |
