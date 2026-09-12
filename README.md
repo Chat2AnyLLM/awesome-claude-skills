@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **5174**
-- Discoverable skills: **149,964**
-- Healthy repos: **4583** · Truncated: **2** · Unavailable: **589**
-- Last updated: **2026-09-12 11:22 UTC**
+- Discoverable skills: **149,968**
+- Healthy repos: **4582** · Truncated: **2** · Unavailable: **590**
+- Last updated: **2026-09-12 14:31 UTC**
 
 ## Related Lists
 
@@ -139,7 +139,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [adaptocms/adapto-cms-agent-skills](https://github.com/adaptocms/adapto-cms-agent-skills) | 16 | `main` | `.` | ✅ ok |  |
 | [adarshpuri20/flow-surface](https://github.com/adarshpuri20/flow-surface) | 7 | `main` | `.` | ✅ ok |  |
 | [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [AdeDeepFishing/trip-itinerary-page](https://github.com/AdeDeepFishing/trip-itinerary-page) | 0 | `main` | `.` | ✅ ok |  |
 | [adelaidasofia/claude-daily-journal](https://github.com/adelaidasofia/claude-daily-journal) | 1 | `main` | `skills` | ✅ ok |  |
 | [adelaidasofia/claude-deconstruct](https://github.com/adelaidasofia/claude-deconstruct) | 1 | `main` | `skills` | ✅ ok |  |
 | [adelaidasofia/claude-insights](https://github.com/adelaidasofia/claude-insights) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1417,7 +1416,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [gabrielnfc/gabarito-mestre](https://github.com/gabrielnfc/gabarito-mestre) | 4 | `main` | `.` | ✅ ok |  |
 | [gaelic-ghost/socket](https://github.com/gaelic-ghost/socket) | 398 | `main` | `.` | ✅ ok |  |
 | [gageracer/svelte5-migration-analyst](https://github.com/gageracer/svelte5-migration-analyst) | 1 | `main` | `skills` | ✅ ok |  |
-| [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 19 | `main` | `.` | ✅ ok |  |
+| [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 20 | `main` | `.` | ✅ ok |  |
 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 20 | `main` | `.claude/skills` | ✅ ok |  |
 | [GaimsDevSoftware/glaze-coder](https://github.com/GaimsDevSoftware/glaze-coder) | 2 | `main` | `.` | ✅ ok |  |
 | [galleonlabs/hypergrok-trading-desk](https://github.com/galleonlabs/hypergrok-trading-desk) | 17 | `main` | `skills` | ✅ ok |  |
@@ -2225,7 +2224,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [kshyam/opencode-and-claude-skills](https://github.com/kshyam/opencode-and-claude-skills) | 29 | `main` | `.` | ✅ ok |  |
 | [Ksx9797/security-sweep-plugin](https://github.com/Ksx9797/security-sweep-plugin) | 1 | `main` | `skills` | ✅ ok |  |
 | [KtKID/x-dev-pipeline](https://github.com/KtKID/x-dev-pipeline) | 18 | `main` | `skills` | ✅ ok |  |
-| [kuangketongxue/kuang-skills](https://github.com/kuangketongxue/kuang-skills) | 10 | `main` | `.` | ✅ ok |  |
+| [kuangketongxue/kuang-skills](https://github.com/kuangketongxue/kuang-skills) | 11 | `main` | `.` | ✅ ok |  |
 | [KubeRocketCI/claude-plugins](https://github.com/KubeRocketCI/claude-plugins) | 56 | `main` | `.` | ✅ ok |  |
 | [kubersharmax/amda-skill](https://github.com/kubersharmax/amda-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [kubilaiswf/claude-tutor](https://github.com/kubilaiswf/claude-tutor) | 5 | `main` | `.claude/skills` | ✅ ok |  |
@@ -4283,7 +4282,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [waittim/MemoryCustodian](https://github.com/waittim/MemoryCustodian) | 1 | `main` | `skills` | ✅ ok |  |
 | [wallmage/repo-scout](https://github.com/wallmage/repo-scout) | 1 | `main` | `.` | ✅ ok |  |
 | [wallmage/skill-scout](https://github.com/wallmage/skill-scout) | 1 | `main` | `.` | ✅ ok |  |
-| [wan-huiyan/agent-traffic-control](https://github.com/wan-huiyan/agent-traffic-control) | 107 | `main` | `.` | ✅ ok |  |
+| [wan-huiyan/agent-traffic-control](https://github.com/wan-huiyan/agent-traffic-control) | 109 | `main` | `.` | ✅ ok |  |
 | [wan-huiyan/claude-ecosystem-hygiene](https://github.com/wan-huiyan/claude-ecosystem-hygiene) | 10 | `main` | `.` | ✅ ok |  |
 | [wan-huiyan/context-baton](https://github.com/wan-huiyan/context-baton) | 2 | `master` | `.` | ✅ ok |  |
 | [wan-huiyan/cutify-this](https://github.com/wan-huiyan/cutify-this) | 4 | `main` | `.` | ✅ ok |  |
@@ -4615,6 +4614,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [abduelhamit/hungrai-skill](https://github.com/abduelhamit/hungrai-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [AboutRSS/rsshub-route-authoring-skill](https://github.com/AboutRSS/rsshub-route-authoring-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [acchuang/zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [AdeDeepFishing/trip-itinerary-page](https://github.com/AdeDeepFishing/trip-itinerary-page) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [adiolk98/clean-diagram](https://github.com/adiolk98/clean-diagram) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [adrianpuiu/claude-skills-marketplace](https://github.com/adrianpuiu/claude-skills-marketplace) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [aEboli/zhongguose-palette](https://github.com/aEboli/zhongguose-palette) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
