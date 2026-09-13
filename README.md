@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **5237**
-- Discoverable skills: **150,055**
-- Healthy repos: **4579** · Truncated: **2** · Unavailable: **656**
-- Last updated: **2026-09-13 16:44 UTC**
+- Discoverable skills: **150,113**
+- Healthy repos: **4582** · Truncated: **2** · Unavailable: **653**
+- Last updated: **2026-09-13 19:06 UTC**
 
 ## Related Lists
 
@@ -1154,6 +1154,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [drveles/teach-me](https://github.com/drveles/teach-me) | 1 | `main` | `skills` | ✅ ok |  |
 | [dryvist/claude-code-plugins](https://github.com/dryvist/claude-code-plugins) | 64 | `main` | `.` | ✅ ok |  |
 | [ds-vibe/html-explainer](https://github.com/ds-vibe/html-explainer) | 0 | `main` | `.` | ✅ ok |  |
+| [dseloustev/artel](https://github.com/dseloustev/artel) | 36 | `main` | `skills` | ✅ ok |  |
 | [dss-time/repo-doctor-skills](https://github.com/dss-time/repo-doctor-skills) | 79 | `main` | `.` | ✅ ok |  |
 | [DSY-Xueai/image2editable](https://github.com/DSY-Xueai/image2editable) | 2 | `main` | `skills` | ✅ ok |  |
 | [dT-Tb-labs/babel-orchestration](https://github.com/dT-Tb-labs/babel-orchestration) | 3 | `master` | `skills` | ✅ ok |  |
@@ -2046,7 +2047,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [jxpeng98/qiongli](https://github.com/jxpeng98/qiongli) | 4 | `main` | `.` | ✅ ok |  |
 | [jyh4358/jay-plugin](https://github.com/jyh4358/jay-plugin) | 4 | `main` | `skills` | ✅ ok |  |
 | [jzills/Claude-Marketplace](https://github.com/jzills/Claude-Marketplace) | 19 | `main` | `.` | ✅ ok |  |
-| [JZKK720/cubecloud-skills-bundle-kit](https://github.com/JZKK720/cubecloud-skills-bundle-kit) | 20 | `main` | `.` | ✅ ok |  |
+| [JZKK720/cubecloud-skills-bundle-kit](https://github.com/JZKK720/cubecloud-skills-bundle-kit) | 38 | `main` | `.` | ✅ ok |  |
 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 166 | `main` | `.` | ✅ ok |  |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 166 | `main` | `skills` | ✅ ok |  |
 | [k-vaca/prompt-engineering-skill](https://github.com/k-vaca/prompt-engineering-skill) | 1 | `main` | `.` | ✅ ok |  |
@@ -3576,6 +3577,8 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sergebulaev/youtube-skills](https://github.com/sergebulaev/youtube-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [sergeyizmailov/knowledge-delta-skills](https://github.com/sergeyizmailov/knowledge-delta-skills) | 16 | `master` | `skills` | ✅ ok |  |
 | [sergiobuilds/biz-health-check](https://github.com/sergiobuilds/biz-health-check) | 0 | `main` | `.` | ✅ ok |  |
+| [sergiparpal/Burgess](https://github.com/sergiparpal/Burgess) | 1 | `main` | `skills` | ✅ ok |  |
+| [sergiparpal/Cambrian](https://github.com/sergiparpal/Cambrian) | 1 | `main` | `skills` | ✅ ok |  |
 | [sergvss/agents-best-teams](https://github.com/sergvss/agents-best-teams) | 6 | `main` | `skills` | ✅ ok |  |
 | [serhiy-bzhezytskyy/contrib-receipts](https://github.com/serhiy-bzhezytskyy/contrib-receipts) | 31 | `main` | `skills` | ✅ ok |  |
 | [sernoxxx/shatterpoint](https://github.com/sernoxxx/shatterpoint) | 0 | `main` | `.` | ✅ ok |  |
@@ -3610,7 +3613,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Shawn1993/ship-appstore](https://github.com/Shawn1993/ship-appstore) | 1 | `main` | `skills` | ✅ ok |  |
 | [shck-dev/ccx-context-system](https://github.com/shck-dev/ccx-context-system) | 3 | `main` | `.` | ✅ ok |  |
 | [shenchangmin/cairnkit](https://github.com/shenchangmin/cairnkit) | 4 | `main` | `.` | ✅ ok |  |
-| [shepaland/LexForge](https://github.com/shepaland/LexForge) | 18 | `main` | `.` | ✅ ok |  |
+| [shepaland/LexForge](https://github.com/shepaland/LexForge) | 19 | `main` | `.` | ✅ ok |  |
 | [shepsci/kaggle-skill](https://github.com/shepsci/kaggle-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [sherifabdlnaby/skills](https://github.com/sherifabdlnaby/skills) | 27 | `main` | `skills` | ✅ ok |  |
 | [ShieldNet-360/secure-vibe](https://github.com/ShieldNet-360/secure-vibe) | 93 | `main` | `.` | ✅ ok |  |
@@ -4439,7 +4442,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [yahor-punko/mavericks-os](https://github.com/yahor-punko/mavericks-os) | 2 | `main` | `.claude/skills` | ✅ ok |  |
 | [Yakoub-ai/agent-mmm](https://github.com/Yakoub-ai/agent-mmm) | 28 | `main` | `.` | ✅ ok |  |
 | [yakultyum/ai-coding-exam-skill](https://github.com/yakultyum/ai-coding-exam-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [yamanidev/claude-code-configuration](https://github.com/yamanidev/claude-code-configuration) | 12 | `main` | `skills` | ✅ ok |  |
+| [yamanidev/claude-code-configuration](https://github.com/yamanidev/claude-code-configuration) | 13 | `main` | `skills` | ✅ ok |  |
 | [yanchrisdifa/claude-skill-watch-video](https://github.com/yanchrisdifa/claude-skill-watch-video) | 1 | `master` | `skills` | ✅ ok |  |
 | [YangKangSung/kampff-skills](https://github.com/YangKangSung/kampff-skills) | 1 | `main` | `.` | ✅ ok |  |
 | [YangsonHung/awesome-agent-skills](https://github.com/YangsonHung/awesome-agent-skills) | 52 | `main` | `skills` | ✅ ok |  |
@@ -4767,7 +4770,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [DogukanK/claude-pc-cleanup](https://github.com/DogukanK/claude-pc-cleanup) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [Drizzy07x/cognitive-powers](https://github.com/Drizzy07x/cognitive-powers) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [drop-project-edu/claude-skills](https://github.com/drop-project-edu/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dseloustev/artel](https://github.com/dseloustev/artel) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [ebziw/repo-medic](https://github.com/ebziw/repo-medic) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [edgeverdict/edgeverdict-make-me-money-trading](https://github.com/edgeverdict/edgeverdict-make-me-money-trading) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [elearningplugins/crunchlabs-ir-turret-fix](https://github.com/elearningplugins/crunchlabs-ir-turret-fix) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
@@ -5115,8 +5117,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [sdsrss/moa-skill](https://github.com/sdsrss/moa-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [SeKondBrainAILabs/claude-kemory](https://github.com/SeKondBrainAILabs/claude-kemory) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [sergeyklay/.agents](https://github.com/sergeyklay/.agents) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [sergiparpal/Burgess](https://github.com/sergiparpal/Burgess) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sergiparpal/Cambrian](https://github.com/sergiparpal/Cambrian) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [sergiparpal/Sproutgraph](https://github.com/sergiparpal/Sproutgraph) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
 | [serpro69/claude-toolbox](https://github.com/serpro69/claude-toolbox) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
 | [shasyasan/claude-rein](https://github.com/shasyasan/claude-rein) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
