@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **5303**
-- Discoverable skills: **150,169**
-- Healthy repos: **4577** · Truncated: **2** · Unavailable: **724**
-- Last updated: **2026-09-14 22:52 UTC**
+- Discoverable skills: **150,162**
+- Healthy repos: **4576** · Truncated: **2** · Unavailable: **725**
+- Last updated: **2026-09-15 01:05 UTC**
 
 ## Related Lists
 
@@ -1010,7 +1010,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [daxaur/hueristic](https://github.com/daxaur/hueristic) | 0 | `main` | `.` | ✅ ok |  |
 | [daxueren666/zuzufang](https://github.com/daxueren666/zuzufang) | 0 | `main` | `.` | ✅ ok |  |
 | [dayfinggg/claude-code-codex-skills](https://github.com/dayfinggg/claude-code-codex-skills) | 20 | `main` | `.` | ✅ ok |  |
-| [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 105 | `main` | `.` | ✅ ok |  |
+| [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) | 106 | `main` | `.` | ✅ ok |  |
 | [dayvisonassis/sdd-skills](https://github.com/dayvisonassis/sdd-skills) | 20 | `main` | `skills` | ✅ ok |  |
 | [dbaggott/claude-plugins](https://github.com/dbaggott/claude-plugins) | 8 | `main` | `.` | ✅ ok |  |
 | [dbbz/C-K-studio](https://github.com/dbbz/C-K-studio) | 9 | `main` | `skills` | ✅ ok |  |
@@ -2781,7 +2781,6 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [namit-jpg/presales-agent-skill](https://github.com/namit-jpg/presales-agent-skill) | 1 | `main` | `.` | ✅ ok |  |
 | [naniiluja/ccf](https://github.com/naniiluja/ccf) | 1 | `main` | `.` | ✅ ok |  |
 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 56 | `main` | `.claude/skills` | ✅ ok |  |
-| [nanoodlecom/noodle-skills](https://github.com/nanoodlecom/noodle-skills) | 11 | `main` | `skills` | ✅ ok |  |
 | [napoler/skill-fix](https://github.com/napoler/skill-fix) | 5 | `main` | `skills` | ✅ ok |  |
 | [nariatrip191/my-claude-skills](https://github.com/nariatrip191/my-claude-skills) | 6 | `main` | `.` | ✅ ok |  |
 | [narrative-io/narrative-skills-marketplace](https://github.com/narrative-io/narrative-skills-marketplace) | 11 | `main` | `.` | ✅ ok |  |
@@ -3891,7 +3890,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [SurendharVr/seo-repair](https://github.com/SurendharVr/seo-repair) | 0 | `main` | `.` | ✅ ok |  |
 | [sureshg/skills](https://github.com/sureshg/skills) | 3 | `main` | `skills` | ✅ ok |  |
 | [SURFLIN2030/swing-skills](https://github.com/SURFLIN2030/swing-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance) | 33 | `main` | `.` | ✅ ok |  |
+| [Sushegaad/Claude-Skills-Governance-Risk-and-Compliance](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance) | 36 | `main` | `.` | ✅ ok |  |
 | [suwa-sh/multi-cloud-lifecycle-skills](https://github.com/suwa-sh/multi-cloud-lifecycle-skills) | 4 | `main` | `.claude/skills` | ✅ ok |  |
 | [suxrobGM/claude-plugins](https://github.com/suxrobGM/claude-plugins) | 10 | `main` | `.` | ✅ ok |  |
 | [suxrobGM/jobpilot](https://github.com/suxrobGM/jobpilot) | 31 | `main` | `.` | ✅ ok |  |
@@ -5046,6 +5045,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [MustBeSimo/web-design-studio](https://github.com/MustBeSimo/web-design-studio) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [n3wth/skills](https://github.com/n3wth/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [naderelewa/Product-to-Prod](https://github.com/naderelewa/Product-to-Prod) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
+| [nanoodlecom/noodle-skills](https://github.com/nanoodlecom/noodle-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [naravid19/claude-ctf-skills](https://github.com/naravid19/claude-ctf-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [nathanaday/claude-atlas](https://github.com/nathanaday/claude-atlas) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
 | [nathanpond/n8SDLC-Skills](https://github.com/nathanpond/n8SDLC-Skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
