@@ -4519,1078 +4519,136 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [Zaious/riftbound-chronicle](https://github.com/Zaious/riftbound-chronicle) | 1 | `main` | `.` | ✅ ok |  |
 | [zalom/plastic](https://github.com/zalom/plastic) | 36 | `main` | `skills` | ✅ ok |  |
 | [zamushwani/biomedical-ai-skills](https://github.com/zamushwani/biomedical-ai-skills) | 16 | `main` | `skills` | ✅ ok |  |
-| [Zandereins/hydra](https://github.com/Zandereins/hydra) | 0 | `main` | `.` | ✅ ok |  |
-| [Zaosusu/resume-onepager](https://github.com/Zaosusu/resume-onepager) | 0 | `main` | `.` | ✅ ok |  |
-| [Zaosusu/schedule-onepager](https://github.com/Zaosusu/schedule-onepager) | 0 | `main` | `.` | ✅ ok |  |
-| [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) | 4 | `main` | `.` | ✅ ok |  |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 0 | `main` | `.` | ✅ ok |  |
-| [zbc0315/user-portrait](https://github.com/zbc0315/user-portrait) | 2 | `main` | `.` | ✅ ok |  |
-| [zcz718/paperradar](https://github.com/zcz718/paperradar) | 0 | `main` | `.` | ✅ ok |  |
-| [zdrjson/xhs-growth-skill](https://github.com/zdrjson/xhs-growth-skill) | 1 | `main` | `.` | ✅ ok |  |
-| [Zealotic-spec/frontend-design-skill](https://github.com/Zealotic-spec/frontend-design-skill) | 1 | `main` | `skills` | ✅ ok |  |
-| [zebbern/agent-collab](https://github.com/zebbern/agent-collab) | 9 | `main` | `.` | ✅ ok |  |
-| [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | 79 | `main` | `skills` | ✅ ok |  |
-| [zebbern/skills](https://github.com/zebbern/skills) | 2 | `main` | `.` | ✅ ok |  |
-| [zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs) | 98 | `main` | `.` | ✅ ok |  |
-| [zeikar/dotfiles](https://github.com/zeikar/dotfiles) | 3 | `main` | `.` | ✅ ok |  |
-| [zeikar/hyperclaude](https://github.com/zeikar/hyperclaude) | 17 | `main` | `skills` | ✅ ok |  |
-| [zeikar/ludoweft](https://github.com/zeikar/ludoweft) | 1 | `main` | `skills` | ✅ ok |  |
-| [ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill) | 0 | `main` | `skills` | ✅ ok |  |
-| [zekker6/claude-code-channel-matrix](https://github.com/zekker6/claude-code-channel-matrix) | 2 | `master` | `.` | ✅ ok |  |
-| [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) | 1 | `main` | `.claude/skills` | ✅ ok |  |
-| [Zenetusken/consolidate-memory](https://github.com/Zenetusken/consolidate-memory) | 2 | `main` | `.` | ✅ ok |  |
-| [zenlee123/routerbase-agent-skills](https://github.com/zenlee123/routerbase-agent-skills) | 3 | `main` | `skills` | ✅ ok |  |
-| [zenml-io/kitaru-skills](https://github.com/zenml-io/kitaru-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [zenstory-ai/novel-to-game](https://github.com/zenstory-ai/novel-to-game) | 7 | `main` | `skills` | ✅ ok |  |
-| [zenstory-ai/oh-story-claudecode](https://github.com/zenstory-ai/oh-story-claudecode) | 13 | `main` | `skills` | ✅ ok |  |
-| [zenstory-ai/video-recap-skills](https://github.com/zenstory-ai/video-recap-skills) | 6 | `main` | `skills` | ✅ ok |  |
-| [Zephyrex21/claude-leetcode-helper](https://github.com/Zephyrex21/claude-leetcode-helper) | 0 | `main` | `.` | ✅ ok |  |
-| [Zero-One-Stack/bedrock](https://github.com/Zero-One-Stack/bedrock) | 18 | `main` | `.` | ✅ ok |  |
-| [zeroatflops/flops-skill](https://github.com/zeroatflops/flops-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) | 12 | `main` | `skills` | ✅ ok |  |
-| [ZeroPointRepo/zillow-plugin](https://github.com/ZeroPointRepo/zillow-plugin) | 1 | `main` | `skills` | ✅ ok |  |
-| [Zessi-C/biofigure-self-evolve](https://github.com/Zessi-C/biofigure-self-evolve) | 0 | `main` | `.` | ✅ ok |  |
-| [zevdeng-cell/decor-stylist](https://github.com/zevdeng-cell/decor-stylist) | 1 | `main` | `.` | ✅ ok |  |
-| [Zevenue/headless-gtm](https://github.com/Zevenue/headless-gtm) | 0 | `main` | `.claude/skills` | ✅ ok |  |
-| [zexion7873/perchling](https://github.com/zexion7873/perchling) | 1 | `main` | `skills` | ✅ ok |  |
-| [zexuanw958-svg/travel-plan-viz](https://github.com/zexuanw958-svg/travel-plan-viz) | 1 | `main` | `.` | ✅ ok |  |
-| [zeybek/apex](https://github.com/zeybek/apex) | 4 | `main` | `.` | ✅ ok |  |
-| [zhang66633/dsh-plugin-installer](https://github.com/zhang66633/dsh-plugin-installer) | 1 | `main` | `skills` | ✅ ok |  |
-| [zhanglunet/mba](https://github.com/zhanglunet/mba) | 45 | `main` | `.` | ✅ ok |  |
-| [zhangzhanglaila/charm-mature-skill](https://github.com/zhangzhanglaila/charm-mature-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [zhangzhanglaila/rational-mature-skill](https://github.com/zhangzhanglaila/rational-mature-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [ZHAO0424/unity-cli-skill](https://github.com/ZHAO0424/unity-cli-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [zhaojiannet/canon](https://github.com/zhaojiannet/canon) | 14 | `main` | `.` | ✅ ok |  |
-| [zhaoyshine/looppower](https://github.com/zhaoyshine/looppower) | 1 | `main` | `skills` | ✅ ok |  |
-| [zhebil/claude-code-plugins](https://github.com/zhebil/claude-code-plugins) | 1 | `main` | `.` | ✅ ok |  |
-| [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) | 19 | `main` | `skills` | ✅ ok |  |
-| [Zihao-Wu06/claude-code-orchestrate](https://github.com/Zihao-Wu06/claude-code-orchestrate) | 2 | `main` | `.` | ✅ ok |  |
-| [zilliztech/memsearch](https://github.com/zilliztech/memsearch) | 17 | `main` | `.` | ✅ ok |  |
-| [Zintellix/Claude-Skills](https://github.com/Zintellix/Claude-Skills) | 1 | `main` | `skills` | ✅ ok |  |
-| [zircote/adr](https://github.com/zircote/adr) | 12 | `main` | `skills` | ✅ ok |  |
-| [zircote/lsp-tools](https://github.com/zircote/lsp-tools) | 1 | `main` | `skills` | ✅ ok |  |
-| [zkylek1212-k/multi-agent-hub](https://github.com/zkylek1212-k/multi-agent-hub) | 1 | `master` | `skills` | ✅ ok |  |
-| [zlej123/stepkeeper](https://github.com/zlej123/stepkeeper) | 1 | `main` | `skills` | ✅ ok |  |
-| [ZloyDeDD/wb-api-skill](https://github.com/ZloyDeDD/wb-api-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [ZonEaseTech/html-mockup](https://github.com/ZonEaseTech/html-mockup) | 0 | `main` | `.` | ✅ ok |  |
-| [Zrzzzz/agent-codebase-skills](https://github.com/Zrzzzz/agent-codebase-skills) | 3 | `main` | `.` | ✅ ok |  |
-| [zseta/skill-writer](https://github.com/zseta/skill-writer) | 0 | `master` | `.` | ✅ ok |  |
-| [zszendro/vc-teardown](https://github.com/zszendro/vc-teardown) | 1 | `main` | `.` | ✅ ok |  |
-| [zuoyou12/longzu.skillls](https://github.com/zuoyou12/longzu.skillls) | 3 | `master` | `.` | ✅ ok |  |
-| [zx029w/zhuangxiu-skills](https://github.com/zx029w/zhuangxiu-skills) | 38 | `main` | `.` | ✅ ok |  |
-| [zxc7563598/skillbox](https://github.com/zxc7563598/skillbox) | 6 | `main` | `skills` | ✅ ok |  |
-| [zydo/skills](https://github.com/zydo/skills) | 1 | `main` | `skills` | ✅ ok |  |
-| [zyx1121/paper-generator](https://github.com/zyx1121/paper-generator) | 10 | `main` | `skills` | ✅ ok |  |
-| [zzunaid/prompt-line](https://github.com/zzunaid/prompt-line) | 1 | `main` | `.` | ✅ ok |  |
-| [0xDarkMatter/claude-mods](https://github.com/0xDarkMatter/claude-mods) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [0xMassi/webclaw-skill](https://github.com/0xMassi/webclaw-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [0xwilliamortiz/agents-council](https://github.com/0xwilliamortiz/agents-council) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | 0 | `main` | `Skills` | ❌ missing | HTTP 404 |
-| [0xwilliamortiz/humanizer-cli](https://github.com/0xwilliamortiz/humanizer-cli) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [0xwilliamortiz/ratchet](https://github.com/0xwilliamortiz/ratchet) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [1102tools/federal-contracting-skills](https://github.com/1102tools/federal-contracting-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [1102tools-dev/federal-contracting-skills](https://github.com/1102tools-dev/federal-contracting-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [3351666087/wechat-key-macos](https://github.com/3351666087/wechat-key-macos) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [627-hub/cn-stock-fraud-screen](https://github.com/627-hub/cn-stock-fraud-screen) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [627-hub/duanxianxia-skill](https://github.com/627-hub/duanxianxia-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [694410194/hanyu-skill](https://github.com/694410194/hanyu-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [aahl/skills](https://github.com/aahl/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [aariz51/promo-video-skill](https://github.com/aariz51/promo-video-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [aashutosh396/mindpalace-skill](https://github.com/aashutosh396/mindpalace-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Abdallah-Abdelazim/mobile-pr-review-skill](https://github.com/Abdallah-Abdelazim/mobile-pr-review-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [abduelhamit/hungrai-skill](https://github.com/abduelhamit/hungrai-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [abgne/line-dev](https://github.com/abgne/line-dev) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [AboutRSS/rsshub-route-authoring-skill](https://github.com/AboutRSS/rsshub-route-authoring-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [abxn4r/archon-skills](https://github.com/abxn4r/archon-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [acchuang/zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [adammatthewsteinberger/vibey-skills](https://github.com/adammatthewsteinberger/vibey-skills) | 0 | `develop` | `.` | ❌ missing | HTTP 404 |
-| [addsumtech/job-hunt](https://github.com/addsumtech/job-hunt) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [AdeDeepFishing/trip-itinerary-page](https://github.com/AdeDeepFishing/trip-itinerary-page) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [AdilShamim8/claude-research-excellence](https://github.com/AdilShamim8/claude-research-excellence) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [adiolk98/clean-diagram](https://github.com/adiolk98/clean-diagram) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [adiready/geo-auto-export](https://github.com/adiready/geo-auto-export) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [adrianpuiu/claude-skills-marketplace](https://github.com/adrianpuiu/claude-skills-marketplace) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [aEboli/zhongguose-palette](https://github.com/aEboli/zhongguose-palette) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [afaro-ai/afaro](https://github.com/afaro-ai/afaro) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [afonsoajrodrigues/newsroom-agents](https://github.com/afonsoajrodrigues/newsroom-agents) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [afonsoft/skills](https://github.com/afonsoft/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [agencekoeki/Claude-marketing-for-real-estate](https://github.com/agencekoeki/Claude-marketing-for-real-estate) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [AgentGameLab/skills](https://github.com/AgentGameLab/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [agenthouse-org/skills](https://github.com/agenthouse-org/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [AgenticPW/AgenticPW](https://github.com/AgenticPW/AgenticPW) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [Agents365-ai/asta-skill](https://github.com/Agents365-ai/asta-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Agents365-ai/imagenCN](https://github.com/Agents365-ai/imagenCN) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Agents365-ai/mermaid-skill](https://github.com/Agents365-ai/mermaid-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Agents365-ai/ocrCN](https://github.com/Agents365-ai/ocrCN) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Agents365-ai/pi-plugin-cc](https://github.com/Agents365-ai/pi-plugin-cc) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Agents365-ai/ttsCN](https://github.com/Agents365-ai/ttsCN) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Agents365-ai/videogenCN](https://github.com/Agents365-ai/videogenCN) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Agents365-ai/yt2bb](https://github.com/Agents365-ai/yt2bb) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Agulhas-Labs/claude-plugins](https://github.com/Agulhas-Labs/claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [AhmedTmorgan/crew](https://github.com/AhmedTmorgan/crew) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ahmedyehya92/saas-platform-teardown-kit](https://github.com/ahmedyehya92/saas-platform-teardown-kit) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [ahmtsahin/groundwork](https://github.com/ahmtsahin/groundwork) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ai-theories/wealth-skills](https://github.com/ai-theories/wealth-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [aiffective-yhi/context-profile](https://github.com/aiffective-yhi/context-profile) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [aiworkskills/wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ajitta/know-your-unknowns](https://github.com/ajitta/know-your-unknowns) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [akira993/doc-audit-harness](https://github.com/akira993/doc-audit-harness) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [akshayrao14/git-practices](https://github.com/akshayrao14/git-practices) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [albegosu/second-brain](https://github.com/albegosu/second-brain) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [alex-macra/claude-codex-skills-assembly](https://github.com/alex-macra/claude-codex-skills-assembly) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [alex-zwingli/plan-to-eat-mcp](https://github.com/alex-zwingli/plan-to-eat-mcp) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [alexbouchez/dougs](https://github.com/alexbouchez/dougs) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
-| [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [AlexisBalayre/claude-code-config](https://github.com/AlexisBalayre/claude-code-config) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [AlexisBalayre/claude-code-power-config](https://github.com/AlexisBalayre/claude-code-power-config) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [AliceLJY/digital-clone-skill](https://github.com/AliceLJY/digital-clone-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [alinafe82/cognitive-deadlift](https://github.com/alinafe82/cognitive-deadlift) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [aliradid/citation-needed](https://github.com/aliradid/citation-needed) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [alivecontext/alive](https://github.com/alivecontext/alive) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Allan-Nava/qrspi](https://github.com/Allan-Nava/qrspi) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [allierays/agentic-architecture-review](https://github.com/allierays/agentic-architecture-review) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [alonsorobots/claude-code-supervised](https://github.com/alonsorobots/claude-code-supervised) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [aminurislamarnob/burnTracker](https://github.com/aminurislamarnob/burnTracker) | 0 | `develop` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [Amir-Abushanab/modern-frontend-architecture](https://github.com/Amir-Abushanab/modern-frontend-architecture) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [amjad1233/ai-skills](https://github.com/amjad1233/ai-skills) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [amjad1233/claude-skills](https://github.com/amjad1233/claude-skills) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [anchit-choudhry/gryffin-calorai](https://github.com/anchit-choudhry/gryffin-calorai) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [anchorwatch-dev/anchorwatch](https://github.com/anchorwatch-dev/anchorwatch) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [AndersonAdelino/skills](https://github.com/AndersonAdelino/skills) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [AndresParraSilva/learn-up](https://github.com/AndresParraSilva/learn-up) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [andreworia/claude-finance-skills](https://github.com/andreworia/claude-finance-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [andreymudri/fleetmates](https://github.com/andreymudri/fleetmates) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [anhermon/claude-public](https://github.com/anhermon/claude-public) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [aniboy2k-gif/memory-health](https://github.com/aniboy2k-gif/memory-health) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Aniruddha-Sainkar/relay-voice-ops](https://github.com/Aniruddha-Sainkar/relay-voice-ops) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [anton-winter-arch/dotagents](https://github.com/anton-winter-arch/dotagents) | 0 | `develop` | `skills` | ❌ missing | HTTP 404 |
-| [antvis/Infographic](https://github.com/antvis/Infographic) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
-| [aouellets/skillme](https://github.com/aouellets/skillme) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [apatheticus/z2s](https://github.com/apatheticus/z2s) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [apimageorg/apimage-skills](https://github.com/apimageorg/apimage-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [apparna88/nibble](https://github.com/apparna88/nibble) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [appleweed/game-skills-for-agents](https://github.com/appleweed/game-skills-for-agents) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [arabicapp/everything-claude-code](https://github.com/arabicapp/everything-claude-code) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ararai1991/wp-plugin-skill](https://github.com/ararai1991/wp-plugin-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [arete-aios/skills](https://github.com/arete-aios/skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Ark0N/Codeman](https://github.com/Ark0N/Codeman) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [ArnauFerma/falsifiable-tests](https://github.com/ArnauFerma/falsifiable-tests) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ArthurZakirov/AgentDesk](https://github.com/ArthurZakirov/AgentDesk) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ArthurZakirov/SkillPort](https://github.com/ArthurZakirov/SkillPort) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [artwisdom/roofing-os-skills](https://github.com/artwisdom/roofing-os-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [asaf-shitrit/ai-native-sdlc-skills](https://github.com/asaf-shitrit/ai-native-sdlc-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [asm0dey/precedent](https://github.com/asm0dey/precedent) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [atarico/fix-cv-find-job-skill](https://github.com/atarico/fix-cv-find-job-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [atazifor/engineering-memlog](https://github.com/atazifor/engineering-memlog) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [athola/claude-night-market](https://github.com/athola/claude-night-market) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [auditfellow/auditfellow-plugins](https://github.com/auditfellow/auditfellow-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [auge2u/lisa-helps-ralph-loops](https://github.com/auge2u/lisa-helps-ralph-loops) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [autographical/claude-code-plugins](https://github.com/autographical/claude-code-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [automindz-solutions/hyreflow-plugins](https://github.com/automindz-solutions/hyreflow-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [avaxML/agent-relay](https://github.com/avaxML/agent-relay) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Avinash147-1193/thedeployer-plugins](https://github.com/Avinash147-1193/thedeployer-plugins) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [AviOfLagos/ava](https://github.com/AviOfLagos/ava) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [axisrobo/ea-harness](https://github.com/axisrobo/ea-harness) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [AZidan/archflow](https://github.com/AZidan/archflow) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [b33kman/special-education-due-process-complaint](https://github.com/b33kman/special-education-due-process-complaint) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [backchainai/backchain-plugins](https://github.com/backchainai/backchain-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [bacsystem/skills](https://github.com/bacsystem/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [baidu-maps/jsapi-skills](https://github.com/baidu-maps/jsapi-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [baileywickham/unifi-cli](https://github.com/baileywickham/unifi-cli) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [balaka/bro](https://github.com/balaka/bro) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Barinfo/Camelot.skill](https://github.com/Barinfo/Camelot.skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Barinfo/NEVERMIND.skill](https://github.com/Barinfo/NEVERMIND.skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Bauhaus-InfAU/infau-skill-base](https://github.com/Bauhaus-InfAU/infau-skill-base) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bbsnly/sdlc](https://github.com/bbsnly/sdlc) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bear2u/my-skills](https://github.com/bear2u/my-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [BeckhamLabsLLC/kicad-jlcpcb](https://github.com/BeckhamLabsLLC/kicad-jlcpcb) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [belousov-petr/strata](https://github.com/belousov-petr/strata) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [bertrand-do/ai-photography-accuracy](https://github.com/bertrand-do/ai-photography-accuracy) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [biggora/stitch-skills](https://github.com/biggora/stitch-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [bim-ba/ai](https://github.com/bim-ba/ai) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [bin19860307-cpu/tester_skill](https://github.com/bin19860307-cpu/tester_skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bitranox/lsdsk](https://github.com/bitranox/lsdsk) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [bkraad47/fat_llama_fftw](https://github.com/bkraad47/fat_llama_fftw) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [BlackRaptorAI/BlackRaptor_Agents](https://github.com/BlackRaptorAI/BlackRaptor_Agents) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [blauwtje/exo](https://github.com/blauwtje/exo) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [blkdynamite/Gio-prompt-optimizer](https://github.com/blkdynamite/Gio-prompt-optimizer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bootgs/skills](https://github.com/bootgs/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [boriskuncer/complicheck-skill](https://github.com/boriskuncer/complicheck-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [borx3a/halka-arz-skills](https://github.com/borx3a/halka-arz-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [brackendev/clojurescript-skills](https://github.com/brackendev/clojurescript-skills) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [Brawl345/browser-tools](https://github.com/Brawl345/browser-tools) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [brianschroeder/simple-agent-memory](https://github.com/brianschroeder/simple-agent-memory) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [brightops-ai/brightopsai-plugins-official](https://github.com/brightops-ai/brightopsai-plugins-official) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Brilia-it/k3-plugin-cc](https://github.com/Brilia-it/k3-plugin-cc) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [brockamer/jared](https://github.com/brockamer/jared) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [brquatti/readme-style](https://github.com/brquatti/readme-style) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [BruceFloyd/claude-skill-speaker-page](https://github.com/BruceFloyd/claude-skill-speaker-page) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bryanG2518/paper-grader-skill](https://github.com/bryanG2518/paper-grader-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bryankwandou/rangka](https://github.com/bryankwandou/rangka) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [bsmi021/google-notebook-plugin](https://github.com/bsmi021/google-notebook-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Bugrasemerkant/web-quality-skills](https://github.com/Bugrasemerkant/web-quality-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [buildproven/agent-kit](https://github.com/buildproven/agent-kit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [bunlongheng/repo-audit](https://github.com/bunlongheng/repo-audit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [BurraRohan/precision-context](https://github.com/BurraRohan/precision-context) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [BUTFL/claude-skills](https://github.com/BUTFL/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [BYZANTINE26/claude-log](https://github.com/BYZANTINE26/claude-log) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [C-myu/research-repo-construction-skill](https://github.com/C-myu/research-repo-construction-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Cadasto/sdd-plugin](https://github.com/Cadasto/sdd-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [calmsprite2001/ai-trip-guide-skills](https://github.com/calmsprite2001/ai-trip-guide-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [CarsonEngineeringDesign/asae](https://github.com/CarsonEngineeringDesign/asae) | 0 | `prod` | `skills` | ⛔ forbidden | HTTP 403 |
-| [catgrandfa/trade-review-skills](https://github.com/catgrandfa/trade-review-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [CB-Systemer/realequity-plugins-shared](https://github.com/CB-Systemer/realequity-plugins-shared) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ccediland/brand-system-skills](https://github.com/ccediland/brand-system-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [cdmx-in/ui-review](https://github.com/cdmx-in/ui-review) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
-| [ceoguy/x-algorithm-skill](https://github.com/ceoguy/x-algorithm-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [chacheum/chageun](https://github.com/chacheum/chageun) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [charleshugo819/gonggao-tuiwen-skill](https://github.com/charleshugo819/gonggao-tuiwen-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Chase-Chen1999/chinese-writing-skill](https://github.com/Chase-Chen1999/chinese-writing-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [chaserr/novel-craft](https://github.com/chaserr/novel-craft) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [chatdoc-com/chatdoc-studio-skills](https://github.com/chatdoc-com/chatdoc-studio-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [chenhz01/zhengming-openai-plugins](https://github.com/chenhz01/zhengming-openai-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [chenqg618/compliance-skills](https://github.com/chenqg618/compliance-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ChloeVPin/angwy](https://github.com/ChloeVPin/angwy) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ChloeVPin/apple-design-skill](https://github.com/ChloeVPin/apple-design-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ChloeVPin/brand-asset-art-director](https://github.com/ChloeVPin/brand-asset-art-director) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ChloeVPin/mascot-mark-generator](https://github.com/ChloeVPin/mascot-mark-generator) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ChloeVPin/safe-mac-storage-cleanup-skill](https://github.com/ChloeVPin/safe-mac-storage-cleanup-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ChloeVPin/tdd-agent-skill](https://github.com/ChloeVPin/tdd-agent-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ChrisAdkin8/newsletter-ai-skill](https://github.com/ChrisAdkin8/newsletter-ai-skill) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [chrisp28103/sn-toolkit](https://github.com/chrisp28103/sn-toolkit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ChrisPachulski/evergreen](https://github.com/ChrisPachulski/evergreen) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [christian-jorge/claude-site-media](https://github.com/christian-jorge/claude-site-media) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [christianfurr/creative-web-studio](https://github.com/christianfurr/creative-web-studio) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ciembor/agent-rules-books](https://github.com/ciembor/agent-rules-books) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [cilidinezy-commits/doc-harness](https://github.com/cilidinezy-commits/doc-harness) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [cliffmeyers/cliff-code](https://github.com/cliffmeyers/cliff-code) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Clinical-Quality-Artifical-Intelligence/practice-loops](https://github.com/Clinical-Quality-Artifical-Intelligence/practice-loops) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [coachpo/plugins-claude](https://github.com/coachpo/plugins-claude) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [codecube01/qa-cube](https://github.com/codecube01/qa-cube) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [CodePulseHQ/babysit-prs-plugin](https://github.com/CodePulseHQ/babysit-prs-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [codestripes-dev/clooks-marketplace](https://github.com/codestripes-dev/clooks-marketplace) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [CodyWhatleyMD/riverbed-compact](https://github.com/CodyWhatleyMD/riverbed-compact) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ColdBox/skills](https://github.com/ColdBox/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [coldteadotai/abide](https://github.com/coldteadotai/abide) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [comet-ml/opik-claude-code-plugin](https://github.com/comet-ml/opik-claude-code-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [competlab/competlab-ci-skills](https://github.com/competlab/competlab-ci-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [concept-git/cloud-concept-skills](https://github.com/concept-git/cloud-concept-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [conorluddy/xclaude-plugin](https://github.com/conorluddy/xclaude-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [conselho-administrativo/skill-edital2027](https://github.com/conselho-administrativo/skill-edital2027) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [cooler333/awesome-claude-code](https://github.com/cooler333/awesome-claude-code) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [craigtrim/skills](https://github.com/craigtrim/skills) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
-| [croqui-dev/croqui-mcp](https://github.com/croqui-dev/croqui-mcp) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Crowd9/giveaway-skills](https://github.com/Crowd9/giveaway-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [cruisefeed/cruisefeed-skill](https://github.com/cruisefeed/cruisefeed-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [cryndoc/polisade-orchestrator](https://github.com/cryndoc/polisade-orchestrator) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [crypdick/pynchy](https://github.com/crypdick/pynchy) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [cskwork/claude-minimal-plugin](https://github.com/cskwork/claude-minimal-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ctxrs/agentpostage](https://github.com/ctxrs/agentpostage) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [CyberTycoon/vibe-to-ship](https://github.com/CyberTycoon/vibe-to-ship) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [cypher0n3/dotagents](https://github.com/cypher0n3/dotagents) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Da6ka/tech-sourcing-skill](https://github.com/Da6ka/tech-sourcing-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [damanoreshkan-beep/dream-skill](https://github.com/damanoreshkan-beep/dream-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dangnhathuycntt-byte/claude-skills](https://github.com/dangnhathuycntt-byte/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dani-aisystems/ai-offer-builder](https://github.com/dani-aisystems/ai-offer-builder) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [danibsheehan/dani-foundations](https://github.com/danibsheehan/dani-foundations) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [danielfarnose/claude-code-dev-loop](https://github.com/danielfarnose/claude-code-dev-loop) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [danmackenz/ghostspend](https://github.com/danmackenz/ghostspend) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dariovr1/sixth-sense](https://github.com/dariovr1/sixth-sense) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [davejj1530/planflow-greenlight](https://github.com/davejj1530/planflow-greenlight) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [dbhq-uk/buildwork-skill](https://github.com/dbhq-uk/buildwork-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/deskwork-skill](https://github.com/dbhq-uk/deskwork-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/garmin-skill](https://github.com/dbhq-uk/garmin-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/gitview-skill](https://github.com/dbhq-uk/gitview-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/groupwork-skill](https://github.com/dbhq-uk/groupwork-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/headwork-skill](https://github.com/dbhq-uk/headwork-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/heliograph](https://github.com/dbhq-uk/heliograph) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/heliograph-skill](https://github.com/dbhq-uk/heliograph-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [dbhq-uk/imager-skill](https://github.com/dbhq-uk/imager-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/legwork-skill](https://github.com/dbhq-uk/legwork-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/outlook-skill](https://github.com/dbhq-uk/outlook-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/pennyblack-skill](https://github.com/dbhq-uk/pennyblack-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/trello-skill](https://github.com/dbhq-uk/trello-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbhq-uk/verve-skill](https://github.com/dbhq-uk/verve-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dbtinoy-/lexigram-framework-skills](https://github.com/dbtinoy-/lexigram-framework-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ddzyx/qiuxiaoce-football-data](https://github.com/ddzyx/qiuxiaoce-football-data) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [DefaultPerson/skills](https://github.com/DefaultPerson/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [DeFroe/craft-timesheet-numbering-correction](https://github.com/DeFroe/craft-timesheet-numbering-correction) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [DeFroe/security-notice-response](https://github.com/DeFroe/security-notice-response) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [developer239/michals-opencode-cookbook](https://github.com/developer239/michals-opencode-cookbook) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [devendrakushwah/glimpse](https://github.com/devendrakushwah/glimpse) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [devergehq/locus](https://github.com/devergehq/locus) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Devesh-Shirsath/spotkit](https://github.com/Devesh-Shirsath/spotkit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [DevN-gr/multi-tenant-fullstack-crud-skill](https://github.com/DevN-gr/multi-tenant-fullstack-crud-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [devrudals/master-of](https://github.com/devrudals/master-of) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [dewanshparashar/dekh-bhai](https://github.com/dewanshparashar/dekh-bhai) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Dexxter182/humanizer-hu](https://github.com/Dexxter182/humanizer-hu) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [dhzyw/long-task-runner](https://github.com/dhzyw/long-task-runner) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Diegocortes15/playwright-ai-framework](https://github.com/Diegocortes15/playwright-ai-framework) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [dillettante/k-realty-yield](https://github.com/dillettante/k-realty-yield) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [dillettante/pdf-bookmarks](https://github.com/dillettante/pdf-bookmarks) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [dillettante/sentencing-guidelines](https://github.com/dillettante/sentencing-guidelines) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Din0saur5/ocrdeskew-claude-plugin](https://github.com/Din0saur5/ocrdeskew-claude-plugin) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [dinglebear-ai/runraid](https://github.com/dinglebear-ai/runraid) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [djjay0131/agentic-governance](https://github.com/djjay0131/agentic-governance) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [dkaleganov/personal-ai-systems](https://github.com/dkaleganov/personal-ai-systems) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [DogukanK/claude-pc-cleanup](https://github.com/DogukanK/claude-pc-cleanup) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Dovyski/speaker](https://github.com/Dovyski/speaker) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [dragonforse/claude-skill-orquestador](https://github.com/dragonforse/claude-skill-orquestador) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Drizzy07x/cognitive-powers](https://github.com/Drizzy07x/cognitive-powers) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [drop-project-edu/claude-skills](https://github.com/drop-project-edu/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [dsatpm/factory-skills](https://github.com/dsatpm/factory-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [dseloustev/artel](https://github.com/dseloustev/artel) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Ebi-lock/work-regulations-check](https://github.com/Ebi-lock/work-regulations-check) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ebziw/repo-medic](https://github.com/ebziw/repo-medic) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [edgeverdict/edgeverdict-make-me-money-trading](https://github.com/edgeverdict/edgeverdict-make-me-money-trading) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [EERamos/drive-shared-projects](https://github.com/EERamos/drive-shared-projects) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [eighthoursleep/unity-game-codebase-walkthrough-skill](https://github.com/eighthoursleep/unity-game-codebase-walkthrough-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [elearningplugins/crunchlabs-ir-turret-fix](https://github.com/elearningplugins/crunchlabs-ir-turret-fix) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [emanoeI/spec-agent-skill](https://github.com/emanoeI/spec-agent-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [enverkocak/framework](https://github.com/enverkocak/framework) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [epode-studio/crosstalk](https://github.com/epode-studio/crosstalk) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [eric-hastie/claim-check](https://github.com/eric-hastie/claim-check) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [error9098x/latchmoth](https://github.com/error9098x/latchmoth) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Eslam3bed/claude-atlas](https://github.com/Eslam3bed/claude-atlas) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Espiritu16/auditoria-as-is-to-be](https://github.com/Espiritu16/auditoria-as-is-to-be) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [eugene-jet/linkedin-profile-scan](https://github.com/eugene-jet/linkedin-profile-scan) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Faaz17/Agents-and-Skills](https://github.com/Faaz17/Agents-and-Skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Fabian-Galvez/DensePack](https://github.com/Fabian-Galvez/DensePack) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Falahs/site-evaluation](https://github.com/Falahs/site-evaluation) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [fame-healthscreening/ZD-claude-plugin](https://github.com/fame-healthscreening/ZD-claude-plugin) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [farhan1188/claude-code-session-handoff](https://github.com/farhan1188/claude-code-session-handoff) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [faruheaisha/cnipa-patent-kit](https://github.com/faruheaisha/cnipa-patent-kit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [feature-sliced/skills](https://github.com/feature-sliced/skills) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [Fectivnfy112357/camofox-shim](https://github.com/Fectivnfy112357/camofox-shim) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
-| [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [fedius01/cve-triage](https://github.com/fedius01/cve-triage) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [fenegroni/calendar-planner-skill](https://github.com/fenegroni/calendar-planner-skill) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [ferdelamad/book-to-plan](https://github.com/ferdelamad/book-to-plan) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [fernando-delrio/saas-claude-toolkit](https://github.com/fernando-delrio/saas-claude-toolkit) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [ferronicardoso/harness-setup](https://github.com/ferronicardoso/harness-setup) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Feynman520/d06-p01-self-improve](https://github.com/Feynman520/d06-p01-self-improve) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Findy/team-plus-skills](https://github.com/Findy/team-plus-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Flux-Point-Studios/fluxpoint-plugins](https://github.com/Flux-Point-Studios/fluxpoint-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [fmslutions/harness-audit](https://github.com/fmslutions/harness-audit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [forcewake/remarkable-send](https://github.com/forcewake/remarkable-send) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [foreturn/product-studio](https://github.com/foreturn/product-studio) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [formify-e-sign/formify-skills](https://github.com/formify-e-sign/formify-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [fortun8te/next-feature](https://github.com/fortun8te/next-feature) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [foundry-studio-lab/nzshrimper-senior-dev](https://github.com/foundry-studio-lab/nzshrimper-senior-dev) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [FridayKoi/lessons-md](https://github.com/FridayKoi/lessons-md) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [funcpn/volens](https://github.com/funcpn/volens) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gabriel-tutor/seams](https://github.com/gabriel-tutor/seams) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [GabrielKqw/weave](https://github.com/GabrielKqw/weave) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gabrielnfc/gabarito-mestre](https://github.com/gabrielnfc/gabarito-mestre) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [gaia-research/gaia-skill-heaven](https://github.com/gaia-research/gaia-skill-heaven) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [gamma2653/GammaPluginTk](https://github.com/gamma2653/GammaPluginTk) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [garvit-joshi/jskim](https://github.com/garvit-joshi/jskim) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [geanruca/ctrl-clip](https://github.com/geanruca/ctrl-clip) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [genAIal/tldraw-diagram-skill](https://github.com/genAIal/tldraw-diagram-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [georgeguimaraes/ghost-agent-tools](https://github.com/georgeguimaraes/ghost-agent-tools) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [getedgehq/skills](https://github.com/getedgehq/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Getgodmode/godmode-lite](https://github.com/Getgodmode/godmode-lite) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [GhalebDweikat/winnow](https://github.com/GhalebDweikat/winnow) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gitguffaw/codex-router](https://github.com/gitguffaw/codex-router) | 0 | `codex/router-v1` | `.` | ❌ missing | HTTP 404 |
-| [glisom/skills](https://github.com/glisom/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [gmessori/redazione-norme](https://github.com/gmessori/redazione-norme) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [goagrawal-genai/wrap-up](https://github.com/goagrawal-genai/wrap-up) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [GodModeAI2025/LoopCreatorSkill](https://github.com/GodModeAI2025/LoopCreatorSkill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gonimar/claude-web-studio](https://github.com/gonimar/claude-web-studio) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gonoff/claude-todos-skill](https://github.com/gonoff/claude-todos-skill) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [gosuda/potly](https://github.com/gosuda/potly) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Goutham-Eda/reproducible-lit-review](https://github.com/Goutham-Eda/reproducible-lit-review) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [grainulation/grainulator](https://github.com/grainulation/grainulator) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [greenpolo/cc-multi-cli-plugin](https://github.com/greenpolo/cc-multi-cli-plugin) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [grzmol/vibe-force](https://github.com/grzmol/vibe-force) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gshepptech/bits-and-mortar](https://github.com/gshepptech/bits-and-mortar) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [gsulamanidzebdoge/1c-developer](https://github.com/gsulamanidzebdoge/1c-developer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [GuillaumeLessard/qector-claude-skills](https://github.com/GuillaumeLessard/qector-claude-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [guishiru/structured-writing](https://github.com/guishiru/structured-writing) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [gujiapeng1991-droid/coco-preproduction](https://github.com/gujiapeng1991-droid/coco-preproduction) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [HABUBUSS/everything-claude-code](https://github.com/HABUBUSS/everything-claude-code) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [haiggoh/free-agents](https://github.com/haiggoh/free-agents) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Hainrixz/claude-seo-ai](https://github.com/Hainrixz/claude-seo-ai) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Handsomeboy990/craft-suite](https://github.com/Handsomeboy990/craft-suite) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [harshitt13/Silicon-Valley-Skill](https://github.com/harshitt13/Silicon-Valley-Skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Haruhiyuki/vision-mcp](https://github.com/Haruhiyuki/vision-mcp) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Haruki1090/plumb](https://github.com/Haruki1090/plumb) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Haruki1090/slide-studio](https://github.com/Haruki1090/slide-studio) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hasuwini77/3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hermes-labs-ai/hermeneutic](https://github.com/hermes-labs-ai/hermeneutic) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hermes-labs-ai/hermes-blind](https://github.com/hermes-labs-ai/hermes-blind) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hermes-labs-ai/lintlang](https://github.com/hermes-labs-ai/lintlang) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [heyimjames/ultrapolish](https://github.com/heyimjames/ultrapolish) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [hharshitarora/deslop](https://github.com/hharshitarora/deslop) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hikataya01-netizen/pubmed-reference-resolver](https://github.com/hikataya01-netizen/pubmed-reference-resolver) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [HimanshuJ16/frank](https://github.com/HimanshuJ16/frank) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [hireamino/amino-skills](https://github.com/hireamino/amino-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hishamkaram/claude-codex-duo](https://github.com/hishamkaram/claude-codex-duo) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Hitchiban/appstore-analysis](https://github.com/Hitchiban/appstore-analysis) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hk-vk/txtskills](https://github.com/hk-vk/txtskills) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [holy-templar/creative-strategy-research-protocol](https://github.com/holy-templar/creative-strategy-research-protocol) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [howard-lynn-ye/fin-skills](https://github.com/howard-lynn-ye/fin-skills) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [hraness/soulscrape](https://github.com/hraness/soulscrape) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [hraness/wordcell](https://github.com/hraness/wordcell) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [hsb3/dotfiles-agents](https://github.com/hsb3/dotfiles-agents) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Huanyu-Hibiki/Huanyu-Skills](https://github.com/Huanyu-Hibiki/Huanyu-Skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [huguryildiz/fable-mode](https://github.com/huguryildiz/fable-mode) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [huguryildiz/fable-protocol](https://github.com/huguryildiz/fable-protocol) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [humbleteam/ascii-wireframes](https://github.com/humbleteam/ascii-wireframes) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hungduong-projects/code-map](https://github.com/hungduong-projects/code-map) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [husiyi2018-lang/skill-agg-creative-report](https://github.com/husiyi2018-lang/skill-agg-creative-report) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [hyperdargo/ClaudeSkillAndPluginsWithMasterPrompt](https://github.com/hyperdargo/ClaudeSkillAndPluginsWithMasterPrompt) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [IamOumarIbrahim/skill-issue](https://github.com/IamOumarIbrahim/skill-issue) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ianmhuang/bmc-toolkit](https://github.com/ianmhuang/bmc-toolkit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ibangtam/seo-toolkit](https://github.com/ibangtam/seo-toolkit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [ice-lfernandes/claude-spring-architect](https://github.com/ice-lfernandes/claude-spring-architect) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [IchenDEV/prompt-optimizer-plugins](https://github.com/IchenDEV/prompt-optimizer-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Idov31/ai-marketplace](https://github.com/Idov31/ai-marketplace) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [iDWong/dev-skills](https://github.com/iDWong/dev-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [iDWong/pm-skills](https://github.com/iDWong/pm-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ilang-ai/autocode](https://github.com/ilang-ai/autocode) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/consilium-principis](https://github.com/ilyautov/consilium-principis) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/cordon](https://github.com/ilyautov/cordon) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/doc2md](https://github.com/ilyautov/doc2md) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/hh-mcp-ru](https://github.com/ilyautov/hh-mcp-ru) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/humanizer-it](https://github.com/ilyautov/humanizer-it) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/marketplaces-mcp-ru](https://github.com/ilyautov/marketplaces-mcp-ru) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ilyautov/rusvoice](https://github.com/ilyautov/rusvoice) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [imadbadreddine7-bot/uae-corporate-tax-registration-skill](https://github.com/imadbadreddine7-bot/uae-corporate-tax-registration-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill](https://github.com/imhzm/EDIT-REELS-LIKE-PRO-Claude-Skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [imtiazrayhan/agentscamp-library](https://github.com/imtiazrayhan/agentscamp-library) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ingridleiria/breaktalk-skills](https://github.com/ingridleiria/breaktalk-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [inho-team/oh-my-teams](https://github.com/inho-team/oh-my-teams) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [innovationengines/skills-repo](https://github.com/innovationengines/skills-repo) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [inorilzy/multi-search-skill](https://github.com/inorilzy/multi-search-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ip930/patentmax-patent-search](https://github.com/ip930/patentmax-patent-search) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ipeterpetrus/samewrite](https://github.com/ipeterpetrus/samewrite) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [isachivka/beware-of-skills](https://github.com/isachivka/beware-of-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [IsthisLee/claude-korean-writing](https://github.com/IsthisLee/claude-korean-writing) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [IsthisLee/korean-writing](https://github.com/IsthisLee/korean-writing) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [itsjavi/skills](https://github.com/itsjavi/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [itsOmidKarami/kraft](https://github.com/itsOmidKarami/kraft) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [IulaiJedi/sdd-skill](https://github.com/IulaiJedi/sdd-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [iuripereira/sdd-iuri](https://github.com/iuripereira/sdd-iuri) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [j912835225-prog/whetstone](https://github.com/j912835225-prog/whetstone) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jacjackai/dsh-control](https://github.com/jacjackai/dsh-control) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jacksonrpp/pbi-skills-claude](https://github.com/jacksonrpp/pbi-skills-claude) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [JadeYingWah/gpt-series-reasoning-style](https://github.com/JadeYingWah/gpt-series-reasoning-style) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jaenicket/code-webdesign](https://github.com/jaenicket/code-webdesign) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [jafini/learn-claude-code](https://github.com/jafini/learn-claude-code) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [jahidulislamseo/antigravity-ai-skills](https://github.com/jahidulislamseo/antigravity-ai-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [JaimeOrtegaxyz/socratic-claude](https://github.com/JaimeOrtegaxyz/socratic-claude) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jairo19993062/stitch-skills](https://github.com/jairo19993062/stitch-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [jam-cc/paper-review.skill](https://github.com/jam-cc/paper-review.skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [janbrus/pxwebapi-skills](https://github.com/janbrus/pxwebapi-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jannotix/claude-code-route](https://github.com/jannotix/claude-code-route) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [JapanMarketing-Dev/hitocall-plugin](https://github.com/JapanMarketing-Dev/hitocall-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [JasonHolderness-bl/ledgerline](https://github.com/JasonHolderness-bl/ledgerline) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Jasper0122/agent-seo-kit](https://github.com/Jasper0122/agent-seo-kit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jastfan/adhd](https://github.com/jastfan/adhd) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [javirub/claude-manual-todos-plugin](https://github.com/javirub/claude-manual-todos-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Jawahars07/ballast](https://github.com/Jawahars07/ballast) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jay94ks/claude-native-workflow](https://github.com/jay94ks/claude-native-workflow) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [JayPokale/Chisle](https://github.com/JayPokale/Chisle) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jburchel/jarvis](https://github.com/jburchel/jarvis) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jchen622/sourced-writing](https://github.com/jchen622/sourced-writing) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jcorbettfrank/backlog-ops](https://github.com/jcorbettfrank/backlog-ops) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Jeffery-Liu/solid-game-code](https://github.com/Jeffery-Liu/solid-game-code) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jeremiah-masters/skills](https://github.com/jeremiah-masters/skills) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [jessicahiggs/daily-compliment](https://github.com/jessicahiggs/daily-compliment) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jfleagl12/claw-agent-protocol](https://github.com/jfleagl12/claw-agent-protocol) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jianga0801-ui/music-stem-separation](https://github.com/jianga0801-ui/music-stem-separation) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jianruntech/geo-score](https://github.com/jianruntech/geo-score) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jiawood2006/hermes-skills](https://github.com/jiawood2006/hermes-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jinshanbaihai/dialogue-tutor](https://github.com/jinshanbaihai/dialogue-tutor) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [JLugagne/claude-skills](https://github.com/JLugagne/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jlwin/unslop](https://github.com/jlwin/unslop) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [jmagar/runraid](https://github.com/jmagar/runraid) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [jmagar/unraid-rmcp](https://github.com/jmagar/unraid-rmcp) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [jmanuelrosa/kura](https://github.com/jmanuelrosa/kura) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [joaovicdev/claude-appsec](https://github.com/joaovicdev/claude-appsec) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [johney4415/session-engram](https://github.com/johney4415/session-engram) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [joonlim-official/muse-memory](https://github.com/joonlim-official/muse-memory) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jordankzf/claude-subagents-mcp](https://github.com/jordankzf/claude-subagents-mcp) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [josefernandez-vensure/vensure-marketplace](https://github.com/josefernandez-vensure/vensure-marketplace) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [josefheld/claude-plugins](https://github.com/josefheld/claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [joshfng/skills](https://github.com/joshfng/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [joshLong145/ambits](https://github.com/joshLong145/ambits) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jostelzer/grounded](https://github.com/jostelzer/grounded) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jovelove7/facet](https://github.com/jovelove7/facet) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jovesun-lab/whetstone](https://github.com/jovesun-lab/whetstone) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [jrabercrombie/watchbill](https://github.com/jrabercrombie/watchbill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [juanquijandria/prisma-harness](https://github.com/juanquijandria/prisma-harness) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [jukkablomberg/northpoint](https://github.com/jukkablomberg/northpoint) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [junioorosa/claude-sessions](https://github.com/junioorosa/claude-sessions) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [just-done/skills](https://github.com/just-done/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [justinstimatze/onsetter](https://github.com/justinstimatze/onsetter) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kaichen/agent-skillset](https://github.com/kaichen/agent-skillset) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kamilibragimov7772-lab/orchestrator](https://github.com/kamilibragimov7772-lab/orchestrator) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kannaka-labs/kannaka-plugin](https://github.com/kannaka-labs/kannaka-plugin) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [Kaos599/professional-skills](https://github.com/Kaos599/professional-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [karozi/awesome-product-management-skills](https://github.com/karozi/awesome-product-management-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kbelasheuski/ios-architecture-skills](https://github.com/kbelasheuski/ios-architecture-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [keli-wen/agy-staff](https://github.com/keli-wen/agy-staff) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [KENAN-LABS/stochastic-consensus](https://github.com/KENAN-LABS/stochastic-consensus) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Kerrywang64/kiln](https://github.com/Kerrywang64/kiln) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [kevanwee/chronology](https://github.com/kevanwee/chronology) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kevanwee/citecheck](https://github.com/kevanwee/citecheck) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kevanwee/oblig-register](https://github.com/kevanwee/oblig-register) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kevanwee/playbook-as-code](https://github.com/kevanwee/playbook-as-code) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [keyvnchristian/pixelproof](https://github.com/keyvnchristian/pixelproof) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [khalilmaaouni/BrotherSBE](https://github.com/khalilmaaouni/BrotherSBE) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [khasky/clean-markdown-human](https://github.com/khasky/clean-markdown-human) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [khasky/human-readable-refactor](https://github.com/khasky/human-readable-refactor) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [khasky/humanizer-en](https://github.com/khasky/humanizer-en) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [khasky/public-client-leak-audit](https://github.com/khasky/public-client-leak-audit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [kiarash65/sunjob-math-major-skill](https://github.com/kiarash65/sunjob-math-major-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kindsusu/multi-geo](https://github.com/kindsusu/multi-geo) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [kindsusu/su-multi-geo](https://github.com/kindsusu/su-multi-geo) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kitao/pyxel-skill](https://github.com/kitao/pyxel-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kmgcc/iOS-Trace](https://github.com/kmgcc/iOS-Trace) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kmgcc/macOS-Trace](https://github.com/kmgcc/macOS-Trace) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [konglong87/shenbi-maliang](https://github.com/konglong87/shenbi-maliang) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [konradmichalik/annotaitr](https://github.com/konradmichalik/annotaitr) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [korcanatabay-Aruna/architecture-guide](https://github.com/korcanatabay-Aruna/architecture-guide) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kordp888/career-docs-skill](https://github.com/kordp888/career-docs-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [KreshBack/vibecoded-audit](https://github.com/KreshBack/vibecoded-audit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [krwhynot/toque](https://github.com/krwhynot/toque) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [krzysztofdudek/RatatoskrSkill](https://github.com/krzysztofdudek/RatatoskrSkill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [krzysztofdudek/UrdSkill](https://github.com/krzysztofdudek/UrdSkill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ktakemaru/yamabiyori](https://github.com/ktakemaru/yamabiyori) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kugamon/gsc-mcp](https://github.com/kugamon/gsc-mcp) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kugamon/salesforce-core-skills](https://github.com/kugamon/salesforce-core-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [kumospace/talent](https://github.com/kumospace/talent) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kwoekel/woekel-works](https://github.com/kwoekel/woekel-works) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Kwon-Bum-Kyu/claude-control-plane](https://github.com/Kwon-Bum-Kyu/claude-control-plane) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [kyisaiah47/kynth-claude-plugin](https://github.com/kyisaiah47/kynth-claude-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [kyoungbinkim/give-me-job](https://github.com/kyoungbinkim/give-me-job) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [L01nki1/extend-slides](https://github.com/L01nki1/extend-slides) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [laowang-ai-xbb/free-ai-token](https://github.com/laowang-ai-xbb/free-ai-token) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [latent-9/eightysix](https://github.com/latent-9/eightysix) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [laurentlouk/grimoire](https://github.com/laurentlouk/grimoire) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [lawyerllsx-dotcom/Legal-Workflow-Chain](https://github.com/lawyerllsx-dotcom/Legal-Workflow-Chain) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [lecutu/DeepSeek-PPT-skill](https://github.com/lecutu/DeepSeek-PPT-skill) | 0 | `master` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [Leksgg/claude-skills](https://github.com/Leksgg/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [lemur47/logic](https://github.com/lemur47/logic) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [Lester8-l/ig-post-generator](https://github.com/Lester8-l/ig-post-generator) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [lets-forge/forge-plugins](https://github.com/lets-forge/forge-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [letsloose501/skill-quality-suite](https://github.com/letsloose501/skill-quality-suite) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [letswritetw/lets-social](https://github.com/letswritetw/lets-social) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [LevKorm/product-landing-skill](https://github.com/LevKorm/product-landing-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [li599198347-svg/aham-ppt](https://github.com/li599198347-svg/aham-ppt) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [liminalshruti/liminal-agents](https://github.com/liminalshruti/liminal-agents) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [lin113311221/savault-skills](https://github.com/lin113311221/savault-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [LinardsLiepenieks/honecode](https://github.com/LinardsLiepenieks/honecode) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [liustack/modsearch](https://github.com/liustack/modsearch) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ljx-chase/research-field-onboarding](https://github.com/ljx-chase/research-field-onboarding) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Lrosias/yougame-plugin](https://github.com/Lrosias/yougame-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Lu1sDV/skillsmd](https://github.com/Lu1sDV/skillsmd) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [lucas-saldanha-werneck/Claude-1Password](https://github.com/lucas-saldanha-werneck/Claude-1Password) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [lucasenatm/marketing-workspace](https://github.com/lucasenatm/marketing-workspace) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [lukasersil/gpt-images](https://github.com/lukasersil/gpt-images) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [LukasNiessen/kubernetes-skill](https://github.com/LukasNiessen/kubernetes-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [lukeliu95/ra2-commander](https://github.com/lukeliu95/ra2-commander) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [LumioGames/workflow-plugin](https://github.com/LumioGames/workflow-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Lumos221/clock-in](https://github.com/Lumos221/clock-in) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [lvk901/chaoxing-pan-download](https://github.com/lvk901/chaoxing-pan-download) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [lxie-leo/meshify](https://github.com/lxie-leo/meshify) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Lykhoyda/ask-llm](https://github.com/Lykhoyda/ask-llm) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [maateusx/claude-kanban](https://github.com/maateusx/claude-kanban) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mafftopia/trade-stories](https://github.com/mafftopia/trade-stories) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [magic5644/Graph-It-Live](https://github.com/magic5644/Graph-It-Live) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Mahdifoladvand/nine-roles](https://github.com/Mahdifoladvand/nine-roles) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mahdifooladvand/shora](https://github.com/mahdifooladvand/shora) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [MaksymStoianov/skills](https://github.com/MaksymStoianov/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [malaysherasia-ai/claude-never-again](https://github.com/malaysherasia-ai/claude-never-again) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Malo-T/branch-review](https://github.com/Malo-T/branch-review) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [manabout-town/cinematic-onepager-skill](https://github.com/manabout-town/cinematic-onepager-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [manabout-town/insta-reel-skill](https://github.com/manabout-town/insta-reel-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [manabout-town/naver-blog-skill](https://github.com/manabout-town/naver-blog-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [manankapoor23/typed-decision](https://github.com/manankapoor23/typed-decision) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [manuacl/infra-audit](https://github.com/manuacl/infra-audit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [manypicom/sales-skills](https://github.com/manypicom/sales-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Marchenko-sales/ai-sales-skills](https://github.com/Marchenko-sales/ai-sales-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [marcomorettim/illuminate](https://github.com/marcomorettim/illuminate) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
-| [marcosathanasoulis/prompt-it](https://github.com/marcosathanasoulis/prompt-it) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [marcosmodly/github-repo-hygiene-skill](https://github.com/marcosmodly/github-repo-hygiene-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [marioluciofjr/prompt-link](https://github.com/marioluciofjr/prompt-link) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [MarkkaMiikka/claude-finnish-skills](https://github.com/MarkkaMiikka/claude-finnish-skills) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [MartinPuli/cvfit](https://github.com/MartinPuli/cvfit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [martinwolve/DEC-aanbestedingen-plugin](https://github.com/martinwolve/DEC-aanbestedingen-plugin) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [massimodeluisa/nerdfonts-skill](https://github.com/massimodeluisa/nerdfonts-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [MasterinoSplinterino/mobile-release-playbook](https://github.com/MasterinoSplinterino/mobile-release-playbook) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [matasarei/claude-rpg](https://github.com/matasarei/claude-rpg) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mateusands/claude-code-crew-kit](https://github.com/mateusands/claude-code-crew-kit) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [matheuszambonin/teach-me](https://github.com/matheuszambonin/teach-me) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [MatthewDuke1/aws-onboarding](https://github.com/MatthewDuke1/aws-onboarding) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mattjaikaran/meridian](https://github.com/mattjaikaran/meridian) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mattjaikaran/torque](https://github.com/mattjaikaran/torque) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mattzimak/matts-claude-code-setup](https://github.com/mattzimak/matts-claude-code-setup) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mauriciovieira/groundwork](https://github.com/mauriciovieira/groundwork) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [MaxSchoon/rgs-skill](https://github.com/MaxSchoon/rgs-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mbarlow/samdin](https://github.com/mbarlow/samdin) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [mbfinotti/advertising-skills](https://github.com/mbfinotti/advertising-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mblode/agent-skills](https://github.com/mblode/agent-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mclayer/plugin-codeforge](https://github.com/mclayer/plugin-codeforge) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [mcpware/cross-code-organizer](https://github.com/mcpware/cross-code-organizer) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [MD-Stellr/website-reel](https://github.com/MD-Stellr/website-reel) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mdedit-ai/mdedit-agent-plugin](https://github.com/mdedit-ai/mdedit-agent-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mefayed/boss-skill](https://github.com/mefayed/boss-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mejbaurbahar/fagun](https://github.com/mejbaurbahar/fagun) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [memcell-ai/cli](https://github.com/memcell-ai/cli) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [merge-api/merge-unified-skills](https://github.com/merge-api/merge-unified-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Mertcikla/tld](https://github.com/Mertcikla/tld) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [merturl4576/unflat](https://github.com/merturl4576/unflat) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mervick/lemonsqueezy-agent-skills](https://github.com/mervick/lemonsqueezy-agent-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [meshcode-ai/skills](https://github.com/meshcode-ai/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [meshcode-ai/skills-seo](https://github.com/meshcode-ai/skills-seo) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [MichaelPGifford/claude-read-aloud](https://github.com/MichaelPGifford/claude-read-aloud) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [millerlai/auto-package-migration](https://github.com/millerlai/auto-package-migration) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [millerlai/claude-all-in-one](https://github.com/millerlai/claude-all-in-one) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [millerlai/threat-modeling-master](https://github.com/millerlai/threat-modeling-master) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [mimaowang/paper-to-podium](https://github.com/mimaowang/paper-to-podium) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mixocreative/cia](https://github.com/mixocreative/cia) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mixocreative/ecommerce-cia](https://github.com/mixocreative/ecommerce-cia) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [MJorgin/preflight-decks](https://github.com/MJorgin/preflight-decks) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mka-codelake/agenticaiplugin](https://github.com/mka-codelake/agenticaiplugin) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
-| [mkebiclioglu/formlabs-claude-skills](https://github.com/mkebiclioglu/formlabs-claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mnguyenht/bld-package](https://github.com/mnguyenht/bld-package) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [modem-dev/ossrules](https://github.com/modem-dev/ossrules) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [moecui22/accessible-slides](https://github.com/moecui22/accessible-slides) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mohamamd991/TencentDB-Agent-Memory](https://github.com/mohamamd991/TencentDB-Agent-Memory) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [mohamed-amine-ben-mallessa/iris-screenshots](https://github.com/mohamed-amine-ben-mallessa/iris-screenshots) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [moiri-gamboni/praxis](https://github.com/moiri-gamboni/praxis) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
-| [moiz-za/etsy-seller-seo-system](https://github.com/moiz-za/etsy-seller-seo-system) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [moneymikeMD/night-watchman](https://github.com/moneymikeMD/night-watchman) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mooreceipts/ai-sandbox](https://github.com/mooreceipts/ai-sandbox) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [mostafa-drz/claude-skills](https://github.com/mostafa-drz/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [mouadja02/arkitect](https://github.com/mouadja02/arkitect) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mrieck/demoday-claude-plugin](https://github.com/mrieck/demoday-claude-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mrvnklm/claude-plugins](https://github.com/mrvnklm/claude-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [msoliman6/freeze-and-swap](https://github.com/msoliman6/freeze-and-swap) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [muchandresh/Vibe-Map](https://github.com/muchandresh/Vibe-Map) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [MuscleOtter/rowan-fitness-skill](https://github.com/MuscleOtter/rowan-fitness-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [MustBeSimo/web-design-studio](https://github.com/MustBeSimo/web-design-studio) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [myiam-io/myiam-cli-plugin](https://github.com/myiam-io/myiam-cli-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [mypropper/skills](https://github.com/mypropper/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [n3wth/skills](https://github.com/n3wth/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nabolom/geo-mql-auditor](https://github.com/nabolom/geo-mql-auditor) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [naderelewa/Product-to-Prod](https://github.com/naderelewa/Product-to-Prod) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [nanoodlecom/noodle-skills](https://github.com/nanoodlecom/noodle-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [naravid19/claude-ctf-skills](https://github.com/naravid19/claude-ctf-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nathanaday/claude-atlas](https://github.com/nathanaday/claude-atlas) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nathanpond/n8SDLC-Skills](https://github.com/nathanpond/n8SDLC-Skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Navifra-Sally/vda5050-skill](https://github.com/Navifra-Sally/vda5050-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [navinramharak-rgb/local-seo](https://github.com/navinramharak-rgb/local-seo) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [navinramharak-rgb/perfect-project-builder](https://github.com/navinramharak-rgb/perfect-project-builder) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [navinramharak-rgb/website-audit](https://github.com/navinramharak-rgb/website-audit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nchuguevskiy/tattoo](https://github.com/nchuguevskiy/tattoo) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ncoevoet/claude-workflow-kit](https://github.com/ncoevoet/claude-workflow-kit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [neelshah4/claude-citation-verification](https://github.com/neelshah4/claude-citation-verification) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [neelshah4/claude-fabrication-audit](https://github.com/neelshah4/claude-fabrication-audit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [neelshah4/claude-icu-clinical-consult](https://github.com/neelshah4/claude-icu-clinical-consult) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [neelshah4/claude-prompt-optimizer](https://github.com/neelshah4/claude-prompt-optimizer) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [NeetuAggarwal-AI/BA-AI-Skills](https://github.com/NeetuAggarwal-AI/BA-AI-Skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [neimaciel/compliance-pro-lgpd](https://github.com/neimaciel/compliance-pro-lgpd) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [nerdstalker/ui-ux-fixer](https://github.com/nerdstalker/ui-ux-fixer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [neuman/atompipe](https://github.com/neuman/atompipe) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nexscope-ai/nexscope-ecommerce-skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [nhhthong/clio](https://github.com/nhhthong/clio) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nick-railsback/skill-engine](https://github.com/nick-railsback/skill-engine) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [nicodeguyo/fantasy-draft-analyst](https://github.com/nicodeguyo/fantasy-draft-analyst) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nielsmadan/skills](https://github.com/nielsmadan/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Nightdreams-bat/claude-code-kit](https://github.com/Nightdreams-bat/claude-code-kit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nktznl/skillwise](https://github.com/nktznl/skillwise) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [no1013kota/claude-docdd-dev-kit](https://github.com/no1013kota/claude-docdd-dev-kit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [NocodeMrLi/mini-program-engineering-skill-suite](https://github.com/NocodeMrLi/mini-program-engineering-skill-suite) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Noncontinuous-centaur165/claude-codex-crypto-devkit](https://github.com/Noncontinuous-centaur165/claude-codex-crypto-devkit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Nova-Caelum/no-mistakes](https://github.com/Nova-Caelum/no-mistakes) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [NTBooks/slopscore](https://github.com/NTBooks/slopscore) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [nullphase-net/enfurbish](https://github.com/nullphase-net/enfurbish) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Nyce-ArrowProd/linkedin-founder-os](https://github.com/Nyce-ArrowProd/linkedin-founder-os) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Nyquest-ai/nyquest-claude-mcp](https://github.com/Nyquest-ai/nyquest-claude-mcp) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [O6lvl4/onomly](https://github.com/O6lvl4/onomly) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [oberon-systems/enggraph](https://github.com/oberon-systems/enggraph) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [oddurs/subway-seat](https://github.com/oddurs/subway-seat) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [oliveira7015/openclawby-skills](https://github.com/oliveira7015/openclawby-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ontology-of-everything/concept-skills](https://github.com/ontology-of-everything/concept-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ooooooooooooooooooop/personal-ai](https://github.com/ooooooooooooooooooop/personal-ai) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [open-coder-ai/context-report](https://github.com/open-coder-ai/context-report) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [open-coder-ai-org/chock-claude-plugins](https://github.com/open-coder-ai-org/chock-claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Open-Dev-Society/kitbash](https://github.com/Open-Dev-Society/kitbash) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [open-science-pillars/build-kit](https://github.com/open-science-pillars/build-kit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [open-science-pillars/core](https://github.com/open-science-pillars/core) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [open-science-pillars/hydrology](https://github.com/open-science-pillars/hydrology) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [open-science-pillars/ocean-science](https://github.com/open-science-pillars/ocean-science) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [open-science-pillars/plugin-template](https://github.com/open-science-pillars/plugin-template) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [openhonest/honest-skills](https://github.com/openhonest/honest-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [OQIODev/oqio-tool-starter](https://github.com/OQIODev/oqio-tool-starter) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [OrcaQubits/agentic-commerce-skills-plugins](https://github.com/OrcaQubits/agentic-commerce-skills-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ouakeds/sohub-claude-plugins](https://github.com/ouakeds/sohub-claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [OuFinx/mistok-chytalnia](https://github.com/OuFinx/mistok-chytalnia) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [padosoft/skills](https://github.com/padosoft/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Parmasanandgarlic/farmdash-openclaw-skills](https://github.com/Parmasanandgarlic/farmdash-openclaw-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [parMaster/claude-dlc](https://github.com/parMaster/claude-dlc) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [patkusch/remit](https://github.com/patkusch/remit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [pcliangx/AppGenesisForge](https://github.com/pcliangx/AppGenesisForge) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [PeerawitDeesamer/skr-cram-night](https://github.com/PeerawitDeesamer/skr-cram-night) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [pelayomendez/in-my-own-words](https://github.com/pelayomendez/in-my-own-words) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [pete-builds/radar](https://github.com/pete-builds/radar) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [petehottelet/yautja](https://github.com/petehottelet/yautja) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [petermcalister/shared-skills](https://github.com/petermcalister/shared-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [phmatray/tagout](https://github.com/phmatray/tagout) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [php-opcua/ai-skills](https://github.com/php-opcua/ai-skills) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [PieroJF/claude-handoff-skill](https://github.com/PieroJF/claude-handoff-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Pirat83/claude-code-skills](https://github.com/Pirat83/claude-code-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [pithpusher/claude-code-fable-orchestrator](https://github.com/pithpusher/claude-code-fable-orchestrator) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [pkozanian/promptboot](https://github.com/pkozanian/promptboot) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [PKusch/remit](https://github.com/PKusch/remit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [planetabhi/skills](https://github.com/planetabhi/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [pliablepixels/gap-trap](https://github.com/pliablepixels/gap-trap) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [pliablepixels/slop-mop](https://github.com/pliablepixels/slop-mop) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [plotdevice01/codex-chief-of-staff](https://github.com/plotdevice01/codex-chief-of-staff) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [polar-bear-org/claude-skills](https://github.com/polar-bear-org/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Popeye46/pwp-plugin](https://github.com/Popeye46/pwp-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Pr1m4lc0d3/ekphrasis](https://github.com/Pr1m4lc0d3/ekphrasis) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Pranav-Nexus/antigravity-skill-porter](https://github.com/Pranav-Nexus/antigravity-skill-porter) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [pratie/youtube-transcript-skill](https://github.com/pratie/youtube-transcript-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [pro-vibe-coding/pvc-git-commit-message-local](https://github.com/pro-vibe-coding/pvc-git-commit-message-local) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [produtoramaxvision/maxvision-utilities](https://github.com/produtoramaxvision/maxvision-utilities) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [project-nomos/nomos](https://github.com/project-nomos/nomos) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [promptmetrics/prompt-workflow-architecture](https://github.com/promptmetrics/prompt-workflow-architecture) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [pt1987/claude-code-psadt-skill](https://github.com/pt1987/claude-code-psadt-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ptreezh/agentmarket](https://github.com/ptreezh/agentmarket) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ptshih/fsd](https://github.com/ptshih/fsd) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [publora/skills](https://github.com/publora/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [publora-team/publora-post-ideas](https://github.com/publora-team/publora-post-ideas) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [puffergo/puffergo-wordpress-ai-agent](https://github.com/puffergo/puffergo-wordpress-ai-agent) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [punkscience/agent-skills](https://github.com/punkscience/agent-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [PursuitOfDataScience/cloudfit-plugin](https://github.com/PursuitOfDataScience/cloudfit-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [PyModel/done-means-done](https://github.com/PyModel/done-means-done) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [qiusuo0226/session-handoff-skill](https://github.com/qiusuo0226/session-handoff-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [quadseven/brother-claudius](https://github.com/quadseven/brother-claudius) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [QuintinBotes/review-voice](https://github.com/QuintinBotes/review-voice) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [radekamirko/C.R.I.S.P](https://github.com/radekamirko/C.R.I.S.P) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [RadOrigin-LLC/RAD-Claude-Skills](https://github.com/RadOrigin-LLC/RAD-Claude-Skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ralfstrobel/agentic-brownfield-coding](https://github.com/ralfstrobel/agentic-brownfield-coding) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Ramonvdo/folder-colors](https://github.com/Ramonvdo/folder-colors) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [rankcontrol/rankcontrol](https://github.com/rankcontrol/rankcontrol) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Ravindu997/multibrand-design-system-figma](https://github.com/Ravindu997/multibrand-design-system-figma) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [rdilruba/codebase-map](https://github.com/rdilruba/codebase-map) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [redtear1115/docgrad](https://github.com/redtear1115/docgrad) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [reidworks-io/reidworks-skills](https://github.com/reidworks-io/reidworks-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [reif-y/Maxx](https://github.com/reif-y/Maxx) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [renatodvc/rstack](https://github.com/renatodvc/rstack) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [renchenxuan/Umami-Skill-for-Health](https://github.com/renchenxuan/Umami-Skill-for-Health) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [RevolutionLA/ascend-assistant](https://github.com/RevolutionLA/ascend-assistant) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [Rhay427/D.StandarDev](https://github.com/Rhay427/D.StandarDev) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [rhdqngusanr/contextops](https://github.com/rhdqngusanr/contextops) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [rhyspatt/stay-on-task](https://github.com/rhyspatt/stay-on-task) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [RiAnBee/renhua](https://github.com/RiAnBee/renhua) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ridelink0/ultimate-frontend-skills](https://github.com/ridelink0/ultimate-frontend-skills) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ridelink0/video-watch](https://github.com/ridelink0/video-watch) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [riffkit/skills](https://github.com/riffkit/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [RijksICTGilde/zad-actions](https://github.com/RijksICTGilde/zad-actions) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [riseshinee/superclaude-springboot](https://github.com/riseshinee/superclaude-springboot) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Riskbreaker2077/skill-preguntas-saber-11](https://github.com/Riskbreaker2077/skill-preguntas-saber-11) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Rivendell-investment/edgepilot-live-claude](https://github.com/Rivendell-investment/edgepilot-live-claude) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [rizonetech/claude-plugins](https://github.com/rizonetech/claude-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [RMAzrim/opencode-artes](https://github.com/RMAzrim/opencode-artes) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [roedyrustam/vibes-plug](https://github.com/roedyrustam/vibes-plug) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [rohingosling/claude-skills](https://github.com/rohingosling/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/3x-ui-admin-skill](https://github.com/rokokol/3x-ui-admin-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/bash-best-practices-skill](https://github.com/rokokol/bash-best-practices-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/close-session-skill](https://github.com/rokokol/close-session-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/companion-skill](https://github.com/rokokol/companion-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/contributing-skill](https://github.com/rokokol/contributing-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/create-readme-skill](https://github.com/rokokol/create-readme-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/huix-standard-skill](https://github.com/rokokol/huix-standard-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/maintainer-docs-skill](https://github.com/rokokol/maintainer-docs-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/papers-skill](https://github.com/rokokol/papers-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/skill-authoring-skill](https://github.com/rokokol/skill-authoring-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/tests-skill](https://github.com/rokokol/tests-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rokokol/versioning-skill](https://github.com/rokokol/versioning-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [rolandobenitez/the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [roman-rr/trading-skills](https://github.com/roman-rr/trading-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [roney492/ui-review](https://github.com/roney492/ui-review) | 0 | `master` | `skills` | ❌ missing | HTTP 404 |
-| [ronidomingues/dev-learning-lab](https://github.com/ronidomingues/dev-learning-lab) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [RubyEyedReaper/Odin-Skills](https://github.com/RubyEyedReaper/Odin-Skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [runapi-ai/gemini-omni](https://github.com/runapi-ai/gemini-omni) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [runapi-ai/glm](https://github.com/runapi-ai/glm) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Runesmith-Studio/deep-reach](https://github.com/Runesmith-Studio/deep-reach) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [rwshiraishi/novelty-hunt](https://github.com/rwshiraishi/novelty-hunt) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ryu111/telltale](https://github.com/ryu111/telltale) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [saigonbaddielover/overseer](https://github.com/saigonbaddielover/overseer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [sallzzbr/hefesto](https://github.com/sallzzbr/hefesto) | 0 | `master` | `.` | ❌ missing | HTTP 404 |
-| [samalyarov/learning-assistant](https://github.com/samalyarov/learning-assistant) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [sandypoli-boop/sansheng-distill](https://github.com/sandypoli-boop/sansheng-distill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [sandypoli-boop/sansheng-gemini-video](https://github.com/sandypoli-boop/sansheng-gemini-video) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [sandypoli-boop/sansheng-skills](https://github.com/sandypoli-boop/sansheng-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sandypoli-boop/sansheng-write](https://github.com/sandypoli-boop/sansheng-write) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [sanshengai/sansheng-distill](https://github.com/sanshengai/sansheng-distill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [sanshengai/sansheng-write](https://github.com/sanshengai/sansheng-write) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [saranya-sallagundla/resume-builder-skill](https://github.com/saranya-sallagundla/resume-builder-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [savasturkoglu1/promptpilot-plugin](https://github.com/savasturkoglu1/promptpilot-plugin) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [savinofiore/lexi](https://github.com/savinofiore/lexi) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [sayam/thai-docx-skill](https://github.com/sayam/thai-docx-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [schudarin/chudarin-figma-skills](https://github.com/schudarin/chudarin-figma-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [sdsrss/moa-skill](https://github.com/sdsrss/moa-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [seanGSISG/ediscovery-export](https://github.com/seanGSISG/ediscovery-export) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [sebastiansulinski/claude-plugins](https://github.com/sebastiansulinski/claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [SeKondBrainAILabs/claude-kemory](https://github.com/SeKondBrainAILabs/claude-kemory) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [senzelden/claude-setup-audit](https://github.com/senzelden/claude-setup-audit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [seonhwakei/screenshot-annotator](https://github.com/seonhwakei/screenshot-annotator) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [sergeyklay/.agents](https://github.com/sergeyklay/.agents) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [sergiparpal/Burgess](https://github.com/sergiparpal/Burgess) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sergiparpal/Cambrian](https://github.com/sergiparpal/Cambrian) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sergiparpal/Sproutgraph](https://github.com/sergiparpal/Sproutgraph) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [serpro69/claude-toolbox](https://github.com/serpro69/claude-toolbox) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [shand001/geometry-dsl](https://github.com/shand001/geometry-dsl) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Shantydotcom/northstariq-revenue-operations-intelligence](https://github.com/Shantydotcom/northstariq-revenue-operations-intelligence) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [shasyasan/claude-rein](https://github.com/shasyasan/claude-rein) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Shehabov/pm-resume-builder-skill](https://github.com/Shehabov/pm-resume-builder-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [shelasmax/cx-impact](https://github.com/shelasmax/cx-impact) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [SheldonZhuang/housing-sentinel-ai](https://github.com/SheldonZhuang/housing-sentinel-ai) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Shellishack/infinite-pokemon](https://github.com/Shellishack/infinite-pokemon) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Shivak11/shva-marketplace](https://github.com/Shivak11/shva-marketplace) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Shivani26Singh/skill-library](https://github.com/Shivani26Singh/skill-library) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [shode666/claude-skill-shode-house](https://github.com/shode666/claude-skill-shode-house) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [shsunmoonlee/transcribe-agent](https://github.com/shsunmoonlee/transcribe-agent) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [shzshzshz123/article-to-knowledge-cards](https://github.com/shzshzshz123/article-to-knowledge-cards) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [SilentMalachite/Soujo](https://github.com/SilentMalachite/Soujo) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [SilverAssist/agents-toolkit](https://github.com/SilverAssist/agents-toolkit) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [simonpokorny/knowledgebase](https://github.com/simonpokorny/knowledgebase) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sinan/hemingway](https://github.com/sinan/hemingway) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [sipemu/pyfda](https://github.com/sipemu/pyfda) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [sivert-io/sprakvask](https://github.com/sivert-io/sprakvask) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [sjh9714/profile-cover](https://github.com/sjh9714/profile-cover) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sjh9714/same-frame](https://github.com/sjh9714/same-frame) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [Skillkeel/skillkeel-starter](https://github.com/Skillkeel/skillkeel-starter) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [SkotAlexsander/skills](https://github.com/SkotAlexsander/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [smoke-signal-app/agent-plugin](https://github.com/smoke-signal-app/agent-plugin) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [snwlee/Nereus](https://github.com/snwlee/Nereus) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Soushi888/holochain-agent-skills](https://github.com/Soushi888/holochain-agent-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [specailm5/anti-aranjiya-skill](https://github.com/specailm5/anti-aranjiya-skill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [spectomat/spectomat](https://github.com/spectomat/spectomat) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [stack-wuh/shadow-dev-workflow](https://github.com/stack-wuh/shadow-dev-workflow) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [starry-cpu/aar-harness](https://github.com/starry-cpu/aar-harness) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [starter-series/create-starter](https://github.com/starter-series/create-starter) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [stbarbe/agent-skills-cli](https://github.com/stbarbe/agent-skills-cli) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [stellarfeline/delvewright](https://github.com/stellarfeline/delvewright) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [Stianlars1/drawn-to](https://github.com/Stianlars1/drawn-to) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [subashc2023/ultra-edit](https://github.com/subashc2023/ultra-edit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [sublimate-toe9304/craftcms-claude-skills](https://github.com/sublimate-toe9304/craftcms-claude-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [suhang56/awesome-autoloop](https://github.com/suhang56/awesome-autoloop) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [sumitk1/wolfpack-code-review](https://github.com/sumitk1/wolfpack-code-review) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [sunilgentyala/OmniRed](https://github.com/sunilgentyala/OmniRed) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [supervoidproxima/solai](https://github.com/supervoidproxima/solai) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [suqo-ai/suqo-claude-plugin](https://github.com/suqo-ai/suqo-claude-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [suqo-ai/suqo-claude-plugins](https://github.com/suqo-ai/suqo-claude-plugins) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [SurefireStudios/tldr](https://github.com/SurefireStudios/tldr) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [suriyalk/verified-academic-sourcing](https://github.com/suriyalk/verified-academic-sourcing) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [suyu-creator/deep-analysis-skills](https://github.com/suyu-creator/deep-analysis-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [swapnil-agrim/loopsmith](https://github.com/swapnil-agrim/loopsmith) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [swaroopsm/skills](https://github.com/swaroopsm/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Synthenova/conthunt-cli](https://github.com/Synthenova/conthunt-cli) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [system-conf/master-blog-skill](https://github.com/system-conf/master-blog-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [taekchef/claude-code-zh-cn](https://github.com/taekchef/claude-code-zh-cn) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [tahodev/kurashi-skill](https://github.com/tahodev/kurashi-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [takuyaabe11/switchyard](https://github.com/takuyaabe11/switchyard) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [tamianchutkina-gif/sourceplease-skill](https://github.com/tamianchutkina-gif/sourceplease-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [tashian/tsm](https://github.com/tashian/tsm) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [tchow-twistedxcom/claude-marketplace](https://github.com/tchow-twistedxcom/claude-marketplace) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [tdries/td-claude-plugin-popr](https://github.com/tdries/td-claude-plugin-popr) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [technicalpickles/pickled-claude-plugins](https://github.com/technicalpickles/pickled-claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [TechNickAI/hermes-skills](https://github.com/TechNickAI/hermes-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Teknesyum/Teknesyum-UI](https://github.com/Teknesyum/Teknesyum-UI) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [TerminallyLazy/tree-ring-memory-claude-plugin](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [terrasnail/pipeshape-claude-plugins](https://github.com/terrasnail/pipeshape-claude-plugins) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [terry12260201/pumpkin-ink-gold](https://github.com/terry12260201/pumpkin-ink-gold) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [thalleskayke6/skill-professor-concurso-publico](https://github.com/thalleskayke6/skill-professor-concurso-publico) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [thdelmas/playtime](https://github.com/thdelmas/playtime) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [thebgtagency/ai-writing-audit](https://github.com/thebgtagency/ai-writing-audit) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [thefilesareinthecomputer/dotagents](https://github.com/thefilesareinthecomputer/dotagents) | 0 | `develop` | `skills` | ❌ missing | HTTP 404 |
-| [theinfosecguy/innerloop-agent](https://github.com/theinfosecguy/innerloop-agent) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [TheOnlyFusionCube/potetos-for-everyone](https://github.com/TheOnlyFusionCube/potetos-for-everyone) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [thePlannerIvan/planners-quali-box](https://github.com/thePlannerIvan/planners-quali-box) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [TheRealF/niente-sbobba](https://github.com/TheRealF/niente-sbobba) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [theYahia/YaGEO](https://github.com/theYahia/YaGEO) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [thomasdseao/exorails-skills](https://github.com/thomasdseao/exorails-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ThomirEL/claude-server-handover](https://github.com/ThomirEL/claude-server-handover) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [threadgill-dev/dvd-autorip-skill](https://github.com/threadgill-dev/dvd-autorip-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [thrixel/build-world](https://github.com/thrixel/build-world) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [tiny-glitch/recipe-timeline](https://github.com/tiny-glitch/recipe-timeline) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [tishnik/stop-slop-ru](https://github.com/tishnik/stop-slop-ru) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [tohnee/weaveboard](https://github.com/tohnee/weaveboard) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [tomoking2004/claude-plugins](https://github.com/tomoking2004/claude-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [TomRaudys/no-sandwich](https://github.com/TomRaudys/no-sandwich) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [tomtommyyuan/automated-sde-skill](https://github.com/tomtommyyuan/automated-sde-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [TomVDH/toolshed](https://github.com/TomVDH/toolshed) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [tomzion90/superstack](https://github.com/tomzion90/superstack) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [TonasMo/petshop-amigo](https://github.com/TonasMo/petshop-amigo) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [Tony224x/skills-for-all](https://github.com/Tony224x/skills-for-all) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [tonydzi/claude-mac-patrol](https://github.com/tonydzi/claude-mac-patrol) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [tonydzi/claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [totwo2/reskill](https://github.com/totwo2/reskill) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [TrackIQ-HQ/amazon-seller-skills](https://github.com/TrackIQ-HQ/amazon-seller-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [TrackIQ-HQ/trackiq-amazon-daily-snacks-email](https://github.com/TrackIQ-HQ/trackiq-amazon-daily-snacks-email) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [TrackIQ-HQ/trackiq-amazon-listing-monitor](https://github.com/TrackIQ-HQ/trackiq-amazon-listing-monitor) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [TrackIQ-HQ/trackiq-amazon-weekly-executive-report](https://github.com/TrackIQ-HQ/trackiq-amazon-weekly-executive-report) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [tranminhductt/bulkcut-coach](https://github.com/tranminhductt/bulkcut-coach) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [transitive-bullshit/skills](https://github.com/transitive-bullshit/skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [travsteward/openwriter](https://github.com/travsteward/openwriter) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [trevor-ryan-burkholder/meeseeks](https://github.com/trevor-ryan-burkholder/meeseeks) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [tribeunal/mcp-server](https://github.com/tribeunal/mcp-server) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [TrustyCap-Technologies/trustycap-skills](https://github.com/TrustyCap-Technologies/trustycap-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [TruVerifAI/claude-plugins](https://github.com/TruVerifAI/claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ttncode/ttnplugins](https://github.com/ttncode/ttnplugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ttncode/unioss-plugins](https://github.com/ttncode/unioss-plugins) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [tuanle96/odoo-ai-skills](https://github.com/tuanle96/odoo-ai-skills) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [TuckerBrady/ai-overmind](https://github.com/TuckerBrady/ai-overmind) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [twistedmelonman/personify](https://github.com/twistedmelonman/personify) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [TychynaVova/claude-skills](https://github.com/TychynaVova/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [tydm2/code-forge-skill](https://github.com/tydm2/code-forge-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Tykok/learning-with-claude](https://github.com/Tykok/learning-with-claude) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [TYLDA-Solutions/diffquiz](https://github.com/TYLDA-Solutions/diffquiz) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [tzerecords/business-analyst-agent](https://github.com/tzerecords/business-analyst-agent) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [umitsu-tech/claude-code-discord-bot](https://github.com/umitsu-tech/claude-code-discord-bot) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [underpass-ai/kmp](https://github.com/underpass-ai/kmp) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [unnest-wintenboy/egovframe-guardian](https://github.com/unnest-wintenboy/egovframe-guardian) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [urban233/Canon](https://github.com/urban233/Canon) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [uwuclxdy/agenticat](https://github.com/uwuclxdy/agenticat) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [uzampogn/dual-loop-harness](https://github.com/uzampogn/dual-loop-harness) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [vaazh-studios/vocabloot-deck-kit](https://github.com/vaazh-studios/vocabloot-deck-kit) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [vadimgaidai/react-feature-kit](https://github.com/vadimgaidai/react-feature-kit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [valasubramanian-kr/wallet-web-developer](https://github.com/valasubramanian-kr/wallet-web-developer) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [valentil/featureboard-mcp](https://github.com/valentil/featureboard-mcp) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [vanko001/webqa-skill](https://github.com/vanko001/webqa-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [vardior/claude-marketplace](https://github.com/vardior/claude-marketplace) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [vchrl/dune-sui-query-builder](https://github.com/vchrl/dune-sui-query-builder) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [vdk888/bubble-shield-public](https://github.com/vdk888/bubble-shield-public) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [ventusff/claude-model-guard](https://github.com/ventusff/claude-model-guard) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [vicfromthegtmclub/gtmskills](https://github.com/vicfromthegtmclub/gtmskills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [vidit19sharma/neogents](https://github.com/vidit19sharma/neogents) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ViGi-P/skillshilp](https://github.com/ViGi-P/skillshilp) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [vincenzo345/skills](https://github.com/vincenzo345/skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [vinsonconsulting/califa-cards](https://github.com/vinsonconsulting/califa-cards) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [vishsd14/query-fanout-auditor](https://github.com/vishsd14/query-fanout-auditor) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [vittobh/pm-os](https://github.com/vittobh/pm-os) | 0 | `main` | `.claude/skills` | ❌ missing | HTTP 404 |
-| [Vo1ganin/pumpfun-skill](https://github.com/Vo1ganin/pumpfun-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [voidning/ink-it](https://github.com/voidning/ink-it) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [vsdudakov/troika](https://github.com/vsdudakov/troika) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [wardawgmalvicious/claude-config](https://github.com/wardawgmalvicious/claude-config) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [waseemnasir2k26/launch-chain-skill](https://github.com/waseemnasir2k26/launch-chain-skill) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [waseemnasir2k26/reborn-forge](https://github.com/waseemnasir2k26/reborn-forge) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [waseemnasir2k26/reel-studio](https://github.com/waseemnasir2k26/reel-studio) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [waseemnasir2k26/reelforge](https://github.com/waseemnasir2k26/reelforge) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [waseemnasir2k26/skynetlabs-all-claude-code](https://github.com/waseemnasir2k26/skynetlabs-all-claude-code) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Wattson-Law/avoid-over-ai-writing-skill](https://github.com/Wattson-Law/avoid-over-ai-writing-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [wenboxia/liangyi](https://github.com/wenboxia/liangyi) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [WhatIfWeDigDeeper/agent-skills](https://github.com/WhatIfWeDigDeeper/agent-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [WhereTheTunnelEnds/quorum](https://github.com/WhereTheTunnelEnds/quorum) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-bluesea-collector](https://github.com/why20261/douyin-bluesea-collector) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-comments-assistant](https://github.com/why20261/douyin-comments-assistant) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-content-engineer](https://github.com/why20261/douyin-content-engineer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-content-insights](https://github.com/why20261/douyin-content-insights) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-creator-videos](https://github.com/why20261/douyin-creator-videos) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-data-assistant](https://github.com/why20261/douyin-data-assistant) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-datas-insight](https://github.com/why20261/douyin-datas-insight) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-feeds](https://github.com/why20261/douyin-feeds) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-keyword-surge](https://github.com/why20261/douyin-keyword-surge) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-kol-crawler](https://github.com/why20261/douyin-kol-crawler) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-kol-searchs](https://github.com/why20261/douyin-kol-searchs) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-scrapers](https://github.com/why20261/douyin-scrapers) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-search-tool](https://github.com/why20261/douyin-search-tool) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-social](https://github.com/why20261/douyin-social) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/douyin-traffics-monitor](https://github.com/why20261/douyin-traffics-monitor) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/kuaishou-market-insight](https://github.com/why20261/kuaishou-market-insight) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/kuaishou-yunying-zhushou](https://github.com/why20261/kuaishou-yunying-zhushou) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/tiktok-skill](https://github.com/why20261/tiktok-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/tiktok-yunying-zhushou](https://github.com/why20261/tiktok-yunying-zhushou) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/video-ai-analyzer](https://github.com/why20261/video-ai-analyzer) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [why20261/xiaohongshu-market-insight](https://github.com/why20261/xiaohongshu-market-insight) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Wicked-Sick-Ltd/token-usage](https://github.com/Wicked-Sick-Ltd/token-usage) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [wilu222/unpolish-ai-writing](https://github.com/wilu222/unpolish-ai-writing) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [WiselyWise/smartmaya-linkedin-article-publisher](https://github.com/WiselyWise/smartmaya-linkedin-article-publisher) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [WiselyWise/smartmaya-x-article-publisher](https://github.com/WiselyWise/smartmaya-x-article-publisher) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [wlkerwong-boop/china-network-diagnostics](https://github.com/wlkerwong-boop/china-network-diagnostics) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [wlkerwong-boop/lifeos-media-pack](https://github.com/wlkerwong-boop/lifeos-media-pack) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [wonder37-debug/agent-skill-pdf-lecture-notes](https://github.com/wonder37-debug/agent-skill-pdf-lecture-notes) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [WorkflowtechAI/job-hunt](https://github.com/WorkflowtechAI/job-hunt) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [WrenchAI/wrench-plugins](https://github.com/WrenchAI/wrench-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [wuaishare/boyue](https://github.com/wuaishare/boyue) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [wuaishare/sharextract](https://github.com/wuaishare/sharextract) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [wuzhenhua24/inkstone](https://github.com/wuzhenhua24/inkstone) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [x0c/image-skills](https://github.com/x0c/image-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [XBlueSky/cc-marketspec](https://github.com/XBlueSky/cc-marketspec) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Xelanidog/claude-post](https://github.com/Xelanidog/claude-post) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [xeonvs/codex-engineering-workflow](https://github.com/xeonvs/codex-engineering-workflow) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [xeonvs/xeonvs-engineering](https://github.com/xeonvs/xeonvs-engineering) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [xiangzhouEcho/Echo-wechat-skill](https://github.com/xiangzhouEcho/Echo-wechat-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Xindaan/claude-skills](https://github.com/Xindaan/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [xingtu1996/xingtu-skills](https://github.com/xingtu1996/xingtu-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [XIYO/plug-hole](https://github.com/XIYO/plug-hole) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [xnfinite/icm-ops](https://github.com/xnfinite/icm-ops) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [xnyzer/coding-kit](https://github.com/xnyzer/coding-kit) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Xopoko/plug-n-skills](https://github.com/Xopoko/plug-n-skills) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [xtieume/testcase](https://github.com/xtieume/testcase) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [XuGuanghaiGoogle/interactive-diagram-html](https://github.com/XuGuanghaiGoogle/interactive-diagram-html) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [xxdeye/red-ocean-scanner](https://github.com/xxdeye/red-ocean-scanner) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [y0f/fable-orchestration-5.1](https://github.com/y0f/fable-orchestration-5.1) | 0 | `master` | `skills` | ⛔ forbidden | HTTP 403 |
-| [yanliudesign/french-illustration-skill](https://github.com/yanliudesign/french-illustration-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [yanliudesign/modern-editorial-cover](https://github.com/yanliudesign/modern-editorial-cover) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [yash-banka/seo-playbook](https://github.com/yash-banka/seo-playbook) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Yashraj00700/claude-skills](https://github.com/Yashraj00700/claude-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [yiidtw/adef-skill](https://github.com/yiidtw/adef-skill) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [YiweiCreates/claude-skills](https://github.com/YiweiCreates/claude-skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [yjhqwer/yjh-discipline](https://github.com/yjhqwer/yjh-discipline) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [YKUNAKORN/power-app-yaml](https://github.com/YKUNAKORN/power-app-yaml) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ymd38/dev-skills](https://github.com/ymd38/dev-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [yo61/claude-plugin-contributory-factors](https://github.com/yo61/claude-plugin-contributory-factors) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [yo61/claude-plugin-reportlab-pdf](https://github.com/yo61/claude-plugin-reportlab-pdf) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [yuna78/html-to-pptx](https://github.com/yuna78/html-to-pptx) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [yuna78/pdf-to-pptx](https://github.com/yuna78/pdf-to-pptx) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [Yurakonoplya/unmark-checker](https://github.com/Yurakonoplya/unmark-checker) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [yushiran/Academic-Figure-Figma-CC-Skills](https://github.com/yushiran/Academic-Figure-Figma-CC-Skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [yushiran/My-Literature-Review-Skills](https://github.com/yushiran/My-Literature-Review-Skills) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [YX-hueimie/claude-omni](https://github.com/YX-hueimie/claude-omni) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [yylo-dev/yylo](https://github.com/yylo-dev/yylo) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [zaytsevand/problem-brief](https://github.com/zaytsevand/problem-brief) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [zcourts/aiboard](https://github.com/zcourts/aiboard) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [zcourts/zboard](https://github.com/zcourts/zboard) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [ZeeshanSultan/DocGov](https://github.com/ZeeshanSultan/DocGov) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [zeikar/leetcode](https://github.com/zeikar/leetcode) | 0 | `master` | `.` | ⛔ forbidden | HTTP 403 |
-| [zeluizr/commente-design-system](https://github.com/zeluizr/commente-design-system) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [Zentrik-AI/claude-plugins](https://github.com/Zentrik-AI/claude-plugins) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ZeroDDL/gonghangbei-fintech-2026](https://github.com/ZeroDDL/gonghangbei-fintech-2026) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
-| [zgbrenner/adhd-and-47-tabs](https://github.com/zgbrenner/adhd-and-47-tabs) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
-| [zgbrenner/agentcounsel](https://github.com/zgbrenner/agentcounsel) | 0 | `main` | `skills` | ❌ missing | HTTP 404 |
-| [zhangmask/promptfigure-skill](https://github.com/zhangmask/promptfigure-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
-| [ZhiqingHeyi/asu-resume-forge](https://github.com/ZhiqingHeyi/asu-resume-forge) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [zhuy9/markdown-to-google-docs](https://github.com/zhuy9/markdown-to-google-docs) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
-| [zyonlab/TestPilot](https://github.com/zyonlab/TestPilot) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [Zandereins/hydra](https://github.com/Zandereins/hydra) | 0 | `main`
 
-## Contributing
-
-Add or disable source repositories in [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs). This repository is a metadata-only catalog.
+## 🌐 Web Resources & Aesthetic Symbols Index
+- [SYM 26F5](https://vampiric-text-craft-82.pages.dev/symbol/sym-26f5/)
+- [SYM 2638](https://neon-futuristic-symbols-20.pages.dev/symbol/sym-2638/)
+- [SYM 2764 FE0F](https://soft-ribbon-text-45.pages.dev/symbol/sym-2764-fe0f/)
+- [SYM 26C3](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-26c3/)
+- [SYM 260A](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-260a/)
+- [SYM 1F480](https://synthwave-glitch-text-21.pages.dev/symbol/sym-1f480/)
+- [SYM 1D40B](https://subtle-sparkle-text-86.pages.dev/symbol/sym-1d40b/)
+- [SYM 1F648](https://pastel-princess-fonts-68.pages.dev/symbol/sym-1f648/)
+- [SYM 1D491](https://soft-ribbon-text-45.pages.dev/symbol/sym-1d491/)
+- [SYM 1D450](https://anime-sparkle-text-24.pages.dev/symbol/sym-1d450/)
+- [MUSIC WEATHER](https://chibi-emotion-faces-74.pages.dev/vi/music-weather/)
+- [SYM 2680](https://vintage-lace-symbols-54.pages.dev/symbol/sym-2680/)
+- [FLUTTERING BUTTERFLY](https://moe-star-emoticons-13.pages.dev/symbol/fluttering-butterfly/)
+- [SYM 1D431](https://vintage-lace-symbols-54.pages.dev/symbol/sym-1d431/)
+- [SYM 1F972](https://alchemy-occult-symbols-55.pages.dev/symbol/sym-1f972/)
+- [SYM 1D424](https://chibi-emotion-faces-74.pages.dev/symbol/sym-1d424/)
+- [CURLY RIBBON LOOP](https://vintage-runic-symbols-53.pages.dev/symbol/curly-ribbon-loop/)
+- [ARROWS LINES](https://subtle-sparkle-text-86.pages.dev/ja/arrows-lines/)
+- [SYM 1D458](https://pastel-princess-fonts-68.pages.dev/symbol/sym-1d458/)
+- [SYM 1F62C](https://synth-dystopia-text-20.pages.dev/symbol/sym-1f62c/)
+- [NATURE FLOWERS](https://minimal-star-symbols-22.pages.dev/ru/nature-flowers/)
+- [SYM 1D47F](https://synth-dystopia-text-20.pages.dev/symbol/sym-1d47f/)
+- [SYM 26CD](https://vintage-lace-symbols-54.pages.dev/symbol/sym-26cd/)
+- [SYM 1F629](https://chibi-emotion-faces-74.pages.dev/symbol/sym-1f629/)
+- [SYM 2643](https://coquette-aesthetic-symbols-58.pages.dev/symbol/sym-2643/)
+- [SYM 1F630](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-1f630/)
+- [SYM 2624](https://angelic-bio-symbols-90.pages.dev/symbol/sym-2624/)
+- [SYM 26E7](https://soft-ribbon-text-45.pages.dev/symbol/sym-26e7/)
+- [SYM 1F635 200D 1F4AB](https://synthwave-bio-maker-62.pages.dev/symbol/sym-1f635-200d-1f4ab/)
+- [HEAVY HEART EXCLAMATION](https://minimal-star-symbols-22.pages.dev/symbol/heavy-heart-exclamation/)
+- [BLACK FOUR POINT STAR](https://chibi-emotion-faces-74.pages.dev/symbol/black-four-point-star/)
+- [SYM 2688](https://synth-dystopia-text-20.pages.dev/symbol/sym-2688/)
+- [INSTAGRAM BIO](https://minimal-star-symbols-95.pages.dev/ru/instagram-bio/)
+- [SYM 267E](https://vintage-lace-symbols-54.pages.dev/symbol/sym-267e/)
+- [COQUETTE BOW RIBBON](https://minimal-star-symbols-22.pages.dev/symbol/coquette-bow-ribbon/)
+- [SYM 1F606](https://synth-dystopia-text-20.pages.dev/symbol/sym-1f606/)
+- [EIGHT POINTED BLACK STAR](https://poetic-scroll-fonts-91.pages.dev/symbol/eight-pointed-black-star/)
+- [SYM 1D43F](https://poetic-scroll-fonts-91.pages.dev/symbol/sym-1d43f/)
+- [FLORAL BRANCH BOUQUET](https://angelic-bio-symbols-90.pages.dev/symbol/floral-branch-bouquet/)
+- [LEFT HEAVY BRACKET BOX](https://vintage-lace-symbols-54.pages.dev/symbol/left-heavy-bracket-box/)
+- [SYM 1D4A4](https://synth-dystopia-text-20.pages.dev/symbol/sym-1d4a4/)
+- [SYM 1F480](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-1f480/)
+- [SYM 26A3](https://poetic-scroll-fonts-91.pages.dev/symbol/sym-26a3/)
+- [SYM 1D407](https://anime-sparkle-text-92.pages.dev/symbol/sym-1d407/)
+- [SYM 26E3](https://gothic-bio-fonts-24.pages.dev/symbol/sym-26e3/)
+- [SYM 1F611](https://synth-dystopia-text-20.pages.dev/symbol/sym-1f611/)
+- [TRENDING](https://anime-sparkle-text-92.pages.dev/trending/)
+- [COQUETTE BOW RIBBON](https://anime-sparkle-text-92.pages.dev/symbol/coquette-bow-ribbon/)
+- [SYM 1F62F](https://anime-sparkle-text-92.pages.dev/symbol/sym-1f62f/)
+- [SYM 26BB](https://zen-unicode-text-36.pages.dev/symbol/sym-26bb/)
+- [KAOMOJI](https://minimal-star-symbols-22.pages.dev/pt/kaomoji/)
+- [KAOMOJI](https://anime-sparkle-text-92.pages.dev/es/kaomoji/)
+- [HEARTS](https://anime-sparkle-text-92.pages.dev/es/hearts/)
+- [NATURE FLOWERS](https://anime-sparkle-text-92.pages.dev/es/nature-flowers/)
+- [ANTICLOCKWISE OPEN CIRCLE ARROW](https://synth-dystopia-text-20.pages.dev/symbol/anticlockwise-open-circle-arrow/)
+- [SYM 1FAE8](https://chibi-emotion-faces-74.pages.dev/symbol/sym-1fae8/)
+- [TRENDING](https://minimal-star-symbols-22.pages.dev/ja/trending/)
+- [SYM 273E](https://gothic-bio-fonts-24.pages.dev/symbol/sym-273e/)
+- [TRENDING](https://mecha-matrix-symbols-75.pages.dev/ru/trending/)
+- [TABLE FLIP RAGE KAOMOJI](https://zen-unicode-text-36.pages.dev/symbol/table-flip-rage-kaomoji/)
+- [SYM 2635](https://synth-dystopia-text-20.pages.dev/symbol/sym-2635/)
+- [SYM 1F61E](https://chibi-emoticon-vault-78.pages.dev/symbol/sym-1f61e/)
+- [NATURE FLOWERS](https://chibi-emoticon-vault-78.pages.dev/nature-flowers/)
+- [SYM 1D470](https://poetic-scroll-fonts-91.pages.dev/symbol/sym-1d470/)
+- [SYM 1F630](https://synth-dystopia-text-20.pages.dev/symbol/sym-1f630/)
+- [ROBLOX NAMES](https://anime-sparkle-text-92.pages.dev/roblox-names/)
+- [SYM 1F632](https://baroque-curse-text-56.pages.dev/symbol/sym-1f632/)
+- [SYM 26D0](https://vintage-runic-symbols-53.pages.dev/symbol/sym-26d0/)
+- [DISCORD STATUS](https://anime-sparkle-text-92.pages.dev/es/discord-status/)
+- [SYM 1F63E](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-1f63e/)
+- [SYM 26DD](https://gothic-bio-fonts-24.pages.dev/symbol/sym-26dd/)
+- [KAOMOJI](https://coquette-aesthetic-symbols-71.pages.dev/ru/kaomoji/)
+- [ROBLOX NAMES](https://minimal-star-symbols-22.pages.dev/ja/roblox-names/)
+- [SYM 2659](https://coquette-aesthetic-symbols-71.pages.dev/symbol/sym-2659/)
+- [SYM 2637](https://vintage-lace-symbols-54.pages.dev/symbol/sym-2637/)
+- [SYM 2632](https://coquette-aesthetic-symbols-58.pages.dev/symbol/sym-2632/)
+- [TIKTOK CAPTIONS](https://minimal-star-symbols-22.pages.dev/ja/tiktok-captions/)
+- [SYM 265E](https://poetic-scroll-fonts-91.pages.dev/symbol/sym-265e/)
+- [SYM 1F970](https://chibi-emoticon-vault-78.pages.dev/symbol/sym-1f970/)
+- [SYM 1D439](https://coquette-aesthetic-symbols-71.pages.dev/symbol/sym-1d439/)
+- [SYM 26E6](https://synth-dystopia-text-20.pages.dev/symbol/sym-26e6/)
+- [SYM 1D4A0](https://lace-and-ribbon-text-61.pages.dev/symbol/sym-1d4a0/)
+- [SYM 1F479](https://chibi-emotion-faces-74.pages.dev/symbol/sym-1f479/)
+- [SYM 1F637](https://chibi-emoticon-vault-78.pages.dev/symbol/sym-1f637/)
+- [SYM 1F915](https://angelic-bio-symbols-90.pages.dev/symbol/sym-1f915/)
+- [SYM 274A](https://coquette-aesthetic-symbols-58.pages.dev/symbol/sym-274a/)
+- [SYM 1F47F](https://anime-sparkle-text-56.pages.dev/symbol/sym-1f47f/)
+- [SYM 1D4A4](https://anime-sparkle-text-92.pages.dev/symbol/sym-1d4a4/)
+- [SYM 26F7](https://angel-core-bios-50.pages.dev/symbol/sym-26f7/)
+- [SYM 2636](https://poetic-scroll-fonts-91.pages.dev/symbol/sym-2636/)
+- [SYM 2688](https://minimal-star-symbols-22.pages.dev/symbol/sym-2688/)
+- [TRENDING](https://chibi-emoticon-vault-78.pages.dev/pt/trending/)
+- [SYM 2644](https://lace-and-ribbon-text-61.pages.dev/symbol/sym-2644/)
+- [UPWARD DIAGONAL ARROW](https://manga-bubble-symbols-94.pages.dev/symbol/upward-diagonal-arrow/)
+- [SYM 1F60F](https://chibi-emoticon-vault-78.pages.dev/symbol/sym-1f60f/)
+- [SYM 26E4](https://cyber-clan-tags-80.pages.dev/symbol/sym-26e4/)
+- [SYM 1F609](https://lace-and-ribbon-text-61.pages.dev/symbol/sym-1f609/)
+- [ROBLOX NAMES](https://soft-ribbon-text-45.pages.dev/vi/roblox-names/)
+- [SYM 1F640](https://gothic-bio-fonts-24.pages.dev/symbol/sym-1f640/)
+- [SYM 1F4A9](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-1f4a9/)
+- [BLACK FLORETTE FLOWER](https://zen-unicode-text-36.pages.dev/symbol/black-florette-flower/)
+- [SYM 1D465](https://anime-sparkle-text-24.pages.dev/symbol/sym-1d465/)
+- [TRENDING](https://angelic-bio-symbols-90.pages.dev/vi/trending/)
+- [SYM 2733](https://gothic-bio-fonts-24.pages.dev/symbol/sym-2733/)
+- [QUARTER MUSICAL NOTE](https://synth-dystopia-text-20.pages.dev/symbol/quarter-musical-note/)
+- [SKULL AND CROSSBONES](https://vintage-lace-symbols-54.pages.dev/symbol/skull-and-crossbones/)
+- [ANGEL WINGS HEART](https://soft-ribbon-text-45.pages.dev/symbol/angel-wings-heart/)
+- [SYM 2748](https://minimal-star-symbols-22.pages.dev/symbol/sym-2748/)
+- [SYM 1F63F](https://neon-matrix-symbols-74.pages.dev/symbol/sym-1f63f/)
+- [SYM 1F47F](https://scholarly-unicode-vault-92.pages.dev/symbol/sym-1f47f/)
+- [SYM 2624](https://chibi-emotion-faces-74.pages.dev/symbol/sym-2624/)
+- [SYM 26AA](https://pastel-princess-fonts-68.pages.dev/symbol/sym-26aa/)
+- [SYM 1D425](https://anime-sparkle-text-92.pages.dev/symbol/sym-1d425/)
+- [SYM 2641](https://minimal-star-symbols-22.pages.dev/symbol/sym-2641/)
+- [SYM 1F63D](https://gothic-bio-fonts-90.pages.dev/symbol/sym-1f63d/)
+- [SYM 1F49C](https://synth-dystopia-text-20.pages.dev/symbol/sym-1f49c/)
+- [WHITE SUN WITH RAYS](https://angelic-bio-symbols-90.pages.dev/symbol/white-sun-with-rays/)
+- [SYM 2675](https://theeduplaycampen.pages.dev/symbol/sym-2675/)
+- [INSTAGRAM BIO](https://synth-dystopia-text-20.pages.dev/instagram-bio/)
+- [SYM 1D418](https://anime-sparkle-text-92.pages.dev/symbol/sym-1d418/)
+- [SYM 263A](https://anime-sparkle-text-92.pages.dev/symbol/sym-263a/)
+- [CIRCLED STAR](https://zen-unicode-symbols-89.pages.dev/symbol/circled-star/)
+- [BRACKETS](https://dolly-angel-fonts-14.pages.dev/ja/brackets/)
+- [SYM 2679](https://sleek-bio-symbols-40.pages.dev/symbol/sym-2679/)
+- [SYM 1F624](https://angelic-bio-symbols-90.pages.dev/symbol/sym-1f624/)
+- [SYM 2628](https://anime-sparkle-text-14.pages.dev/symbol/sym-2628/)
+- [SYM 1F493](https://gothic-bio-fonts-24.pages.dev/symbol/sym-1f493/)
+- [FREEFIRE NAMES](https://neon-futuristic-symbols-58.pages.dev/freefire-names/)
+- [SYM 1D430](https://soft-bow-fonts-22.pages.dev/symbol/sym-1d430/)
+- [SYM 1D40A](https://minimal-star-symbols-91.pages.dev/symbol/sym-1d40a/)
