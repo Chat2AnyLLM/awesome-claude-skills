@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **5695**
-- Discoverable skills: **150,355**
+- Discoverable skills: **150,370**
 - Healthy repos: **4552** · Truncated: **3** · Unavailable: **1140**
-- Last updated: **2026-09-20 22:01 UTC**
+- Last updated: **2026-09-20 23:52 UTC**
 
 ## Related Lists
 
@@ -301,7 +301,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [alo-exp/silver-bullet](https://github.com/alo-exp/silver-bullet) | 0 | `main` | `.` | ✅ ok |  |
 | [Aloim/phaneslight](https://github.com/Aloim/phaneslight) | 0 | `main` | `.` | ✅ ok |  |
 | [Aloim/phaneslightplugin](https://github.com/Aloim/phaneslightplugin) | 2 | `main` | `skills` | ✅ ok |  |
-| [AlpacaLabsLLC/skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects) | 46 | `main` | `skills` | ✅ ok |  |
+| [AlpacaLabsLLC/skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects) | 61 | `main` | `skills` | ✅ ok |  |
 | [AlpayC/mcp-migration-check](https://github.com/AlpayC/mcp-migration-check) | 1 | `main` | `.` | ✅ ok |  |
 | [alper-dev/build-for-good-ux-skill](https://github.com/alper-dev/build-for-good-ux-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [ALQ78/skill-framadate](https://github.com/ALQ78/skill-framadate) | 1 | `main` | `.` | ✅ ok |  |
@@ -1897,7 +1897,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [JietingWeiJietingWei/skills](https://github.com/JietingWeiJietingWei/skills) | 1 | `main` | `.` | ✅ ok |  |
 | [jihkyuo/docsherpa](https://github.com/jihkyuo/docsherpa) | 3 | `main` | `skills` | ✅ ok |  |
 | [JiHuiYiYou/msh-skill](https://github.com/JiHuiYiYou/msh-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [jikig-ai/soleur](https://github.com/jikig-ai/soleur) | 173 | `main` | `.` | ✅ ok |  |
+| [jikig-ai/soleur](https://github.com/jikig-ai/soleur) | 175 | `main` | `.` | ✅ ok |  |
 | [jim788e/logo-creation-skill](https://github.com/jim788e/logo-creation-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 21 | `main` | `skills` | ✅ ok |  |
 | [Jimmy-ai-studio/dongye-detective-skill](https://github.com/Jimmy-ai-studio/dongye-detective-skill) | 1 | `main` | `.` | ✅ ok |  |
@@ -3240,7 +3240,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [rafalr100/enterprise-architect-skill](https://github.com/rafalr100/enterprise-architect-skill) | 1 | `main` | `skills` | ✅ ok |  |
 | [raghatatepiyush/conductor](https://github.com/raghatatepiyush/conductor) | 5 | `main` | `skills` | ✅ ok |  |
 | [raghatatepiyush/ringmaster](https://github.com/raghatatepiyush/ringmaster) | 5 | `main` | `skills` | ✅ ok |  |
-| [raghuramsirigiri/claude-chart-dashboard](https://github.com/raghuramsirigiri/claude-chart-dashboard) | 2 | `main` | `skills` | ✅ ok |  |
+| [raghuramsirigiri/claude-chart-dashboard](https://github.com/raghuramsirigiri/claude-chart-dashboard) | 0 | `main` | `skills` | ✅ ok |  |
 | [rahmanef63/si-coder-agent](https://github.com/rahmanef63/si-coder-agent) | 27 | `main` | `skills` | ✅ ok |  |
 | [RahulDas-dev/skill_builder](https://github.com/RahulDas-dev/skill_builder) | 4 | `main` | `skills` | ✅ ok |  |
 | [raichominev/concilium](https://github.com/raichominev/concilium) | 0 | `main` | `.` | ✅ ok |  |
