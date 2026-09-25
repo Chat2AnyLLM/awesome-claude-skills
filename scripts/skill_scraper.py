@@ -12,10 +12,10 @@ from pathlib import Path
 
 try:
     from .config import Config
-    from .metadata_catalog import fetch_repos_from_sources, count_skills, render_readme
+    from .metadata_catalog import fetch_repos_from_sources, count_skills, read_previous, render_readme
 except ImportError:
     from config import Config
-    from metadata_catalog import fetch_repos_from_sources, count_skills, render_readme
+    from metadata_catalog import fetch_repos_from_sources, count_skills, read_previous, render_readme
 
 def setup_logging(level: str = "INFO") -> None:
     """Setup logging configuration."""
@@ -25,9 +25,9 @@ def setup_logging(level: str = "INFO") -> None:
         format='%(asctime)s - %(levelname)s - %(message)s'
     )
 
-def generate_readme(repositories: list, counts: dict, output_file: str, args: list = None) -> bool:
+def generate_readme(repositories: list, counts: dict, output_file: str, args: list = None, next_offset: int = 0) -> bool:
     """Generate README from source-repository metadata + GitHub API counts."""
-    content = render_readme(repositories, counts)
+    content = render_readme(repositories, counts, next_offset)
 
     output_path = Path(output_file)
     if output_path.exists() and not getattr(args, 'force', False):
@@ -81,17 +81,22 @@ def cmd_generate_readme(args: list, config: dict, logger) -> int:
     repositories = fetch_repos_from_sources(sources)
     logger.info("Loaded %d enabled repositories from source configs", len(repositories))
 
-    counts = count_skills(repositories, max_workers=config.get_max_workers())
+    previous, offset = read_previous(args.output)
+    counts, next_offset = count_skills(repositories, max_workers=config.get_max_workers(),
+                                       previous=previous, offset=offset)
     total_skills = sum(v.get('count', 0) for v in counts.values())
     unavailable = sum(1 for v in counts.values() if v.get('status') not in {'ok', 'truncated'})
     truncated = sum(1 for v in counts.values() if v.get('status') == 'truncated')
+    pending = sum(1 for v in counts.values() if v.get('status') == 'pending')
     logger.info("Counted %d skills across %d repos (%d unavailable, %d truncated)", total_skills, len(repositories), unavailable, truncated)
+    if next_offset:
+        logger.info("GitHub hourly quota spent; %d repos still uncounted, next run resumes at cursor %d", pending, next_offset)
 
     if hasattr(args, 'dry_run') and args.dry_run:
         print(f"Dry run: Would generate README with {len(repositories)} repositories and {total_skills} discoverable skills")
         return 0
 
-    if generate_readme(repositories, counts, args.output, args):
+    if generate_readme(repositories, counts, args.output, args, next_offset):
         print(f"Successfully generated README with {len(repositories)} repositories and {total_skills} discoverable skills!")
         return 0
     else:
