@@ -5,9 +5,9 @@
 Metadata catalog for Claude Code skill source repositories. This repo does **not** clone or mirror upstream skill content; it only tracks source repos from [awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs) and counts discoverable `SKILL.md` files via GitHub API.
 
 - Enabled source repositories: **6039**
-- Discoverable skills: **150,004**
-- Healthy repos: **4529** · Truncated: **3** · Unavailable: **1507**
-- Last updated: **2026-09-26 05:55 UTC**
+- Discoverable skills: **150,150**
+- Healthy repos: **4527** · Truncated: **3** · Unavailable: **1509**
+- Last updated: **2026-09-26 10:27 UTC**
 
 ## Related Lists
 
@@ -566,14 +566,12 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [benjaminstelzer/scoville-code-anti-ai-slop](https://github.com/benjaminstelzer/scoville-code-anti-ai-slop) | 1 | `main` | `.` | ✅ ok |  |
 | [benjaminstelzer/scoville-handoff](https://github.com/benjaminstelzer/scoville-handoff) | 1 | `main` | `.` | ✅ ok |  |
 | [benjaminstelzer/scoville-plan](https://github.com/benjaminstelzer/scoville-plan) | 1 | `main` | `.` | ✅ ok |  |
-| [benjaminstelzer/scoville-scribe-anti-ai-slop](https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop) | 1 | `main` | `.` | ✅ ok |  |
 | [benjaminstelzer/scoville-ui-anti-ai-slop](https://github.com/benjaminstelzer/scoville-ui-anti-ai-slop) | 1 | `main` | `.` | ✅ ok |  |
 | [benjsmith/curiosity-engine](https://github.com/benjsmith/curiosity-engine) | 1 | `main` | `skills` | ✅ ok |  |
 | [benjsmith/curiosity-merge](https://github.com/benjsmith/curiosity-merge) | 0 | `main` | `.` | ✅ ok |  |
 | [Benkapner/claude-code-basecamp](https://github.com/Benkapner/claude-code-basecamp) | 9 | `main` | `skills` | ✅ ok |  |
 | [Benknightdark/neo-skills](https://github.com/Benknightdark/neo-skills) | 29 | `main` | `skills` | ✅ ok |  |
 | [BenMacDeezy/Orns-Forge](https://github.com/BenMacDeezy/Orns-Forge) | 61 | `main` | `skills` | ✅ ok |  |
-| [benman1/wiggum](https://github.com/benman1/wiggum) | 2 | `main` | `.claude/skills` | ✅ ok |  |
 | [BenoshAntonyBenoy/repo-graphics](https://github.com/BenoshAntonyBenoy/repo-graphics) | 1 | `main` | `skills` | ✅ ok |  |
 | [BerkaySevinc/agent-toolkit](https://github.com/BerkaySevinc/agent-toolkit) | 1 | `main` | `skills` | ✅ ok |  |
 | [berkayturk/appstore-precheck](https://github.com/berkayturk/appstore-precheck) | 1 | `main` | `skills` | ✅ ok |  |
@@ -1087,7 +1085,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [digitalsamba/digital-samba-skill](https://github.com/digitalsamba/digital-samba-skill) | 0 | `main` | `.` | ✅ ok |  |
 | [dikaia-io/claude-for-legal-paraguay](https://github.com/dikaia-io/claude-for-legal-paraguay) | 20 | `main` | `.` | ✅ ok |  |
 | [diligent-dilettante/life-planning](https://github.com/diligent-dilettante/life-planning) | 1 | `master` | `.` | ✅ ok |  |
-| [Dimen2608/Projekt-Foundation](https://github.com/Dimen2608/Projekt-Foundation) | 2 | `main` | `.` | ✅ ok |  |
+| [Dimen2608/Projekt-Foundation](https://github.com/Dimen2608/Projekt-Foundation) | 3 | `main` | `.` | ✅ ok |  |
 | [dinglebear-ai/axon](https://github.com/dinglebear-ai/axon) | 27 | `main` | `.` | ✅ ok |  |
 | [dinglebear-ai/cortex](https://github.com/dinglebear-ai/cortex) | 13 | `main` | `.` | ✅ ok |  |
 | [dinglebear-ai/rapprise](https://github.com/dinglebear-ai/rapprise) | 1 | `main` | `.` | ✅ ok |  |
@@ -2839,7 +2837,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [nikolay-kornev/moonshot](https://github.com/nikolay-kornev/moonshot) | 1 | `main` | `.` | ✅ ok |  |
 | [nikolaypaskov/claudeconf-plugin](https://github.com/nikolaypaskov/claudeconf-plugin) | 1 | `main` | `.` | ✅ ok |  |
 | [Nima-Edelkhani/claude-ux-design-skill](https://github.com/Nima-Edelkhani/claude-ux-design-skill) | 0 | `main` | `.` | ✅ ok |  |
-| [NintendaDev/unikit-ai](https://github.com/NintendaDev/unikit-ai) | 33 | `main` | `skills` | ✅ ok |  |
+| [NintendaDev/unikit-ai](https://github.com/NintendaDev/unikit-ai) | 34 | `main` | `skills` | ✅ ok |  |
 | [NiobiumInc/niobium-skills](https://github.com/NiobiumInc/niobium-skills) | 1 | `main` | `skills` | ✅ ok |  |
 | [Nirvaan05/Bleu-Plugin](https://github.com/Nirvaan05/Bleu-Plugin) | 1 | `main` | `.` | ✅ ok |  |
 | [Nishchay-Bhudia/unslop](https://github.com/Nishchay-Bhudia/unslop) | 0 | `main` | `.` | ✅ ok |  |
@@ -3431,7 +3429,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [samulee003/agentic-ppt-skills](https://github.com/samulee003/agentic-ppt-skills) | 9 | `main` | `skills` | ✅ ok |  |
 | [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | 57 | `main` | `library` | ✅ ok |  |
 | [SamuraiZac/desktop-ui-mastery](https://github.com/SamuraiZac/desktop-ui-mastery) | 1 | `main` | `skills` | ✅ ok |  |
-| [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) | 99 | `main` | `.` | ✅ ok |  |
+| [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills) | 246 | `main` | `.` | ✅ ok |  |
 | [Sandeeprdy1729/skills](https://github.com/Sandeeprdy1729/skills) | 21 | `main` | `skills` | ✅ ok |  |
 | [Sanexxxx777/curated-claude-code](https://github.com/Sanexxxx777/curated-claude-code) | 10 | `main` | `skills` | ✅ ok |  |
 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 33 | `main` | `skills` | ✅ ok |  |
@@ -4727,9 +4725,11 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 | [benjaminstelzer/ask-claude-and-astra-for-codex](https://github.com/benjaminstelzer/ask-claude-and-astra-for-codex) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [benjaminstelzer/ask-claude-and-sol-for-codex](https://github.com/benjaminstelzer/ask-claude-and-sol-for-codex) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [benjaminstelzer/scoville-design-anti-ai-slop](https://github.com/benjaminstelzer/scoville-design-anti-ai-slop) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [benjaminstelzer/scoville-scribe-anti-ai-slop](https://github.com/benjaminstelzer/scoville-scribe-anti-ai-slop) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [benjaminstelzer/scoville-wordpress-ui-backend-anti-ai-slop](https://github.com/benjaminstelzer/scoville-wordpress-ui-backend-anti-ai-slop) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [benjaminstelzer/wordpress-backend-ui-skill](https://github.com/benjaminstelzer/wordpress-backend-ui-skill) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [benjatestaferri7/motion-reel](https://github.com/benjatestaferri7/motion-reel) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
+| [benman1/wiggum](https://github.com/benman1/wiggum) | 0 | `main` | `.claude/skills` | ⛔ forbidden | HTTP 403 |
 | [bensig/knowledge-panel-playbook](https://github.com/bensig/knowledge-panel-playbook) | 0 | `main` | `.` | ⛔ forbidden | HTTP 403 |
 | [bertrand-do/ai-photography-accuracy](https://github.com/bertrand-do/ai-photography-accuracy) | 0 | `main` | `.` | ❌ missing | HTTP 404 |
 | [Bexruz-cell/agent-skills](https://github.com/Bexruz-cell/agent-skills) | 0 | `main` | `skills` | ⛔ forbidden | HTTP 403 |
