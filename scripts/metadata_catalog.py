@@ -26,7 +26,7 @@ class Budget:
 
     The catalog needs one tree request per source repository, and the list is
     already larger than an hour's allowance. Once the allowance is spent every
-    further request comes back 403, so the run stops asking instead of turning
+    further request comes back 403 or 429, so the run stops asking instead of turning
     the rest of the catalog into error rows.
     """
 
@@ -34,9 +34,12 @@ class Budget:
         self.spent = False
         self.reset_at = ""
 
-    def note_403(self, headers) -> bool:
-        """True when this 403 is the quota running out, not a private repo."""
-        if headers.get("X-RateLimit-Remaining") == "0" or headers.get("Retry-After"):
+    def note_rate_limit(self, code: int, headers) -> bool:
+        """Recognize throttling without treating an ordinary 403 as exhaustion."""
+        headers = headers or {}
+        if code == 429 or (code == 403 and (
+            headers.get("X-RateLimit-Remaining") == "0" or headers.get("Retry-After")
+        )):
             self.spent = True
             reset = headers.get("X-RateLimit-Reset")
             if reset and reset.isdigit():
@@ -53,8 +56,8 @@ def _jget(url: str, token: str | None, budget: "Budget | None" = None) -> dict:
         with urlopen(Request(url, headers=headers), timeout=30) as resp:
             return json.loads(resp.read().decode("utf-8"))
     except HTTPError as e:
-        if e.code == 403 and budget is not None:
-            budget.note_403(e.headers)
+        if budget is not None:
+            budget.note_rate_limit(e.code, e.headers)
         raise
 
 
@@ -81,6 +84,13 @@ def _fields(entry: dict) -> dict:
     }
 
 
+def _same_measurement(row: dict | None, fields: dict) -> bool:
+    """Counts are only reusable for the same repository branch and skill path."""
+    return bool(row and row.get("status") in MEASURED
+                and row.get("branch") == fields["branch"]
+                and row.get("path") == fields["path"])
+
+
 def _carry_over(full: str, f: dict, previous: dict, budget: "Budget") -> dict:
     """What to publish for a repository this run could not reach.
 
@@ -89,7 +99,7 @@ def _carry_over(full: str, f: dict, previous: dict, budget: "Budget") -> dict:
     """
     kept = previous.get(full)
     when = f" (quota resets {budget.reset_at})" if budget.reset_at else ""
-    if kept and kept.get("status") in MEASURED:
+    if _same_measurement(kept, f):
         # Strip the marker a previous carry-over may have left, so the note
         # does not grow by one clause per skipped run.
         note = (kept.get("note") or "").split(CARRY_NOTE)[0].strip().rstrip(";").strip()
@@ -108,7 +118,7 @@ def _count_skill(entry: dict, token: str | None, budget: "Budget", previous: dic
     try:
         tree = _jget(f"https://api.github.com/repos/{full}/git/trees/{f['branch']}?recursive=1", token, budget)
     except HTTPError as e:
-        if e.code == 403 and budget.spent:
+        if e.code in {403, 429} and budget.spent:
             return _carry_over(full, f, previous, budget)
         status = "missing" if e.code == 404 else "forbidden" if e.code == 403 else "error"
         return {"full": full, "count": 0, "status": status, "note": f"HTTP {e.code}", "branch": f["branch"], "path": f["path"]}
@@ -140,7 +150,7 @@ def _scan_order(entries: list[dict], previous: dict, offset: int) -> tuple[list[
     for e in entries:
         f = _fields(e)
         row = previous.get(f"{f['owner']}/{f['name']}")
-        (known if row and row.get("status") in MEASURED else fresh).append(e)
+        (known if _same_measurement(row, f) else fresh).append(e)
     if known:
         start = offset % len(known)
         known = known[start:] + known[:start]

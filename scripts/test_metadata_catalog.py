@@ -8,6 +8,7 @@ import sys
 import tempfile
 from pathlib import Path
 from urllib.error import HTTPError
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
@@ -28,7 +29,7 @@ def _fake_github(fail_after):
             headers = {"X-RateLimit-Remaining": "0", "X-RateLimit-Reset": "1789000000"}
             error = HTTPError(url, 403, "rate limit exceeded", headers, None)
             if budget is not None:
-                budget.note_403(headers)
+                budget.note_rate_limit(error.code, headers)
             raise error
         return {"tree": [{"type": "blob", "path": "skills/one/SKILL.md"}], "truncated": False}
 
@@ -72,6 +73,117 @@ def test_uncounted_repositories_go_first():
             assert counts[f"acme/repo{i:04d}"]["status"] == "ok", counts[f"acme/repo{i:04d}"]
     finally:
         mc._jget = real
+
+
+def _measured(entries):
+    return {f"{e['owner']}/{e['name']}": {
+        "full": f"{e['owner']}/{e['name']}", "count": 7, "status": "ok",
+        "branch": e["branch"], "path": e["skillsPath"], "note": "",
+    } for e in entries}
+
+
+def test_http_429_stops_requests_and_preserves_counts():
+    entries = _entries(3)
+    previous = _measured(entries)
+    for headers in ({"Retry-After": "60"}, {}):
+        error = HTTPError("https://api.github.com/test", 429, "Too Many Requests", headers, None)
+        # Patch the transport, not _jget, so both HTTP handling layers are tested.
+        with patch.object(mc, "urlopen", side_effect=error) as transport:
+            counts, cursor = mc.count_skills(entries, max_workers=1, previous=previous)
+        assert transport.call_count == 1, transport.call_count
+        assert cursor == 0, cursor
+        for row in counts.values():
+            assert row["count"] == 7 and row["status"] == "ok", row
+            assert mc.CARRY_NOTE in row["note"], row
+
+
+def test_http_403_only_spends_budget_when_rate_limited():
+    entries = _entries(3)
+    previous = _measured(entries)
+    cases = [
+        ({"X-RateLimit-Remaining": "0"}, True),
+        ({"Retry-After": "60"}, True),
+        ({"X-RateLimit-Remaining": "10"}, False),
+    ]
+    for headers, exhausted in cases:
+        error = HTTPError("https://api.github.com/test", 403, "Forbidden", headers, None)
+        with patch.object(mc, "urlopen", side_effect=error) as transport:
+            counts, _ = mc.count_skills(entries, max_workers=1, previous=previous)
+        assert transport.call_count == (1 if exhausted else 3), transport.call_count
+        for row in counts.values():
+            assert row["status"] == ("ok" if exhausted else "forbidden"), row
+            assert row["count"] == (7 if exhausted else 0), row
+
+
+def test_changed_measurements_are_prioritized_and_not_carried():
+    # A branch change, a path change, or both invalidate a previous count.
+    for changes in ({"branch": "develop"}, {"skillsPath": "new-skills"},
+                    {"branch": "develop", "skillsPath": "new-skills"}):
+        entries = _entries(3)
+        previous = _measured(entries)
+        entries[2].update(changes)
+        ordered, fresh_count = mc._scan_order(entries, previous, offset=1)
+        assert fresh_count == 1, fresh_count
+        assert ordered[0] == entries[2], ordered
+
+        error = HTTPError("https://api.github.com/test", 429, "Too Many Requests",
+                          {"Retry-After": "60"}, None)
+        with patch.object(mc, "urlopen", side_effect=error) as transport:
+            counts, _ = mc.count_skills(entries, max_workers=1, previous=previous, offset=1)
+        assert transport.call_count == 1, transport.call_count
+        assert "/repo0002/" in transport.call_args.args[0].full_url
+        changed = counts["acme/repo0002"]
+        assert changed["status"] == "pending" and changed["count"] == 0, changed
+        assert changed["branch"] == entries[2]["branch"], changed
+        assert changed["path"] == entries[2]["skillsPath"], changed
+        for i in range(2):
+            assert counts[f"acme/repo{i:04d}"]["count"] == 7, counts
+
+        # Also exercise the already-spent fast path, where no request is made.
+        budget = mc.Budget()
+        budget.spent = True
+        with patch.object(mc, "urlopen") as transport:
+            changed = mc._count_skill(entries[2], None, budget, previous)
+        transport.assert_not_called()
+        assert changed["status"] == "pending" and changed["count"] == 0, changed
+
+
+def test_changed_measurement_receives_a_fresh_count():
+    entries = _entries(3)
+    previous = _measured(entries)
+    entries[2].update(branch="develop", skillsPath="new-skills")
+    calls = []
+
+    def jget(url, token, budget=None):
+        calls.append(url)
+        if len(calls) > 1:
+            budget.note_rate_limit(429, {})
+            raise HTTPError(url, 429, "Too Many Requests", {}, None)
+        return {"tree": [{"type": "blob", "path": "new-skills/one/SKILL.md"}]}
+
+    with patch.object(mc, "_jget", side_effect=jget):
+        counts, _ = mc.count_skills(entries, max_workers=1, previous=previous)
+    assert "/repo0002/git/trees/develop?" in calls[0], calls
+    row = counts["acme/repo0002"]
+    assert row["status"] == "ok" and row["count"] == 1, row
+    assert row["branch"] == "develop" and row["path"] == "new-skills", row
+
+
+def test_cursor_rotates_previously_measured_repositories():
+    entries = _entries(5)
+    previous = _measured(entries)
+    with patch.object(mc, "_jget", side_effect=_fake_github(2)[0]):
+        counts, cursor = mc.count_skills(entries, max_workers=1, previous=previous)
+    assert cursor == 2, cursor
+    assert {k for k, r in counts.items() if mc.CARRY_NOTE not in r["note"]} == {
+        "acme/repo0000", "acme/repo0001",
+    }, counts
+    with patch.object(mc, "_jget", side_effect=_fake_github(2)[0]):
+        counts, cursor = mc.count_skills(entries, max_workers=1, previous=counts, offset=cursor)
+    assert cursor == 4, cursor
+    assert {k for k, r in counts.items() if mc.CARRY_NOTE not in r["note"]} == {
+        "acme/repo0002", "acme/repo0003",
+    }, counts
 
 
 def test_readme_round_trip_keeps_counts_and_cursor():
