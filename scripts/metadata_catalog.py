@@ -18,6 +18,11 @@ RELATED_LISTS = [
         "https://github.com/loqimean/awesome-claude-code-hooks",
         "Curated list of Claude Code hooks for extending and automating Claude Code workflows.",
     ),
+    (
+        "ianwieds/awesome-ai-agents",
+        "https://github.com/ianwieds/awesome-ai-agents",
+        "Curated list of AI agent frameworks, coding agents, browser agents, tools and platforms.",
+    ),
 ]
 
 
