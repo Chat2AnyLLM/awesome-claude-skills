@@ -12,10 +12,10 @@ from pathlib import Path
 
 try:
     from .config import Config
-    from .metadata_catalog import fetch_repos_from_sources, count_skills, read_previous, render_readme
+    from .metadata_catalog import fetch_repos_from_sources, fetch_related_lists, count_skills, read_previous, render_readme
 except ImportError:
     from config import Config
-    from metadata_catalog import fetch_repos_from_sources, count_skills, read_previous, render_readme
+    from metadata_catalog import fetch_repos_from_sources, fetch_related_lists, count_skills, read_previous, render_readme
 
 def setup_logging(level: str = "INFO") -> None:
     """Setup logging configuration."""
@@ -25,9 +25,10 @@ def setup_logging(level: str = "INFO") -> None:
         format='%(asctime)s - %(levelname)s - %(message)s'
     )
 
-def generate_readme(repositories: list, counts: dict, output_file: str, args: list = None, next_offset: int = 0) -> bool:
+def generate_readme(repositories: list, counts: dict, output_file: str, args: list = None,
+                    next_offset: int = 0, related_lists: list = None) -> bool:
     """Generate README from source-repository metadata + GitHub API counts."""
-    content = render_readme(repositories, counts, next_offset)
+    content = render_readme(repositories, counts, next_offset, related_lists)
 
     output_path = Path(output_file)
     if output_path.exists() and not getattr(args, 'force', False):
@@ -78,6 +79,8 @@ def cmd_generate_readme(args: list, config: dict, logger) -> int:
         logger.warning("No enabled sources found in configuration")
         return 0
 
+    related_lists = fetch_related_lists(config.generation_config["related_lists_url"])
+    logger.info("Loaded %d related lists from the central config", len(related_lists))
     repositories = fetch_repos_from_sources(sources)
     logger.info("Loaded %d enabled repositories from source configs", len(repositories))
 
@@ -96,7 +99,7 @@ def cmd_generate_readme(args: list, config: dict, logger) -> int:
         print(f"Dry run: Would generate README with {len(repositories)} repositories and {total_skills} discoverable skills")
         return 0
 
-    if generate_readme(repositories, counts, args.output, args, next_offset):
+    if generate_readme(repositories, counts, args.output, args, next_offset, related_lists):
         print(f"Successfully generated README with {len(repositories)} repositories and {total_skills} discoverable skills!")
         return 0
     else:

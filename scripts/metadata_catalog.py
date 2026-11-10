@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
+from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
 UA = "awesome-metadata-catalog/1.0"
@@ -73,6 +74,30 @@ def fetch_repos_from_sources(sources: list[dict]) -> list[dict]:
             if owner and name and entry.get("enabled", True):
                 merged[f"{owner}/{name}"] = entry
     return list(merged.values())
+
+
+def fetch_related_lists(url: str) -> list[tuple[str, str, str]]:
+    """Fetch and validate centrally maintained related lists and directories."""
+    data = _jget(url, None)
+    if not isinstance(data, dict):
+        raise ValueError("Related lists config must be a JSON object")
+    result = []
+    for key, entry in data.items():
+        if not isinstance(entry, dict) or not isinstance(entry.get("enabled"), bool):
+            raise ValueError(f"Invalid related-list entry: {key}")
+        for field in ("name", "url", "description"):
+            if not isinstance(entry.get(field), str) or not entry[field].strip():
+                raise ValueError(f"Invalid {field} in related-list entry: {key}")
+        try:
+            parsed = urlsplit(entry["url"])
+            valid_url = parsed.scheme in {"http", "https"} and bool(parsed.hostname)
+        except ValueError:
+            valid_url = False
+        if not valid_url:
+            raise ValueError(f"Invalid URL in related-list entry: {key}")
+        if entry["enabled"]:
+            result.append((entry["name"], entry["url"], entry["description"]))
+    return result
 
 
 def _fields(entry: dict) -> dict:
@@ -224,7 +249,10 @@ def read_previous(output_file: str) -> tuple[dict, int]:
     return rows, offset
 
 
-def render_readme(entries: list[dict], counts: dict[str, dict], next_offset: int = 0) -> str:
+def render_readme(entries: list[dict], counts: dict[str, dict], next_offset: int = 0,
+                  related_lists: list[tuple[str, str, str]] | None = None) -> str:
+    if related_lists is None:
+        related_lists = RELATED_LISTS
     rows = []
     for e in entries:
         f = _fields(e)
@@ -252,7 +280,7 @@ def render_readme(entries: list[dict], counts: dict[str, dict], next_offset: int
         "",
         "## Related Lists",
         "",
-        *[f"- [{name}]({url}) - {description}" for name, url, description in RELATED_LISTS],
+        *[f"- [{name}]({url}) - {description}" for name, url, description in related_lists],
         "",
         "## Source Catalog",
         "",
