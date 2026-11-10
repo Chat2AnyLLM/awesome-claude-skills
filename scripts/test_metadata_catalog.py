@@ -6,6 +6,7 @@ Run with `python3 scripts/test_metadata_catalog.py`. No network, no pytest.
 
 import sys
 import tempfile
+import json
 from pathlib import Path
 from urllib.error import HTTPError
 from unittest.mock import patch
@@ -13,6 +14,41 @@ from unittest.mock import patch
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import metadata_catalog as mc
+
+
+def test_related_lists_load_and_render():
+    data = {
+        "list": {"name": "List", "url": "https://example.com", "description": "A list.", "enabled": True},
+        "off": {"name": "Off", "url": "https://example.org", "description": "Disabled.", "enabled": False},
+    }
+    with patch.object(mc, "_jget", return_value=data):
+        related = mc.fetch_related_lists("https://example.com/config.json")
+    assert related == [("List", "https://example.com", "A list.")], related
+    rendered = mc.render_readme([], {}, related_lists=related)
+    assert "- [List](https://example.com) - A list." in rendered
+    assert "[Off]" not in rendered
+
+
+def test_related_lists_reject_invalid_data():
+    cases = [[], {"bad": {"name": "Bad", "url": "javascript:alert(1)", "description": "Bad", "enabled": True}},
+             {"bad": {"name": "Bad", "url": "https://example.com", "description": "Bad", "enabled": "true"}}]
+    for data in cases:
+        with patch.object(mc, "_jget", return_value=data):
+            try:
+                mc.fetch_related_lists("https://example.com/config.json")
+            except ValueError:
+                continue
+            raise AssertionError(f"Invalid config accepted: {json.dumps(data)}")
+
+
+def test_related_lists_fetch_errors_propagate():
+    error = HTTPError("https://example.com/config.json", 404, "Not Found", {}, None)
+    with patch.object(mc, "_jget", side_effect=error):
+        try:
+            mc.fetch_related_lists("https://example.com/config.json")
+        except HTTPError:
+            return
+    raise AssertionError("Fetch error was silently ignored")
 
 
 def _entries(n):

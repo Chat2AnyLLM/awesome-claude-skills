@@ -11,6 +11,7 @@ sources:
 # Generation settings
 generation:
   output_file: "README.md"
+  related_lists_url: "https://raw.githubusercontent.com/Chat2AnyLLM/awesome-repo-configs/main/related_lists.json"
 
 # Parallel processing settings
 parallel:
