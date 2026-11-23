@@ -16,6 +16,7 @@ Metadata catalog for Claude Code skill source repositories. This repo does **not
 - [loqimean/awesome-claude-code-hooks](https://github.com/loqimean/awesome-claude-code-hooks) - Curated list of Claude Code hooks for extending and automating Claude Code workflows.
 - [ianwieds/awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) - Curated list of AI agent frameworks, coding agents, browser agents, tools and platforms.
 - [AgentHub](https://myagenthub.cn) - Chinese directory of MCP servers and agent skills with one-click install for Cursor, Claude Code, VS Code and Trae.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-skills/tree/main/skills/skool-communities) - Search Skool communities by keyword for members, price, rating, and daily growth.
 
 ## Source Catalog
 
